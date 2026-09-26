@@ -109,7 +109,7 @@ def main():
         })
 
     OUT.write_text(json.dumps({"schema_version": 1, "jobs": jobs}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    PUBLISH.write_text(json.dumps({"schema_version": 1, "jobs": publish_jobs}, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+    PUBLISH.write_text(json.dumps({"schema_version": 1, "jobs": publish_jobs}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Render authorized v2: {len(jobs)} clips rendered; publish={len(publish_jobs)}")
 
 
