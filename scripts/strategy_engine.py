@@ -24,7 +24,9 @@ def choose_pacing(profile):
 def main():
     candidates = load(CANDIDATES, {"candidates": []}).get("candidates", [])
     profiles = load(PROFILES, {"profiles": {}}).get("profiles", {})
-    learned = load(PATTERNS, {"patterns": []}).get("patterns", [])
+    learned_data = load(PATTERNS, {"patterns": [], "creator_patterns": {}})
+    learned = learned_data.get("patterns", [])
+    creator_patterns = learned_data.get("creator_patterns", {})
 
     best_global = learned[0] if learned else None
     strategies = []
@@ -32,11 +34,16 @@ def main():
     for candidate in candidates:
         creator = candidate.get("source_creator", "")
         profile = profiles.get(creator, {})
+        creator_learned = creator_patterns.get(creator, [])
+        best_creator = creator_learned[0] if creator_learned else None
+        selected = best_creator or best_global
         strategy = {
             "candidate_id": candidate["candidate_id"],
             "source_creator": creator,
-            "hook_pattern": choose_hook(profile),
+            "hook_pattern": (selected or {}).get("hook_type") or choose_hook(profile),
             "pacing_pattern": choose_pacing(profile),
+            "learned_edit_style": (selected or {}).get("edit_style", "unknown"),
+            "learned_format": (selected or {}).get("format", "vertical_9_16"),
             "transformation": [
                 "cold_open_to_strongest_moment",
                 "remove_dead_air",
@@ -46,6 +53,7 @@ def main():
                 "payoff_before_end"
             ],
             "global_learning_pattern": best_global,
+            "creator_learning_pattern": best_creator,
             "publish_gate": {
                 "authorization_required": True,
                 "transformative_edit_required": True
