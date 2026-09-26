@@ -1,7 +1,45 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-26T15:17:57.438858+00:00",
+  "generated_at": "2026-09-26T15:21:25.495289+00:00",
   "strategies": [
+    {
+      "candidate_id": "yt:1GcJdgFBWM4",
+      "source_creator": "IlloJuan",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:KKKFIecBr2w",
+      "source_creator": "ElXokas",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
     {
       "candidate_id": "yt:QJ6vznPSC6U",
       "source_creator": "IlloJuan",
@@ -22,7 +60,7 @@
       }
     },
     {
-      "candidate_id": "yt:SSkHCR1jlaA",
+      "candidate_id": "yt:zga1wZ-Dhsc",
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
@@ -79,7 +117,45 @@
       }
     },
     {
+      "candidate_id": "yt:PgLpOFiTe_4",
+      "source_creator": "IlloJuan",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
       "candidate_id": "yt:xTF8CB0Cvow",
+      "source_creator": "IlloJuan",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:SSkHCR1jlaA",
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
@@ -117,44 +193,6 @@
       }
     },
     {
-      "candidate_id": "yt:PgLpOFiTe_4",
-      "source_creator": "IlloJuan",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:hgIfN5GLU4Y",
-      "source_creator": "IlloJuan",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
       "candidate_id": "yt:lYwQkzssQAE",
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
@@ -174,105 +212,10 @@
       }
     },
     {
-      "candidate_id": "yt:7Sgj7pHIGjE",
-      "source_creator": "IlloJuan",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:iMBdNjZvV1E",
-      "source_creator": "Rubius",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:Z7GpTOswZFM",
-      "source_creator": "Rubius",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
       "candidate_id": "yt:5pmlFeFRiMY",
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:5JDLSCku7W4",
-      "source_creator": "Rubius",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:huJ8LPN5Tsk",
-      "source_creator": "Rubius",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
+      "pacing_pattern": "short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -291,7 +234,7 @@
       "candidate_id": "yt:bfamXVK6Z04",
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
+      "pacing_pattern": "short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -307,84 +250,8 @@
       }
     },
     {
-      "candidate_id": "yt:4ZqJR5z_7GM",
+      "candidate_id": "yt:4GgNE-qsvkY",
       "source_creator": "Rubius",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:1XWo9nTYRS4",
-      "source_creator": "Rubius",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:9dZV8h2RcIs",
-      "source_creator": "Rubius",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:rjE24PSlmio",
-      "source_creator": "Rubius",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:uNTl9B5QAPU",
-      "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
       "transformation": [
@@ -402,8 +269,8 @@
       }
     },
     {
-      "candidate_id": "yt:FJcMF0CFp8o",
-      "source_creator": "AuronPlay",
+      "candidate_id": "yt:tZkcCBCeCmg",
+      "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
       "transformation": [
@@ -421,8 +288,103 @@
       }
     },
     {
-      "candidate_id": "yt:aipIv1rc2e8",
-      "source_creator": "AuronPlay",
+      "candidate_id": "yt:zR_IrCjuQos",
+      "source_creator": "Rubius",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:3nVF2EY_iHg",
+      "source_creator": "Rubius",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:v6uAjAb6zZ0",
+      "source_creator": "Rubius",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:5JDLSCku7W4",
+      "source_creator": "Rubius",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:S7s2Bwsn3BA",
+      "source_creator": "Rubius",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:9nP1Zg62m_s",
+      "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
       "transformation": [
@@ -443,7 +405,7 @@
       "candidate_id": "yt:eEdWU9GUxW8",
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "ultra_short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -459,8 +421,8 @@
       }
     },
     {
-      "candidate_id": "yt:bZoPKkU4qsY",
-      "source_creator": "Juan Guarnizo",
+      "candidate_id": "yt:FJcMF0CFp8o",
+      "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "pacing_pattern": "ultra_short_hook",
       "transformation": [
@@ -478,10 +440,10 @@
       }
     },
     {
-      "candidate_id": "yt:DKPsbe6uGxQ",
+      "candidate_id": "yt:bZoPKkU4qsY",
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "ultra_short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -500,7 +462,7 @@
       "candidate_id": "yt:LUKiB4b3IQ4",
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "ultra_short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -516,10 +478,10 @@
       }
     },
     {
-      "candidate_id": "yt:OQm0uH3Se6o",
+      "candidate_id": "yt:El768kB_tZc",
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "ultra_short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -535,10 +497,10 @@
       }
     },
     {
-      "candidate_id": "yt:5EwgbpnB77s",
+      "candidate_id": "yt:Vx7jUswyOdU",
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "ultra_short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -554,10 +516,67 @@
       }
     },
     {
-      "candidate_id": "yt:7kewlQOT6ro",
+      "candidate_id": "yt:Tdn65Bf2_Yo",
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "ultra_short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:Q-liVFbLHJU",
+      "source_creator": "AuronPlay",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:eyF7A8Op88s",
+      "source_creator": "AuronPlay",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:4MeHm43BQQo",
+      "source_creator": "AuronPlay",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -576,7 +595,7 @@
       "candidate_id": "yt:uWVUtw5QJQ8",
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "medium_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -595,45 +614,7 @@
       "candidate_id": "yt:1gxyPhni5G4",
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:T6aQjof13y4",
-      "source_creator": "ElXokas",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:V6Mwy899obk",
-      "source_creator": "ElXokas",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "medium_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -652,7 +633,7 @@
       "candidate_id": "yt:ULTF01l5SRw",
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "medium_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -671,64 +652,7 @@
       "candidate_id": "yt:k-NIXumR5a4",
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:Ciua5Y6PFL8",
-      "source_creator": "ElXokas",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:Vq70aqYk2og",
-      "source_creator": "ElXokas",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:zy9ZVYAaYJo",
-      "source_creator": "ElXokas",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "medium_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -747,7 +671,83 @@
       "candidate_id": "yt:eDLjgDzmx0Y",
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:zy9ZVYAaYJo",
+      "source_creator": "ElXokas",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:Ciua5Y6PFL8",
+      "source_creator": "ElXokas",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:T6aQjof13y4",
+      "source_creator": "ElXokas",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:ML5zLwfwJpk",
+      "source_creator": "ElXokas",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -764,25 +764,6 @@
     },
     {
       "candidate_id": "yt:roBQEVrTFIE",
-      "source_creator": "Peereira7",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:WEo3j5CBdHo",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
@@ -820,7 +801,7 @@
       }
     },
     {
-      "candidate_id": "yt:Uka1qZyHSE4",
+      "candidate_id": "yt:LugyTIDoiKI",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
@@ -839,7 +820,7 @@
       }
     },
     {
-      "candidate_id": "yt:s9ppYZPo6dw",
+      "candidate_id": "yt:WEo3j5CBdHo",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
@@ -858,7 +839,7 @@
       }
     },
     {
-      "candidate_id": "yt:nhTV4Lc9f7k",
+      "candidate_id": "yt:4Hz-56PWsks",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
@@ -877,7 +858,7 @@
       }
     },
     {
-      "candidate_id": "yt:kZvFky_1zZg",
+      "candidate_id": "yt:QazMQvm8sh8",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
@@ -896,7 +877,7 @@
       }
     },
     {
-      "candidate_id": "yt:7SI6zo9eOcM",
+      "candidate_id": "yt:DRNxk3fqFa4",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
@@ -915,7 +896,7 @@
       }
     },
     {
-      "candidate_id": "yt:BwBcElAUYwk",
+      "candidate_id": "yt:LN1V2ouVYwc",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
@@ -934,7 +915,26 @@
       }
     },
     {
-      "candidate_id": "yt:vHyrLA4sq04",
+      "candidate_id": "yt:r_LiaRIs_to",
+      "source_creator": "Peereira7",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:7Umns_NQJvE",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
@@ -956,7 +956,7 @@
       "candidate_id": "yt:UCaY_-ksFSQtTGk0y1HA_3YQ",
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "ultra_short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -975,7 +975,7 @@
       "candidate_id": "yt:sXkurPgJHX0",
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "ultra_short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -994,7 +994,7 @@
       "candidate_id": "yt:8CaQmqpwams",
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "ultra_short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -1010,105 +1010,10 @@
       }
     },
     {
-      "candidate_id": "yt:Cs4FclurKog",
+      "candidate_id": "yt:mrexyC90K4w",
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:rEVrhPQ4Yq8",
-      "source_creator": "Ibai",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:X8X1OtTOBH4",
-      "source_creator": "Ibai",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:qVx9lR17uTI",
-      "source_creator": "Ibai",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:h9_rSbOtGoc",
-      "source_creator": "Ibai",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:6MYVj1dkO18",
-      "source_creator": "Ibai",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "ultra_short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -1127,7 +1032,102 @@
       "candidate_id": "yt:gbtUtv0h5nU",
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "ultra_short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:yOtMgrNmF0E",
+      "source_creator": "Ibai",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:DA9mSe86KQI",
+      "source_creator": "Ibai",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:1rcaS1J12hs",
+      "source_creator": "Ibai",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:Cs4FclurKog",
+      "source_creator": "Ibai",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:jm2r7oorHEw",
+      "source_creator": "Ibai",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -1144,101 +1144,6 @@
     },
     {
       "candidate_id": "yt:UCEg_iK8FKwZfpRMn4-AnnnQ",
-      "source_creator": "WestCOL",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:ccwmhXHwkQo",
-      "source_creator": "WestCOL",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:Y_HXF5W5jXM",
-      "source_creator": "WestCOL",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:yQgEWpgKbjs",
-      "source_creator": "WestCOL",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:FBjx_NzHh94",
-      "source_creator": "WestCOL",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:qGYih4QudsY",
       "source_creator": "WestCOL",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
@@ -1276,7 +1181,7 @@
       }
     },
     {
-      "candidate_id": "yt:qL7jaPSUcC8",
+      "candidate_id": "yt:yQgEWpgKbjs",
       "source_creator": "WestCOL",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
@@ -1295,7 +1200,64 @@
       }
     },
     {
-      "candidate_id": "yt:Swj-4fUqf34",
+      "candidate_id": "yt:Y_HXF5W5jXM",
+      "source_creator": "WestCOL",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:ccwmhXHwkQo",
+      "source_creator": "WestCOL",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:FBjx_NzHh94",
+      "source_creator": "WestCOL",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:LSuL4ROr6tU",
       "source_creator": "WestCOL",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
@@ -1315,6 +1277,44 @@
     },
     {
       "candidate_id": "yt:8UzKbmmSqjI",
+      "source_creator": "WestCOL",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:qGYih4QudsY",
+      "source_creator": "WestCOL",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:qL7jaPSUcC8",
       "source_creator": "WestCOL",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
@@ -1371,83 +1371,7 @@
       }
     },
     {
-      "candidate_id": "yt:ksCJiholXGY",
-      "source_creator": "TheGrefg",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:t2FAqmaIEj4",
-      "source_creator": "TheGrefg",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:5IN08hQPnwc",
-      "source_creator": "TheGrefg",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:P7fN0t6x93I",
-      "source_creator": "TheGrefg",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:aapp81_WaiM",
+      "candidate_id": "yt:ObjX8R8gkFM",
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
@@ -1485,7 +1409,64 @@
       }
     },
     {
+      "candidate_id": "yt:aapp81_WaiM",
+      "source_creator": "TheGrefg",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:BFMofktV0kk",
+      "source_creator": "TheGrefg",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
       "candidate_id": "yt:om-lsGVdfL8",
+      "source_creator": "TheGrefg",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:GaaHvhLlXRM",
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
@@ -1523,10 +1504,10 @@
       }
     },
     {
-      "candidate_id": "yt:UCdvyCPDTkkfd4MwqD7ZkGgg",
-      "source_creator": "Juan Guarnizo",
+      "candidate_id": "yt:UVJXna7nW3A",
+      "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
+      "pacing_pattern": "short_hook",
       "transformation": [
         "cold_open_to_strongest_moment",
         "remove_dead_air",
@@ -1542,7 +1523,7 @@
       }
     },
     {
-      "candidate_id": "yt:IVbZVjflXww",
+      "candidate_id": "yt:UCdvyCPDTkkfd4MwqD7ZkGgg",
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "pacing_pattern": "ultra_short_hook",
@@ -1580,7 +1561,7 @@
       }
     },
     {
-      "candidate_id": "yt:wX5IKW3toU0",
+      "candidate_id": "yt:IVbZVjflXww",
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "pacing_pattern": "ultra_short_hook",
@@ -1618,7 +1599,7 @@
       }
     },
     {
-      "candidate_id": "yt:eWLVWhz2FU4",
+      "candidate_id": "yt:wX5IKW3toU0",
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "pacing_pattern": "ultra_short_hook",
@@ -1637,7 +1618,45 @@
       }
     },
     {
-      "candidate_id": "yt:Ugyq-T70Owk",
+      "candidate_id": "yt:QsyfB6gkbpQ",
+      "source_creator": "Juan Guarnizo",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:myQgSRRSqbs",
+      "source_creator": "Juan Guarnizo",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:4tx93RFOJ5w",
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "pacing_pattern": "ultra_short_hook",
@@ -1675,7 +1694,7 @@
       }
     },
     {
-      "candidate_id": "yt:E-HLXp2ZQvw",
+      "candidate_id": "yt:MDF_jIg5q7Q",
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "pacing_pattern": "ultra_short_hook",
@@ -1694,7 +1713,7 @@
       }
     },
     {
-      "candidate_id": "yt:UV1wVDPYa_w",
+      "candidate_id": "yt:QcXIWsIcnBw",
       "source_creator": "Davoo Xeneize",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
@@ -1713,7 +1732,7 @@
       }
     },
     {
-      "candidate_id": "yt:QcXIWsIcnBw",
+      "candidate_id": "yt:UV1wVDPYa_w",
       "source_creator": "Davoo Xeneize",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
@@ -1770,7 +1789,45 @@
       }
     },
     {
+      "candidate_id": "yt:--gdKwijIzc",
+      "source_creator": "Davoo Xeneize",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
       "candidate_id": "yt:DTKB09ht1rk",
+      "source_creator": "Davoo Xeneize",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:83F2nPJzC10",
       "source_creator": "Davoo Xeneize",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
@@ -1808,45 +1865,7 @@
       }
     },
     {
-      "candidate_id": "yt:2Ph6SsTNC44",
-      "source_creator": "Davoo Xeneize",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
       "candidate_id": "yt:LGGoL8bzzTk",
-      "source_creator": "Davoo Xeneize",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:83F2nPJzC10",
       "source_creator": "Davoo Xeneize",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
@@ -1903,64 +1922,7 @@
       }
     },
     {
-      "candidate_id": "yt:3TKHTReo9j8",
-      "source_creator": "ElZeein",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
       "candidate_id": "yt:tmus34VINq0",
-      "source_creator": "ElZeein",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:ukVk7scBdc8",
-      "source_creator": "ElZeein",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:HFctJp-knvI",
       "source_creator": "ElZeein",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
@@ -1998,25 +1960,6 @@
       }
     },
     {
-      "candidate_id": "yt:-drIRQjH5mo",
-      "source_creator": "ElZeein",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end"
-      ],
-      "global_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
       "candidate_id": "yt:OwBqiGNJeHY",
       "source_creator": "ElZeein",
       "hook_pattern": "context_open",
@@ -2036,7 +1979,7 @@
       }
     },
     {
-      "candidate_id": "yt:mxOgyI6wj1Q",
+      "candidate_id": "yt:HFctJp-knvI",
       "source_creator": "ElZeein",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
@@ -2056,6 +1999,82 @@
     },
     {
       "candidate_id": "yt:vHLwzpr7YfY",
+      "source_creator": "ElZeein",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:syxOPwnCSmE",
+      "source_creator": "ElZeein",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:gdYddW27Qcg",
+      "source_creator": "ElZeein",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:-4P9upNc8ug",
+      "source_creator": "ElZeein",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end"
+      ],
+      "global_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:wYw_YUnT9YI",
       "source_creator": "ElZeein",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
