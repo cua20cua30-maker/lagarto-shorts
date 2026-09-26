@@ -36,6 +36,8 @@ def metric_value(record):
 def learn(records):
     groups = defaultdict(list)
     creator_groups = defaultdict(list)
+    emotion_groups = defaultdict(list)
+    creator_emotion_groups = defaultdict(list)
 
     for record in records:
         value = metric_value(record)
@@ -52,6 +54,11 @@ def learn(records):
         creator = record.get("source_creator", "unknown")
         creator_groups[(creator, *key)].append(value)
 
+        emotions = tuple(sorted(set(record.get("emotion_signals", []))))
+        if emotions:
+            emotion_groups[emotions].append(value)
+            creator_emotion_groups[(creator, emotions)].append(value)
+
     patterns = []
     for key, values in groups.items():
         if len(values) < 5:
@@ -64,6 +71,18 @@ def learn(records):
             "median_retention": round(median(values), 4),
             "recommendation": "promote_for_experiment"
         })
+
+    emotion_patterns = []
+    for emotions, values in emotion_groups.items():
+        if len(values) < 5:
+            continue
+        emotion_patterns.append({"emotion_signals": list(emotions), "samples": len(values), "median_retention": round(median(values), 4), "recommendation": "promote_emotion_experiment"})
+
+    creator_emotion_patterns = defaultdict(list)
+    for (creator, emotions), values in creator_emotion_groups.items():
+        if len(values) < 3:
+            continue
+        creator_emotion_patterns[creator].append({"emotion_signals": list(emotions), "samples": len(values), "median_retention": round(median(values), 4), "recommendation": "promote_creator_emotion_experiment"})
 
     creator_patterns = defaultdict(list)
     for key, values in creator_groups.items():
@@ -82,17 +101,22 @@ def learn(records):
     patterns.sort(key=lambda item: item["median_retention"], reverse=True)
     for values in creator_patterns.values():
         values.sort(key=lambda item: item["median_retention"], reverse=True)
+    for values in creator_emotion_patterns.values():
+        values.sort(key=lambda item: item["median_retention"], reverse=True)
+    emotion_patterns.sort(key=lambda item: item["median_retention"], reverse=True)
 
-    return patterns, dict(creator_patterns)
+    return patterns, dict(creator_patterns), emotion_patterns, dict(creator_emotion_patterns)
 
 def main():
     records = load_records()
-    patterns, creator_patterns = learn(records)
+    patterns, creator_patterns, emotion_patterns, creator_emotion_patterns = learn(records)
 
     result = DEFAULT_PATTERNS.copy()
     result["updated_at"] = datetime.now(timezone.utc).isoformat()
     result["patterns"] = patterns
     result["creator_patterns"] = creator_patterns
+    result["emotion_patterns"] = emotion_patterns
+    result["creator_emotion_patterns"] = creator_emotion_patterns
 
     LEARNED_PATTERNS.write_text(
         json.dumps(result, ensure_ascii=False, indent=2) + "\n",
@@ -102,6 +126,7 @@ def main():
     print(f"Learning engine: {len(records)} records analysed")
     print(f"Learned global patterns: {len(patterns)}")
     print(f"Creators with learned performance patterns: {len(creator_patterns)}")
+    print(f"Learned emotion patterns: {len(emotion_patterns)}")
 
 if __name__ == "__main__":
     main()
