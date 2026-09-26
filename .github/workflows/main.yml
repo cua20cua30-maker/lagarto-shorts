@@ -23,3 +23,6 @@ jobs:
 
       - name: Validate foundation
         run: python scripts/healthcheck.py
+
+      - name: Run learning engine
+        run: python scripts/learning_engine.py
