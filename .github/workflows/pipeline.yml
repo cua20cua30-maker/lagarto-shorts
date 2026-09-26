@@ -1,0 +1,45 @@
+name: Lagarto Shorts Pipeline v2
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install tools
+        run: python -m pip install --disable-pip-version-check yt-dlp
+      - name: Radar v2
+        run: python scripts/radar_v2.py
+      - name: Learn creator style
+        run: python scripts/style_learner.py
+      - name: Learn performance patterns
+        run: python scripts/learning_engine.py
+      - name: Generate strategies
+        run: python scripts/strategy_engine.py
+      - name: Build queues
+        run: python scripts/factory.py
+      - name: Compile all modules
+        run: python -m compileall -q scripts
+      - name: Verify pipeline schemas
+        run: |
+          python scripts/healthcheck.py
+          python scripts/selftest.py
+      - name: Persist radar and learning state
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/candidates.json data/learned_patterns.json data/edit_strategies.json data/render_queue.json data/publish_queue.json config/creator_style_profiles.json
+          if git diff --cached --quiet; then echo 'No state changes.'; else git commit -m 'Run pipeline v2 radar and learning'; git push; fi
