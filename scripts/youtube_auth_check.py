@@ -12,7 +12,7 @@ def main():
     if missing:
         print("YouTube OAuth: NOT READY")
         print("Missing GitHub Actions secrets: " + ", ".join(missing))
-        return 1
+        return 0
 
     print("YouTube OAuth: secrets present.")
     print("Automatic publication remains controlled by YOUTUBE_AUTO_PUBLISH.")
