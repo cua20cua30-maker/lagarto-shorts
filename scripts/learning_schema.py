@@ -14,6 +14,8 @@ SCHEMA = {
         "duration_seconds": "Final Short duration.",
         "hook_type": "Hook pattern used in the opening.",
         "edit_style": "Transformation/editing recipe identifier.",
+        "emotion_signals": "Detected emotional signals driving selection.",
+        "emotion_score": "Combined emotional event score.",
         "published_at": "Publication timestamp.",
         "metrics": {
             "views": "Views at snapshot time.",
