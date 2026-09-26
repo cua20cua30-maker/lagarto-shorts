@@ -6,15 +6,22 @@ on:
     - cron: "17 * * * *"
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: lagarto-shorts-factory
+  cancel-in-progress: false
 
 jobs:
   foundation:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,3 +33,15 @@ jobs:
 
       - name: Run learning engine
         run: python scripts/learning_engine.py
+
+      - name: Persist learning state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/learned_patterns.json
+          if git diff --cached --quiet; then
+            echo "No learning-state changes to commit."
+          else
+            git commit -m "Update learned patterns"
+            git push
+          fi
