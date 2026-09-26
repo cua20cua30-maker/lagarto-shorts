@@ -85,6 +85,7 @@ def main():
     try:
         creds = credentials()
         analytics = build("youtubeAnalytics", "v2", credentials=creds, cache_discovery=False)
+        youtube = build("youtube", "v3", credentials=creds, cache_discovery=False)
     except Exception as exc:
         print(f"Analytics collector: OAuth/API setup failed; skipped safely: {exc}")
         return
@@ -104,9 +105,15 @@ def main():
     for item in ledger.get("items", []):
         video_id = item.get("video_id")
         published_at = item.get("published_at")
-        if not video_id or not published_at:
+        if not video_id:
             continue
-
+        if not published_at:
+            try:
+                details = youtube.videos().list(part="snippet", id=video_id).execute().get("items", [])
+                published_at = details[0]["snippet"]["publishedAt"] if details else None
+            except Exception as exc:
+                print(f"Analytics collector: cannot resolve publish date for {video_id}: {exc}")
+                continue
         checkpoint = checkpoint_for(published_at)
         if checkpoint is None:
             continue
