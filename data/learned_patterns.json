@@ -1,7 +1,8 @@
 {
-  "schema_version": 1,
-  "updated_at": null,
+  "schema_version": 2,
+  "updated_at": "2026-09-26T15:12:53.352911+00:00",
   "minimum_samples": 5,
   "patterns": [],
+  "creator_patterns": {},
   "experiments": []
 }
