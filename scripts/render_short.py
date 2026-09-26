@@ -34,7 +34,8 @@ def main():
         subtitle = Path(args.subtitle)
         if not subtitle.exists():
             raise SystemExit(f"Subtitle file does not exist: {subtitle}")
-        vf += f",subtitles={subtitle.as_posix().replace(':', '\\:')}"
+        subtitle_filter = subtitle.as_posix().replace(":", "\\\\:")
+        vf += f",subtitles={subtitle_filter}"
 
     cmd = [
         "ffmpeg", "-y",
