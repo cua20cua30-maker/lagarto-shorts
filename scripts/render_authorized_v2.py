@@ -6,6 +6,7 @@ ROOT = Path(__file__).resolve().parents[1]
 WORK = ROOT / ".work"
 PLANS = ROOT / "data" / "clip_plans.json"
 OUT = ROOT / "data" / "render_queue.json"
+PUBLISH = ROOT / "data" / "publish_queue.json"
 
 
 def load(path, default):
@@ -46,6 +47,7 @@ def make_srt(plan):
 def main():
     plans = load(PLANS, {"plans": []}).get("plans", [])
     jobs = []
+    publish_jobs = []
     WORK.mkdir(exist_ok=True)
 
     for plan in plans:
@@ -80,10 +82,35 @@ def main():
             "status": "rendered",
             "captions": bool(subtitle),
             "idempotency_key": "rendered:" + plan["clip_id"],
+            "emotion_signals": plan.get("emotion_signals", []),
+            "emotion_score": plan.get("emotion_score", 0),
+            "signals": plan.get("signals", []),
+        })
+        publish_jobs.append({
+            "job_id": "publish:" + plan["clip_id"],
+            "clip_id": plan["clip_id"],
+            "candidate_id": plan.get("candidate_id"),
+            "source_creator": plan.get("source_creator"),
+            "title": "Lagarto | " + str(plan.get("source_creator", "Short")),
+            "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+            "status": "blocked_until_rendered",
+            "authorization_status": "authorized",
+            "transformative_edit_required": True,
+            "learning_metadata": {
+                "format": "vertical_9_16",
+                "duration_seconds": plan.get("duration"),
+                "hook_type": "emotion_" + "_".join(plan.get("emotion_signals", [])[:3]) if plan.get("emotion_signals") else "context_open",
+                "edit_style": "emotion_driven",
+                "emotion_signals": plan.get("emotion_signals", []),
+                "emotion_score": plan.get("emotion_score", 0),
+                "source_moment_signals": plan.get("signals", [])
+            },
+            "idempotency_key": "publish:" + plan["clip_id"]
         })
 
     OUT.write_text(json.dumps({"schema_version": 1, "jobs": jobs}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Render authorized v2: {len(jobs)} clips rendered")
+    PUBLISH.write_text(json.dumps({"schema_version": 1, "jobs": publish_jobs}, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+    print(f"Render authorized v2: {len(jobs)} clips rendered; publish={len(publish_jobs)}")
 
 
 if __name__ == "__main__":
