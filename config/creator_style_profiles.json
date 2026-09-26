@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "purpose": "Learn creator-specific hooks, pacing, language, reactions and storytelling patterns without cloning protected expression.",
+  "profiles": {
+    "IlloJuan": {"hook_types": [], "pacing": [], "language": [], "reaction_patterns": [], "story_structures": [], "learned_examples": []},
+    "Rubius": {"hook_types": [], "pacing": [], "language": [], "reaction_patterns": [], "story_structures": [], "learned_examples": []},
+    "AuronPlay": {"hook_types": [], "pacing": [], "language": [], "reaction_patterns": [], "story_structures": [], "learned_examples": []},
+    "ElXokas": {"hook_types": [], "pacing": [], "language": [], "reaction_patterns": [], "story_structures": [], "learned_examples": []},
+    "Peereira7": {"hook_types": [], "pacing": [], "language": [], "reaction_patterns": [], "story_structures": [], "learned_examples": []},
+    "Ibai": {"hook_types": [], "pacing": [], "language": [], "reaction_patterns": [], "story_structures": [], "learned_examples": []},
+    "WestCOL": {"hook_types": [], "pacing": [], "language": [], "reaction_patterns": [], "story_structures": [], "learned_examples": []},
+    "TheGrefg": {"hook_types": [], "pacing": [], "language": [], "reaction_patterns": [], "story_structures": [], "learned_examples": []},
+    "Juan Guarnizo": {"hook_types": [], "pacing": [], "language": [], "reaction_patterns": [], "story_structures": [], "learned_examples": []},
+    "Davoo Xeneize": {"hook_types": [], "pacing": [], "language": [], "reaction_patterns": [], "story_structures": [], "learned_examples": []},
+    "ElZeein": {"hook_types": [], "pacing": [], "language": [], "reaction_patterns": [], "story_structures": [], "learned_examples": []}
+  }
+}
