@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "timezone": "Europe/Madrid",
+  "mode": "foundation",
+  "content_policy": {
+    "require_authorization": true,
+    "require_transformative_edit": true,
+    "allow_unlicensed_reposting": false
+  },
+  "limits": {
+    "max_candidates_per_run": 20,
+    "max_publish_attempts": 3
+  }
+}
