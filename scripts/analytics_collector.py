@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 LEDGER = ROOT / "data" / "published.json"
 SNAPSHOTS = ROOT / "data" / "analytics_snapshots.json"
 LEARNING = ROOT / "data" / "learning_records.json"
+STRATEGIES = ROOT / "data" / "edit_strategies.json"
 
 SCOPES = ["https://www.googleapis.com/auth/youtube.readonly"]
 
@@ -77,6 +78,7 @@ def main():
     ledger = load(LEDGER, {"schema_version": 1, "items": []})
     snapshots = load(SNAPSHOTS, {"schema_version": 2, "snapshots": []})
     learning = load(LEARNING, [])
+    strategies = {item.get("candidate_id"): item for item in load(STRATEGIES, {"strategies": []}).get("strategies", [])}
     if not isinstance(learning, list):
         learning = learning.get("records", [])
 
@@ -172,6 +174,8 @@ def main():
         changed = True
 
         metadata = item.get("learning_metadata") or {}
+        if not metadata:
+            metadata = strategies.get(item.get("candidate_id"), {})
         record = {
             "record_id": snapshot_key,
             "source_creator": item.get("source_creator", "unknown"),
