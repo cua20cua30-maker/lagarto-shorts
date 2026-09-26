@@ -48,6 +48,15 @@ jobs:
       - name: Generate creator-aware edit strategies
         run: python scripts/strategy_engine.py
 
+      - name: Build authorized render and publish queues
+        run: python scripts/factory.py
+
+      - name: Check publisher readiness
+        run: python scripts/publisher.py
+
+      - name: Check analytics collector
+        run: python scripts/analytics.py
+
       - name: Compile Python modules
         run: python -m compileall -q scripts
 
@@ -58,7 +67,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/candidates.json data/learned_patterns.json data/edit_strategies.json config/creator_style_profiles.json
+          git add data/candidates.json data/learned_patterns.json data/edit_strategies.json data/render_queue.json data/publish_queue.json data/analytics_snapshots.json config/creator_style_profiles.json
           if git diff --cached --quiet; then
             echo "No state changes to commit."
           else
