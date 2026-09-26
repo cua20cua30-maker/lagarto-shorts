@@ -37,8 +37,17 @@ jobs:
       - name: Run creator radar
         run: python scripts/radar.py
 
-      - name: Run learning engine
+      - name: Learn creator hooks and style signals
+        run: python scripts/style_learner.py
+
+      - name: Run performance learning engine
         run: python scripts/learning_engine.py
+
+      - name: Generate creator-aware edit strategies
+        run: python scripts/strategy_engine.py
+
+      - name: Compile Python modules
+        run: python -m compileall -q scripts
 
       - name: Run integration self-test
         run: python scripts/selftest.py
@@ -47,10 +56,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/candidates.json data/learned_patterns.json
+          git add data/candidates.json data/learned_patterns.json data/edit_strategies.json config/creator_style_profiles.json
           if git diff --cached --quiet; then
             echo "No state changes to commit."
           else
-            git commit -m "Update radar and learning state"
+            git commit -m "Update radar, creator styles and learning state"
             git push
           fi
