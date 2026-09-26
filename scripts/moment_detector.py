@@ -19,7 +19,7 @@ def main():
  for i,s in enumerate(segs):
   st=float(s['start']);en=float(s['end']);context=[x for x in segs if float(x['end'])>=st-8 and float(x['start'])<=en+27];txt=' '.join(x.get('text','') for x in context);sc,labels=score(txt);near=[e for e in events if e['end']>=st-5 and e['start']<=en+10]
   if near:
-   strong=max(near,key=lambda e:e.get('score',0));sc=min(100,sc+min(45,int(strong.get('score',0)*.45)));labels.append('scream');ss=min(e['start'] for e in near);ee=max(e['end'] for e in near)
+   strong=max(near,key=lambda e:e.get('score',0));sc=min(100,sc+min(45,int(strong.get('score',0)*.45)));labels.extend(strong.get('signals',[]));ss=min(e['start'] for e in near);ee=max(e['end'] for e in near)
   else:ss=ee=None
   if sc>=18:
    start=max(0,st-2.5);end=max(en+8,st+15)
