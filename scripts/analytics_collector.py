@@ -14,7 +14,7 @@ SNAPSHOTS = ROOT / "data" / "analytics_snapshots.json"
 LEARNING = ROOT / "data" / "learning_records.json"
 STRATEGIES = ROOT / "data" / "edit_strategies.json"
 
-SCOPES = ["https://www.googleapis.com/auth/youtube.readonly"]
+SCOPES = ["https://www.googleapis.com/auth/yt-analytics.readonly"]
 
 METRICS = ",".join([
     "views",
@@ -208,6 +208,8 @@ def main():
             "outcome": "checkpoint",
             "experiment_id": f"d{checkpoint}",
             "learning_tags": ["youtube_analytics", f"checkpoint_{checkpoint}d"],
+            "emotion_signals": metadata.get("emotion_signals", []),
+            "emotion_score": metadata.get("emotion_score", 0),
         }
         if snapshot_key not in existing_learning_keys:
             learning.append(record)
