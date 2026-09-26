@@ -27,6 +27,8 @@ def main():
     learned_data = load(PATTERNS, {"patterns": [], "creator_patterns": {}})
     learned = learned_data.get("patterns", [])
     creator_patterns = learned_data.get("creator_patterns", {})
+    emotion_patterns = learned_data.get("emotion_patterns", [])
+    creator_emotion_patterns = learned_data.get("creator_emotion_patterns", {})
 
     best_global = learned[0] if learned else None
     strategies = []
@@ -36,6 +38,8 @@ def main():
         profile = profiles.get(creator, {})
         creator_learned = creator_patterns.get(creator, [])
         best_creator = creator_learned[0] if creator_learned else None
+        emotion_learned = creator_emotion_patterns.get(creator, [])
+        best_emotion = emotion_learned[0] if emotion_learned else (emotion_patterns[0] if emotion_patterns else None)
         selected = best_creator or best_global
         strategy = {
             "candidate_id": candidate["candidate_id"],
@@ -50,10 +54,12 @@ def main():
                 "add_original_context_or_commentary",
                 "vertical_9_16",
                 "captions_with_readable_timing",
-                "payoff_before_end"
+                "payoff_before_end",
+                "emotion_aware_selection"
             ],
             "global_learning_pattern": best_global,
             "creator_learning_pattern": best_creator,
+            "emotion_learning_pattern": best_emotion,
             "publish_gate": {
                 "authorization_required": True,
                 "transformative_edit_required": True
