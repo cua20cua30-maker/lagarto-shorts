@@ -1,6 +1,7 @@
 import json
 import os
 from pathlib import Path
+from datetime import datetime, timezone
 
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
@@ -109,6 +110,8 @@ def main():
             "source_creator": creator,
             "video_id": response["id"],
             "privacy_status": privacy,
+            "published_at": datetime.now(timezone.utc).isoformat(),
+            "learning_metadata": job.get("learning_metadata", {}),
         }
         ledger["items"].append(record)
         done[key] = record
