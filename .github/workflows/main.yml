@@ -1,6 +1,8 @@
 name: Lagarto Shorts
 
 on:
+  push:
+    branches: ["main"]
   workflow_dispatch:
   schedule:
     - cron: "17 * * * *"
