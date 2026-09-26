@@ -29,6 +29,9 @@ def make_srt(plan):
     start = float(plan["start"])
     end = start + float(plan["duration"])
     rows = []
+    context = str(plan.get("original_context", "")).strip()
+    if context:
+        rows.append((0, min(2.5, end-start), context))
     for segment in data.get("segments", []):
         text = str(segment.get("text", "")).strip()
         a = float(segment.get("start", 0))
@@ -78,6 +81,7 @@ def main():
             "clip_id": plan["clip_id"],
             "candidate_id": plan.get("candidate_id"),
             "source_creator": plan.get("source_creator"),
+            "original_context": plan.get("original_context", ""),
             "output": str(output),
             "status": "rendered",
             "captions": bool(subtitle),
@@ -103,7 +107,8 @@ def main():
                 "edit_style": "emotion_driven",
                 "emotion_signals": plan.get("emotion_signals", []),
                 "emotion_score": plan.get("emotion_score", 0),
-                "source_moment_signals": plan.get("signals", [])
+                "source_moment_signals": plan.get("signals", []),
+                "original_context": plan.get("original_context", "")
             },
             "idempotency_key": "publish:" + plan["clip_id"]
         })
