@@ -40,6 +40,9 @@ jobs:
       - name: Run learning engine
         run: python scripts/learning_engine.py
 
+      - name: Run integration self-test
+        run: python scripts/selftest.py
+
       - name: Persist factory state
         run: |
           git config user.name "github-actions[bot]"
