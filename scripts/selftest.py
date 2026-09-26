@@ -15,6 +15,9 @@ def main():
     patterns = read("data/learned_patterns.json")
     profiles = read("config/creator_style_profiles.json")
     strategies = read("data/edit_strategies.json")
+    render_queue = read("data/render_queue.json")
+    publish_queue = read("data/publish_queue.json")
+    analytics = read("data/analytics_snapshots.json")
 
     assert len(creators["creators"]) == 11
     creator_names = {c["name"] for c in creators["creators"]}
@@ -28,6 +31,12 @@ def main():
     assert isinstance(patterns.get("creator_patterns", {}), dict)
     assert set(profiles["profiles"]) == creator_names
     assert isinstance(strategies["strategies"], list)
+    assert render_queue["schema_version"] == 1
+    assert publish_queue["schema_version"] == 1
+    assert analytics["schema_version"] == 1
+    assert isinstance(render_queue["jobs"], list)
+    assert isinstance(publish_queue["jobs"], list)
+    assert isinstance(analytics["snapshots"], list)
 
     for candidate in candidates["candidates"]:
         assert candidate["authorization_status"] in {"unknown", "authorized", "rejected"}
