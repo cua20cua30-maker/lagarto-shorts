@@ -4,7 +4,7 @@ from pathlib import Path
 LAUGHTER=("jajaja","jajaj","jejeje","jiji","risas","se ríe","se rie","risa")
 SADNESS=("triste","tristísimo","tristisimo","llorar","llorando","lloró","lloro","lágrimas","lagrimas","pena","dolor","perdí","perdi","perder","murió","murio","muerte","te quiero","te echo de menos","echo de menos","lo siento")
 FEAR=("miedo","asusta","susto","terror","temor","qué miedo","que miedo","no mires","cuidado")
-SURPRISE=("increíble","increible","no puede ser","qué","que","wow","wtf","dios mío","dios mio","madre mía","madre mia","resulta que","nadie esperaba")
+SURPRISE=("increíble","increible","no puede ser","wow","wtf","dios mío","dios mio","madre mía","madre mia","resulta que","nadie esperaba")
 ANGER=("enfadado","enojado","cabreado","cabreé","cabree","rabia","hijo de","imbécil","imbecil","gilipollas","qué coño","que coño","cállate","callate")
 POSITIVE=("brutal","épico","epico","increíble","increible","victoria","ganamos","gané","gane","felicidades","feliz","grande")
 SILENCE_GAP=1.2
