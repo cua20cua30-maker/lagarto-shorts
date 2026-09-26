@@ -128,7 +128,9 @@ def main():
         except (AttributeError, ValueError):
             continue
 
-        end_date = (datetime.now(timezone.utc).date() - timedelta(days=1)).isoformat()
+        checkpoint_end = (published + timedelta(days=checkpoint)).date()
+        latest_complete = datetime.now(timezone.utc).date() - timedelta(days=1)
+        end_date = min(checkpoint_end, latest_complete).isoformat()
         if end_date < start_date:
             continue
 
