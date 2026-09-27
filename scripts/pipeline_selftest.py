@@ -12,6 +12,7 @@ def read(path):
 def main():
     creators = read(Path("config/creators.json"))
     auth = read(Path("data/authorization_manifest.json"))
+    licensed = read(Path("data/licensed_sources.json"))
     characters = read(Path("config/character_profiles.json"))
     appearances = read(Path("config/character_appearances.json"))
     candidates = read(Path("data/candidates.json"))
@@ -32,6 +33,8 @@ def main():
     assert len(appearances["characters"]) == 11
     assert appearances["style"]["body"] == "stick"
     assert auth["schema_version"] == 1 and isinstance(auth["authorized_sources"], list)
+    assert licensed["schema_version"] == 1 and isinstance(licensed["sources"], list)
+    assert all(s.get("license_verified") is True for s in licensed["sources"])
     assert candidates["schema_version"] >= 1 and isinstance(candidates["candidates"], list)
     assert moments["schema_version"] >= 2 and isinstance(moments["moments"], list)
     assert plans["schema_version"] == 1 and isinstance(plans["plans"], list)
@@ -51,7 +54,7 @@ def main():
     configured = {creator["name"] for creator in creators["creators"]}
     assert len(configured) == 11
 
-    authorized = set(auth["authorized_sources"])
+    authorized = set(auth["authorized_sources"]) | {s.get("source_url") for s in licensed["sources"] if s.get("license_verified")}
     for c in candidates["candidates"]:
         assert c["publishable"] is False or c["authorization_status"] == "authorized"
         if c["source_url"] not in authorized:
