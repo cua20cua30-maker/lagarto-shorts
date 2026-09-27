@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "region_code": "ES",
+  "relevance_language": "es",
+  "max_results_per_query": 10,
+  "queries": [
+    "gaming español",
+    "reacciones español",
+    "historias español",
+    "streamer español"
+  ],
+  "require_public": true,
+  "require_creative_common": true,
+  "note": "Only videos whose YouTube Data API status.license is creativeCommon are admitted. License verification is not a substitute for reviewing third-party rights."
+}
