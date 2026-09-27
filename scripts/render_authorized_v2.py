@@ -123,7 +123,10 @@ def main():
                 "emotion_signals": plan.get("emotion_signals", []),
                 "emotion_score": plan.get("emotion_score", 0),
                 "source_moment_signals": plan.get("signals", []),
-                "original_context": plan.get("original_context", ""),\n                "character_id": plan.get("character_id"),\n                "animation_style": "lagarto_pencil_cast"\n            },
+                "original_context": plan.get("original_context", ""),
+                "character_id": plan.get("character_id"),
+                "animation_style": "lagarto_pencil_cast"
+            },
             "idempotency_key": "publish:" + plan["clip_id"]
         })
 
