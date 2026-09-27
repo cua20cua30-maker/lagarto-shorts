@@ -31,7 +31,7 @@ def main():
     assert len(creators["creators"]) == 11
     assert len(characters["characters"]) == 11
     assert len(appearances["characters"]) == 11
-    assert appearances["style"]["body"] == "stick"
+    assert appearances["style"]["body_style"] == "stick"
     assert auth["schema_version"] == 1 and isinstance(auth["authorized_sources"], list)
     assert licensed["schema_version"] == 1 and isinstance(licensed["sources"], list)
     assert all(s.get("license_verified") is True for s in licensed["sources"])
