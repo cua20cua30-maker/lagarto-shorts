@@ -3,6 +3,7 @@ import re
 import subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from collections import Counter
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "config" / "creators.json"
@@ -88,16 +89,35 @@ def main():
             })
 
     dedup = {candidate["candidate_id"]: candidate for candidate in candidates}
+    dedup = {candidate["candidate_id"]: candidate for candidate in candidates}
+    ranked = sorted(dedup.values(), key=lambda item: item["score"], reverse=True)
+    max_candidates = 20
+    try:
+        factory = json.loads((ROOT / "config" / "factory.json").read_text(encoding="utf-8"))
+        max_candidates = max(1, int(factory.get("limits", {}).get("max_candidates_per_run", 20)))
+    except (OSError, ValueError, TypeError, json.JSONDecodeError):
+        pass
+
+    # Keep the radar bounded while preserving creator diversity.
+    selected = []
+    per_creator = Counter()
+    per_creator_cap = max(2, (max_candidates + len(cfg["creators"]) - 1) // len(cfg["creators"]))
+    for candidate in ranked:
+        creator = candidate["source_creator"]
+        if per_creator[creator] >= per_creator_cap:
+            continue
+        selected.append(candidate)
+        per_creator[creator] += 1
+        if len(selected) >= max_candidates:
+            break
+
     OUT.write_text(
         json.dumps(
             {
                 "schema_version": 1,
                 "generated_at": now.isoformat(),
                 "candidates": sorted(
-                    dedup.values(),
-                    key=lambda item: item["score"],
-                    reverse=True,
-                ),
+                    selected,
             },
             ensure_ascii=False,
             indent=2,
