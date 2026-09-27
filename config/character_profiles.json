@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "style": {
+    "name": "Lagarto Pencil Cast",
+    "visual_language": "original hand-drawn pencil caricature",
+    "head": "creator-inspired caricature using broad recognizable traits, never a traced photo or copied artwork",
+    "body": "simple stick body with stick arms and legs",
+    "animation": "limited 2D animation with expressive poses, camera moves, impact lines and handwritten effects",
+    "background": "simple sketched environments generated per scene",
+    "identity_rule": "creator identity comes primarily from the original caricature head, hair, facial proportions and recurring accessories"
+  },
+  "characters": [
+    {
+      "creator": "IlloJuan",
+      "character_id": "illojuan",
+      "enabled": true
+    },
+    {
+      "creator": "Rubius",
+      "character_id": "rubius",
+      "enabled": true
+    },
+    {
+      "creator": "AuronPlay",
+      "character_id": "auronplay",
+      "enabled": true
+    },
+    {
+      "creator": "ElXokas",
+      "character_id": "elxokas",
+      "enabled": true
+    },
+    {
+      "creator": "Peereira7",
+      "character_id": "peereira7",
+      "enabled": true
+    },
+    {
+      "creator": "Ibai",
+      "character_id": "ibai",
+      "enabled": true
+    },
+    {
+      "creator": "WestCOL",
+      "character_id": "westcol",
+      "enabled": true
+    },
+    {
+      "creator": "TheGrefg",
+      "character_id": "thegrefg",
+      "enabled": true
+    },
+    {
+      "creator": "Juan Guarnizo",
+      "character_id": "juan_guarnizo",
+      "enabled": true
+    },
+    {
+      "creator": "Davoo Xeneize",
+      "character_id": "davoo_xeneize",
+      "enabled": true
+    },
+    {
+      "creator": "ElZeein",
+      "character_id": "elzeein",
+      "enabled": true
+    }
+  ]
+}
