@@ -7,7 +7,7 @@ def read(path):
     with (ROOT/path).open('r',encoding='utf-8') as f: return json.load(f)
 
 def main():
-    creators=read(Path('config/creators.json')); auth=read(Path('data/authorization_manifest.json')); candidates=read(Path('data/candidates.json')); moments=read(Path('data/moments.json')); plans=read(Path('data/clip_plans.json')); publish_queue=read(Path('data/publish_queue.json')); queue=read(Path('data/render_queue.json')); analytics=read(Path('data/analytics_snapshots.json')); learning=read(Path('data/learning_records.json')); published=read(Path('data/published.json')); emotions=read(Path('data/emotion_events.json'))
+    creators=read(Path('config/creators.json')); auth=read(Path('data/authorization_manifest.json')); candidates=read(Path('data/candidates.json')); moments=read(Path('data/moments.json')); plans=read(Path('data/clip_plans.json')); publish_queue=read(Path('data/publish_queue.json')); queue=read(Path('data/render_queue.json')); analytics=read(Path('data/analytics_snapshots.json')); learning=read(Path('data/learning_records.json')); published=read(Path('data/published.json')); emotions=read(Path('data/emotion_events.json')); trends=read(Path('data/hashtag_trends.json')); recovery=read(Path('data/publication_recovery.json'))
     assert len(creators['creators'])==11
     assert auth['schema_version']==1 and isinstance(auth['authorized_sources'],list)
     assert candidates['schema_version']==1 and isinstance(candidates['candidates'],list)
@@ -18,6 +18,8 @@ def main():
     assert analytics['schema_version']>=1 and isinstance(analytics['snapshots'],list)
     assert isinstance(learning, list) or isinstance(learning.get('records'), list)
     assert emotions['schema_version']==1 and isinstance(emotions['events'],list)
+    assert trends['schema_version']==1 and isinstance(trends['jobs'],list)
+    assert recovery['schema_version']==1 and isinstance(recovery['items'],list)
     assert published['schema_version']==1 and isinstance(published['items'],list)
     authorized=set(auth['authorized_sources'])
     for c in candidates['candidates']:
