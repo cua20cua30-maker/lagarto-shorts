@@ -16,6 +16,9 @@ def main():
             "authorized_sources", []
         )
     )
+    published = load(ROOT / "data" / "published.json", {"items": []}).get("items", [])
+    published_clips = {item.get("clip_id") for item in published if item.get("clip_id")}
+
     strategies = {
         item["candidate_id"]: item
         for item in load(ROOT / "data" / "edit_strategies.json", {"strategies": []]).get(
@@ -38,6 +41,8 @@ def main():
             continue
 
         clip_id = f"clip:{candidate_id}"
+        if clip_id in published_clips:
+            continue
 
         render.append(
             {
