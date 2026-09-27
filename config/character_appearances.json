@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "style": {
+    "canvas": [
+      1080,
+      1920
+    ],
+    "fps": 24,
+    "paper": "off_white",
+    "line_width": 7,
+    "head_scale": 1,
+    "body_style": "stick",
+    "animation": "limited_2d"
+  },
+  "characters": {
+    "illojuan": {
+      "head": "round",
+      "hair": "dark_short",
+      "beard": "short",
+      "accessory": "none"
+    },
+    "rubius": {
+      "head": "long",
+      "hair": "light_shaggy",
+      "beard": "none",
+      "accessory": "glasses"
+    },
+    "auronplay": {
+      "head": "round",
+      "hair": "dark_short",
+      "beard": "short",
+      "accessory": "none"
+    },
+    "elxokas": {
+      "head": "long",
+      "hair": "dark_long",
+      "beard": "full",
+      "accessory": "none"
+    },
+    "peereira7": {
+      "head": "round",
+      "hair": "dark_short",
+      "beard": "short",
+      "accessory": "cap"
+    },
+    "ibai": {
+      "head": "round",
+      "hair": "dark_short",
+      "beard": "short",
+      "accessory": "none"
+    },
+    "westcol": {
+      "head": "oval",
+      "hair": "dark_short",
+      "beard": "short",
+      "accessory": "glasses"
+    },
+    "thegrefg": {
+      "head": "oval",
+      "hair": "dark_short",
+      "beard": "none",
+      "accessory": "none"
+    },
+    "juan_guarnizo": {
+      "head": "round",
+      "hair": "dark_medium",
+      "beard": "short",
+      "accessory": "glasses"
+    },
+    "davoo_xeneize": {
+      "head": "round",
+      "hair": "dark_short",
+      "beard": "short",
+      "accessory": "cap"
+    },
+    "elzeein": {
+      "head": "oval",
+      "hair": "dark_short",
+      "beard": "short",
+      "accessory": "none"
+    }
+  }
+}
