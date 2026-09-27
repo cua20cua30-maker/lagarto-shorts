@@ -16,6 +16,8 @@ SCHEMA = {
         "edit_style": "Transformation/editing recipe identifier.",
         "emotion_signals": "Detected emotional signals driving selection.",
         "emotion_score": "Combined emotional event score.",
+        "hashtags": "Hashtags selected from trend sources for this Short.",
+        "hashtag_sources": "Trend evidence and historical signals used to select hashtags.",
         "published_at": "Publication timestamp.",
         "metrics": {
             "views": "Views at snapshot time.",
