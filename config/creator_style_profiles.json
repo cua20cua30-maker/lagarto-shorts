@@ -39,31 +39,27 @@
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 3
+          "observations": 2
         }
       ],
       "pacing": [
         {
           "pattern": "short_hook",
           "observations": 2
-        },
-        {
-          "pattern": "ultra_short_hook",
-          "observations": 1
         }
       ],
       "language": [],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 3,
-      "updated_at": "2026-09-27T21:39:55.990546+00:00"
+      "sample_count": 2,
+      "updated_at": "2026-09-27T22:08:54.371463+00:00"
     },
     "AuronPlay": {
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 2
+          "observations": 1
         },
         {
           "pattern": "shock_claim",
@@ -74,10 +70,6 @@
         {
           "pattern": "ultra_short_hook",
           "observations": 2
-        },
-        {
-          "pattern": "short_hook",
-          "observations": 1
         }
       ],
       "language": [
@@ -89,23 +81,19 @@
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 3,
-      "updated_at": "2026-09-27T21:39:55.990663+00:00"
+      "sample_count": 2,
+      "updated_at": "2026-09-27T22:08:54.371829+00:00"
     },
     "ElXokas": {
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 2
+          "observations": 1
         }
       ],
       "pacing": [
         {
           "pattern": "medium_hook",
-          "observations": 1
-        },
-        {
-          "pattern": "short_hook",
           "observations": 1
         }
       ],
@@ -113,48 +101,52 @@
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-09-27T21:39:55.990761+00:00"
+      "sample_count": 1,
+      "updated_at": "2026-09-27T22:08:54.371879+00:00"
     },
     "Peereira7": {
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 2
+          "observations": 5
+        },
+        {
+          "pattern": "question_open",
+          "observations": 1
         }
       ],
       "pacing": [
         {
           "pattern": "ultra_short_hook",
-          "observations": 2
+          "observations": 5
+        },
+        {
+          "pattern": "short_hook",
+          "observations": 1
         }
       ],
       "language": [
         {
-          "pattern": "exclamation",
+          "pattern": "negation",
           "observations": 1
         }
       ],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-09-27T21:39:55.990841+00:00"
+      "sample_count": 6,
+      "updated_at": "2026-09-27T22:08:54.371654+00:00"
     },
     "Ibai": {
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 2
+          "observations": 1
         }
       ],
       "pacing": [
         {
           "pattern": "medium_hook",
-          "observations": 1
-        },
-        {
-          "pattern": "short_hook",
           "observations": 1
         }
       ],
@@ -162,8 +154,8 @@
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-09-27T21:39:55.990922+00:00"
+      "sample_count": 1,
+      "updated_at": "2026-09-27T22:08:54.371945+00:00"
     },
     "WestCOL": {
       "hook_types": [
@@ -210,8 +202,12 @@
       ],
       "pacing": [
         {
+          "pattern": "short_hook",
+          "observations": 1
+        },
+        {
           "pattern": "ultra_short_hook",
-          "observations": 2
+          "observations": 1
         }
       ],
       "language": [],
@@ -219,31 +215,27 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 2,
-      "updated_at": "2026-09-27T21:39:55.990977+00:00"
+      "updated_at": "2026-09-27T22:08:54.371722+00:00"
     },
     "Juan Guarnizo": {
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 2
+          "observations": 1
         }
       ],
       "pacing": [
         {
           "pattern": "ultra_short_hook",
           "observations": 1
-        },
-        {
-          "pattern": "short_hook",
-          "observations": 1
         }
       ],
       "language": [],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-09-27T21:39:55.991047+00:00"
+      "sample_count": 1,
+      "updated_at": "2026-09-27T22:08:54.371765+00:00"
     },
     "Davoo Xeneize": {
       "hook_types": [
@@ -288,7 +280,60 @@
       "learned_examples": [],
       "sample_count": 2,
       "updated_at": "2026-09-27T21:39:55.991203+00:00"
+    },
+    "ARTA GAME": {
+      "hook_types": [
+        {
+          "pattern": "context_open",
+          "observations": 4
+        }
+      ],
+      "pacing": [
+        {
+          "pattern": "short_hook",
+          "observations": 3
+        },
+        {
+          "pattern": "medium_hook",
+          "observations": 1
+        }
+      ],
+      "language": [
+        {
+          "pattern": "exclamation",
+          "observations": 3
+        },
+        {
+          "pattern": "negation",
+          "observations": 1
+        }
+      ],
+      "reaction_patterns": [],
+      "story_structures": [],
+      "learned_examples": [],
+      "sample_count": 4,
+      "updated_at": "2026-09-27T22:08:54.372116+00:00"
+    },
+    "Vandal": {
+      "hook_types": [
+        {
+          "pattern": "context_open",
+          "observations": 1
+        }
+      ],
+      "pacing": [
+        {
+          "pattern": "medium_hook",
+          "observations": 1
+        }
+      ],
+      "language": [],
+      "reaction_patterns": [],
+      "story_structures": [],
+      "learned_examples": [],
+      "sample_count": 1,
+      "updated_at": "2026-09-27T22:08:54.372170+00:00"
     }
   },
-  "updated_at": "2026-09-27T21:39:55.991206+00:00"
+  "updated_at": "2026-09-27T22:08:54.372172+00:00"
 }
