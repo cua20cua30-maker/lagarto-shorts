@@ -11,8 +11,8 @@ OUT = ROOT / "data" / "candidates.json"
 def norm(value):
     return re.sub(r"[^a-z0-9]", "", (value or "").lower())
 
-def search(name, limit=12):
-    query = f'ytsearchdate{limit}:"{name}"'
+def search(name, youtube_url=None, limit=20):
+    query = youtube_url or f'ytsearchdate{limit}:"{name}"'
     process = subprocess.run(
         ["yt-dlp", "--flat-playlist", "--dump-single-json", "--playlist-end", str(limit), query],
         capture_output=True,
@@ -47,7 +47,7 @@ def main():
             continue
 
         name = creator["name"]
-        for item in search(name):
+        for item in search(name, creator.get("youtube_url")):
             video_id = item.get("id")
             if not video_id:
                 continue
