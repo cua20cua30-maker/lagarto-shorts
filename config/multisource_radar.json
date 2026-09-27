@@ -1,4 +1,108 @@
 {
   "schema_version": 1,
-  "enabled": true
+  "enabled": true,
+  "lookback_hours": 72,
+  "max_per_platform_creator": 5,
+  "max_total_candidates": 20,
+  "platforms": {
+    "youtube": {
+      "enabled": true,
+      "method": "existing_radar"
+    },
+    "twitch": {
+      "enabled": true,
+      "method": "public_profile_metadata"
+    },
+    "tiktok": {
+      "enabled": true,
+      "method": "public_profile_metadata"
+    },
+    "instagram": {
+      "enabled": true,
+      "method": "public_profile_metadata"
+    },
+    "kick": {
+      "enabled": true,
+      "method": "public_profile_metadata"
+    }
+  },
+  "creators": [
+    {
+      "name": "IlloJuan",
+      "twitch": "https://www.twitch.tv/illojuan",
+      "tiktok": "https://www.tiktok.com/@illojuan",
+      "instagram": "https://www.instagram.com/illojuan",
+      "kick": "https://kick.com/illojuan"
+    },
+    {
+      "name": "Rubius",
+      "twitch": "https://www.twitch.tv/rubius",
+      "tiktok": "https://www.tiktok.com/@rubius",
+      "instagram": "https://www.instagram.com/rubius",
+      "kick": "https://kick.com/Rubius"
+    },
+    {
+      "name": "AuronPlay",
+      "twitch": "https://www.twitch.tv/auronplay",
+      "tiktok": "https://www.tiktok.com/@auronplay",
+      "instagram": "https://www.instagram.com/auronplay",
+      "kick": "https://kick.com/auronplay"
+    },
+    {
+      "name": "ElXokas",
+      "twitch": "https://www.twitch.tv/elxokas",
+      "tiktok": "https://www.tiktok.com/@elxokasoficial",
+      "instagram": "https://www.instagram.com/elxokas",
+      "kick": "https://kick.com/elxokas"
+    },
+    {
+      "name": "Peereira7",
+      "twitch": "https://www.twitch.tv/peereira7",
+      "tiktok": "https://www.tiktok.com/@peereira7",
+      "instagram": "https://www.instagram.com/peereira7",
+      "kick": "https://kick.com/peereira7"
+    },
+    {
+      "name": "Ibai",
+      "twitch": "https://www.twitch.tv/ibai",
+      "tiktok": "https://www.tiktok.com/@ibaillanos",
+      "instagram": "https://www.instagram.com/ibaillanos",
+      "kick": "https://kick.com/ibai"
+    },
+    {
+      "name": "WestCOL",
+      "twitch": "https://www.twitch.tv/westcol",
+      "tiktok": "https://www.tiktok.com/@west_col",
+      "instagram": "https://www.instagram.com/westcol",
+      "kick": "https://kick.com/westcol"
+    },
+    {
+      "name": "TheGrefg",
+      "twitch": "https://www.twitch.tv/thegrefg",
+      "tiktok": "https://www.tiktok.com/@thegrefg",
+      "instagram": "https://www.instagram.com/thegrefg",
+      "kick": "https://kick.com/thegrefg"
+    },
+    {
+      "name": "Juan Guarnizo",
+      "twitch": "https://www.twitch.tv/juaniquilador",
+      "tiktok": "https://www.tiktok.com/@juaniquilador",
+      "instagram": "https://www.instagram.com/juaniquilador",
+      "kick": "https://kick.com/juaniquilador"
+    },
+    {
+      "name": "Davoo Xeneize",
+      "twitch": "https://www.twitch.tv/davooxeneize",
+      "tiktok": "https://www.tiktok.com/@davooxeneize",
+      "instagram": "https://www.instagram.com/davoobj",
+      "kick": "https://kick.com/davooxeneize"
+    },
+    {
+      "name": "ElZeein",
+      "twitch": "https://www.twitch.tv/elzeein",
+      "tiktok": "https://www.tiktok.com/@elzeein",
+      "instagram": "https://www.instagram.com/elzeein",
+      "kick": "https://kick.com/elzeein"
+    }
+  ]
 }
