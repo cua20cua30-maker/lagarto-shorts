@@ -1,9 +1,9 @@
 import json
 import re
 import subprocess
+from collections import Counter
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from collections import Counter
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "config" / "creators.json"
@@ -29,13 +29,13 @@ def search(name, youtube_url=None, limit=20):
 
 def score(title):
     text = (title or "").lower()
-    strong = (
+    signals = (
         "reacción", "reaccion", "increíble", "increible", "polémica", "polemica",
         "humilla", "humilló", "explota", "locura", "nadie esperaba", "se lía",
         "se lia", "viral", "wtf", "qué coño", "que coño", "no puede ser",
         "llora", "llorando", "triste", "enfado", "cabreado", "sorpresa", "brutal",
     )
-    return min(100, sum(10 for signal in strong if signal in text))
+    return min(100, sum(10 for signal in signals if signal in text))
 
 def main():
     cfg = json.loads(CONFIG.read_text(encoding="utf-8"))
@@ -55,9 +55,6 @@ def main():
 
             uploader = item.get("channel") or item.get("uploader") or ""
             uploader_id = item.get("channel_id") or item.get("uploader_id") or ""
-
-            # Search results can omit uploader metadata in flat mode. When present,
-            # verify it; when absent, keep the item as an unverified radar hit.
             verified = bool(uploader and norm(uploader) == norm(name))
             if uploader and not verified:
                 continue
@@ -89,19 +86,22 @@ def main():
             })
 
     dedup = {candidate["candidate_id"]: candidate for candidate in candidates}
-    dedup = {candidate["candidate_id"]: candidate for candidate in candidates}
     ranked = sorted(dedup.values(), key=lambda item: item["score"], reverse=True)
+
     max_candidates = 20
     try:
         factory = json.loads((ROOT / "config" / "factory.json").read_text(encoding="utf-8"))
-        max_candidates = max(1, int(factory.get("limits", {}).get("max_candidates_per_run", 20)))
+        max_candidates = max(
+            1,
+            int(factory.get("limits", {}).get("max_candidates_per_run", 20)),
+        )
     except (OSError, ValueError, TypeError, json.JSONDecodeError):
         pass
 
-    # Keep the radar bounded while preserving creator diversity.
     selected = []
     per_creator = Counter()
     per_creator_cap = max(2, (max_candidates + len(cfg["creators"]) - 1) // len(cfg["creators"]))
+
     for candidate in ranked:
         creator = candidate["source_creator"]
         if per_creator[creator] >= per_creator_cap:
@@ -116,15 +116,16 @@ def main():
             {
                 "schema_version": 1,
                 "generated_at": now.isoformat(),
-                "candidates": sorted(
-                    selected,
+                "total_discovered": len(ranked),
+                "selection_limit": max_candidates,
+                "candidates": selected,
             },
             ensure_ascii=False,
             indent=2,
         ) + "\n",
         encoding="utf-8",
     )
-    print(f"Radar v2: {len(dedup)} candidates")
+    print(f"Radar v2: discovered={len(ranked)} selected={len(selected)}")
 
 if __name__ == "__main__":
     main()
