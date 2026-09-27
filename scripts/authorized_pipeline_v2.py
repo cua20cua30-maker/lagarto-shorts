@@ -4,7 +4,7 @@ ROOT=Path(__file__).resolve().parents[1];CANDIDATES=ROOT/'data/candidates.json';
 def load(path,default):return json.loads(path.read_text(encoding='utf-8')) if path.exists() else default
 def run(c):return subprocess.run(c,check=False)
 def main():
- candidates=load(CANDIDATES,{'candidates':[]}).get('candidates',[]);allowed=set(load(AUTH,{'authorized_sources':[]}).get('authorized_sources',[]));selected=[c for c in candidates if c.get('source_url') in allowed];all_moments=[];all_plans=[];all_screams=[];all_emotions=[];WORK.mkdir(exist_ok=True)
+ candidates=load(CANDIDATES,{'candidates':[]}).get('candidates',[]);allowed=set(load(AUTH,{'authorized_sources':[]}).get('authorized_sources',[]));published={x.get('clip_id') for x in load(ROOT/'data'/'published.json',{'items':[]}).get('items',[]) if x.get('clip_id')};selected=[c for c in candidates if c.get('source_url') in allowed and f"clip:{c.get('candidate_id')}" not in published];all_moments=[];all_plans=[];all_screams=[];all_emotions=[];WORK.mkdir(exist_ok=True)
  for c in selected:
   cid=c['candidate_id'].replace(':','_');source=WORK/f'{cid}.mp4';transcript=WORK/f'{cid}.json';sf=WORK/f'{cid}_screams.json';ef=WORK/f'{cid}_emotions.json';mf=WORK/f'{cid}_moments.json';pf=WORK/f'{cid}_plans.json'
   if not source.exists():
@@ -19,5 +19,5 @@ def main():
   for e in ed.get('events',[]):e.update(candidate_id=c['candidate_id'],source_path=str(source),source_creator=c['source_creator']);all_emotions.append(e)
   for m in md.get('moments',[]):m.update(candidate_id=c['candidate_id'],source_path=str(source),source_creator=c['source_creator'],transcript_path=str(transcript));all_moments.append(m)
   for p in pd.get('plans',[]):p.update(candidate_id=c['candidate_id'],source_path=str(source),source_creator=c['source_creator'],transcript_path=str(transcript));all_plans.append(p)
- EMOTIONS.write_text(json.dumps({'schema_version':1,'events':all_emotions},ensure_ascii=False,indent=2)+'\n',encoding='utf-8');SCREAMS.write_text(json.dumps({'schema_version':1,'events':all_screams},ensure_ascii=False,indent=2)+'\n',encoding='utf-8');MOMENTS.write_text(json.dumps({'schema_version':3,'moments':all_moments},ensure_ascii=False,indent=2)+'\n',encoding='utf-8');PLANS.write_text(json.dumps({'schema_version':1,'plans':all_plans},ensure_ascii=False,indent=2)+'\n',encoding='utf-8');print(f'Authorized pipeline v2: selected={len(selected)} screams={len(all_screams)} moments={len(all_moments)} plans={len(all_plans)}')
+ EMOTIONS.write_text(json.dumps({'schema_version':1,'events':all_emotions},ensure_ascii=False,indent=2)+'\n',encoding='utf-8');SCREAMS.write_text(json.dumps({'schema_version':1,'events':all_screams},ensure_ascii=False,indent=2)+'\n',encoding='utf-8');MOMENTS.write_text(json.dumps({'schema_version':4,'moments':all_moments},ensure_ascii=False,indent=2)+'\n',encoding='utf-8');PLANS.write_text(json.dumps({'schema_version':1,'plans':all_plans},ensure_ascii=False,indent=2)+'\n',encoding='utf-8');print(f'Authorized pipeline v2: selected={len(selected)} screams={len(all_screams)} moments={len(all_moments)} plans={len(all_plans)}')
 if __name__=='__main__':main()
