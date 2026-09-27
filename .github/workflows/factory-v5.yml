@@ -47,6 +47,12 @@ jobs:
         run: python -m compileall -q scripts
       - name: Foundation
         run: python scripts/healthcheck.py
+      - name: Discover verified Creative Commons sources
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: python scripts/cc_source_discovery.py
       - name: Radar
         run: python scripts/radar_v2.py
       - name: Add verified licensed candidates
@@ -63,12 +69,6 @@ jobs:
         run: python scripts/learning_engine.py
       - name: Generate strategies
         run: python scripts/strategy_engine.py
-      - name: Discover verified Creative Commons sources
-        env:
-          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
-          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
-          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
-        run: python scripts/cc_source_discovery.py
       - name: Build gated queues
         run: python scripts/factory_v3.py
       - name: Process authorized sources
