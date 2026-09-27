@@ -1,1 +1,17 @@
-{"schema_version":1,"generated_at":null,"sources":{},"jobs":[]}
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T14:29:13.743326+00:00",
+  "sources": {
+    "tiktok_creative_center": {
+      "source": "tiktok_creative_center",
+      "status": "ok",
+      "url": "https://ads.tiktok.com/creative/creativeCenter/trends/hashtag?region=ES"
+    },
+    "youtube_most_popular": {
+      "source": "youtube_most_popular",
+      "status": "unavailable",
+      "reason": "oauth_missing"
+    }
+  },
+  "jobs": []
+}
