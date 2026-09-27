@@ -44,7 +44,7 @@ def main():
     assert len(radar_diagnostics["results"]) == radar_diagnostics["creators_enabled"]
 
     configured = {creator["name"] for creator in creators["creators"]}
-    assert configured == set(radar_diagnostics["creators_enabled"] and configured)
+    assert len(configured) == 11
 
     authorized = set(auth["authorized_sources"])
     for c in candidates["candidates"]:
