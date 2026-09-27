@@ -1,4 +1,4 @@
-import json, subprocess
+import json, subprocess, hashlib
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -50,7 +50,7 @@ def main():
                 if not webpage or webpage in existing_urls or any(a["source_url"]==webpage for a in additions): continue
                 title=e.get("title") or e.get("description") or ""
                 vid=e.get("id") or ""
-                cid=f"{platform}:{vid}" if vid else f"{platform}:{abs(hash(webpage))}"
+                cid=f"{platform}:{vid}" if vid else f"{platform}:{hashlib.sha1(webpage.encode("utf-8")).hexdigest()[:16]}"
                 additions.append({
                     "candidate_id":cid,
                     "source_creator":name,
@@ -72,7 +72,9 @@ def main():
     additions.sort(key=lambda x:x.get("score",0),reverse=True)
     limit=int(cfg.get("max_total_candidates",20))
     base=[x for x in candidates if x.get("source_url") not in {a["source_url"] for a in additions}]
-    merged=(base+additions)[:limit]
+    combined=base+additions
+combined.sort(key=lambda x:(x.get("authorization_status")=="authorized",x.get("score",0)),reverse=True)
+merged=combined[:limit]
     existing["candidates"]=merged
     existing["selection_limit"]=limit
     existing["multisource_coverage"]={}
