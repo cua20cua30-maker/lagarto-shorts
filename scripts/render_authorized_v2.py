@@ -47,6 +47,21 @@ def make_srt(plan):
     return out
 
 
+def build_title(plan):
+    creator = str(plan.get("source_creator", "Short")).strip()
+    context = str(plan.get("original_context", "")).strip()
+    hook = " ".join(str(plan.get("hook", "")).split()).strip()
+    if len(hook) > 72:
+        hook = hook[:72].rsplit(" ", 1)[0].strip()
+    if hook:
+        title = f"{context}: {hook}"
+    else:
+        title = f"{context} | {creator}"
+    if creator and creator.lower() not in title.lower():
+        title = f"{title} | {creator}"
+    return title[:100]
+
+
 def main():
     plans = load(PLANS, {"plans": []}).get("plans", [])
     jobs = []
@@ -95,7 +110,7 @@ def main():
             "clip_id": plan["clip_id"],
             "candidate_id": plan.get("candidate_id"),
             "source_creator": plan.get("source_creator"),
-            "title": "Lagarto | " + str(plan.get("source_creator", "Short")),
+            "title": build_title(plan),
             "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
             "status": "blocked_until_rendered",
             "authorization_status": "authorized",
