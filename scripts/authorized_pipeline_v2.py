@@ -4,7 +4,7 @@ ROOT=Path(__file__).resolve().parents[1];CANDIDATES=ROOT/'data/candidates.json';
 def load(path,default):return json.loads(path.read_text(encoding='utf-8')) if path.exists() else default
 def run(c):return subprocess.run(c,check=False)
 def main():
- candidates=load(CANDIDATES,{'candidates':[]}).get('candidates',[]);allowed=set(load(AUTH,{'authorized_sources':[]}).get('authorized_sources',[]));published={x.get('clip_id') for x in load(ROOT/'data'/'published.json',{'items':[]}).get('items',[]) if x.get('clip_id')};selected=[c for c in candidates if c.get('source_url') in allowed and f"clip:{c.get('candidate_id')}" not in published];all_moments=[];all_plans=[];all_screams=[];all_emotions=[];WORK.mkdir(exist_ok=True)
+ candidates=load(CANDIDATES,{'candidates':[]}).get('candidates',[]);allowed=set(load(AUTH,{'authorized_sources':[]}).get('authorized_sources',[]));cc=load(ROOT/'data'/'licensed_sources.json',{'sources':[]}).get('sources',[]);allowed.update(s.get('source_url') for s in cc if s.get('license_verified'));published={x.get('clip_id') for x in load(ROOT/'data'/'published.json',{'items':[]}).get('items',[]) if x.get('clip_id')};selected=[c for c in candidates if c.get('source_url') in allowed and f"clip:{c.get('candidate_id')}" not in published];all_moments=[];all_plans=[];all_screams=[];all_emotions=[];WORK.mkdir(exist_ok=True)
  for c in selected:
   cid=c['candidate_id'].replace(':','_');source=WORK/f'{cid}.mp4';transcript=WORK/f'{cid}.json';sf=WORK/f'{cid}_screams.json';ef=WORK/f'{cid}_emotions.json';mf=WORK/f'{cid}_moments.json';pf=WORK/f'{cid}_plans.json'
   if not source.exists():
