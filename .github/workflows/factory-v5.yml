@@ -61,6 +61,12 @@ jobs:
         run: python scripts/learning_engine.py
       - name: Generate strategies
         run: python scripts/strategy_engine.py
+      - name: Discover verified Creative Commons sources
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: python scripts/cc_source_discovery.py
       - name: Build gated queues
         run: python scripts/factory_v3.py
       - name: Process authorized sources
@@ -104,5 +110,5 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/candidates.json data/analytics_snapshots.json data/learning_records.json data/learned_patterns.json data/edit_strategies.json data/render_queue.json data/publish_queue.json data/moments.json data/clip_plans.json data/scream_events.json data/emotion_events.json data/hashtag_trends.json data/publication_recovery.json data/published.json config/creator_style_profiles.json
+          git add data/candidates.json data/licensed_sources.json data/analytics_snapshots.json data/learning_records.json data/learned_patterns.json data/edit_strategies.json data/render_queue.json data/publish_queue.json data/moments.json data/clip_plans.json data/scream_events.json data/emotion_events.json data/hashtag_trends.json data/publication_recovery.json data/published.json config/creator_style_profiles.json
           if git diff --cached --quiet; then echo 'No state changes.'; else git commit -m 'Run complete Shorts factory pipeline'; git push; fi
