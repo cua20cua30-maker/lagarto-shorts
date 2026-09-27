@@ -14,7 +14,7 @@ def norm(value):
 def search(name, limit=12):
     query = f'ytsearchdate{limit}:"{name}"'
     process = subprocess.run(
-        ["yt-dlp", "--dump-single-json", "--skip-download", "--playlist-end", str(limit), query],
+        ["yt-dlp", "--flat-playlist", "--dump-single-json", "--playlist-end", str(limit), query],
         capture_output=True,
         text=True,
         timeout=180,
@@ -55,8 +55,8 @@ def main():
             uploader = item.get("channel") or item.get("uploader") or ""
             uploader_id = item.get("channel_id") or item.get("uploader_id") or ""
 
-            # Full metadata mode normally supplies the uploader. If it does not,
-            # keep the candidate in radar but mark attribution as unverified.
+            # Search results can omit uploader metadata in flat mode. When present,
+            # verify it; when absent, keep the item as an unverified radar hit.
             verified = bool(uploader and norm(uploader) == norm(name))
             if uploader and not verified:
                 continue
