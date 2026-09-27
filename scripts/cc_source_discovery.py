@@ -15,7 +15,9 @@ def main():
   OUT.write_text(json.dumps({"schema_version":1,"generated_at":now,"status":"skipped","reason":"missing_oauth","sources":[]},ensure_ascii=False,indent=2)+"\n",encoding="utf-8"); print("CC discovery: OAuth missing; skipped safely."); return
  creds=Credentials(token=None,refresh_token=os.environ["YOUTUBE_REFRESH_TOKEN"],token_uri="https://oauth2.googleapis.com/token",client_id=os.environ["YOUTUBE_CLIENT_ID"],client_secret=os.environ["YOUTUBE_CLIENT_SECRET"],scopes=["https://www.googleapis.com/auth/youtube.readonly"])
  try: creds.refresh(Request())
- except Exception as exc: print("CC discovery OAuth failed:",type(exc).__name__,exc); return
+ except Exception as exc:
+  OUT.write_text(json.dumps({"schema_version":1,"generated_at":now,"status":"failed","reason":"oauth_refresh_failed","sources":[]},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+  print("CC discovery OAuth failed:",type(exc).__name__,exc); return
  yt=build("youtube","v3",credentials=creds); found={}
  for q in cfg.get("queries",[]):
   try:
