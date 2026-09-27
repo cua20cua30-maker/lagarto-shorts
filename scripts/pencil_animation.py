@@ -70,6 +70,17 @@ def draw_character(d, cx, cy, scale, spec, emotion):
         d.arc((cx-145*scale,cy-head_h//2-25*scale,cx+145*scale,cy-head_h//2+95*scale),180,360,fill=(35,32,28),width=int(20*scale))
         d.line((cx-150*scale,cy-head_h//2+35*scale,cx+30*scale,cy-head_h//2+20*scale),fill=(35,32,28),width=int(15*scale))
 
+def transcript_lines(plan):
+    p=plan.get("transcript_path")
+    if not p or not Path(p).exists(): return []
+    try: data=load(p)
+    except Exception: return []
+    start=float(plan.get("start",0)); end=start+float(plan.get("duration",0)); out=[]
+    for seg in data.get("segments",[]):
+        a=float(seg.get("start",0)); b=float(seg.get("end",a)); text=str(seg.get("text","")).strip()
+        if text and b>start and a<end: out.append((max(0,a-start),min(float(plan.get("duration",0)),b-start),text))
+    return out
+
 def main():
     ap=argparse.ArgumentParser()
     ap.add_argument("--plan",required=True); ap.add_argument("--audio",required=True); ap.add_argument("--output",required=True)
@@ -80,6 +91,7 @@ def main():
     cid=str(plan.get("character_id") or creator.lower().replace(" ","_"))
     spec=cfg["characters"].get(cid,{})
     signals=plan.get("emotion_signals",[])
+    captions=transcript_lines(plan)
     emotion=signals[0] if signals else "neutral"
     ff=subprocess.Popen(["ffmpeg","-y","-f","rawvideo","-pix_fmt","rgb24","-s",f"{w}x{h}","-r",str(fps),"-i","-","-ss",str(float(plan.get("start",0))),"-i",args.audio,"-t",str(duration),"-map","0:v:0","-map","1:a:0?","-c:v","libx264","-preset","veryfast","-crf","23","-pix_fmt","yuv420p","-c:a","aac","-b:a","128k","-shortest","-movflags","+faststart",args.output],stdin=subprocess.PIPE,stderr=subprocess.PIPE)
     try:
@@ -98,6 +110,15 @@ def main():
             if plan.get("original_context"):
                 cf=font(38); txt=str(plan["original_context"])[:70]
                 d.text((70,1540),txt,fill=(45,40,34),font=cf)
+            current=""
+            for ca,cb,ct in captions:
+                if ca <= t <= cb:
+                    current=ct[:82]
+                    break
+            if current:
+                cf=font(44,True); bbox=d.textbbox((0,0),current,font=cf); tw=bbox[2]-bbox[0]; x=(w-tw)//2
+                d.rounded_rectangle((x-28,1660,x+tw+28,1745),radius=18,fill=(250,245,231),outline=(55,48,40),width=3)
+                d.text((x,1675),current,fill=(35,32,28),font=cf)
             # dynamic motion / impact marks
             if emotion in ("fear","surprise","scream"):
                 for k in range(8):
