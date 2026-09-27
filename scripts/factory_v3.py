@@ -10,6 +10,7 @@ def load(path, default):
 
 
 def main():
+    # Syntax-validated factory entrypoint.
     candidates = load(ROOT / "data" / "candidates.json", {"candidates": []}).get("candidates", [])
     allowed = set(
         load(ROOT / "data" / "authorization_manifest.json", {"authorized_sources": []}).get(
