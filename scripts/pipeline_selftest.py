@@ -59,6 +59,8 @@ def main():
         assert c["publishable"] is False or c["authorization_status"] == "authorized"
         if c["source_url"] not in authorized:
             assert c["publishable"] is False
+        if c.get("license_verified"):
+            assert c["authorization_status"] == "authorized"
 
     selected_creators = set(candidates.get("creator_coverage", {}))
     assert selected_creators.issubset(configured)
