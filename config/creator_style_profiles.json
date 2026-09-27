@@ -39,13 +39,13 @@
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 2
+          "observations": 3
         }
       ],
       "pacing": [
         {
           "pattern": "short_hook",
-          "observations": 1
+          "observations": 2
         },
         {
           "pattern": "ultra_short_hook",
@@ -56,14 +56,14 @@
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-09-27T14:41:04.177902+00:00"
+      "sample_count": 3,
+      "updated_at": "2026-09-27T14:42:58.324564+00:00"
     },
     "AuronPlay": {
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 1
+          "observations": 2
         },
         {
           "pattern": "shock_claim",
@@ -74,6 +74,10 @@
         {
           "pattern": "ultra_short_hook",
           "observations": 2
+        },
+        {
+          "pattern": "short_hook",
+          "observations": 1
         }
       ],
       "language": [
@@ -85,23 +89,23 @@
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-09-27T14:41:04.177730+00:00"
+      "sample_count": 3,
+      "updated_at": "2026-09-27T14:42:58.324392+00:00"
     },
     "ElXokas": {
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 2
+          "observations": 3
         }
       ],
       "pacing": [
         {
-          "pattern": "medium_hook",
-          "observations": 1
+          "pattern": "short_hook",
+          "observations": 2
         },
         {
-          "pattern": "short_hook",
+          "pattern": "medium_hook",
           "observations": 1
         }
       ],
@@ -109,39 +113,43 @@
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-09-27T14:41:04.177998+00:00"
+      "sample_count": 3,
+      "updated_at": "2026-09-27T14:42:58.324684+00:00"
     },
     "Peereira7": {
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 2
+          "observations": 3
         }
       ],
       "pacing": [
         {
           "pattern": "ultra_short_hook",
           "observations": 2
+        },
+        {
+          "pattern": "short_hook",
+          "observations": 1
         }
       ],
       "language": [
         {
           "pattern": "exclamation",
-          "observations": 1
+          "observations": 2
         }
       ],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-09-27T14:41:04.178098+00:00"
+      "sample_count": 3,
+      "updated_at": "2026-09-27T14:42:58.324759+00:00"
     },
     "Ibai": {
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 2
+          "observations": 3
         }
       ],
       "pacing": [
@@ -152,14 +160,18 @@
         {
           "pattern": "short_hook",
           "observations": 1
+        },
+        {
+          "pattern": "ultra_short_hook",
+          "observations": 1
         }
       ],
       "language": [],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-09-27T14:41:04.178187+00:00"
+      "sample_count": 3,
+      "updated_at": "2026-09-27T14:42:58.324848+00:00"
     },
     "WestCOL": {
       "hook_types": [
@@ -202,20 +214,24 @@
         {
           "pattern": "context_open",
           "observations": 2
+        },
+        {
+          "pattern": "question_open",
+          "observations": 1
         }
       ],
       "pacing": [
         {
           "pattern": "ultra_short_hook",
-          "observations": 2
+          "observations": 3
         }
       ],
       "language": [],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-09-27T14:41:04.178244+00:00"
+      "sample_count": 3,
+      "updated_at": "2026-09-27T14:42:58.324915+00:00"
     },
     "Juan Guarnizo": {
       "hook_types": [
@@ -239,7 +255,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 2,
-      "updated_at": "2026-09-27T14:41:04.177831+00:00"
+      "updated_at": "2026-09-27T14:42:58.324479+00:00"
     },
     "Davoo Xeneize": {
       "hook_types": [
@@ -286,5 +302,5 @@
       "updated_at": "2026-09-27T14:41:04.178440+00:00"
     }
   },
-  "updated_at": "2026-09-27T14:41:04.178448+00:00"
+  "updated_at": "2026-09-27T14:42:58.324917+00:00"
 }
