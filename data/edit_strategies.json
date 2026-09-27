@@ -1,79 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T14:44:21.250843+00:00",
+  "generated_at": "2026-09-27T19:02:44.543627+00:00",
   "strategies": [
-    {
-      "candidate_id": "yt:RaKIWPf1Tjk",
-      "source_creator": "Juan Guarnizo",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:c7DpRIk4lKY",
-      "source_creator": "AuronPlay",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:CgIySHjpi98",
-      "source_creator": "AuronPlay",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
     {
       "candidate_id": "yt:3nVF2EY_iHg",
       "source_creator": "Rubius",
@@ -99,7 +27,7 @@
       }
     },
     {
-      "candidate_id": "yt:Uo-ZphDU06Y",
+      "candidate_id": "yt:c7DpRIk4lKY",
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "pacing_pattern": "ultra_short_hook",
@@ -219,7 +147,7 @@
       }
     },
     {
-      "candidate_id": "yt:A7l6r9pkW_k",
+      "candidate_id": "yt:RaKIWPf1Tjk",
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "pacing_pattern": "ultra_short_hook",
@@ -269,6 +197,78 @@
     {
       "candidate_id": "yt:oz5sz0h0yek",
       "source_creator": "ElZeein",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:CgIySHjpi98",
+      "source_creator": "AuronPlay",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:Uo-ZphDU06Y",
+      "source_creator": "AuronPlay",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:A7l6r9pkW_k",
+      "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "pacing_pattern": "ultra_short_hook",
       "learned_edit_style": "unknown",
