@@ -81,7 +81,7 @@ def main():
     spec=cfg["characters"].get(cid,{})
     signals=plan.get("emotion_signals",[])
     emotion=signals[0] if signals else "neutral"
-    ff=subprocess.Popen(["ffmpeg","-y","-f","rawvideo","-pix_fmt","rgb24","-s",f"{w}x{h}","-r",str(fps),"-i","-","-i",args.audio,"-t",str(duration),"-map","0:v:0","-map","1:a:0?","-c:v","libx264","-preset","veryfast","-crf","23","-pix_fmt","yuv420p","-c:a","aac","-b:a","128k","-shortest","-movflags","+faststart",args.output],stdin=subprocess.PIPE,stderr=subprocess.PIPE)
+    ff=subprocess.Popen(["ffmpeg","-y","-f","rawvideo","-pix_fmt","rgb24","-s",f"{w}x{h}","-r",str(fps),"-i","-","-ss",str(float(plan.get("start",0))),"-i",args.audio,"-t",str(duration),"-map","0:v:0","-map","1:a:0?","-c:v","libx264","-preset","veryfast","-crf","23","-pix_fmt","yuv420p","-c:a","aac","-b:a","128k","-shortest","-movflags","+faststart",args.output],stdin=subprocess.PIPE,stderr=subprocess.PIPE)
     try:
         total=int(duration*fps)
         for i in range(total):
