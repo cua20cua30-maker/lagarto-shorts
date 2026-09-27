@@ -12,6 +12,8 @@ def read(path):
 def main():
     creators = read(Path("config/creators.json"))
     auth = read(Path("data/authorization_manifest.json"))
+    characters = read(Path("config/character_profiles.json"))
+    appearances = read(Path("config/character_appearances.json"))
     candidates = read(Path("data/candidates.json"))
     moments = read(Path("data/moments.json"))
     plans = read(Path("data/clip_plans.json"))
@@ -26,6 +28,9 @@ def main():
     radar_diagnostics = read(Path("data/radar_diagnostics.json"))
 
     assert len(creators["creators"]) == 11
+    assert len(characters["characters"]) == 11
+    assert len(appearances["characters"]) == 11
+    assert appearances["style"]["body"] == "stick"
     assert auth["schema_version"] == 1 and isinstance(auth["authorized_sources"], list)
     assert candidates["schema_version"] >= 1 and isinstance(candidates["candidates"], list)
     assert moments["schema_version"] >= 2 and isinstance(moments["moments"], list)
