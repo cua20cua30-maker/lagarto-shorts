@@ -1,10 +1,15 @@
-import json, os
+import json, os, re
 from datetime import datetime, timezone
 from pathlib import Path
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 ROOT=Path(__file__).resolve().parents[1]
+
+def iso8601_seconds(value):
+ m=re.fullmatch(r"P(?:(\d+)D)?(?:T(?:(\d+)H)?(?:(\d+)M)?(?:(\d+(?:\.\d+)?)S)?)?", value or "")
+ if not m: return 0
+ d,h,mi,s=m.groups(); return int(float(d or 0)*86400+float(h or 0)*3600+float(mi or 0)*60+float(s or 0))
 CFG=ROOT/"config/licensed_source_discovery.json"; OUT=ROOT/"data/licensed_sources.json"
 def load(p,d): return json.loads(p.read_text(encoding="utf-8")) if p.exists() else d
 def main():
@@ -36,7 +41,7 @@ def main():
    if s.get("license")!="creativeCommon": continue
    if cfg.get("require_public",True) and s.get("privacyStatus")!="public": continue
    vid=v.get("id"); url="https://www.youtube.com/watch?v="+vid
-   verified.append({"source_url":url,"video_id":vid,"title":sn.get("title",""),"source_creator":sn.get("channelTitle",""),"channel_id":sn.get("channelId",""),"license":"CC BY / Creative Commons","license_verified":True,"verification_source":"YouTube Data API status.license=creativeCommon","discovery_query":found.get(vid),"verified_at":now,"attribution_required":True})
+   verified.append({"source_url":url,"video_id":vid,"title":sn.get("title",""),"source_creator":sn.get("channelTitle",""),"channel_id":sn.get("channelId",""),"duration_seconds":iso8601_seconds(v.get("contentDetails",{}).get("duration","")),"license":"CC BY / Creative Commons","license_verified":True,"verification_source":"YouTube Data API status.license=creativeCommon","discovery_query":found.get(vid),"verified_at":now,"attribution_required":True})
  OUT.write_text(json.dumps({"schema_version":1,"generated_at":now,"status":"ok","sources":verified},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
  print(f"CC discovery: verified={len(verified)}")
 if __name__=="__main__": main()
