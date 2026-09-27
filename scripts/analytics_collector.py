@@ -213,6 +213,8 @@ def main():
             "learning_tags": ["youtube_analytics", f"checkpoint_{checkpoint}d"],
             "emotion_signals": metadata.get("emotion_signals", []),
             "emotion_score": metadata.get("emotion_score", 0),
+            "hashtags": metadata.get("hashtags", []),
+            "hashtag_sources": metadata.get("hashtag_sources", []),
         }
         if snapshot_key not in existing_learning_keys:
             learning.append(record)
