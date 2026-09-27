@@ -1,17 +1,18 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "provider": "Google / YouTube",
   "authorization": "OAuth 2.0",
   "access_type": "offline",
   "scopes": [
     "https://www.googleapis.com/auth/youtube.upload",
     "https://www.googleapis.com/auth/youtube.force-ssl",
-    "https://www.googleapis.com/auth/yt-analytics.readonly"
+    "https://www.googleapis.com/auth/youtube.readonly"
   ],
   "secret_names": [
     "YOUTUBE_CLIENT_ID",
     "YOUTUBE_CLIENT_SECRET",
     "YOUTUBE_REFRESH_TOKEN"
   ],
-  "automatic_publish_default": false
+  "automatic_publish_default": false,
+  "analytics_note": "The current YouTube Analytics reports.query endpoint requires youtube.readonly."
 }
