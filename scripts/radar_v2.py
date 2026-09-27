@@ -100,7 +100,7 @@ def main():
 
     selected = []
     per_creator = Counter()
-    per_creator_cap = max(2, (max_candidates + len(cfg["creators"]) - 1) // len(cfg["creators"]))
+    per_creator_cap = max(3, (max_candidates + len(cfg["creators"]) - 1) // len(cfg["creators"]))
 
     for candidate in ranked:
         creator = candidate["source_creator"]
