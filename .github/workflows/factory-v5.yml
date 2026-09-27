@@ -8,7 +8,7 @@ on:
       - 'config/**'
       - '.github/workflows/factory-v5.yml'
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '17 * * * *'
 
 permissions:
   contents: write
