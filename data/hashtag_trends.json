@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T19:02:45.793908+00:00",
+  "generated_at": "2026-09-27T21:15:35.487392+00:00",
   "sources": {
     "tiktok_creative_center": {
       "source": "tiktok_creative_center",
@@ -10,7 +10,7 @@
     "youtube_most_popular": {
       "source": "youtube_most_popular",
       "status": "unavailable",
-      "reason": "oauth_missing"
+      "error": "('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})"
     }
   },
   "jobs": []

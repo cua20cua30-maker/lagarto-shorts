@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T19:02:44.543627+00:00",
+  "generated_at": "2026-09-27T21:15:34.323580+00:00",
   "strategies": [
     {
       "candidate_id": "yt:3nVF2EY_iHg",
@@ -123,7 +123,7 @@
       }
     },
     {
-      "candidate_id": "yt:EhjxXRmGlBA",
+      "candidate_id": "yt:6P8Zjd-UjnY",
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "pacing_pattern": "ultra_short_hook",
@@ -387,7 +387,7 @@
       }
     },
     {
-      "candidate_id": "yt:zjZVEx-F-z0",
+      "candidate_id": "yt:EhjxXRmGlBA",
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "pacing_pattern": "ultra_short_hook",
