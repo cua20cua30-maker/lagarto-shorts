@@ -70,21 +70,19 @@ def main():
 
     for plan in plans:
         source = Path(plan["source_path"])
+        creator = str(plan.get("source_creator", "")).strip()
+        plan["character_id"] = str(plan.get("character_id") or creator.lower().replace(" ", "_"))
         output = WORK / (plan["clip_id"].replace(":", "_") + ".mp4")
         if not source.exists():
             continue
 
-        subtitle = make_srt(plan)
-        vf = "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920"
-        if subtitle:
-            vf += ",subtitles=" + str(subtitle)
-
+        plan_file = WORK / (plan["clip_id"].replace(":", "_") + "_plan.json")
+        plan_file.write_text(json.dumps(plan, ensure_ascii=False), encoding="utf-8")
         command = [
-            "ffmpeg", "-y", "-ss", str(plan["start"]), "-i", str(source),
-            "-t", str(plan["duration"]), "-vf", vf,
-            "-c:v", "libx264", "-preset", "veryfast", "-crf", "21",
-            "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart",
-            str(output),
+            "python", "scripts/pencil_animation.py",
+            "--plan", str(plan_file),
+            "--audio", str(source),
+            "--output", str(output),
         ]
         result = subprocess.run(command, capture_output=True, text=True)
         if result.returncode:
@@ -99,7 +97,7 @@ def main():
             "original_context": plan.get("original_context", ""),
             "output": str(output),
             "status": "rendered",
-            "captions": bool(subtitle),
+            "captions": False,\n            "animation_style": "lagarto_pencil_cast",\n            "character_id": plan.get("character_id"),
             "idempotency_key": "rendered:" + plan["clip_id"],
             "emotion_signals": plan.get("emotion_signals", []),
             "emotion_score": plan.get("emotion_score", 0),
@@ -119,12 +117,11 @@ def main():
                 "format": "vertical_9_16",
                 "duration_seconds": plan.get("duration"),
                 "hook_type": "emotion_" + "_".join(plan.get("emotion_signals", [])[:3]) if plan.get("emotion_signals") else "context_open",
-                "edit_style": "emotion_driven",
+                "edit_style": "emotion_driven_pencil_animation",
                 "emotion_signals": plan.get("emotion_signals", []),
                 "emotion_score": plan.get("emotion_score", 0),
                 "source_moment_signals": plan.get("signals", []),
-                "original_context": plan.get("original_context", "")
-            },
+                "original_context": plan.get("original_context", ""),\n                "character_id": plan.get("character_id"),\n                "animation_style": "lagarto_pencil_cast"\n            },
             "idempotency_key": "publish:" + plan["clip_id"]
         })
 
