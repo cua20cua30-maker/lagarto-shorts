@@ -10,6 +10,8 @@ def load(path, default):
 def main():
     candidates = load(ROOT / "data" / "candidates.json", {"candidates": []}).get("candidates", [])
     allowed = set(load(ROOT / "data" / "authorization_manifest.json", {"authorized_sources": []}).get("authorized_sources", []))
+    cc_sources = load(ROOT / "data" / "licensed_sources.json", {"sources": []}).get("sources", [])
+    allowed.update(s.get("source_url") for s in cc_sources if s.get("license_verified"))
     published = load(ROOT / "data" / "published.json", {"items": []}).get("items", [])
     published_clips = {item.get("clip_id") for item in published if item.get("clip_id")}
 
