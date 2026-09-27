@@ -55,6 +55,8 @@ jobs:
         run: python scripts/cc_source_discovery.py
       - name: Radar
         run: python scripts/radar_v2.py
+      - name: Multisource radar
+        run: python scripts/multisource_radar.py
       - name: Add verified licensed candidates
         run: python scripts/licensed_candidate_radar.py
       - name: Learn creator style
@@ -73,7 +75,7 @@ jobs:
         run: python scripts/factory_v3.py
       - name: Process authorized sources
         run: |
-          if python -c "import json; print(bool(json.load(open('data/authorization_manifest.json', encoding='utf-8')).get('authorized_sources', [])))" | grep -q True; then
+          if python -c "import json; a=bool(json.load(open('data/authorization_manifest.json', encoding='utf-8')).get('authorized_sources', [])); l=bool(json.load(open('data/licensed_sources.json', encoding='utf-8')).get('sources', [])); print(a or l)" | grep -q True; then
             python -m pip install --disable-pip-version-check faster-whisper
           fi
           python scripts/authorized_pipeline_v2.py
@@ -112,5 +114,5 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/candidates.json data/licensed_sources.json data/analytics_snapshots.json data/learning_records.json data/learned_patterns.json data/edit_strategies.json data/render_queue.json data/publish_queue.json data/moments.json data/clip_plans.json data/scream_events.json data/emotion_events.json data/hashtag_trends.json data/publication_recovery.json data/published.json config/creator_style_profiles.json
+          git add data/candidates.json data/licensed_sources.json data/multisource_diagnostics.json data/analytics_snapshots.json data/learning_records.json data/learned_patterns.json data/edit_strategies.json data/render_queue.json data/publish_queue.json data/moments.json data/clip_plans.json data/scream_events.json data/emotion_events.json data/hashtag_trends.json data/publication_recovery.json data/published.json config/creator_style_profiles.json
           if git diff --cached --quiet; then echo 'No state changes.'; else git commit -m 'Run complete Shorts factory pipeline'; git push; fi
