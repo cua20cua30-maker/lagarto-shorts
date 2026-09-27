@@ -27,15 +27,18 @@ def search(name, youtube_url=None, limit=20):
     except json.JSONDecodeError:
         return []
 
-def score(title):
+def score(title, recency_rank=0):
     text = (title or "").lower()
     signals = (
         "reacción", "reaccion", "increíble", "increible", "polémica", "polemica",
         "humilla", "humilló", "explota", "locura", "nadie esperaba", "se lía",
         "se lia", "viral", "wtf", "qué coño", "que coño", "no puede ser",
         "llora", "llorando", "triste", "enfado", "cabreado", "sorpresa", "brutal",
+        "😭", "🥹", "💔", "😂", "😱", "😡", "😳", "💀", "🤯",
     )
-    return min(100, sum(10 for signal in signals if signal in text))
+    signal_score = sum(10 for signal in signals if signal in text)
+    recency_score = max(0, 20 - int(recency_rank))
+    return min(100, signal_score + recency_score)
 
 def main():
     cfg = json.loads(CONFIG.read_text(encoding="utf-8"))
@@ -48,7 +51,7 @@ def main():
             continue
 
         name = creator["name"]
-        for item in search(name, creator.get("youtube_url")):
+        for rank, item in enumerate(search(name, creator.get("youtube_url"))):
             video_id = item.get("id")
             if not video_id:
                 continue
@@ -75,7 +78,8 @@ def main():
                 "source_url": f"https://www.youtube.com/watch?v={video_id}",
                 "title": title,
                 "duration_seconds": item.get("duration"),
-                "score": score(title),
+                "score": score(title, rank),
+                "radar_rank": rank,
                 "detected_at": now.isoformat(),
                 "status": "discovered",
                 "authorization_status": "unknown",
