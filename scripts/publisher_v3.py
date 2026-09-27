@@ -2,6 +2,7 @@ import json
 import os
 from pathlib import Path
 from datetime import datetime, timezone
+import time
 
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
@@ -100,8 +101,20 @@ def main():
         )
 
         response = None
-        while response is None:
-            _, response = request.next_chunk()
+        last_error = None
+        for attempt in range(3):
+            try:
+                while response is None:
+                    _, response = request.next_chunk()
+                break
+            except Exception as exc:
+                last_error = exc
+                response = None
+                if attempt < 2:
+                    time.sleep(2 ** attempt)
+        if response is None:
+            print(f"Publisher v3: upload failed for {clip_id}: {last_error}")
+            continue
 
         record = {
             "idempotency_key": key,
