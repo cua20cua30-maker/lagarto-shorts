@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:08:19.255991+00:00",
+  "generated_at": "2026-09-27T22:19:06.951501+00:00",
   "platforms": {
     "IlloJuan:twitch": {
       "url": "https://www.twitch.tv/illojuan",
@@ -89,8 +89,8 @@
     },
     "Peereira7:tiktok": {
       "url": "https://www.tiktok.com/@peereira7",
-      "found": 5,
-      "error": ""
+      "found": 0,
+      "error": "ERROR: peereira7: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
     },
     "Peereira7:instagram": {
       "url": "https://www.instagram.com/peereira7",
@@ -169,8 +169,8 @@
     },
     "Juan Guarnizo:tiktok": {
       "url": "https://www.tiktok.com/@juaniquilador",
-      "found": 0,
-      "error": "ERROR: juaniquilador: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "found": 5,
+      "error": ""
     },
     "Juan Guarnizo:instagram": {
       "url": "https://www.instagram.com/juaniquilador",
@@ -189,8 +189,8 @@
     },
     "Davoo Xeneize:tiktok": {
       "url": "https://www.tiktok.com/@davooxeneize",
-      "found": 0,
-      "error": "ERROR: davooxeneize: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "found": 5,
+      "error": ""
     },
     "Davoo Xeneize:instagram": {
       "url": "https://www.instagram.com/davoobj",
@@ -199,8 +199,8 @@
     },
     "Davoo Xeneize:kick": {
       "url": "https://kick.com/davooxeneize",
-      "found": 0,
-      "error": "ERROR: [kick:live] davooxeneize: The channel is not currently live"
+      "found": 1,
+      "error": ""
     },
     "ElZeein:twitch": {
       "url": "https://www.twitch.tv/elzeein",
