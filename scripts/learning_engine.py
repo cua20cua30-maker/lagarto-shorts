@@ -38,6 +38,8 @@ def learn(records):
     creator_groups = defaultdict(list)
     emotion_groups = defaultdict(list)
     creator_emotion_groups = defaultdict(list)
+    hashtag_groups = defaultdict(list)
+    creator_hashtag_groups = defaultdict(list)
 
     for record in records:
         value = metric_value(record)
@@ -53,6 +55,11 @@ def learn(records):
 
         creator = record.get("source_creator", "unknown")
         creator_groups[(creator, *key)].append(value)
+
+        hashtags = tuple(sorted(set(record.get("hashtags", []) or record.get("hashtag_set", []))))[:3]
+        if hashtags:
+            hashtag_groups[hashtags].append(value)
+            creator_hashtag_groups[(creator, hashtags)].append(value)
 
         emotions = tuple(sorted(set(record.get("emotion_signals", []))))
         if emotions:
@@ -84,6 +91,28 @@ def learn(records):
             continue
         creator_emotion_patterns[creator].append({"emotion_signals": list(emotions), "samples": len(values), "median_retention": round(median(values), 4), "recommendation": "promote_creator_emotion_experiment"})
 
+    hashtag_patterns = []
+    for hashtags, values in hashtag_groups.items():
+        if len(values) < 5:
+            continue
+        hashtag_patterns.append({
+            "hashtags": list(hashtags),
+            "samples": len(values),
+            "median_retention": round(median(values), 4),
+            "recommendation": "promote_hashtag_experiment"
+        })
+
+    creator_hashtag_patterns = defaultdict(list)
+    for (creator, hashtags), values in creator_hashtag_groups.items():
+        if len(values) < 3:
+            continue
+        creator_hashtag_patterns[creator].append({
+            "hashtags": list(hashtags),
+            "samples": len(values),
+            "median_retention": round(median(values), 4),
+            "recommendation": "promote_creator_hashtag_experiment"
+        })
+
     creator_patterns = defaultdict(list)
     for key, values in creator_groups.items():
         if len(values) < 3:
@@ -104,12 +133,17 @@ def learn(records):
     for values in creator_emotion_patterns.values():
         values.sort(key=lambda item: item["median_retention"], reverse=True)
     emotion_patterns.sort(key=lambda item: item["median_retention"], reverse=True)
+    hashtag_patterns.sort(key=lambda item: item["median_retention"], reverse=True)
+    for values in creator_hashtag_patterns.values():
+        values.sort(key=lambda item: item["median_retention"], reverse=True)
 
-    return patterns, dict(creator_patterns), emotion_patterns, dict(creator_emotion_patterns)
+    return (patterns, dict(creator_patterns), emotion_patterns, dict(creator_emotion_patterns),
+            hashtag_patterns, dict(creator_hashtag_patterns))
 
 def main():
     records = load_records()
-    patterns, creator_patterns, emotion_patterns, creator_emotion_patterns = learn(records)
+    (patterns, creator_patterns, emotion_patterns, creator_emotion_patterns,
+     hashtag_patterns, creator_hashtag_patterns) = learn(records)
 
     result = DEFAULT_PATTERNS.copy()
     result["updated_at"] = datetime.now(timezone.utc).isoformat()
@@ -117,6 +151,8 @@ def main():
     result["creator_patterns"] = creator_patterns
     result["emotion_patterns"] = emotion_patterns
     result["creator_emotion_patterns"] = creator_emotion_patterns
+    result["hashtag_patterns"] = hashtag_patterns
+    result["creator_hashtag_patterns"] = creator_hashtag_patterns
 
     LEARNED_PATTERNS.write_text(
         json.dumps(result, ensure_ascii=False, indent=2) + "\n",
@@ -127,6 +163,7 @@ def main():
     print(f"Learned global patterns: {len(patterns)}")
     print(f"Creators with learned performance patterns: {len(creator_patterns)}")
     print(f"Learned emotion patterns: {len(emotion_patterns)}")
+    print(f"Learned hashtag patterns: {len(hashtag_patterns)}")
 
 if __name__ == "__main__":
     main()
