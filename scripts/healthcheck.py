@@ -13,7 +13,11 @@ def main():
     factory = load_json("config/factory.json")
     state = load_json("data/state.json")
 
-    assert creators["version"] == 1
+    assert creators["version"] >= 1
+    for creator in creators["creators"]:
+        assert creator.get("name")
+        if creator.get("youtube_url"):
+            assert creator["youtube_url"].startswith("https://www.youtube.com/")
     assert len(creators["creators"]) == 11
     assert factory["content_policy"]["require_authorization"] is True
     assert factory["content_policy"]["allow_unlicensed_reposting"] is False
