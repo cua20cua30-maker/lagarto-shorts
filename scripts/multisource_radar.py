@@ -73,8 +73,8 @@ def main():
     limit=int(cfg.get("max_total_candidates",20))
     base=[x for x in candidates if x.get("source_url") not in {a["source_url"] for a in additions}]
     combined=base+additions
-combined.sort(key=lambda x:(x.get("authorization_status")=="authorized",x.get("score",0)),reverse=True)
-merged=combined[:limit]
+    combined.sort(key=lambda x:(x.get("authorization_status")=="authorized",x.get("score",0)),reverse=True)
+    merged=combined[:limit]
     existing["candidates"]=merged
     existing["selection_limit"]=limit
     existing["multisource_coverage"]={}
