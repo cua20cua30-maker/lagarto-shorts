@@ -14,18 +14,13 @@ SNAPSHOTS = ROOT / "data" / "analytics_snapshots.json"
 LEARNING = ROOT / "data" / "learning_records.json"
 STRATEGIES = ROOT / "data" / "edit_strategies.json"
 
-SCOPES = ["https://www.googleapis.com/auth/yt-analytics.readonly"]
+# Current YouTube Analytics reports.query authorization requires youtube.readonly.
+SCOPES = ["https://www.googleapis.com/auth/youtube.readonly"]
 
 METRICS = ",".join([
-    "views",
-    "engagedViews",
-    "likes",
-    "comments",
-    "shares",
-    "estimatedMinutesWatched",
-    "averageViewDuration",
-    "averageViewPercentage",
-    "subscribersGained",
+    "views", "engagedViews", "likes", "comments", "shares",
+    "estimatedMinutesWatched", "averageViewDuration",
+    "averageViewPercentage", "subscribersGained",
 ])
 
 CHECKPOINTS = (1, 3, 7, 30)
@@ -78,7 +73,10 @@ def main():
     ledger = load(LEDGER, {"schema_version": 1, "items": []})
     snapshots = load(SNAPSHOTS, {"schema_version": 2, "snapshots": []})
     learning = load(LEARNING, [])
-    strategies = {item.get("candidate_id"): item for item in load(STRATEGIES, {"strategies": []}).get("strategies", [])}
+    strategies = {
+        item.get("candidate_id"): item
+        for item in load(STRATEGIES, {"strategies": []}).get("strategies", [])
+    }
     if not isinstance(learning, list):
         learning = learning.get("records", [])
 
@@ -91,11 +89,13 @@ def main():
         return
 
     existing_snapshot_keys = {
-        item.get("snapshot_key") for item in snapshots.get("snapshots", [])
+        item.get("snapshot_key")
+        for item in snapshots.get("snapshots", [])
         if item.get("snapshot_key")
     }
     existing_learning_keys = {
-        item.get("record_id") for item in learning
+        item.get("record_id")
+        for item in learning
         if isinstance(item, dict) and item.get("record_id")
     }
 
@@ -107,6 +107,7 @@ def main():
         published_at = item.get("published_at")
         if not video_id:
             continue
+
         if not published_at:
             try:
                 details = youtube.videos().list(part="snippet", id=video_id).execute().get("items", [])
@@ -114,6 +115,7 @@ def main():
             except Exception as exc:
                 print(f"Analytics collector: cannot resolve publish date for {video_id}: {exc}")
                 continue
+
         checkpoint = checkpoint_for(published_at)
         if checkpoint is None:
             continue
@@ -185,6 +187,7 @@ def main():
         metadata = item.get("learning_metadata") or {}
         if not metadata:
             metadata = strategies.get(item.get("candidate_id"), {})
+
         record = {
             "record_id": snapshot_key,
             "source_creator": item.get("source_creator", "unknown"),
