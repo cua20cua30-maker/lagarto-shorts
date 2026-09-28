@@ -76,7 +76,13 @@ jobs:
       - name: Process authorized sources
         run: |
           if python -c "import json; a=bool(json.load(open('data/authorization_manifest.json', encoding='utf-8')).get('authorized_sources', [])); l=bool(json.load(open('data/licensed_sources.json', encoding='utf-8')).get('sources', [])); print(a or l)" | grep -q True; then
-            python -m pip install --disable-pip-version-check faster-whisper
+            python -m pip install --disable-pip-version-check faster-whisper bgutil-ytdlp-pot-provider
+            rm -rf .pot-provider
+            git clone --depth 1 --branch 2.0.0 https://github.com/Brainicism/bgutil-ytdlp-pot-provider.git .pot-provider
+            cd .pot-provider/server
+            deno install --allow-scripts=npm:canvas --frozen
+            (cd node_modules && nohup deno run --allow-env --allow-net --allow-ffi=. --allow-read=. ../src/main.ts > ../../.bgutil-pot.log 2>&1 &)
+            cd ../..
           fi
           python scripts/authorized_pipeline_v2.py
           python scripts/render_authorized_v2.py
