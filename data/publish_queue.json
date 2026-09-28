@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T20:56:12.365564+00:00",
+  "generated_at": "2026-09-28T22:39:47.291790+00:00",
   "jobs": [
     {
       "job_id": "publish:clip:twitch:vod:2882797277",
@@ -99,6 +99,18 @@
       "idempotency_key": "publish:clip:twitch:vod:2883883168"
     },
     {
+      "job_id": "publish:clip:twitch:vod:2886444787",
+      "clip_id": "clip:twitch:vod:2886444787",
+      "candidate_id": "twitch:vod:2886444787",
+      "source_creator": "AuronPlay",
+      "title": "Lagarto | AuronPlay",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2886444787"
+    },
+    {
       "job_id": "publish:clip:twitch:vod:2884125661",
       "clip_id": "clip:twitch:vod:2884125661",
       "candidate_id": "twitch:vod:2884125661",
@@ -181,18 +193,6 @@
       "authorization_status": "authorized",
       "transformative_edit_required": true,
       "idempotency_key": "publish:clip:twitch:vod:2885611944"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2882877238",
-      "clip_id": "clip:twitch:vod:2882877238",
-      "candidate_id": "twitch:vod:2882877238",
-      "source_creator": "AuronPlay",
-      "title": "Lagarto | AuronPlay",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2882877238"
     },
     {
       "job_id": "publish:clip:twitch:vod:2882773943",
