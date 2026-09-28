@@ -1,107 +1,106 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-28T09:50:29.626804+00:00",
+  "generated_at": "2026-09-28T09:51:06.066733+00:00",
   "mode": "vod_only",
-  "api": "Kick Developer Public API",
   "results": [
     {
       "creator": "IlloJuan",
       "platform": "kick",
       "status": "vod_unavailable_official_api",
       "kick_slug": "illojuan",
-      "api_authenticated": true,
-      "error": null,
-      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
+      "api_authenticated": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
     },
     {
       "creator": "Rubius",
       "platform": "kick",
       "status": "vod_unavailable_official_api",
       "kick_slug": "rubius",
-      "api_authenticated": true,
-      "error": null,
-      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
+      "api_authenticated": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
     },
     {
       "creator": "AuronPlay",
       "platform": "kick",
       "status": "vod_unavailable_official_api",
       "kick_slug": "auronplay",
-      "api_authenticated": true,
-      "error": null,
-      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
+      "api_authenticated": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
     },
     {
       "creator": "ElXokas",
       "platform": "kick",
       "status": "vod_unavailable_official_api",
       "kick_slug": "elxokas",
-      "api_authenticated": true,
-      "error": null,
-      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
+      "api_authenticated": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
     },
     {
       "creator": "Peereira7",
       "platform": "kick",
       "status": "vod_unavailable_official_api",
       "kick_slug": "peereira7",
-      "api_authenticated": true,
-      "error": null,
-      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
+      "api_authenticated": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
     },
     {
       "creator": "Ibai",
       "platform": "kick",
       "status": "vod_unavailable_official_api",
       "kick_slug": "ibai",
-      "api_authenticated": true,
-      "error": null,
-      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
+      "api_authenticated": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
     },
     {
       "creator": "WestCOL",
       "platform": "kick",
       "status": "vod_unavailable_official_api",
       "kick_slug": "westcol",
-      "api_authenticated": true,
-      "error": null,
-      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
+      "api_authenticated": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
     },
     {
       "creator": "TheGrefg",
       "platform": "kick",
       "status": "vod_unavailable_official_api",
       "kick_slug": "thegrefg",
-      "api_authenticated": true,
-      "error": null,
-      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
+      "api_authenticated": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
     },
     {
       "creator": "Juan Guarnizo",
       "platform": "kick",
       "status": "vod_unavailable_official_api",
       "kick_slug": "juansguarnizo",
-      "api_authenticated": true,
-      "error": null,
-      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
+      "api_authenticated": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
     },
     {
       "creator": "Davoo Xeneize",
       "platform": "kick",
       "status": "vod_unavailable_official_api",
       "kick_slug": "davooxeneize",
-      "api_authenticated": true,
-      "error": null,
-      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
+      "api_authenticated": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
     },
     {
       "creator": "ElZeein",
       "platform": "kick",
       "status": "vod_unavailable_official_api",
       "kick_slug": "elzeein",
-      "api_authenticated": true,
-      "error": null,
-      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
+      "api_authenticated": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
     }
   ]
 }
