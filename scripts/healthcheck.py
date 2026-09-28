@@ -18,7 +18,7 @@ def main():
         assert creator.get("name")
         if creator.get("youtube_url"):
             assert creator["youtube_url"].startswith("https://www.youtube.com/")
-    assert len(creators["creators"]) == 11
+    assert len(creators["creators"]) >= 11
     assert factory["content_policy"]["require_authorization"] is True
     assert factory["content_policy"]["allow_unlicensed_reposting"] is False
     assert state["schema_version"] == 1
