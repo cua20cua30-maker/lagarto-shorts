@@ -1,130 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:56:49.255339+00:00",
+  "generated_at": "2026-09-28T06:00:01.424274+00:00",
   "strategies": [
-    {
-      "candidate_id": "tiktok:7688356743658704150",
-      "source_creator": "Ibai",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
     {
       "candidate_id": "yt:Me4El1DJSGY",
       "source_creator": "Davoo Xeneize",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "tiktok:7690245393761963287",
-      "source_creator": "Ibai",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "tiktok:7689542055005031702",
-      "source_creator": "Ibai",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "tiktok:7689172801739164950",
-      "source_creator": "Ibai",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "tiktok:7687678908782644502",
-      "source_creator": "Ibai",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
       "learned_edit_style": "unknown",
@@ -363,6 +243,126 @@
       }
     },
     {
+      "candidate_id": "yt:3nVF2EY_iHg",
+      "source_creator": "Rubius",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:uWVUtw5QJQ8",
+      "source_creator": "ElXokas",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:_lIv3Vfgz-s",
+      "source_creator": "Peereira7",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:sXkurPgJHX0",
+      "source_creator": "Ibai",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "yt:6P8Zjd-UjnY",
+      "source_creator": "TheGrefg",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
       "candidate_id": "cc:L9qgKZ9oujU",
       "source_creator": "ARTA GAME",
       "hook_pattern": "context_open",
@@ -411,33 +411,9 @@
       }
     },
     {
-      "candidate_id": "cc:PkWj0aZRheE",
+      "candidate_id": "cc:oUlZ3U4FQgY",
       "source_creator": "Vandal",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "cc:Bo9Gk184Zm4",
-      "source_creator": "Vandal",
-      "hook_pattern": "context_open",
+      "hook_pattern": "reaction",
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "unknown",
       "learned_format": "vertical_9_16",
@@ -460,6 +436,30 @@
     },
     {
       "candidate_id": "cc:hBbH3cQbRSY",
+      "source_creator": "ARTA GAME",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "cc:V66vIoQ3NKI",
       "source_creator": "ARTA GAME",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
