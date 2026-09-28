@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-28T12:28:46.319276+00:00",
+  "generated_at": "2026-09-28T17:48:29.631195+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2882797277",
@@ -8,10 +8,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -31,7 +31,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -43,10 +43,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -66,7 +66,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -78,10 +78,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -101,7 +101,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -113,10 +113,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -136,7 +136,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -148,10 +148,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -171,7 +171,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -183,10 +183,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -206,7 +206,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -218,10 +218,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -241,7 +241,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -253,10 +253,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -276,7 +276,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -288,10 +288,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -311,7 +311,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -323,10 +323,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -346,7 +346,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -358,10 +358,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -381,7 +381,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -393,10 +393,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -416,7 +416,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -428,10 +428,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -451,7 +451,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -463,10 +463,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -486,7 +486,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -498,10 +498,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -521,7 +521,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -533,10 +533,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -556,7 +556,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -568,10 +568,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -591,7 +591,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -603,10 +603,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -626,7 +626,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -638,10 +638,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -661,7 +661,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -673,10 +673,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
         "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
-        "VISIONQUEST Tráiler 2 (2026) MARVEL",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!"
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
       ],
       "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -696,7 +696,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-28T12:28:45.725909+00:00",
+      "trend_research_timestamp": "2026-09-28T17:48:29.015107+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true

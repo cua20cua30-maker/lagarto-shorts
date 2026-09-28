@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T12:28:40.685817+00:00",
+  "generated_at": "2026-09-28T17:48:23.806520+00:00",
   "results": [
     {
       "creator": "IlloJuan",
       "platform": "twitch",
       "status": "ok",
       "login": "illojuan",
-      "vods_seen": 15,
+      "vods_seen": 16,
       "recent_vods": 3
     },
     {
@@ -24,7 +24,7 @@
       "status": "ok",
       "login": "auronplay",
       "vods_seen": 20,
-      "recent_vods": 5
+      "recent_vods": 6
     },
     {
       "creator": "ElXokas",
@@ -72,7 +72,7 @@
       "status": "ok",
       "login": "juansguarnizo",
       "vods_seen": 20,
-      "recent_vods": 8
+      "recent_vods": 9
     },
     {
       "creator": "Davoo Xeneize",
