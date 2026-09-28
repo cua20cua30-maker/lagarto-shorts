@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:45:33.255913+00:00",
+  "generated_at": "2026-09-28T05:48:26.566876+00:00",
   "platforms": {
     "IlloJuan:twitch": {
       "url": "https://www.twitch.tv/illojuan",
@@ -129,8 +129,8 @@
     },
     "WestCOL:tiktok": {
       "url": "https://www.tiktok.com/@west_col",
-      "found": 5,
-      "error": ""
+      "found": 0,
+      "error": "ERROR: west_col: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
     },
     "WestCOL:instagram": {
       "url": "https://www.instagram.com/westcol",
