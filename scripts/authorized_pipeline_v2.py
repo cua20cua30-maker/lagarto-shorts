@@ -56,6 +56,15 @@ INVIDIOUS_INSTANCES = [
     "https://invidious.tiekoetter.com",
 ]
 
+PIPED_APIS = [
+    "https://pipedapi.kavin.rocks",
+    "https://api.piped.yt",
+    "https://piped-api.lunar.icu",
+    "https://yapi.vyper.me",
+    "https://api.looleh.xyz",
+    "https://api.piped.private.coffee",
+]
+
 
 def video_id_from_url(source_url):
     parsed = urllib.parse.urlparse(source_url)
@@ -105,6 +114,46 @@ def acquire_invidious(source_url, output):
     return False
 
 
+def acquire_piped(source_url, output):
+    video_id = video_id_from_url(source_url)
+    if not video_id:
+        return False
+
+    for api in PIPED_APIS:
+        try:
+            endpoint = f"{api}/streams/{urllib.parse.quote(video_id)}"
+            req = urllib.request.Request(endpoint, headers={"User-Agent": "LagartoShortsFactory/1.0"})
+            with urllib.request.urlopen(req, timeout=20) as response:
+                data = json.loads(response.read().decode("utf-8"))
+
+            streams = [
+                item for item in data.get("videoStreams", [])
+                if item.get("url") and not item.get("videoOnly")
+            ]
+            if not streams:
+                continue
+
+            def quality(item):
+                label = str(item.get("quality", "0"))
+                digits = "".join(ch for ch in label if ch.isdigit())
+                return int(digits or 0)
+
+            streams.sort(key=quality, reverse=True)
+            stream = next((item for item in streams if quality(item) <= 720), streams[0])
+            result = subprocess.run([
+                "curl", "-L", "--fail", "--retry", "3",
+                "--connect-timeout", "20", "--max-time", "900",
+                "-o", str(output), stream["url"],
+            ], check=False)
+            if result.returncode == 0 and output.exists() and output.stat().st_size > 100000:
+                print(f"Piped acquisition OK: {api} quality={stream.get('quality')}")
+                return True
+        except Exception as exc:
+            print(f"Piped acquisition failed at {api}: {exc}")
+
+    return False
+
+
 def main():
     candidates = load(CANDIDATES, {"candidates": []}).get("candidates", [])
     allowed = set(load(AUTH, {"authorized_sources": []}).get("authorized_sources", []))
@@ -148,8 +197,9 @@ def main():
             acquisition = acquire(candidate["source_url"], source)
             if acquisition.returncode:
                 if not acquire_invidious(candidate["source_url"], source):
-                    print("Authorized acquisition failed:", candidate.get("source_url"))
-                    continue
+                    if not acquire_piped(candidate["source_url"], source):
+                        print("Authorized acquisition failed:", candidate.get("source_url"))
+                        continue
 
         cached = plan_file.exists() and moment_file.exists() and emotion_file.exists() and scream_file.exists()
         if not cached:
