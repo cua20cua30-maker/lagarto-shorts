@@ -131,7 +131,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/state.json scripts/persist_state.py data/candidates.json data/kick_candidates.json data/kick_radar_diagnostics.json data/licensed_sources.json data/multisource_diagnostics.json data/stream_radar_diagnostics.json data/analytics_snapshots.json data/learning_records.json data/learned_patterns.json data/edit_strategies.json data/render_queue.json data/publish_queue.json data/moments.json data/clip_plans.json data/scream_events.json data/emotion_events.json data/hashtag_trends.json data/publication_recovery.json data/published.json config/creator_style_profiles.json
+          git add data/state.json scripts/persist_state.py data/candidates.json data/kick_candidates.json data/kick_radar_diagnostics.json data/licensed_sources.json data/multisource_diagnostics.json data/stream_radar_diagnostics.json data/analytics_snapshots.json data/learning_records.json data/learned_patterns.json data/edit_strategies.json data/render_queue.json data/publish_queue.json data/moments.json data/clip_plans.json data/scream_events.json data/emotion_events.json data/hashtag_trends.json data/publication_recovery.json data/live_radar.json data/live_state.json data/trend_research.json data/published.json config/creator_style_profiles.json
           if git diff --cached --quiet; then
             echo 'No state changes.'
           else
