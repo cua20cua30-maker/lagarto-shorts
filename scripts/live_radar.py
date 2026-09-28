@@ -1,7 +1,7 @@
 """Near-real-time live/VOD radar for the Shorts factory.
 Uses official Twitch Helix and Kick Public API metadata. It never acquires media.
 """
-import json, os, urllib.parse, urllib.request
+import json, os, urllib.parse, urllib.request, subprocess
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -60,22 +60,15 @@ def main():
             diagnostics.append({"platform":"twitch","status":"ok","live":len(data)})
         except Exception as e: diagnostics.append({"platform":"twitch","status":"error","error":str(e)})
     else: diagnostics.append({"platform":"twitch","status":"not_configured"})
-    kt=kick_token()
-    if kt:
-        for c in cfg["creators"]:
-            if not c.get("enabled",True) or not c.get("kick_slug"): continue
-            try:
-                ch=api(KICK_API,"/channels",kt,None,{"slug":c["kick_slug"]}).get("data",[])
-                if not ch: continue
-                uid=ch[0].get("broadcaster_user_id") or ch[0].get("user_id")
-                live=api(KICK_API,"/livestreams",kt,None,{"broadcaster_user_id":uid}).get("data",[])
-                for s in live:
-                    key="kick:"+str(uid); streams[key]=s
-                    if key not in prev.get("streams",{}):
-                        events.append({"event":"stream_online","platform":"kick","creator":c["name"],"stream_id":s.get("id"),"started_at":s.get("created_at") or s.get("started_at")})
-                diagnostics.append({"platform":"kick","creator":c["name"],"status":"ok_live" if live else "ok_offline","live":len(live)})
-            except Exception as e: diagnostics.append({"platform":"kick","creator":c["name"],"status":"error","error":str(e)})
-    else: diagnostics.append({"platform":"kick","status":"not_configured"})
+    subprocess.run(["python","scripts/kick_radar.py"],cwd=ROOT,check=False)
+    kick_data=load(ROOT/"data/kick_candidates.json",{"candidates":[]}).get("candidates",[])
+    kick_diag=load(ROOT/"data/kick_radar_diagnostics.json",{"results":[]}).get("results",[])
+    for item in kick_data:
+        key="kick:"+str(item.get("source_id") or item.get("uploader_id"))
+        streams[key]=item
+        if key not in prev.get("streams",{}):
+            events.append({"event":"stream_online","platform":"kick","creator":item.get("source_creator"),"stream_id":item.get("source_id"),"started_at":item.get("started_at")})
+    diagnostics.extend(kick_diag)
     OUT.write_text(json.dumps({"schema_version":1,"checked_at":now.isoformat(),"live":list(streams.values()),"events":events,"diagnostics":diagnostics},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     STATE.write_text(json.dumps({"schema_version":1,"checked_at":now.isoformat(),"streams":streams},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print(f"Live radar: live={len(streams)} new_events={len(events)}")
