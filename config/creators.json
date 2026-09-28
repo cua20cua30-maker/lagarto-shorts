@@ -1,16 +1,71 @@
 {
-  "version": 2,
+  "version": 3,
   "creators": [
-    {"name":"IlloJuan","youtube_url":"https://www.youtube.com/@illojuan/videos","enabled":true},
-    {"name":"Rubius","youtube_url":"https://www.youtube.com/@elrubiusOMG/videos","enabled":true},
-    {"name":"AuronPlay","youtube_url":"https://www.youtube.com/@AuronPlay/videos","enabled":true},
-    {"name":"ElXokas","youtube_url":"https://www.youtube.com/@elxokas/videos","enabled":true},
-    {"name":"Peereira7","youtube_url":"https://www.youtube.com/@peereira7/videos","enabled":true},
-    {"name":"Ibai","youtube_url":"https://www.youtube.com/@IbaiLlanos/videos","enabled":true},
-    {"name":"WestCOL","youtube_url":"https://www.youtube.com/@WestCOL242/videos","enabled":true},
-    {"name":"TheGrefg","youtube_url":"https://www.youtube.com/@TheGrefg/videos","enabled":true},
-    {"name":"Juan Guarnizo","youtube_url":"https://www.youtube.com/@JuanSGuarnizo/videos","enabled":true},
-    {"name":"Davoo Xeneize","youtube_url":"https://www.youtube.com/@DavooXeneizeRomanD10S/videos","enabled":true},
-    {"name":"ElZeein","youtube_url":"https://www.youtube.com/@elzeein/videos","enabled":true}
+    {
+      "name": "IlloJuan",
+      "enabled": true,
+      "twitch_login": "illojuan",
+      "kick_slug": "illojuan"
+    },
+    {
+      "name": "Rubius",
+      "enabled": true,
+      "twitch_login": "rubius",
+      "kick_slug": "rubius"
+    },
+    {
+      "name": "AuronPlay",
+      "enabled": true,
+      "twitch_login": "auronplay",
+      "kick_slug": "auronplay"
+    },
+    {
+      "name": "ElXokas",
+      "enabled": true,
+      "twitch_login": "elxokas",
+      "kick_slug": "elxokas"
+    },
+    {
+      "name": "Peereira7",
+      "enabled": true,
+      "twitch_login": "peereira7",
+      "kick_slug": "peereira7"
+    },
+    {
+      "name": "Ibai",
+      "enabled": true,
+      "twitch_login": "ibai",
+      "kick_slug": "ibai"
+    },
+    {
+      "name": "WestCOL",
+      "enabled": true,
+      "twitch_login": "westcol",
+      "kick_slug": "westcol"
+    },
+    {
+      "name": "TheGrefg",
+      "enabled": true,
+      "twitch_login": "thegrefg",
+      "kick_slug": "thegrefg"
+    },
+    {
+      "name": "Juan Guarnizo",
+      "enabled": true,
+      "twitch_login": "juansguarnizo",
+      "kick_slug": "juansguarnizo"
+    },
+    {
+      "name": "Davoo Xeneize",
+      "enabled": true,
+      "twitch_login": "davooxeneize",
+      "kick_slug": "davooxeneize"
+    },
+    {
+      "name": "ElZeein",
+      "enabled": true,
+      "twitch_login": "elzeein",
+      "kick_slug": "elzeein"
+    }
   ]
 }
