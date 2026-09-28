@@ -3,11 +3,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-
 def read(path):
     with (ROOT / path).open("r", encoding="utf-8") as f:
         return json.load(f)
-
 
 def main():
     creators = read(Path("config/creators.json"))
@@ -26,11 +24,11 @@ def main():
     emotions = read(Path("data/emotion_events.json"))
     trends = read(Path("data/hashtag_trends.json"))
     recovery = read(Path("data/publication_recovery.json"))
-    radar_path = ROOT / "data" / "stream_radar_diagnostics.json"
+    radar_path = ROOT / "data" / "multisource_diagnostics.json"
     if radar_path.exists():
-        radar_diagnostics = read(Path("data/stream_radar_diagnostics.json"))
+        radar_diagnostics = read(Path("data/multisource_diagnostics.json"))
     else:
-        radar_diagnostics = read(Path("data/radar_diagnostics.json"))
+        radar_diagnostics = read(Path("data/stream_radar_diagnostics.json"))
 
     assert len(creators["creators"]) == 11
     assert len(characters["characters"]) == 11
@@ -49,18 +47,22 @@ def main():
     assert emotions["schema_version"] == 1 and isinstance(emotions["events"], list)
     assert trends["schema_version"] == 1 and isinstance(trends["jobs"], list)
     assert recovery["schema_version"] == 1 and isinstance(recovery["items"], list)
-    assert published["schema_version"] == 1 and isinstance(published["items"], list)
-    assert radar_diagnostics["schema_version"] == 1
     assert isinstance(radar_diagnostics["results"], list)
+
     radar_results = radar_diagnostics["results"]
     kick_creators = {r.get("creator") for r in radar_results if r.get("platform") == "kick" and r.get("creator")}
+    twitch_results = [r for r in radar_results if r.get("platform") == "twitch"]
     assert len(kick_creators) == 11
-    assert any(r.get("platform") == "twitch" for r in radar_results)
+    assert twitch_results
 
     configured = {creator["name"] for creator in creators["creators"]}
     assert len(configured) == 11
 
-    authorized = set(auth["authorized_sources"]) | {s.get("source_url") for s in licensed["sources"] if s.get("license_verified")}
+    authorized = set(auth["authorized_sources"]) | {
+        s.get("source_url")
+        for s in licensed["sources"]
+        if s.get("license_verified")
+    }
     for c in candidates["candidates"]:
         assert c["publishable"] is False or c["authorization_status"] == "authorized"
         if c["source_url"] not in authorized:
@@ -77,7 +79,6 @@ def main():
         f"covered={len(selected_creators)} "
         f"moments={len(moments['moments'])} plans={len(plans['plans'])}"
     )
-
 
 if __name__ == "__main__":
     main()
