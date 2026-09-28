@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "creators": [
     {
       "name": "IlloJuan",
@@ -66,6 +66,13 @@
       "enabled": true,
       "twitch_login": "elzeein",
       "kick_slug": "elzeein"
+    },
+    {
+      "name": "R4ulin",
+      "enabled": true,
+      "twitch_login": "r4ulin",
+      "kick_slug": "r4ulin",
+      "owner_authorized": true
     }
   ]
 }
