@@ -142,10 +142,14 @@ def main():
         moment_file = WORK / f"{cid}_moments.json"
         plan_file = WORK / f"{cid}_plans.json"
 
+        if source.exists() and source.stat().st_size < 100000:
+            source.unlink()
         if not source.exists():
-            if acquire(candidate["source_url"], source).returncode:
-                print("Authorized acquisition failed:", candidate.get("source_url"))
-                continue
+            acquisition = acquire(candidate["source_url"], source)
+            if acquisition.returncode:
+                if not acquire_invidious(candidate["source_url"], source):
+                    print("Authorized acquisition failed:", candidate.get("source_url"))
+                    continue
 
         cached = plan_file.exists() and moment_file.exists() and emotion_file.exists() and scream_file.exists()
         if not cached:
