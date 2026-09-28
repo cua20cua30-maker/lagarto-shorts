@@ -2,6 +2,11 @@ name: Lagarto Shorts Factory v5
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/**'
+      - 'config/**'
+      - '.github/workflows/factory-v5.yml'
   schedule:
     - cron: '17 * * * *'
 
