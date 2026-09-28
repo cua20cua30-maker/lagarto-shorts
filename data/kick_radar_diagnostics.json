@@ -1,84 +1,95 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T09:06:16.049139+00:00",
+  "generated_at": "2026-09-28T09:26:20.992885+00:00",
   "api": "Kick Developer Public API",
   "results": [
     {
       "creator": "IlloJuan",
       "platform": "kick",
-      "status": "not_configured",
+      "status": "ok_offline",
       "kick_slug": "illojuan",
-      "error": "missing Kick credentials"
+      "broadcaster_user_id": 65221,
+      "live_streams": 0
     },
     {
       "creator": "Rubius",
       "platform": "kick",
-      "status": "not_configured",
+      "status": "ok_offline",
       "kick_slug": "rubius",
-      "error": "missing Kick credentials"
+      "broadcaster_user_id": 18703,
+      "live_streams": 0
     },
     {
       "creator": "AuronPlay",
       "platform": "kick",
-      "status": "not_configured",
+      "status": "ok_offline",
       "kick_slug": "auronplay",
-      "error": "missing Kick credentials"
+      "broadcaster_user_id": 56870,
+      "live_streams": 0
     },
     {
       "creator": "ElXokas",
       "platform": "kick",
-      "status": "not_configured",
+      "status": "ok_offline",
       "kick_slug": "elxokas",
-      "error": "missing Kick credentials"
+      "broadcaster_user_id": 41752154,
+      "live_streams": 0
     },
     {
       "creator": "Peereira7",
       "platform": "kick",
-      "status": "not_configured",
+      "status": "ok_offline",
       "kick_slug": "peereira7",
-      "error": "missing Kick credentials"
+      "broadcaster_user_id": 1491556,
+      "live_streams": 0
     },
     {
       "creator": "Ibai",
       "platform": "kick",
-      "status": "not_configured",
+      "status": "ok_offline",
       "kick_slug": "ibai",
-      "error": "missing Kick credentials"
+      "broadcaster_user_id": 8285,
+      "live_streams": 0
     },
     {
       "creator": "WestCOL",
       "platform": "kick",
-      "status": "not_configured",
+      "status": "ok_offline",
       "kick_slug": "westcol",
-      "error": "missing Kick credentials"
+      "broadcaster_user_id": 690420,
+      "live_streams": 0
     },
     {
       "creator": "TheGrefg",
       "platform": "kick",
-      "status": "not_configured",
+      "status": "ok_offline",
       "kick_slug": "thegrefg",
-      "error": "missing Kick credentials"
+      "broadcaster_user_id": 11966378,
+      "live_streams": 0
     },
     {
       "creator": "Juan Guarnizo",
       "platform": "kick",
-      "status": "not_configured",
+      "status": "ok_offline",
       "kick_slug": "juansguarnizo",
-      "error": "missing Kick credentials"
+      "broadcaster_user_id": 130489562,
+      "live_streams": 0
     },
     {
       "creator": "Davoo Xeneize",
       "platform": "kick",
-      "status": "not_configured",
+      "status": "ok_offline",
       "kick_slug": "davooxeneize",
-      "error": "missing Kick credentials"
+      "broadcaster_user_id": 31252219,
+      "live_streams": 0
     },
     {
       "creator": "ElZeein",
       "platform": "kick",
-      "status": "not_configured",
+      "status": "ok_offline",
       "kick_slug": "elzeein",
-      "error": "missing Kick credentials"
+      "broadcaster_user_id": 32445228,
+      "live_streams": 0
     }
   ]
 }
