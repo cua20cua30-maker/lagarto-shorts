@@ -114,7 +114,7 @@ def main():
                 user_id = channel.get("broadcaster_user_id")
                 live = []
                 if user_id:
-                    live = get("/users/livestreams", access_token, {"user_id": user_id}).get("data", [])
+                    live = get("/livestreams", access_token, {"user_id": user_id}).get("data", [])
 
                 if not live:
                     diagnostics.append({
