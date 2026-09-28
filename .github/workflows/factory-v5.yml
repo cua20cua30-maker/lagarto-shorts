@@ -1,4 +1,4 @@
-name: Lagarto Shorts Factory v5
+name: Lagarto Shorts Factory v7
 
 on:
   workflow_dispatch:
@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: lagarto-shorts-factory-v5
+  group: lagarto-shorts-factory-v7
   cancel-in-progress: false
 
 jobs:
@@ -43,19 +43,12 @@ jobs:
         run: python -m compileall -q scripts
       - name: Foundation
         run: python scripts/healthcheck.py
-      - name: Live and VOD radar
-        env:
-          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
-          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
-          KICK_CLIENT_ID: ${{ secrets.KICK_CLIENT_ID }}
-          KICK_CLIENT_SECRET: ${{ secrets.KICK_CLIENT_SECRET }}
-        run: python scripts/live_radar.py
-      - name: Radar
+      - name: Twitch VOD radar
         env:
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
         run: python scripts/radar_v2.py
-      - name: Multisource radar
+      - name: Multisource VOD radar
         env:
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
@@ -84,7 +77,7 @@ jobs:
         run: python scripts/strategy_engine.py
       - name: Build gated queues
         run: python scripts/factory_v3.py
-      - name: Process authorized sources
+      - name: Process authorized VODs
         run: |
           if python -c "import json; a=bool(json.load(open('data/authorization_manifest.json', encoding='utf-8')).get('authorized_sources', [])); l=bool(json.load(open('data/licensed_sources.json', encoding='utf-8')).get('sources', [])); print(a or l)" | grep -q True; then
             python -m pip install --disable-pip-version-check faster-whisper
@@ -131,11 +124,11 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data scripts/persist_state.py config/creator_style_profiles.json
+          git add data scripts/persist_state.py config/creator_style_profiles.json config/factory.json
           if git diff --cached --quiet; then
             echo 'No state changes.'
           else
-            git commit -m 'Run complete Shorts factory pipeline'
+            git commit -m 'Run VOD-only Shorts factory pipeline'
             git fetch origin main
             git rebase -X theirs origin/main
             git push
