@@ -25,7 +25,6 @@ def main():
     trends = read(Path("data/hashtag_trends.json"))
     recovery = read(Path("data/publication_recovery.json"))
     trend_research = read(Path("data/trend_research.json")) if (ROOT / "data" / "trend_research.json").exists() else {"schema_version": 0}
-    live_radar = read(Path("data/live_radar.json")) if (ROOT / "data" / "live_radar.json").exists() else {"schema_version": 0}
     radar_path = ROOT / "data" / "multisource_diagnostics.json"
     if radar_path.exists():
         radar_diagnostics = read(Path("data/multisource_diagnostics.json"))
@@ -40,6 +39,8 @@ def main():
     assert licensed["schema_version"] == 1 and isinstance(licensed["sources"], list)
     assert all(s.get("license_verified") is True for s in licensed["sources"])
     assert candidates["schema_version"] >= 1 and isinstance(candidates["candidates"], list)
+    assert candidates.get("mode") == "vod_only"
+    assert all(c.get("source_kind") == "vod" for c in candidates["candidates"])
     assert moments["schema_version"] >= 2 and isinstance(moments["moments"], list)
     assert plans["schema_version"] == 1 and isinstance(plans["plans"], list)
     assert queue["schema_version"] == 1 and isinstance(queue["jobs"], list)
@@ -50,14 +51,13 @@ def main():
     assert trends["schema_version"] == 1 and isinstance(trends["jobs"], list)
     assert recovery["schema_version"] == 1 and isinstance(recovery["items"], list)
     assert trend_research["schema_version"] >= 2
-    assert live_radar["schema_version"] >= 1
     assert isinstance(radar_diagnostics["results"], list)
 
     radar_results = radar_diagnostics["results"]
-    kick_creators = {r.get("creator") for r in radar_results if r.get("platform") == "kick" and r.get("creator")}
     twitch_results = [r for r in radar_results if r.get("platform") == "twitch"]
-    assert len(kick_creators) == 11
+    kick_results = [r for r in radar_results if r.get("platform") == "kick"]
     assert twitch_results
+    assert all(r.get("status") == "vod_unavailable_official_api" for r in kick_results)
 
     configured = {creator["name"] for creator in creators["creators"]}
     assert len(configured) == 11
