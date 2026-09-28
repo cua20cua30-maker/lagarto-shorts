@@ -52,7 +52,8 @@ def main():
     }
     selected = [
         c for c in candidates
-        if c.get("source_url") in allowed
+        if c.get("source_kind") == "vod"
+        and c.get("source_url") in allowed
         and c.get("acquirable", False)
         and c.get("acquisition_url")
         and f"clip:{c.get('candidate_id')}" not in published
