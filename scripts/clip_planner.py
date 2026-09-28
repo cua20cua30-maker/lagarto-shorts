@@ -37,6 +37,8 @@ def build_plan(moment):
         "emotion_signals": emotions,
         "emotion_score": moment.get("emotion_score", 0),
         "emotion_detected": moment.get("emotion_detected", False),
+        "dominant_emotion": moment.get("dominant_emotion"),
+        "selection_score": moment.get("selection_score", moment.get("score", 0)),
         "edit_recipe": {
             "format": "9:16",
             "remove_dead_air": True,
