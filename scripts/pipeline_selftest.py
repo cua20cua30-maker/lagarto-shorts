@@ -26,7 +26,11 @@ def main():
     emotions = read(Path("data/emotion_events.json"))
     trends = read(Path("data/hashtag_trends.json"))
     recovery = read(Path("data/publication_recovery.json"))
-    radar_diagnostics = read(Path("data/radar_diagnostics.json"))
+    radar_path = ROOT / "data" / "stream_radar_diagnostics.json"
+    if radar_path.exists():
+        radar_diagnostics = read(Path("data/stream_radar_diagnostics.json"))
+    else:
+        radar_diagnostics = read(Path("data/radar_diagnostics.json"))
 
     assert len(creators["creators"]) == 11
     assert len(characters["characters"]) == 11
