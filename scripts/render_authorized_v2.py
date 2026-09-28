@@ -66,6 +66,10 @@ def main():
     WORK.mkdir(exist_ok=True)
 
     for plan in plans:
+        if float(plan.get("duration", 0)) > 58.5:
+            plan["duration"] = 58.5
+        if float(plan.get("duration", 0)) < 15:
+            continue
         source = Path(plan["source_path"])
         creator = str(plan.get("source_creator", "")).strip()
         plan["character_id"] = str(plan.get("character_id") or creator.lower().replace(" ", "_"))
@@ -127,6 +131,9 @@ def main():
             "transformative_edit_required": True,
             "learning_metadata": {
                 "format": "vertical_9_16",
+                "aspect_ratio": "9:16",
+                "original_audio_primary": True,
+                "max_duration_seconds": 58.5,
                 "duration_seconds": plan.get("duration"),
                 "hook_type": "emotion_" + "_".join(plan.get("emotion_signals", [])[:3]) if plan.get("emotion_signals") else "context_open",
                 "edit_style": "emotion_driven_pencil_animation",
