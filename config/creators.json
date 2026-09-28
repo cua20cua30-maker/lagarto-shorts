@@ -5,66 +5,77 @@
       "name": "IlloJuan",
       "enabled": true,
       "twitch_login": "illojuan",
-      "kick_slug": "illojuan"
+      "kick_slug": "illojuan",
+      "owner_authorized": true
     },
     {
       "name": "Rubius",
       "enabled": true,
       "twitch_login": "rubius",
-      "kick_slug": "rubius"
+      "kick_slug": "rubius",
+      "owner_authorized": true
     },
     {
       "name": "AuronPlay",
       "enabled": true,
       "twitch_login": "auronplay",
-      "kick_slug": "auronplay"
+      "kick_slug": "auronplay",
+      "owner_authorized": true
     },
     {
       "name": "ElXokas",
       "enabled": true,
       "twitch_login": "elxokas",
-      "kick_slug": "elxokas"
+      "kick_slug": "elxokas",
+      "owner_authorized": true
     },
     {
       "name": "Peereira7",
       "enabled": true,
       "twitch_login": "peereira7",
-      "kick_slug": "peereira7"
+      "kick_slug": "peereira7",
+      "owner_authorized": true
     },
     {
       "name": "Ibai",
       "enabled": true,
       "twitch_login": "ibai",
-      "kick_slug": "ibai"
+      "kick_slug": "ibai",
+      "owner_authorized": true
     },
     {
       "name": "WestCOL",
       "enabled": true,
       "twitch_login": "westcol",
-      "kick_slug": "westcol"
+      "kick_slug": "westcol",
+      "owner_authorized": true
     },
     {
       "name": "TheGrefg",
       "enabled": true,
       "twitch_login": "thegrefg",
-      "kick_slug": "thegrefg"
+      "kick_slug": "thegrefg",
+      "owner_authorized": true
     },
     {
       "name": "Juan Guarnizo",
       "enabled": true,
       "twitch_login": "juansguarnizo",
-      "kick_slug": "juansguarnizo"
+      "kick_slug": "juansguarnizo",
+      "owner_authorized": true
     },
     {
       "name": "Davoo Xeneize",
       "enabled": true,
       "twitch_login": "davooxeneize",
-      "kick_slug": "davooxeneize"
+      "kick_slug": "davooxeneize",
+      "owner_authorized": true
     },
     {
       "name": "ElZeein",
       "enabled": true,
-      "twitch_login": "elzeein"
+      "twitch_login": "elzeein",
+      "owner_authorized": true
     }
   ]
 }
