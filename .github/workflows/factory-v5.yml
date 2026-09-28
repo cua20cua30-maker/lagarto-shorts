@@ -80,7 +80,7 @@ jobs:
         run: python scripts/factory_v3.py
       - name: Process authorized VODs
         run: |
-          if python -c "import json; a=bool(json.load(open('data/authorization_manifest.json', encoding='utf-8')).get('authorized_sources', [])); l=bool(json.load(open('data/licensed_sources.json', encoding='utf-8')).get('sources', [])); print(a or l)" | grep -q True; then
+          if python -c "import json; c=json.load(open('data/candidates.json', encoding='utf-8')).get('candidates', []); a=any(x.get('authorization_status') == 'authorized_owner' for x in c); m=bool(json.load(open('data/authorization_manifest.json', encoding='utf-8')).get('authorized_sources', [])); l=bool(json.load(open('data/licensed_sources.json', encoding='utf-8')).get('sources', [])); print(a or m or l)" | grep -q True; then
             python -m pip install --disable-pip-version-check faster-whisper
           fi
           python scripts/authorized_pipeline_v2.py
