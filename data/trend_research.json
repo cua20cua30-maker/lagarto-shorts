@@ -1,10 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-28T10:54:26.261715+00:00",
+  "generated_at": "2026-09-28T11:03:15.069194+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
+        "televisión",
+        "cabañuelas",
         "vinícius júnior",
         "ortega smith",
         "calendario laboral",
@@ -12,9 +14,7 @@
         "japón - venezuela",
         "amnistía",
         "selección de fútbol de noruega",
-        "loquillo",
-        "carril",
-        "delegación del gobierno en ceuta"
+        "loquillo"
       ]
     },
     "youtube_popular_titles": {

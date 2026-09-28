@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-28T10:54:25.175300+00:00",
+  "generated_at": "2026-09-28T11:03:13.782075+00:00",
   "mode": "vod_only",
   "results": [
     {
@@ -90,6 +90,14 @@
       "login": "elzeein",
       "vods_seen": 0,
       "recent_vods": 0
+    },
+    {
+      "creator": "R4ulin",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "r4ulin",
+      "vods_seen": 2,
+      "recent_vods": 1
     },
     {
       "creator": "IlloJuan",
@@ -189,10 +197,19 @@
       "api_authenticated": false,
       "error": "HTTPError: HTTP Error 403: Forbidden",
       "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
+    },
+    {
+      "creator": "R4ulin",
+      "platform": "kick",
+      "status": "vod_unavailable_official_api",
+      "kick_slug": "r4ulin",
+      "api_authenticated": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reason": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
     }
   ],
   "platforms": {
-    "twitch": 11,
-    "kick": 11
+    "twitch": 12,
+    "kick": 12
   }
 }

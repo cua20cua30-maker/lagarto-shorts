@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T10:54:21.697153+00:00",
+  "generated_at": "2026-09-28T11:03:11.370348+00:00",
   "results": [
     {
       "creator": "IlloJuan",
@@ -89,6 +89,14 @@
       "login": "elzeein",
       "vods_seen": 0,
       "recent_vods": 0
+    },
+    {
+      "creator": "R4ulin",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "r4ulin",
+      "vods_seen": 2,
+      "recent_vods": 1
     }
   ]
 }
