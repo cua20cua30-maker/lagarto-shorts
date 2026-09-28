@@ -1,7 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "timezone": "Europe/Madrid",
-  "mode": "foundation",
+  "mode": "stream_sources",
   "content_policy": {
     "require_authorization": true,
     "require_transformative_edit": true,
@@ -10,5 +10,13 @@
   "limits": {
     "max_candidates_per_run": 20,
     "max_publish_attempts": 3
+  },
+  "sources": {
+    "primary": [
+      "twitch_vods"
+    ],
+    "secondary": [
+      "kick"
+    ]
   }
 }
