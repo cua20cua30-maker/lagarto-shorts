@@ -1,5 +1,7 @@
 import json
 import subprocess
+import urllib.parse
+import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -45,6 +47,62 @@ def acquire(source_url, output):
         "-o", str(output), source_url,
     ])
     return fallback
+
+
+INVIDIOUS_INSTANCES = [
+    "https://inv.nadeko.net",
+    "https://invidious.nerdvpn.de",
+    "https://yt.chocolatemoo53.com",
+    "https://invidious.tiekoetter.com",
+]
+
+
+def video_id_from_url(source_url):
+    parsed = urllib.parse.urlparse(source_url)
+    if parsed.hostname in {"youtu.be", "www.youtu.be"}:
+        return parsed.path.strip("/")
+    return urllib.parse.parse_qs(parsed.query).get("v", [None])[0]
+
+
+def acquire_invidious(source_url, output):
+    video_id = video_id_from_url(source_url)
+    if not video_id:
+        return False
+
+    for instance in INVIDIOUS_INSTANCES:
+        try:
+            api_url = f"{instance}/api/v1/videos/{urllib.parse.quote(video_id)}?region=ES"
+            req = urllib.request.Request(api_url, headers={"User-Agent": "LagartoShortsFactory/1.0"})
+            with urllib.request.urlopen(req, timeout=20) as response:
+                data = json.loads(response.read().decode("utf-8"))
+
+            streams = data.get("formatStreams", [])
+            if not streams:
+                continue
+
+            def quality(item):
+                label = str(item.get("qualityLabel", "0"))
+                digits = "".join(ch for ch in label if ch.isdigit())
+                return int(digits or 0)
+
+            streams = sorted(streams, key=quality, reverse=True)
+            stream = next((item for item in streams if quality(item) <= 720), streams[0])
+            url = stream.get("url")
+            if not url:
+                continue
+
+            result = subprocess.run([
+                "curl", "-L", "--fail", "--retry", "3",
+                "--connect-timeout", "20", "--max-time", "900",
+                "-o", str(output), url,
+            ], check=False)
+            if result.returncode == 0 and output.exists() and output.stat().st_size > 100000:
+                print(f"Invidious acquisition OK: {instance} quality={stream.get('qualityLabel')}")
+                return True
+        except Exception as exc:
+            print(f"Invidious acquisition failed at {instance}: {exc}")
+
+    return False
 
 
 def main():
