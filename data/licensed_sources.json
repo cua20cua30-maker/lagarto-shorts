@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:40:55.138797+00:00",
+  "generated_at": "2026-09-28T05:45:22.620537+00:00",
   "status": "ok",
   "sources": [
     {
@@ -14,7 +14,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -28,7 +28,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -42,7 +42,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -56,21 +56,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=Bo9Gk184Zm4",
-      "video_id": "Bo9Gk184Zm4",
-      "title": "3 RAZONES por las que COMPRAR PS5 Pro 🔥 #ad  #ps5pro  #sony  #gaming  #playstation5",
-      "source_creator": "Vandal",
-      "channel_id": "UCmb0LnmFYceH7toqgmUTJDA",
-      "duration_seconds": 48,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -84,7 +70,21 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=Bo9Gk184Zm4",
+      "video_id": "Bo9Gk184Zm4",
+      "title": "3 RAZONES por las que COMPRAR PS5 Pro 🔥 #ad  #ps5pro  #sony  #gaming  #playstation5",
+      "source_creator": "Vandal",
+      "channel_id": "UCmb0LnmFYceH7toqgmUTJDA",
+      "duration_seconds": 48,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "gaming español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -98,35 +98,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=vX_PUC0iSdc",
-      "video_id": "vX_PUC0iSdc",
-      "title": "Cuphead es MÁS FÁCIL si eres BUENA PERSONA 🧅🤔 #cuphead #eastergg #sabiasquevideojuegos #gaming",
-      "source_creator": "Vandal",
-      "channel_id": "UCmb0LnmFYceH7toqgmUTJDA",
-      "duration_seconds": 28,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=n9nGP_lM_oI",
-      "video_id": "n9nGP_lM_oI",
-      "title": "INTENTÉ RESCATAR A MI HERMANO DEL NIÑO MILLONARIO… ¡TODO SALIÓ MAL!",
-      "source_creator": "ARTA GAME",
-      "channel_id": "UCYQ8oHPbnZ1sLBjiCSdP8ZQ",
-      "duration_seconds": 4208,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -140,7 +112,35 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=vX_PUC0iSdc",
+      "video_id": "vX_PUC0iSdc",
+      "title": "Cuphead es MÁS FÁCIL si eres BUENA PERSONA 🧅🤔 #cuphead #eastergg #sabiasquevideojuegos #gaming",
+      "source_creator": "Vandal",
+      "channel_id": "UCmb0LnmFYceH7toqgmUTJDA",
+      "duration_seconds": 28,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "gaming español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=n9nGP_lM_oI",
+      "video_id": "n9nGP_lM_oI",
+      "title": "INTENTÉ RESCATAR A MI HERMANO DEL NIÑO MILLONARIO… ¡TODO SALIÓ MAL!",
+      "source_creator": "ARTA GAME",
+      "channel_id": "UCYQ8oHPbnZ1sLBjiCSdP8ZQ",
+      "duration_seconds": 4208,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "gaming español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -154,7 +154,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -168,7 +168,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -182,7 +182,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -196,7 +196,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -210,7 +210,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -224,7 +224,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -238,7 +238,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -252,7 +252,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -266,7 +266,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -280,77 +280,21 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
-      "source_url": "https://www.youtube.com/watch?v=ESlUyQH3gN8",
-      "video_id": "ESlUyQH3gN8",
-      "title": "La reina Sofía llora desconsoladamente en su última aparición antes del 18 cumpleaños de Leonor.",
-      "source_creator": "Revista Lecturas",
-      "channel_id": "UC6VZGTWBDxx_gRYvvy9j38g",
-      "duration_seconds": 15,
+      "source_url": "https://www.youtube.com/watch?v=GjlJsxLYvwk",
+      "video_id": "GjlJsxLYvwk",
+      "title": "Historia Completa del Idioma Español",
+      "source_creator": "LA PROFE MÓNICA",
+      "channel_id": "UCysJ4aAU2PY5Y5vbAy5VUXg",
+      "duration_seconds": 325,
       "license": "CC BY / Creative Commons",
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=cgfvvchSUyA",
-      "video_id": "cgfvvchSUyA",
-      "title": "Médium Raquel Sáez: \"no hay juicio final: al morir entras en una ciudad con calles y sin dolor\"",
-      "source_creator": "Zoom Out Podcast",
-      "channel_id": "UCZYHc95sNLpKY8I03UyLuKg",
-      "duration_seconds": 7193,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=6QbWgjpvo9w",
-      "video_id": "6QbWgjpvo9w",
-      "title": "Experta en Adicciones: \"es muy heavy pero no todo el mundo deberia dejar las drogas...\"",
-      "source_creator": "Zoom Out Podcast",
-      "channel_id": "UCZYHc95sNLpKY8I03UyLuKg",
-      "duration_seconds": 6202,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=nKjh7vDFuTI",
-      "video_id": "nKjh7vDFuTI",
-      "title": "Selva del Amazonas y el Misterio del Río Más Peligroso del Mundo",
-      "source_creator": "Lugares Extraordinarios del Mundo",
-      "channel_id": "UCbFz_jhxstKZWFnzk-qmPAA",
-      "duration_seconds": 48,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=WoWOzoq7Ddg",
-      "video_id": "WoWOzoq7Ddg",
-      "title": "Estuvo muerta 40 minutos y revela cómo comunicarnos en el más allá: \"Allí no tienes que hablar...\"",
-      "source_creator": "Zoom Out Podcast",
-      "channel_id": "UCZYHc95sNLpKY8I03UyLuKg",
-      "duration_seconds": 5573,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -364,35 +308,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=xZBJgwTroHw",
-      "video_id": "xZBJgwTroHw",
-      "title": "El Vuelo que Desapareció en una Bola de Fuego: Tragedia del TWA 800",
-      "source_creator": "Jimenito1010",
-      "channel_id": "UCWogRkMOu8mXpSzL1JzjJIA",
-      "duration_seconds": 865,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=AuwNgnUuozU",
-      "video_id": "AuwNgnUuozU",
-      "title": "Experta En TDAH Revela Cómo Convertir Un TRASTORNO En UN SUPERPODER",
-      "source_creator": "Zoom Out Podcast",
-      "channel_id": "UCZYHc95sNLpKY8I03UyLuKg",
-      "duration_seconds": 7585,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -406,21 +322,105 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
-      "source_url": "https://www.youtube.com/watch?v=ip56CsaKgi4",
-      "video_id": "ip56CsaKgi4",
-      "title": "😰👻 MÁS historias de TERROR FEBRERO🤐#storytimes #terrors #horror | @LunitaStorytime 💗",
-      "source_creator": "Lunita Storytime",
-      "channel_id": "UCzuJO7GGin316HqfMBw-aRA",
-      "duration_seconds": 867,
+      "source_url": "https://www.youtube.com/watch?v=VBXweyXJ9XM",
+      "video_id": "VBXweyXJ9XM",
+      "title": "Historias de español - Colección de historias || historias para dormir y cuentos de hadas",
+      "source_creator": "T-Series Kids Hut - Cuentos en Español",
+      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
+      "duration_seconds": 3396,
       "license": "CC BY / Creative Commons",
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=MCbsqEuYJPQ",
+      "video_id": "MCbsqEuYJPQ",
+      "title": "Historias encantadoras para niños: cuentos clásicos y mágicos en español para disfrutar y aprender",
+      "source_creator": "T-Series Kids Hut - Cuentos en Español",
+      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
+      "duration_seconds": 1095,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "historias español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=G1PkzYuuevU",
+      "video_id": "G1PkzYuuevU",
+      "title": "DESASTRES NATURALES EL TERREMOTO | Nuevas historias infantiles | Nueva historia española para niños.",
+      "source_creator": "T-Series Kids Hut - Cuentos en Español",
+      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
+      "duration_seconds": 316,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "historias español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=SL7ECXaT1gQ",
+      "video_id": "SL7ECXaT1gQ",
+      "title": "Nunca Digas una Mentira | Nueva historia española para niños | Historias de la selva para niños",
+      "source_creator": "T-Series Kids Hut - Cuentos en Español",
+      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
+      "duration_seconds": 242,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "historias español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=O572Rf2UBEU",
+      "video_id": "O572Rf2UBEU",
+      "title": "El Sol, La Luna Y El Viento Salen A Cenar | Nuevas Historias Para Niños | Cuentos De Aventuras",
+      "source_creator": "T-Series Kids Hut - Cuentos en Español",
+      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
+      "duration_seconds": 329,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "historias español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=BrFhdXM-UgY",
+      "video_id": "BrFhdXM-UgY",
+      "title": "Cuentos en Español para Niños | Historias para Dormir | Cuentos para la Hora de Dormir",
+      "source_creator": "T-Series Kids Hut - Cuentos en Español",
+      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
+      "duration_seconds": 8275,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "historias español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=vYAPd6IMETk",
+      "video_id": "vYAPd6IMETk",
+      "title": "historias de niños - historias de éxito en español para niños || KIDS HUT SPANISH STORIES",
+      "source_creator": "T-Series Kids Hut - Cuentos en Español",
+      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
+      "duration_seconds": 2678,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "historias español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -434,7 +434,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -448,21 +448,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=jl3431jtgKc",
-      "video_id": "jl3431jtgKc",
-      "title": "🚨🎮 STREAMER ESPAÑOL CARGÓ CONTRA LOS ARGENTINOS TRAS LA POLÉMICA POR LAS MALVINAS",
-      "source_creator": "KILLA TV",
-      "channel_id": "UCPy5oRegrD1mMD6fXm-XohA",
-      "duration_seconds": 115,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -476,21 +462,77 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
-      "source_url": "https://www.youtube.com/watch?v=vTnoRZ8mb64",
-      "video_id": "vTnoRZ8mb64",
-      "title": "Enseñándole español a upset",
-      "source_creator": "Rakyz LoL",
-      "channel_id": "UCfGPZ2xTiKTY_upwiBt3HTw",
-      "duration_seconds": 19,
+      "source_url": "https://www.youtube.com/watch?v=iHlmub7C810",
+      "video_id": "iHlmub7C810",
+      "title": "Granny 2 En VR Es UNA ESTUPIDEZ",
+      "source_creator": "Leexer",
+      "channel_id": "UCengtwGsL0fixTFKVIpPXqg",
+      "duration_seconds": 512,
       "license": "CC BY / Creative Commons",
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=1adZUzxfzB4",
+      "video_id": "1adZUzxfzB4",
+      "title": "24 HORAS EN UN PARQUE DE ATRACCIONES… ¡EL ÚLTIMO EN SALIR GANA!",
+      "source_creator": "ARTA GAME",
+      "channel_id": "UCYQ8oHPbnZ1sLBjiCSdP8ZQ",
+      "duration_seconds": 3092,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "streamer español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=4z83boh_oWY",
+      "video_id": "4z83boh_oWY",
+      "title": "Puse a 10 VTubers a CAZARME en MINECRAFT😳",
+      "source_creator": "CapitanGato",
+      "channel_id": "UCGrB-QOL8gg7ouOJ80hO7Sg",
+      "duration_seconds": 963,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "streamer español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=3hXIdqnWPuc",
+      "video_id": "3hXIdqnWPuc",
+      "title": "STREAMER CAZADO USANDO TRAMPAS en RAINBOW SIX SIEGE | MOODA Vs JYNXZI",
+      "source_creator": "Caramelo",
+      "channel_id": "UCRyeSzRXodULutJCW19LHLA",
+      "duration_seconds": 947,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "streamer español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=qZNPrwzCCWQ",
+      "video_id": "qZNPrwzCCWQ",
+      "title": "FUEGOS ARTIFICIALES DE 0.01€ VS 1.000€! *locura*",
+      "source_creator": "ARTA GAME",
+      "channel_id": "UCYQ8oHPbnZ1sLBjiCSdP8ZQ",
+      "duration_seconds": 1201,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "streamer español",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
@@ -504,63 +546,21 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     },
     {
-      "source_url": "https://www.youtube.com/watch?v=wI5VSXoDQME",
-      "video_id": "wI5VSXoDQME",
-      "title": "MrBEAST vs MIKECRACK y LOS COMPAS 😱 ¿Quién gana? #mikecrack #mrbeast #shorts",
-      "source_creator": "Mikecrack",
-      "channel_id": "UCqJ5zFEED1hWs0KNQCQuYdQ",
-      "duration_seconds": 55,
+      "source_url": "https://www.youtube.com/watch?v=85YwPze7XMI",
+      "video_id": "85YwPze7XMI",
+      "title": "SPREEN mira las MUERTES en DEDSAFIO DIA #1 💀🔥",
+      "source_creator": "Un Poco De Spreen",
+      "channel_id": "UCtfZBcbxDGVavTcugV1gK8A",
+      "duration_seconds": 511,
       "license": "CC BY / Creative Commons",
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=j6uXKpXezaQ",
-      "video_id": "j6uXKpXezaQ",
-      "title": "Los viejos clásicos nunca mueren #gamer #clips #streamer #shorts #español #nostalgia #2014",
-      "source_creator": "espRoy",
-      "channel_id": "UC0U_AQnlA2nHUhkDWsDadzg",
-      "duration_seconds": 13,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=hLQDpyy11-M",
-      "video_id": "hLQDpyy11-M",
-      "title": "ESTE STREAMER EXIGE FUNA 🤬 #Shorts",
-      "source_creator": "Fan De Daarick",
-      "channel_id": "UC4DWgS68T1mlBD9cGv_5Kmw",
-      "duration_seconds": 9,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=G6ml9n4l2MU",
-      "video_id": "G6ml9n4l2MU",
-      "title": "😜 MARLON tells MARTA DIAZ his family speak SPANISH",
-      "source_creator": "W Clips",
-      "channel_id": "UCnSSNW4lCslqm9I7767fglA",
-      "duration_seconds": 31,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:40:55.138797+00:00",
+      "verified_at": "2026-09-28T05:45:22.620537+00:00",
       "attribution_required": true
     }
   ]
