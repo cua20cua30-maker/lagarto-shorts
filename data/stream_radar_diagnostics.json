@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T09:05:05.122465+00:00",
+  "generated_at": "2026-09-28T09:06:11.215389+00:00",
   "results": [
     {
       "creator": "IlloJuan",
@@ -89,72 +89,6 @@
       "login": "elzeein",
       "vods_seen": 0,
       "recent_vods": 0
-    },
-    {
-      "creator": "IlloJuan",
-      "platform": "kick",
-      "status": "metadata_ready",
-      "kick_slug": "illojuan"
-    },
-    {
-      "creator": "Rubius",
-      "platform": "kick",
-      "status": "metadata_ready",
-      "kick_slug": "rubius"
-    },
-    {
-      "creator": "AuronPlay",
-      "platform": "kick",
-      "status": "metadata_ready",
-      "kick_slug": "auronplay"
-    },
-    {
-      "creator": "ElXokas",
-      "platform": "kick",
-      "status": "metadata_ready",
-      "kick_slug": "elxokas"
-    },
-    {
-      "creator": "Peereira7",
-      "platform": "kick",
-      "status": "metadata_ready",
-      "kick_slug": "peereira7"
-    },
-    {
-      "creator": "Ibai",
-      "platform": "kick",
-      "status": "metadata_ready",
-      "kick_slug": "ibai"
-    },
-    {
-      "creator": "WestCOL",
-      "platform": "kick",
-      "status": "metadata_ready",
-      "kick_slug": "westcol"
-    },
-    {
-      "creator": "TheGrefg",
-      "platform": "kick",
-      "status": "metadata_ready",
-      "kick_slug": "thegrefg"
-    },
-    {
-      "creator": "Juan Guarnizo",
-      "platform": "kick",
-      "status": "metadata_ready",
-      "kick_slug": "juansguarnizo"
-    },
-    {
-      "creator": "Davoo Xeneize",
-      "platform": "kick",
-      "status": "metadata_ready",
-      "kick_slug": "davooxeneize"
-    },
-    {
-      "creator": "ElZeein",
-      "platform": "kick",
-      "status": "metadata_ready",
-      "kick_slug": "elzeein"
     }
   ]
 }

@@ -1,226 +1,175 @@
 {
-  "schema_version": 1,
-  "generated_at": "2026-09-28T06:47:39.535806+00:00",
-  "platforms": {
-    "IlloJuan:twitch": {
-      "url": "https://www.twitch.tv/illojuan",
-      "found": 0,
-      "error": "ERROR: [twitch:stream] illojuan: The channel is not currently live"
+  "schema_version": 2,
+  "generated_at": "2026-09-28T09:06:16.057104+00:00",
+  "results": [
+    {
+      "creator": "IlloJuan",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "illojuan",
+      "vods_seen": 15,
+      "recent_vods": 3
     },
-    "IlloJuan:tiktok": {
-      "url": "https://www.tiktok.com/@illojuan",
-      "found": 0,
-      "error": "ERROR: illojuan: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    {
+      "creator": "Rubius",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "rubius",
+      "vods_seen": 20,
+      "recent_vods": 4
     },
-    "IlloJuan:instagram": {
-      "url": "https://www.instagram.com/illojuan",
-      "found": 0,
-      "error": "ERROR: [instagram:user] illojuan: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+    {
+      "creator": "AuronPlay",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "auronplay",
+      "vods_seen": 20,
+      "recent_vods": 5
     },
-    "IlloJuan:kick": {
-      "url": "https://kick.com/illojuan",
-      "found": 0,
-      "error": "ERROR: [kick:live] illojuan: The channel is not currently live"
+    {
+      "creator": "ElXokas",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "elxokas",
+      "vods_seen": 20,
+      "recent_vods": 2
     },
-    "Rubius:twitch": {
-      "url": "https://www.twitch.tv/rubius",
-      "found": 0,
-      "error": "ERROR: [twitch:stream] rubius: The channel is not currently live"
+    {
+      "creator": "Peereira7",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "peereira7",
+      "vods_seen": 20,
+      "recent_vods": 3
     },
-    "Rubius:tiktok": {
-      "url": "https://www.tiktok.com/@rubius",
-      "found": 0,
-      "error": "ERROR: [tiktok:user] rubius: Unable to extract secondary user ID. If you are able to get the channel_id from a video posted by this user, try using \"tiktokuser:channel_id\" as the input URL (replacing `channel_id` with its actual value)"
+    {
+      "creator": "Ibai",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "ibai",
+      "vods_seen": 20,
+      "recent_vods": 2
     },
-    "Rubius:instagram": {
-      "url": "https://www.instagram.com/rubius",
-      "found": 0,
-      "error": "ERROR: [instagram:user] rubius: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+    {
+      "creator": "WestCOL",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "westcol",
+      "vods_seen": 0,
+      "recent_vods": 0
     },
-    "Rubius:kick": {
-      "url": "https://kick.com/Rubius",
-      "found": 0,
-      "error": "ERROR: [kick:live] Rubius: The channel is not currently live"
+    {
+      "creator": "TheGrefg",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "thegrefg",
+      "vods_seen": 20,
+      "recent_vods": 6
     },
-    "AuronPlay:twitch": {
-      "url": "https://www.twitch.tv/auronplay",
-      "found": 0,
-      "error": "ERROR: [twitch:stream] auronplay: The channel is not currently live"
+    {
+      "creator": "Juan Guarnizo",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "juansguarnizo",
+      "vods_seen": 20,
+      "recent_vods": 8
     },
-    "AuronPlay:tiktok": {
-      "url": "https://www.tiktok.com/@auronplay",
-      "found": 0,
-      "error": "ERROR: [tiktok:user] auronplay: This account does not have any videos posted"
+    {
+      "creator": "Davoo Xeneize",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "davooxeneize",
+      "vods_seen": 0,
+      "recent_vods": 0
     },
-    "AuronPlay:instagram": {
-      "url": "https://www.instagram.com/auronplay",
-      "found": 0,
-      "error": "ERROR: [instagram:user] auronplay: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+    {
+      "creator": "ElZeein",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "elzeein",
+      "vods_seen": 0,
+      "recent_vods": 0
     },
-    "AuronPlay:kick": {
-      "url": "https://kick.com/auronplay",
-      "found": 0,
-      "error": "ERROR: [kick:live] auronplay: The channel is not currently live"
+    {
+      "creator": "IlloJuan",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "illojuan",
+      "error": "missing Kick credentials"
     },
-    "ElXokas:twitch": {
-      "url": "https://www.twitch.tv/elxokas",
-      "found": 0,
-      "error": "ERROR: [twitch:stream] elxokas: The channel is not currently live"
+    {
+      "creator": "Rubius",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "rubius",
+      "error": "missing Kick credentials"
     },
-    "ElXokas:tiktok": {
-      "url": "https://www.tiktok.com/@elxokasoficial",
-      "found": 0,
-      "error": "ERROR: [tiktok:user] elxokasoficial: Unable to extract secondary user ID. If you are able to get the channel_id from a video posted by this user, try using \"tiktokuser:channel_id\" as the input URL (replacing `channel_id` with its actual value)"
+    {
+      "creator": "AuronPlay",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "auronplay",
+      "error": "missing Kick credentials"
     },
-    "ElXokas:instagram": {
-      "url": "https://www.instagram.com/elxokas",
-      "found": 0,
-      "error": "ERROR: [instagram:user] elxokas: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+    {
+      "creator": "ElXokas",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "elxokas",
+      "error": "missing Kick credentials"
     },
-    "ElXokas:kick": {
-      "url": "https://kick.com/elxokas",
-      "found": 0,
-      "error": "ERROR: [kick:live] elxokas: The channel is not currently live"
+    {
+      "creator": "Peereira7",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "peereira7",
+      "error": "missing Kick credentials"
     },
-    "Peereira7:twitch": {
-      "url": "https://www.twitch.tv/peereira7",
-      "found": 0,
-      "error": "ERROR: [twitch:stream] peereira7: The channel is not currently live"
+    {
+      "creator": "Ibai",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "ibai",
+      "error": "missing Kick credentials"
     },
-    "Peereira7:tiktok": {
-      "url": "https://www.tiktok.com/@peereira7",
-      "found": 0,
-      "error": "ERROR: peereira7: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    {
+      "creator": "WestCOL",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "westcol",
+      "error": "missing Kick credentials"
     },
-    "Peereira7:instagram": {
-      "url": "https://www.instagram.com/peereira7",
-      "found": 0,
-      "error": "ERROR: [instagram:user] peereira7: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+    {
+      "creator": "TheGrefg",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "thegrefg",
+      "error": "missing Kick credentials"
     },
-    "Peereira7:kick": {
-      "url": "https://kick.com/peereira7",
-      "found": 0,
-      "error": "ERROR: [kick:live] peereira7: The channel is not currently live"
+    {
+      "creator": "Juan Guarnizo",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "juansguarnizo",
+      "error": "missing Kick credentials"
     },
-    "Ibai:twitch": {
-      "url": "https://www.twitch.tv/ibai",
-      "found": 0,
-      "error": "ERROR: [twitch:stream] ibai: The channel is not currently live"
+    {
+      "creator": "Davoo Xeneize",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "davooxeneize",
+      "error": "missing Kick credentials"
     },
-    "Ibai:tiktok": {
-      "url": "https://www.tiktok.com/@ibaillanos",
-      "found": 0,
-      "error": "ERROR: ibaillanos: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
-    },
-    "Ibai:instagram": {
-      "url": "https://www.instagram.com/ibaillanos",
-      "found": 0,
-      "error": "ERROR: [instagram:user] ibaillanos: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
-    },
-    "Ibai:kick": {
-      "url": "https://kick.com/ibai",
-      "found": 0,
-      "error": "ERROR: [kick:live] ibai: The channel is not currently live"
-    },
-    "WestCOL:twitch": {
-      "url": "https://www.twitch.tv/westcol",
-      "found": 0,
-      "error": "ERROR: [twitch:stream] westcol: The channel is not currently live"
-    },
-    "WestCOL:tiktok": {
-      "url": "https://www.tiktok.com/@west_col",
-      "found": 0,
-      "error": "ERROR: west_col: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
-    },
-    "WestCOL:instagram": {
-      "url": "https://www.instagram.com/westcol",
-      "found": 0,
-      "error": "ERROR: [instagram:user] westcol: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
-    },
-    "WestCOL:kick": {
-      "url": "https://kick.com/westcol",
-      "found": 0,
-      "error": "ERROR: [kick:live] westcol: The channel is not currently live"
-    },
-    "TheGrefg:twitch": {
-      "url": "https://www.twitch.tv/thegrefg",
-      "found": 0,
-      "error": "ERROR: [twitch:stream] thegrefg: The channel is not currently live"
-    },
-    "TheGrefg:tiktok": {
-      "url": "https://www.tiktok.com/@thegrefg",
-      "found": 0,
-      "error": "ERROR: thegrefg: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
-    },
-    "TheGrefg:instagram": {
-      "url": "https://www.instagram.com/thegrefg",
-      "found": 0,
-      "error": "ERROR: [instagram:user] thegrefg: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
-    },
-    "TheGrefg:kick": {
-      "url": "https://kick.com/thegrefg",
-      "found": 0,
-      "error": "ERROR: [kick:live] thegrefg: The channel is not currently live"
-    },
-    "Juan Guarnizo:twitch": {
-      "url": "https://www.twitch.tv/juaniquilador",
-      "found": 0,
-      "error": "ERROR: [twitch:stream] juaniquilador: The channel is not currently live"
-    },
-    "Juan Guarnizo:tiktok": {
-      "url": "https://www.tiktok.com/@juaniquilador",
-      "found": 0,
-      "error": "ERROR: juaniquilador: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
-    },
-    "Juan Guarnizo:instagram": {
-      "url": "https://www.instagram.com/juaniquilador",
-      "found": 0,
-      "error": "ERROR: [instagram:user] juaniquilador: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
-    },
-    "Juan Guarnizo:kick": {
-      "url": "https://kick.com/juaniquilador",
-      "found": 0,
-      "error": "ERROR: [kick:live] juaniquilador: The channel is not currently live"
-    },
-    "Davoo Xeneize:twitch": {
-      "url": "https://www.twitch.tv/davooxeneize",
-      "found": 0,
-      "error": "ERROR: [twitch:stream] davooxeneize: The channel is not currently live"
-    },
-    "Davoo Xeneize:tiktok": {
-      "url": "https://www.tiktok.com/@davooxeneize",
-      "found": 0,
-      "error": "ERROR: davooxeneize: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
-    },
-    "Davoo Xeneize:instagram": {
-      "url": "https://www.instagram.com/davoobj",
-      "found": 0,
-      "error": "ERROR: [instagram:user] davoobj: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
-    },
-    "Davoo Xeneize:kick": {
-      "url": "https://kick.com/davooxeneize",
-      "found": 1,
-      "error": ""
-    },
-    "ElZeein:twitch": {
-      "url": "https://www.twitch.tv/elzeein",
-      "found": 0,
-      "error": "ERROR: [twitch:stream] elzeein: The channel is not currently live"
-    },
-    "ElZeein:tiktok": {
-      "url": "https://www.tiktok.com/@elzeein",
-      "found": 0,
-      "error": "ERROR: [tiktok:user] elzeein: This user's account is private. Log into an account that has access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies"
-    },
-    "ElZeein:instagram": {
-      "url": "https://www.instagram.com/elzeein",
-      "found": 0,
-      "error": "ERROR: [instagram:user] elzeein: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
-    },
-    "ElZeein:kick": {
-      "url": "https://kick.com/elzeein",
-      "found": 0,
-      "error": "ERROR: [kick:live] elzeein: The channel is not currently live"
+    {
+      "creator": "ElZeein",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "elzeein",
+      "error": "missing Kick credentials"
     }
+  ],
+  "platforms": {
+    "twitch": 11,
+    "kick": 11
   }
 }

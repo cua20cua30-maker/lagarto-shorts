@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-28T09:06:16.049139+00:00",
+  "api": "Kick Developer Public API",
+  "results": [
+    {
+      "creator": "IlloJuan",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "illojuan",
+      "error": "missing Kick credentials"
+    },
+    {
+      "creator": "Rubius",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "rubius",
+      "error": "missing Kick credentials"
+    },
+    {
+      "creator": "AuronPlay",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "auronplay",
+      "error": "missing Kick credentials"
+    },
+    {
+      "creator": "ElXokas",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "elxokas",
+      "error": "missing Kick credentials"
+    },
+    {
+      "creator": "Peereira7",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "peereira7",
+      "error": "missing Kick credentials"
+    },
+    {
+      "creator": "Ibai",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "ibai",
+      "error": "missing Kick credentials"
+    },
+    {
+      "creator": "WestCOL",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "westcol",
+      "error": "missing Kick credentials"
+    },
+    {
+      "creator": "TheGrefg",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "thegrefg",
+      "error": "missing Kick credentials"
+    },
+    {
+      "creator": "Juan Guarnizo",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "juansguarnizo",
+      "error": "missing Kick credentials"
+    },
+    {
+      "creator": "Davoo Xeneize",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "davooxeneize",
+      "error": "missing Kick credentials"
+    },
+    {
+      "creator": "ElZeein",
+      "platform": "kick",
+      "status": "not_configured",
+      "kick_slug": "elzeein",
+      "error": "missing Kick credentials"
+    }
+  ]
+}
