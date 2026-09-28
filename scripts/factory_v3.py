@@ -24,7 +24,7 @@ def main():
     for candidate in candidates:
         candidate_id = candidate.get("candidate_id")
         source_url = candidate.get("source_url")
-        if not candidate_id or source_url not in allowed:
+        if not candidate_id or source_url not in allowed or not candidate.get("acquirable", False):
             continue
 
         strategy = strategies.get(candidate_id)
@@ -71,5 +71,4 @@ def main():
     )
     print(f"Factory v3: authorized render={len(render)} publish={len(publish)}")
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__":main()
