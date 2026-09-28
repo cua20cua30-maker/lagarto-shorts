@@ -25,14 +25,18 @@ def request(url, headers=None, data=None):
 def twitch_token():
     cid=os.getenv("TWITCH_CLIENT_ID"); sec=os.getenv("TWITCH_CLIENT_SECRET")
     if not cid or not sec:return None
-    data=urllib.parse.urlencode({"client_id":cid,"client_secret":sec,"grant_type":"client_credentials"}).encode()
-    return request(TW_TOKEN,{"Content-Type":"application/x-www-form-urlencoded"},data).get("access_token")
+    try:
+        data=urllib.parse.urlencode({"client_id":cid,"client_secret":sec,"grant_type":"client_credentials"}).encode()
+        return request(TW_TOKEN,{"Content-Type":"application/x-www-form-urlencoded"},data).get("access_token")
+    except Exception:return None
 
 def kick_token():
     cid=os.getenv("KICK_CLIENT_ID"); sec=os.getenv("KICK_CLIENT_SECRET")
     if not cid or not sec:return None
-    data=urllib.parse.urlencode({"client_id":cid,"client_secret":sec,"grant_type":"client_credentials"}).encode()
-    return request(KICK_TOKEN,{"Content-Type":"application/x-www-form-urlencoded"},data).get("access_token")
+    try:
+        data=urllib.parse.urlencode({"client_id":cid,"client_secret":sec,"grant_type":"client_credentials"}).encode()
+        return request(KICK_TOKEN,{"Content-Type":"application/x-www-form-urlencoded"},data).get("access_token")
+    except Exception:return None
 
 def api(base,path,token,client=None,params=None):
     q=urllib.parse.urlencode(params or {},doseq=True)
