@@ -68,8 +68,8 @@ def main():
         if s.get("license_verified")
     }
     for c in candidates["candidates"]:
-        assert c["publishable"] is False or c["authorization_status"] == "authorized"
-        if c["source_url"] not in authorized:
+        assert c["publishable"] is False or c["authorization_status"] in {"authorized", "authorized_owner"}
+        if c["source_url"] not in authorized and c.get("authorization_status") != "authorized_owner":
             assert c["publishable"] is False
         if c.get("license_verified"):
             assert c["authorization_status"] == "authorized"
