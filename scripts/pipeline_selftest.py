@@ -24,6 +24,8 @@ def main():
     emotions = read(Path("data/emotion_events.json"))
     trends = read(Path("data/hashtag_trends.json"))
     recovery = read(Path("data/publication_recovery.json"))
+    trend_research = read(Path("data/trend_research.json")) if (ROOT / "data" / "trend_research.json").exists() else {"schema_version": 0}
+    live_radar = read(Path("data/live_radar.json")) if (ROOT / "data" / "live_radar.json").exists() else {"schema_version": 0}
     radar_path = ROOT / "data" / "multisource_diagnostics.json"
     if radar_path.exists():
         radar_diagnostics = read(Path("data/multisource_diagnostics.json"))
@@ -47,6 +49,8 @@ def main():
     assert emotions["schema_version"] == 1 and isinstance(emotions["events"], list)
     assert trends["schema_version"] == 1 and isinstance(trends["jobs"], list)
     assert recovery["schema_version"] == 1 and isinstance(recovery["items"], list)
+    assert trend_research["schema_version"] >= 2
+    assert live_radar["schema_version"] >= 1
     assert isinstance(radar_diagnostics["results"], list)
 
     radar_results = radar_diagnostics["results"]
