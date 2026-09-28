@@ -83,7 +83,7 @@ def main():
                 ["python", "scripts/transcriber.py", "--input", str(source), "--output", str(transcript)],
                 ["python", "scripts/emotion_detector.py", "--input", str(source), "--transcript", str(transcript), "--output", str(emotion_file)],
                 ["python", "scripts/moment_detector.py", "--input", str(transcript), "--output", str(moment_file), "--screams", str(scream_file), "--emotions", str(emotion_file)],
-                ["python", "scripts/clip_planner.py", "--input", str(moment_file), "--output", str(plan_file)],
+                ["python", "scripts/clip_planner.py", "--input", str(moment_file), "--output", str(plan_file), "--max-clips", "6"],
             ]
             failed = False
             for command in commands:
