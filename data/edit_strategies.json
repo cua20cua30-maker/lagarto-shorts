@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:36:59.978026+00:00",
+  "generated_at": "2026-09-28T05:41:37.979535+00:00",
   "strategies": [
     {
       "candidate_id": "yt:Me4El1DJSGY",
@@ -366,7 +366,7 @@
       "candidate_id": "cc:L9qgKZ9oujU",
       "source_creator": "ARTA GAME",
       "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
+      "pacing_pattern": "short_hook",
       "learned_edit_style": "unknown",
       "learned_format": "vertical_9_16",
       "transformation": [
@@ -390,7 +390,7 @@
       "candidate_id": "cc:HfYxIRJPEbM",
       "source_creator": "ARTA GAME",
       "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
+      "pacing_pattern": "short_hook",
       "learned_edit_style": "unknown",
       "learned_format": "vertical_9_16",
       "transformation": [
@@ -411,10 +411,10 @@
       }
     },
     {
-      "candidate_id": "cc:oUlZ3U4FQgY",
-      "source_creator": "Vandal",
-      "hook_pattern": "reaction",
-      "pacing_pattern": "medium_hook",
+      "candidate_id": "cc:hBbH3cQbRSY",
+      "source_creator": "ARTA GAME",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
       "learned_edit_style": "unknown",
       "learned_format": "vertical_9_16",
       "transformation": [
@@ -437,7 +437,7 @@
     {
       "candidate_id": "cc:PkWj0aZRheE",
       "source_creator": "Vandal",
-      "hook_pattern": "reaction",
+      "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "unknown",
       "learned_format": "vertical_9_16",
@@ -459,8 +459,8 @@
       }
     },
     {
-      "candidate_id": "cc:n9nGP_lM_oI",
-      "source_creator": "ARTA GAME",
+      "candidate_id": "cc:Bo9Gk184Zm4",
+      "source_creator": "Vandal",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "unknown",
