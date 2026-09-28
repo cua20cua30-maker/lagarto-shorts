@@ -1,4 +1,5 @@
 name: Lagarto Shorts Factory v7
+# End-to-end validation trigger
 
 on:
   workflow_dispatch:
