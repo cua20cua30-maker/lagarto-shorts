@@ -31,7 +31,7 @@ def make_srt(plan):
     rows = []
     context = str(plan.get("original_context", "")).strip()
     if context:
-        rows.append((0, min(2.5, end-start), context))
+        rows.append((0.0, min(2.5, float(plan["duration"])), context))
     for segment in data.get("segments", []):
         text = str(segment.get("text", "")).strip()
         a = float(segment.get("start", 0))
@@ -53,10 +53,7 @@ def build_title(plan):
     hook = " ".join(str(plan.get("hook", "")).split()).strip()
     if len(hook) > 72:
         hook = hook[:72].rsplit(" ", 1)[0].strip()
-    if hook:
-        title = f"{context}: {hook}"
-    else:
-        title = f"{context} | {creator}"
+    title = f"{context}: {hook}" if hook and context else (hook or f"{context} | {creator}")
     if creator and creator.lower() not in title.lower():
         title = f"{title} | {creator}"
     return title[:100]
@@ -76,18 +73,21 @@ def main():
         if not source.exists():
             continue
 
-        plan_file = WORK / (plan["clip_id"].replace(":", "_") + "_plan.json")
-        plan_file.write_text(json.dumps(plan, ensure_ascii=False), encoding="utf-8")
-        command = [
-            "python", "scripts/pencil_animation.py",
-            "--plan", str(plan_file),
-            "--audio", str(source),
-            "--output", str(output),
-        ]
-        result = subprocess.run(command, capture_output=True, text=True)
-        if result.returncode:
-            print(result.stderr[-1000:])
-            continue
+        if output.exists() and output.stat().st_size > 0:
+            pass
+        else:
+            plan_file = WORK / (plan["clip_id"].replace(":", "_") + "_plan.json")
+            plan_file.write_text(json.dumps(plan, ensure_ascii=False), encoding="utf-8")
+            command = [
+                "python", "scripts/pencil_animation.py",
+                "--plan", str(plan_file),
+                "--audio", str(source),
+                "--output", str(output),
+            ]
+            result = subprocess.run(command, capture_output=True, text=True)
+            if result.returncode:
+                print(result.stderr[-1000:])
+                continue
 
         jobs.append({
             "job_id": "rendered:" + plan["clip_id"],
@@ -104,6 +104,7 @@ def main():
             "emotion_signals": plan.get("emotion_signals", []),
             "emotion_score": plan.get("emotion_score", 0),
             "signals": plan.get("signals", []),
+            "selection_score": plan.get("selection_score", plan.get("score", 0)),
         })
         publish_jobs.append({
             "job_id": "publish:" + plan["clip_id"],
@@ -122,6 +123,7 @@ def main():
                 "edit_style": "emotion_driven_pencil_animation",
                 "emotion_signals": plan.get("emotion_signals", []),
                 "emotion_score": plan.get("emotion_score", 0),
+                "selection_score": plan.get("selection_score", plan.get("score", 0)),
                 "source_moment_signals": plan.get("signals", []),
                 "original_context": plan.get("original_context", ""),
                 "character_id": plan.get("character_id"),
