@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:50:28.119418+00:00",
+  "generated_at": "2026-09-28T05:53:32.936391+00:00",
   "platforms": {
     "IlloJuan:twitch": {
       "url": "https://www.twitch.tv/illojuan",
@@ -9,13 +9,13 @@
     },
     "IlloJuan:tiktok": {
       "url": "https://www.tiktok.com/@illojuan",
-      "found": 0,
-      "error": "ERROR: illojuan: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "found": 5,
+      "error": ""
     },
     "IlloJuan:instagram": {
       "url": "https://www.instagram.com/illojuan",
       "found": 0,
-      "error": "ERROR: [instagram:user] illojuan: Unable to extract data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "error": "ERROR: [instagram:user] illojuan: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
     },
     "IlloJuan:kick": {
       "url": "https://kick.com/illojuan",
@@ -35,7 +35,7 @@
     "Rubius:instagram": {
       "url": "https://www.instagram.com/rubius",
       "found": 0,
-      "error": "ERROR: [instagram:user] rubius: Unable to extract data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "error": "ERROR: [instagram:user] rubius: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
     },
     "Rubius:kick": {
       "url": "https://kick.com/Rubius",
@@ -55,7 +55,7 @@
     "AuronPlay:instagram": {
       "url": "https://www.instagram.com/auronplay",
       "found": 0,
-      "error": "ERROR: [instagram:user] auronplay: Unable to extract data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "error": "ERROR: [instagram:user] auronplay: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
     },
     "AuronPlay:kick": {
       "url": "https://kick.com/auronplay",
@@ -75,7 +75,7 @@
     "ElXokas:instagram": {
       "url": "https://www.instagram.com/elxokas",
       "found": 0,
-      "error": "ERROR: [instagram:user] elxokas: Unable to extract data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "error": "ERROR: [instagram:user] elxokas: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
     },
     "ElXokas:kick": {
       "url": "https://kick.com/elxokas",
@@ -89,13 +89,13 @@
     },
     "Peereira7:tiktok": {
       "url": "https://www.tiktok.com/@peereira7",
-      "found": 0,
-      "error": "ERROR: peereira7: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "found": 5,
+      "error": ""
     },
     "Peereira7:instagram": {
       "url": "https://www.instagram.com/peereira7",
       "found": 0,
-      "error": "ERROR: [instagram:user] peereira7: Unable to extract data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "error": "ERROR: [instagram:user] peereira7: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
     },
     "Peereira7:kick": {
       "url": "https://kick.com/peereira7",
@@ -115,7 +115,7 @@
     "Ibai:instagram": {
       "url": "https://www.instagram.com/ibaillanos",
       "found": 0,
-      "error": "ERROR: [instagram:user] ibaillanos: Unable to extract data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "error": "ERROR: [instagram:user] ibaillanos: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
     },
     "Ibai:kick": {
       "url": "https://kick.com/ibai",
@@ -135,7 +135,7 @@
     "WestCOL:instagram": {
       "url": "https://www.instagram.com/westcol",
       "found": 0,
-      "error": "ERROR: [instagram:user] westcol: Unable to extract data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "error": "ERROR: [instagram:user] westcol: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
     },
     "WestCOL:kick": {
       "url": "https://kick.com/westcol",
@@ -155,7 +155,7 @@
     "TheGrefg:instagram": {
       "url": "https://www.instagram.com/thegrefg",
       "found": 0,
-      "error": "ERROR: [instagram:user] thegrefg: Unable to extract data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "error": "ERROR: [instagram:user] thegrefg: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
     },
     "TheGrefg:kick": {
       "url": "https://kick.com/thegrefg",
@@ -175,7 +175,7 @@
     "Juan Guarnizo:instagram": {
       "url": "https://www.instagram.com/juaniquilador",
       "found": 0,
-      "error": "ERROR: [instagram:user] juaniquilador: Unable to extract data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "error": "ERROR: [instagram:user] juaniquilador: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
     },
     "Juan Guarnizo:kick": {
       "url": "https://kick.com/juaniquilador",
@@ -195,7 +195,7 @@
     "Davoo Xeneize:instagram": {
       "url": "https://www.instagram.com/davoobj",
       "found": 0,
-      "error": "ERROR: [instagram:user] davoobj: Unable to extract data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "error": "ERROR: [instagram:user] davoobj: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
     },
     "Davoo Xeneize:kick": {
       "url": "https://kick.com/davooxeneize",
@@ -215,7 +215,7 @@
     "ElZeein:instagram": {
       "url": "https://www.instagram.com/elzeein",
       "found": 0,
-      "error": "ERROR: [instagram:user] elzeein: Unable to extract data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      "error": "ERROR: [instagram:user] elzeein: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
     },
     "ElZeein:kick": {
       "url": "https://kick.com/elzeein",

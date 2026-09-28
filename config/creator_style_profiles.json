@@ -6,34 +6,25 @@
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 9
-        },
-        {
-          "pattern": "reaction",
-          "observations": 1
+          "observations": 5
         }
       ],
       "pacing": [
         {
           "pattern": "medium_hook",
-          "observations": 9
+          "observations": 3
         },
         {
           "pattern": "short_hook",
-          "observations": 1
+          "observations": 2
         }
       ],
-      "language": [
-        {
-          "pattern": "negation",
-          "observations": 1
-        }
-      ],
+      "language": [],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 10,
-      "updated_at": "2026-09-26T15:21:25.367697+00:00"
+      "sample_count": 5,
+      "updated_at": "2026-09-28T05:54:08.619117+00:00"
     },
     "Rubius": {
       "hook_types": [
@@ -120,27 +111,7 @@
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 1
-        }
-      ],
-      "pacing": [
-        {
-          "pattern": "ultra_short_hook",
-          "observations": 1
-        }
-      ],
-      "language": [],
-      "reaction_patterns": [],
-      "story_structures": [],
-      "learned_examples": [],
-      "sample_count": 1,
-      "updated_at": "2026-09-28T05:51:07.630481+00:00"
-    },
-    "Ibai": {
-      "hook_types": [
-        {
-          "pattern": "context_open",
-          "observations": 5
+          "observations": 4
         },
         {
           "pattern": "question_open",
@@ -149,9 +120,38 @@
       ],
       "pacing": [
         {
-          "pattern": "medium_hook",
+          "pattern": "ultra_short_hook",
+          "observations": 4
+        },
+        {
+          "pattern": "short_hook",
+          "observations": 1
+        }
+      ],
+      "language": [
+        {
+          "pattern": "negation",
+          "observations": 1
+        }
+      ],
+      "reaction_patterns": [],
+      "story_structures": [],
+      "learned_examples": [],
+      "sample_count": 5,
+      "updated_at": "2026-09-28T05:54:08.619267+00:00"
+    },
+    "Ibai": {
+      "hook_types": [
+        {
+          "pattern": "context_open",
           "observations": 3
         },
+        {
+          "pattern": "question_open",
+          "observations": 1
+        }
+      ],
+      "pacing": [
         {
           "pattern": "short_hook",
           "observations": 2
@@ -159,14 +159,18 @@
         {
           "pattern": "ultra_short_hook",
           "observations": 1
+        },
+        {
+          "pattern": "medium_hook",
+          "observations": 1
         }
       ],
       "language": [],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 6,
-      "updated_at": "2026-09-28T05:51:07.630082+00:00"
+      "sample_count": 4,
+      "updated_at": "2026-09-28T05:54:08.618776+00:00"
     },
     "WestCOL": {
       "hook_types": [
@@ -246,24 +250,20 @@
         {
           "pattern": "reaction",
           "observations": 1
-        },
-        {
-          "pattern": "context_open",
-          "observations": 1
         }
       ],
       "pacing": [
         {
           "pattern": "long_context_hook",
-          "observations": 2
+          "observations": 1
         }
       ],
       "language": [],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-09-28T05:51:07.630233+00:00"
+      "sample_count": 1,
+      "updated_at": "2026-09-28T05:54:08.618852+00:00"
     },
     "ElZeein": {
       "hook_types": [
@@ -289,7 +289,7 @@
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 4
+          "observations": 5
         }
       ],
       "pacing": [
@@ -299,13 +299,13 @@
         },
         {
           "pattern": "medium_hook",
-          "observations": 1
+          "observations": 2
         }
       ],
       "language": [
         {
           "pattern": "exclamation",
-          "observations": 3
+          "observations": 4
         },
         {
           "pattern": "negation",
@@ -315,8 +315,8 @@
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 4,
-      "updated_at": "2026-09-28T05:51:07.630672+00:00"
+      "sample_count": 5,
+      "updated_at": "2026-09-28T05:54:08.619469+00:00"
     },
     "Vandal": {
       "hook_types": [
@@ -344,5 +344,5 @@
       "updated_at": "2026-09-28T05:51:07.630737+00:00"
     }
   },
-  "updated_at": "2026-09-28T05:51:07.630739+00:00"
+  "updated_at": "2026-09-28T05:54:08.619472+00:00"
 }

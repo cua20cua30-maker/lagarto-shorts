@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:51:08.151728+00:00",
+  "generated_at": "2026-09-28T05:54:09.113621+00:00",
   "strategies": [
     {
       "candidate_id": "tiktok:7688356743658704150",
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
+      "pacing_pattern": "short_hook",
       "learned_edit_style": "unknown",
       "learned_format": "vertical_9_16",
       "transformation": [
@@ -51,8 +51,8 @@
       }
     },
     {
-      "candidate_id": "tiktok:7690245393761963287",
-      "source_creator": "Ibai",
+      "candidate_id": "tiktok:7658321241274666262",
+      "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "unknown",
@@ -75,8 +75,8 @@
       }
     },
     {
-      "candidate_id": "tiktok:7689542055005031702",
-      "source_creator": "Ibai",
+      "candidate_id": "tiktok:7624859359482236182",
+      "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "unknown",
@@ -99,8 +99,8 @@
       }
     },
     {
-      "candidate_id": "tiktok:7689172801739164950",
-      "source_creator": "Ibai",
+      "candidate_id": "tiktok:7571886055759072534",
+      "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "unknown",
@@ -123,8 +123,8 @@
       }
     },
     {
-      "candidate_id": "tiktok:7687678908782644502",
-      "source_creator": "Ibai",
+      "candidate_id": "tiktok:7571863205253778710",
+      "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "unknown",
@@ -147,128 +147,8 @@
       }
     },
     {
-      "candidate_id": "kick:a6aae75b-boca-juniors-le-remonto-a-racing-un-0-2-a-uin-3-2-y-se-clasifico-a-la-semi-de-la-copa-argentina-con-mucha-mistica-puerrul-analizamos-todo",
-      "source_creator": "Davoo Xeneize",
-      "hook_pattern": "reaction",
-      "pacing_pattern": "long_context_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:RaKIWPf1Tjk",
-      "source_creator": "Juan Guarnizo",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:c7DpRIk4lKY",
-      "source_creator": "AuronPlay",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:CgIySHjpi98",
-      "source_creator": "AuronPlay",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:3nVF2EY_iHg",
-      "source_creator": "Rubius",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:uWVUtw5QJQ8",
-      "source_creator": "ElXokas",
+      "candidate_id": "tiktok:7116173993534622982",
+      "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "unknown",
@@ -291,7 +171,7 @@
       }
     },
     {
-      "candidate_id": "yt:_lIv3Vfgz-s",
+      "candidate_id": "tiktok:7690294186934865174",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "pacing_pattern": "ultra_short_hook",
@@ -315,10 +195,106 @@
       }
     },
     {
-      "candidate_id": "yt:sXkurPgJHX0",
+      "candidate_id": "tiktok:7689920747212672279",
+      "source_creator": "Peereira7",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "tiktok:7689554751943494934",
+      "source_creator": "Peereira7",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "tiktok:7689182846237461763",
+      "source_creator": "Peereira7",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "tiktok:7688837743153040662",
+      "source_creator": "Peereira7",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "ultra_short_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "tiktok:7690245393761963287",
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
+      "pacing_pattern": "short_hook",
       "learned_edit_style": "unknown",
       "learned_format": "vertical_9_16",
       "transformation": [
@@ -339,32 +315,8 @@
       }
     },
     {
-      "candidate_id": "yt:6P8Zjd-UjnY",
-      "source_creator": "TheGrefg",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:oz5sz0h0yek",
-      "source_creator": "ElZeein",
+      "candidate_id": "tiktok:7689542055005031702",
+      "source_creator": "Ibai",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
       "learned_edit_style": "unknown",
@@ -387,82 +339,10 @@
       }
     },
     {
-      "candidate_id": "yt:Uo-ZphDU06Y",
-      "source_creator": "AuronPlay",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:A7l6r9pkW_k",
-      "source_creator": "Juan Guarnizo",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "ultra_short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:A8rijjG_Cv4",
-      "source_creator": "Rubius",
+      "candidate_id": "tiktok:7689172801739164950",
+      "source_creator": "Ibai",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "yt:WR4B2mbHmtI",
-      "source_creator": "ElXokas",
-      "hook_pattern": "context_open",
-      "pacing_pattern": "medium_hook",
       "learned_edit_style": "unknown",
       "learned_format": "vertical_9_16",
       "transformation": [
@@ -487,30 +367,6 @@
       "source_creator": "ARTA GAME",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
-      "learned_edit_style": "unknown",
-      "learned_format": "vertical_9_16",
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "add_original_context_or_commentary",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "cc:oUlZ3U4FQgY",
-      "source_creator": "Vandal",
-      "hook_pattern": "reaction",
-      "pacing_pattern": "medium_hook",
       "learned_edit_style": "unknown",
       "learned_format": "vertical_9_16",
       "transformation": [
@@ -556,6 +412,30 @@
     },
     {
       "candidate_id": "cc:hBbH3cQbRSY",
+      "source_creator": "ARTA GAME",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "short_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "cc:n9nGP_lM_oI",
       "source_creator": "ARTA GAME",
       "hook_pattern": "context_open",
       "pacing_pattern": "short_hook",
