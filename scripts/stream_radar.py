@@ -39,23 +39,12 @@ def main():
                     published=v.get("published_at") or v.get("created_at")
                     if published and datetime.fromisoformat(published.replace("Z","+00:00"))<cutoff:continue
                     kept+=1; vid=v["id"]
-                    candidates.append({"candidate_id":f"twitch:vod:{vid}","source_platform":"twitch","source_creator":c["name"],"source_url":v["url"],"source_id":vid,"title":v.get("title",""),"duration_raw":v.get("duration"),"score":score(v.get("title"),v.get("view_count"),published or now.isoformat()),"radar_rank":rank,"detected_at":now.isoformat(),"published_at":published,"status":"discovered","authorization_status":"unknown","publishable":False,"uploader_verified":norm(v.get("user_name"))==norm(c["name"]),"uploader":v.get("user_name",""),"uploader_id":v.get("user_id",""),"view_count":v.get("view_count",0),"thumbnail_url":v.get("thumbnail_url")})
+                    candidates.append({"candidate_id":f"twitch:vod:{vid}","source_platform":"twitch","source_creator":c["name"],"source_kind":"vod","source_url":v["url"],"acquisition_url":v["url"],"source_id":vid,"title":v.get("title",""),"duration_raw":v.get("duration"),"score":score(v.get("title"),v.get("view_count"),published or now.isoformat()),"radar_rank":rank,"detected_at":now.isoformat(),"published_at":published,"status":"discovered","authorization_status":"unknown","publishable":False,"acquirable":True,"uploader_verified":norm(v.get("user_name"))==norm(c["name"]),"uploader":v.get("user_name",""),"uploader_id":v.get("user_id",""),"view_count":v.get("view_count",0),"thumbnail_url":v.get("thumbnail_url")})
                 diagnostics.append({"creator":c["name"],"platform":"twitch","status":"ok","login":login,"vods_seen":len(videos),"recent_vods":kept})
             except Exception as e:diagnostics.append({"creator":c["name"],"platform":"twitch","status":"error","login":login,"error":str(e)})
     else:diagnostics.append({"platform":"twitch","status":"not_configured","error":err})
-    for c in cfg["creators"]:
-        if c.get("enabled",True) and c.get("kick_slug"):diagnostics.append({"creator":c["name"],"platform":"kick","status":"metadata_ready","kick_slug":c["kick_slug"]})
-    ranked=sorted({x["candidate_id"]:x for x in candidates}.values(),key=lambda x:x["score"],reverse=True); limit=int(load(ROOT/"config/factory.json",{}).get("limits",{}).get("max_candidates_per_run",20) or 20)
-    names=[c["name"] for c in cfg["creators"] if c.get("enabled",True)]; selected=[]; ids=set(); counts=Counter()
-    for n in names:
-        xs=[x for x in ranked if x["source_creator"]==n]
-        if xs:selected.append(xs[0]);ids.add(xs[0]["candidate_id"]);counts[n]+=1
-    cap=max(3,(limit+len(names)-1)//max(1,len(names)))
-    for x in ranked:
-        if len(selected)>=limit:break
-        if x["candidate_id"] in ids or counts[x["source_creator"]]>=cap:continue
-        selected.append(x);ids.add(x["candidate_id"]);counts[x["source_creator"]]+=1
+    ranked=sorted({x["candidate_id"]:x for x in candidates}.values(),key=lambda x:x["score"],reverse=True)
     DIAG.write_text(json.dumps({"schema_version":1,"generated_at":now.isoformat(),"results":diagnostics},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    OUT.write_text(json.dumps({"schema_version":3,"generated_at":now.isoformat(),"source_priority":["twitch","kick"],"total_discovered":len(ranked),"selection_limit":limit,"creator_coverage":{n:sum(1 for x in selected if x["source_creator"]==n) for n in names},"candidates":selected},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print(f"Stream radar: discovered={len(ranked)} selected={len(selected)} twitch_configured={bool(t)}")
+    OUT.write_text(json.dumps({"schema_version":3,"generated_at":now.isoformat(),"source_priority":["twitch","kick"],"total_discovered":len(ranked),"selection_limit":int(load(ROOT/"config/factory.json",{}).get("limits",{}).get("max_candidates_per_run",20) or 20),"creator_coverage":{n:sum(1 for x in ranked if x["source_creator"]==n) for n in [c["name"] for c in cfg["creators"] if c.get("enabled",True)]},"candidates":ranked},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    print(f"Stream radar: discovered={len(ranked)} twitch_configured={bool(t)}")
 if __name__=="__main__":main()
