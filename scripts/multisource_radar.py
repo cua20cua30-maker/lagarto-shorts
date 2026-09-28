@@ -31,6 +31,9 @@ def main():
     ranked=sorted(merged.values(),key=lambda x:float(x.get("score",0) or 0),reverse=True)
     limit=int(load(CONFIG,{}).get("limits",{}).get("max_candidates_per_run",20) or 20)
     creators=[c["name"] for c in load(ROOT/"config/creators.json",{"creators":[]}).get("creators",[]) if c.get("enabled",True)]
+    allowed_creators=set(creators)
+    # Never allow stale candidates from a previous creator configuration to survive a radar run.
+    ranked=[x for x in ranked if x.get("source_creator") in allowed_creators]
     selected=[];ids=set();counts=Counter()
     for name in creators:
         options=[x for x in ranked if x.get("source_creator")==name]
