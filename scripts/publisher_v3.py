@@ -80,8 +80,9 @@ def main():
             "Short transformado a partir de material autorizado, con edición y contexto original.",
         )
 
-        request = youtube.videos().insert(
-            part="snippet,status",
+        def make_request():
+            return youtube.videos().insert(
+                part="snippet,status",
             body={
                 "snippet": {
                     "title": title[:100],
@@ -93,17 +94,18 @@ def main():
                     "selfDeclaredMadeForKids": False,
                 },
             },
-            media_body=MediaFileUpload(
-                str(path),
-                mimetype="video/mp4",
-                resumable=True,
-            ),
-        )
+                media_body=MediaFileUpload(
+                    str(path),
+                    mimetype="video/mp4",
+                    resumable=True,
+                ),
+            )
 
         response = None
         last_error = None
         for attempt in range(3):
             try:
+                request = make_request()
                 while response is None:
                     _, response = request.next_chunk()
                 break
@@ -118,6 +120,7 @@ def main():
 
         record = {
             "idempotency_key": key,
+            "upload_attempts": attempt + 1,
             "clip_id": clip_id,
             "candidate_id": job.get("candidate_id"),
             "source_creator": creator,
