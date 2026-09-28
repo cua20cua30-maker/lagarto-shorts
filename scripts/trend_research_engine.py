@@ -12,7 +12,7 @@ def fetch(url):
 def load(p,d):
     try:return json.loads(p.read_text(encoding="utf-8"))
     except Exception:return d
-def clean(x): return re.sub(r"\\s+"," ",html.unescape(str(x or ""))).strip()
+def clean(x): return re.sub(r"\s+"," ",html.unescape(str(x or ""))).strip()
 def google_trends():
     try: raw=fetch("https://trends.google.com/trending/rss?geo=ES")
     except Exception as e:return {"status":"unavailable","items":[],"error":str(e)}
