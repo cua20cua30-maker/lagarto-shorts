@@ -64,7 +64,7 @@ def main():
                 ch=api(KICK_API,"/channels",kt,None,{"slug":c["kick_slug"]}).get("data",[])
                 if not ch: continue
                 uid=ch[0].get("broadcaster_user_id") or ch[0].get("user_id")
-                live=api(KICK_API,"/users/livestreams",kt,None,{"user_id":uid}).get("data",[])
+                live=api(KICK_API,"/livestreams",kt,None,{"broadcaster_user_id":uid}).get("data",[])
                 for s in live:
                     key="kick:"+str(uid); streams[key]=s
                     if key not in prev.get("streams",{}):
