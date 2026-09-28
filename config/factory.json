@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "timezone": "Europe/Madrid",
-  "mode": "stream_sources",
+  "mode": "vod_only",
   "content_policy": {
     "require_authorization": true,
     "require_transformative_edit": true,
@@ -9,14 +9,15 @@
   },
   "limits": {
     "max_candidates_per_run": 20,
-    "max_publish_attempts": 3
+    "max_publish_attempts": 3,
+    "max_clip_duration_seconds": 58.5,
+    "min_clip_duration_seconds": 15
   },
   "sources": {
-    "primary": [
-      "twitch_vods"
-    ],
-    "secondary": [
-      "kick"
-    ]
+    "primary": ["twitch_vods"],
+    "secondary": ["kick_vods_when_officially_available"]
+  },
+  "live_processing": {
+    "enabled": false
   }
 }
