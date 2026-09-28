@@ -1,11 +1,94 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T08:55:03.163765+00:00",
+  "generated_at": "2026-09-28T08:59:30.263855+00:00",
   "results": [
     {
+      "creator": "IlloJuan",
       "platform": "twitch",
-      "status": "not_configured",
-      "error": "missing Twitch credentials"
+      "status": "ok",
+      "login": "illojuan",
+      "vods_seen": 15,
+      "recent_vods": 3
+    },
+    {
+      "creator": "Rubius",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "rubius",
+      "vods_seen": 20,
+      "recent_vods": 4
+    },
+    {
+      "creator": "AuronPlay",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "auronplay",
+      "vods_seen": 20,
+      "recent_vods": 5
+    },
+    {
+      "creator": "ElXokas",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "elxokas",
+      "vods_seen": 20,
+      "recent_vods": 2
+    },
+    {
+      "creator": "Peereira7",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "peereira7",
+      "vods_seen": 20,
+      "recent_vods": 3
+    },
+    {
+      "creator": "Ibai",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "ibai",
+      "vods_seen": 20,
+      "recent_vods": 2
+    },
+    {
+      "creator": "WestCOL",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "westcol",
+      "vods_seen": 0,
+      "recent_vods": 0
+    },
+    {
+      "creator": "TheGrefg",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "thegrefg",
+      "vods_seen": 20,
+      "recent_vods": 6
+    },
+    {
+      "creator": "Juan Guarnizo",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "juansguarnizo",
+      "vods_seen": 20,
+      "recent_vods": 8
+    },
+    {
+      "creator": "Davoo Xeneize",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "davooxeneize",
+      "vods_seen": 0,
+      "recent_vods": 0
+    },
+    {
+      "creator": "ElZeein",
+      "platform": "twitch",
+      "status": "ok",
+      "login": "elzeein",
+      "vods_seen": 0,
+      "recent_vods": 0
     },
     {
       "creator": "IlloJuan",
