@@ -52,6 +52,8 @@ def main():
         if c.get("source_url") in allowed
         and f"clip:{c.get('candidate_id')}" not in published
     ]
+    selected.sort(key=lambda item: float(item.get("score", 0) or 0), reverse=True)
+    selected = selected[:5]
 
     all_moments = []
     all_plans = []
@@ -74,20 +76,22 @@ def main():
                 print("Authorized acquisition failed:", candidate.get("source_url"))
                 continue
 
-        commands = [
-            ["python", "scripts/scream_detector.py", "--input", str(source), "--output", str(scream_file)],
-            ["python", "scripts/transcriber.py", "--input", str(source), "--output", str(transcript)],
-            ["python", "scripts/emotion_detector.py", "--input", str(source), "--transcript", str(transcript), "--output", str(emotion_file)],
-            ["python", "scripts/moment_detector.py", "--input", str(transcript), "--output", str(moment_file), "--screams", str(scream_file), "--emotions", str(emotion_file)],
-            ["python", "scripts/clip_planner.py", "--input", str(moment_file), "--output", str(plan_file)],
-        ]
-        failed = False
-        for command in commands:
-            if run(command).returncode:
-                failed = True
-                break
-        if failed:
-            continue
+        cached = plan_file.exists() and moment_file.exists() and emotion_file.exists() and scream_file.exists()
+        if not cached:
+            commands = [
+                ["python", "scripts/scream_detector.py", "--input", str(source), "--output", str(scream_file)],
+                ["python", "scripts/transcriber.py", "--input", str(source), "--output", str(transcript)],
+                ["python", "scripts/emotion_detector.py", "--input", str(source), "--transcript", str(transcript), "--output", str(emotion_file)],
+                ["python", "scripts/moment_detector.py", "--input", str(transcript), "--output", str(moment_file), "--screams", str(scream_file), "--emotions", str(emotion_file)],
+                ["python", "scripts/clip_planner.py", "--input", str(moment_file), "--output", str(plan_file)],
+            ]
+            failed = False
+            for command in commands:
+                if run(command).returncode:
+                    failed = True
+                    break
+            if failed:
+                continue
 
         sd = load(scream_file, {"events": []})
         ed = load(emotion_file, {"events": []})
@@ -125,6 +129,9 @@ def main():
                 source_path=str(source),
                 source_creator=candidate.get("source_creator"),
                 transcript_path=str(transcript),
+                license=candidate.get("license"),
+                license_verified=bool(candidate.get("license_verified")),
+                attribution_required=bool(candidate.get("attribution_required")),
             )
             all_plans.append(plan)
 
