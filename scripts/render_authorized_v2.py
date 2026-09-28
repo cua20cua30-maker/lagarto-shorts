@@ -106,13 +106,22 @@ def main():
             "signals": plan.get("signals", []),
             "selection_score": plan.get("selection_score", plan.get("score", 0)),
         })
+        attribution = ""
+        if plan.get("attribution_required"):
+            attribution = f"Fuente: {creator}"
+            if plan.get("license"):
+                attribution += f" | Licencia: {plan.get('license')}"
+        description = "Short transformado a partir de material autorizado, con edición y contexto original."
+        if attribution:
+            description += "\n" + attribution
+
         publish_jobs.append({
             "job_id": "publish:" + plan["clip_id"],
             "clip_id": plan["clip_id"],
             "candidate_id": plan.get("candidate_id"),
             "source_creator": plan.get("source_creator"),
             "title": build_title(plan),
-            "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+            "description": description,
             "status": "blocked_until_rendered",
             "authorization_status": "authorized",
             "transformative_edit_required": True,
@@ -127,7 +136,10 @@ def main():
                 "source_moment_signals": plan.get("signals", []),
                 "original_context": plan.get("original_context", ""),
                 "character_id": plan.get("character_id"),
-                "animation_style": "lagarto_pencil_cast"
+                "animation_style": "lagarto_pencil_cast",
+                "license": plan.get("license"),
+                "license_verified": bool(plan.get("license_verified")),
+                "attribution_required": bool(plan.get("attribution_required"))
             },
             "idempotency_key": "publish:" + plan["clip_id"]
         })
