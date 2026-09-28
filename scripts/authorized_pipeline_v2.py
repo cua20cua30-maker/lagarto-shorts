@@ -36,6 +36,7 @@ def acquire(source_url, output):
     ])
     return result
 
+
 def main():
     candidates = load(CANDIDATES, {"candidates": []}).get("candidates", [])
     allowed = set(load(AUTH, {"authorized_sources": []}).get("authorized_sources", []))
@@ -52,6 +53,8 @@ def main():
     selected = [
         c for c in candidates
         if c.get("source_url") in allowed
+        and c.get("acquirable", False)
+        and c.get("acquisition_url")
         and f"clip:{c.get('candidate_id')}" not in published
     ]
     selected.sort(key=lambda item: float(item.get("score", 0) or 0), reverse=True)
@@ -76,7 +79,7 @@ def main():
         if source.exists() and source.stat().st_size < 100000:
             source.unlink()
         if not source.exists():
-            acquisition = acquire(candidate["source_url"], source)
+            acquisition = acquire(candidate["acquisition_url"], source)
             if acquisition.returncode:
                 print("Authorized acquisition failed:", candidate.get("source_url"))
                 continue
@@ -104,28 +107,15 @@ def main():
         pd = load(plan_file, {"plans": []})
 
         for event in sd.get("events", []):
-            event.update(
-                candidate_id=candidate_id,
-                source_path=str(source),
-                source_creator=candidate.get("source_creator"),
-            )
+            event.update(candidate_id=candidate_id, source_path=str(source), source_creator=candidate.get("source_creator"))
             all_screams.append(event)
 
         for event in ed.get("events", []):
-            event.update(
-                candidate_id=candidate_id,
-                source_path=str(source),
-                source_creator=candidate.get("source_creator"),
-            )
+            event.update(candidate_id=candidate_id, source_path=str(source), source_creator=candidate.get("source_creator"))
             all_emotions.append(event)
 
         for moment in md.get("moments", []):
-            moment.update(
-                candidate_id=candidate_id,
-                source_path=str(source),
-                source_creator=candidate.get("source_creator"),
-                transcript_path=str(transcript),
-            )
+            moment.update(candidate_id=candidate_id, source_path=str(source), source_creator=candidate.get("source_creator"), transcript_path=str(transcript))
             all_moments.append(moment)
 
         for plan in pd.get("plans", []):
