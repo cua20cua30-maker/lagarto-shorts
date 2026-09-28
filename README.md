@@ -24,3 +24,7 @@ Automated Shorts factory built around GitHub Actions.
 ## Current stage
 
 Infrastructure foundation and automated health checks.
+
+## Operations
+
+Twitch radar credentials are configured through GitHub Actions secrets.
