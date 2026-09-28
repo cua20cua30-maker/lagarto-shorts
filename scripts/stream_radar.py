@@ -45,6 +45,6 @@ def main():
     else:diagnostics.append({"platform":"twitch","status":"not_configured","error":err})
     ranked=sorted({x["candidate_id"]:x for x in candidates}.values(),key=lambda x:x["score"],reverse=True)
     DIAG.write_text(json.dumps({"schema_version":1,"generated_at":now.isoformat(),"results":diagnostics},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    OUT.write_text(json.dumps({"schema_version":3,"generated_at":now.isoformat(),"source_priority":["twitch","kick"],"total_discovered":len(ranked),"selection_limit":int(load(ROOT/"config/factory.json",{}).get("limits",{}).get("max_candidates_per_run",20) or 20),"creator_coverage":{n:sum(1 for x in ranked if x["source_creator"]==n) for n in [c["name"] for c in cfg["creators"] if c.get("enabled",True)]},"candidates":ranked},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    OUT.write_text(json.dumps({"schema_version":3,"generated_at":now.isoformat(),"source_priority":["twitch","kick"],"total_discovered":len(ranked),"selection_limit":int(load(ROOT/"config/factory.json",{}).get("limits",{}).get("max_candidates_per_run",20) or 20),"creator_coverage":{n:sum(1 for x in ranked if x["source_creator"]==n) for n in [c["name"] for c in cfg["creators"] if c.get("enabled",True)]},"mode":"vod_only","live_processing":False,"candidates":ranked},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print(f"Stream radar: discovered={len(ranked)} twitch_configured={bool(t)}")
 if __name__=="__main__":main()
