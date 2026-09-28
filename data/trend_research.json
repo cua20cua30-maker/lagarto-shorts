@@ -1,10 +1,11 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-28T09:43:20.338988+00:00",
+  "generated_at": "2026-09-28T09:50:31.614309+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
+        "japón - venezuela",
         "amnistía",
         "selección de fútbol de noruega",
         "loquillo",
@@ -13,8 +14,7 @@
         "delegación del gobierno en ceuta",
         "fedea",
         "tribunal de cuentas",
-        "mos",
-        "santiago niño becerra"
+        "mos"
       ]
     },
     "youtube_popular_titles": {

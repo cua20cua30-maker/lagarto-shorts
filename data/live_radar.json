@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-09-28T09:43:04.573580+00:00",
+  "checked_at": "2026-09-28T09:50:25.601835+00:00",
   "live": [],
   "events": [],
   "diagnostics": [
@@ -12,90 +12,101 @@
     {
       "creator": "IlloJuan",
       "platform": "kick",
-      "status": "ok_offline",
+      "status": "vod_unavailable_official_api",
       "kick_slug": "illojuan",
-      "broadcaster_user_id": 65221,
-      "live_streams": 0
+      "api_authenticated": true,
+      "error": null,
+      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
     },
     {
       "creator": "Rubius",
       "platform": "kick",
-      "status": "ok_offline",
+      "status": "vod_unavailable_official_api",
       "kick_slug": "rubius",
-      "broadcaster_user_id": 18703,
-      "live_streams": 0
+      "api_authenticated": true,
+      "error": null,
+      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
     },
     {
       "creator": "AuronPlay",
       "platform": "kick",
-      "status": "ok_offline",
+      "status": "vod_unavailable_official_api",
       "kick_slug": "auronplay",
-      "broadcaster_user_id": 56870,
-      "live_streams": 0
+      "api_authenticated": true,
+      "error": null,
+      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
     },
     {
       "creator": "ElXokas",
       "platform": "kick",
-      "status": "ok_offline",
+      "status": "vod_unavailable_official_api",
       "kick_slug": "elxokas",
-      "broadcaster_user_id": 41752154,
-      "live_streams": 0
+      "api_authenticated": true,
+      "error": null,
+      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
     },
     {
       "creator": "Peereira7",
       "platform": "kick",
-      "status": "ok_offline",
+      "status": "vod_unavailable_official_api",
       "kick_slug": "peereira7",
-      "broadcaster_user_id": 1491556,
-      "live_streams": 0
+      "api_authenticated": true,
+      "error": null,
+      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
     },
     {
       "creator": "Ibai",
       "platform": "kick",
-      "status": "ok_offline",
+      "status": "vod_unavailable_official_api",
       "kick_slug": "ibai",
-      "broadcaster_user_id": 8285,
-      "live_streams": 0
+      "api_authenticated": true,
+      "error": null,
+      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
     },
     {
       "creator": "WestCOL",
       "platform": "kick",
-      "status": "ok_offline",
+      "status": "vod_unavailable_official_api",
       "kick_slug": "westcol",
-      "broadcaster_user_id": 690420,
-      "live_streams": 0
+      "api_authenticated": true,
+      "error": null,
+      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
     },
     {
       "creator": "TheGrefg",
       "platform": "kick",
-      "status": "ok_offline",
+      "status": "vod_unavailable_official_api",
       "kick_slug": "thegrefg",
-      "broadcaster_user_id": 11966378,
-      "live_streams": 0
+      "api_authenticated": true,
+      "error": null,
+      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
     },
     {
       "creator": "Juan Guarnizo",
       "platform": "kick",
-      "status": "ok_offline",
+      "status": "vod_unavailable_official_api",
       "kick_slug": "juansguarnizo",
-      "broadcaster_user_id": 130489562,
-      "live_streams": 0
+      "api_authenticated": true,
+      "error": null,
+      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
     },
     {
       "creator": "Davoo Xeneize",
       "platform": "kick",
-      "status": "ok_offline",
+      "status": "vod_unavailable_official_api",
       "kick_slug": "davooxeneize",
-      "broadcaster_user_id": 31252219,
-      "live_streams": 0
+      "api_authenticated": true,
+      "error": null,
+      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
     },
     {
       "creator": "ElZeein",
       "platform": "kick",
-      "status": "ok_offline",
+      "status": "vod_unavailable_official_api",
       "kick_slug": "elzeein",
-      "broadcaster_user_id": 32445228,
-      "live_streams": 0
+      "api_authenticated": true,
+      "error": null,
+      "reason": "Kick official Public API currently provides livestream/channel metadata but no public channel-VOD listing/media endpoint. Live streams are not converted into VOD candidates. Undocumented website endpoints/scraping are intentionally disabled."
     }
   ]
 }
