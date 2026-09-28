@@ -26,133 +26,15 @@ def run(command):
 
 
 def acquire(source_url, output):
-    base = [
+    result = run([
         "yt-dlp", "--no-playlist",
         "--retries", "3", "--fragment-retries", "3",
         "--socket-timeout", "30",
-        "--extractor-args", "youtubepot-bgutilhttp:base_url=http://127.0.0.1:4416",
-        "--extractor-args", "youtube:player-client=mweb",
-        "-f", "bv*+ba/b", "--merge-output-format", "mp4",
-        "-o", str(output),
-    ]
-    result = run(base + [source_url])
-    if result.returncode == 0:
-        return result
-    fallback = run([
-        "yt-dlp", "--no-playlist",
-        "--retries", "2", "--fragment-retries", "2",
-        "--socket-timeout", "30",
-        "--extractor-args", "youtube:player-client=web_embedded",
+        "--extractor-retries", "3",
         "-f", "bv*+ba/b", "--merge-output-format", "mp4",
         "-o", str(output), source_url,
     ])
-    return fallback
-
-
-INVIDIOUS_INSTANCES = [
-    "https://inv.nadeko.net",
-    "https://invidious.nerdvpn.de",
-    "https://yt.chocolatemoo53.com",
-    "https://invidious.tiekoetter.com",
-]
-
-PIPED_APIS = [
-    "https://pipedapi.kavin.rocks",
-    "https://api.piped.yt",
-    "https://piped-api.lunar.icu",
-    "https://yapi.vyper.me",
-    "https://api.looleh.xyz",
-    "https://api.piped.private.coffee",
-]
-
-
-def video_id_from_url(source_url):
-    parsed = urllib.parse.urlparse(source_url)
-    if parsed.hostname in {"youtu.be", "www.youtu.be"}:
-        return parsed.path.strip("/")
-    return urllib.parse.parse_qs(parsed.query).get("v", [None])[0]
-
-
-def acquire_invidious(source_url, output):
-    video_id = video_id_from_url(source_url)
-    if not video_id:
-        return False
-
-    for instance in INVIDIOUS_INSTANCES:
-        try:
-            api_url = f"{instance}/api/v1/videos/{urllib.parse.quote(video_id)}?region=ES"
-            req = urllib.request.Request(api_url, headers={"User-Agent": "LagartoShortsFactory/1.0"})
-            with urllib.request.urlopen(req, timeout=20) as response:
-                data = json.loads(response.read().decode("utf-8"))
-
-            streams = data.get("formatStreams", [])
-            if not streams:
-                continue
-
-            def quality(item):
-                label = str(item.get("qualityLabel", "0"))
-                digits = "".join(ch for ch in label if ch.isdigit())
-                return int(digits or 0)
-
-            streams = sorted(streams, key=quality, reverse=True)
-            stream = next((item for item in streams if quality(item) <= 720), streams[0])
-            url = stream.get("url")
-            if not url:
-                continue
-
-            result = subprocess.run([
-                "curl", "-L", "--fail", "--retry", "3",
-                "--connect-timeout", "20", "--max-time", "900",
-                "-o", str(output), url,
-            ], check=False)
-            if result.returncode == 0 and output.exists() and output.stat().st_size > 100000:
-                print(f"Invidious acquisition OK: {instance} quality={stream.get('qualityLabel')}")
-                return True
-        except Exception as exc:
-            print(f"Invidious acquisition failed at {instance}: {exc}")
-
-    return False
-
-
-def acquire_piped(source_url, output):
-    video_id = video_id_from_url(source_url)
-    if not video_id:
-        return False
-
-    for api in PIPED_APIS:
-        try:
-            endpoint = f"{api}/streams/{urllib.parse.quote(video_id)}"
-            req = urllib.request.Request(endpoint, headers={"User-Agent": "LagartoShortsFactory/1.0"})
-            with urllib.request.urlopen(req, timeout=20) as response:
-                data = json.loads(response.read().decode("utf-8"))
-
-            streams = [
-                item for item in data.get("videoStreams", [])
-                if item.get("url") and not item.get("videoOnly")
-            ]
-            if not streams:
-                continue
-
-            def quality(item):
-                label = str(item.get("quality", "0"))
-                digits = "".join(ch for ch in label if ch.isdigit())
-                return int(digits or 0)
-
-            streams.sort(key=quality, reverse=True)
-            stream = next((item for item in streams if quality(item) <= 720), streams[0])
-            result = subprocess.run([
-                "curl", "-L", "--fail", "--retry", "3",
-                "--connect-timeout", "20", "--max-time", "900",
-                "-o", str(output), stream["url"],
-            ], check=False)
-            if result.returncode == 0 and output.exists() and output.stat().st_size > 100000:
-                print(f"Piped acquisition OK: {api} quality={stream.get('quality')}")
-                return True
-        except Exception as exc:
-            print(f"Piped acquisition failed at {api}: {exc}")
-
-    return False
-
+    return result
 
 def main():
     candidates = load(CANDIDATES, {"candidates": []}).get("candidates", [])
@@ -196,10 +78,8 @@ def main():
         if not source.exists():
             acquisition = acquire(candidate["source_url"], source)
             if acquisition.returncode:
-                if not acquire_invidious(candidate["source_url"], source):
-                    if not acquire_piped(candidate["source_url"], source):
-                        print("Authorized acquisition failed:", candidate.get("source_url"))
-                        continue
+                print("Authorized acquisition failed:", candidate.get("source_url"))
+                continue
 
         cached = plan_file.exists() and moment_file.exists() and emotion_file.exists() and scream_file.exists()
         if not cached:
