@@ -1,12 +1,132 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:49:02.577908+00:00",
+  "generated_at": "2026-09-28T05:51:08.151728+00:00",
   "strategies": [
+    {
+      "candidate_id": "tiktok:7688356743658704150",
+      "source_creator": "Ibai",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
     {
       "candidate_id": "yt:Me4El1DJSGY",
       "source_creator": "Davoo Xeneize",
       "hook_pattern": "reaction",
       "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "tiktok:7690245393761963287",
+      "source_creator": "Ibai",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "tiktok:7689542055005031702",
+      "source_creator": "Ibai",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "tiktok:7689172801739164950",
+      "source_creator": "Ibai",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "unknown",
+      "learned_format": "vertical_9_16",
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "add_original_context_or_commentary",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "tiktok:7687678908782644502",
+      "source_creator": "Ibai",
+      "hook_pattern": "context_open",
+      "pacing_pattern": "medium_hook",
       "learned_edit_style": "unknown",
       "learned_format": "vertical_9_16",
       "transformation": [

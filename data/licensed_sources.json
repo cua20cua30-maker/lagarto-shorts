@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:48:15.789607+00:00",
+  "generated_at": "2026-09-28T05:50:17.039431+00:00",
   "status": "ok",
   "sources": [
     {
@@ -14,21 +14,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=oUlZ3U4FQgY",
-      "video_id": "oUlZ3U4FQgY",
-      "title": "La EMOTIVA REACCIÓN de este DESARROLLADOR de VIDEOJUEGOS 🥲 #gaming #steam #viral #videojuegos",
-      "source_creator": "Vandal",
-      "channel_id": "UCmb0LnmFYceH7toqgmUTJDA",
-      "duration_seconds": 52,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -42,7 +28,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -56,21 +42,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=V66vIoQ3NKI",
-      "video_id": "V66vIoQ3NKI",
-      "title": "MI HIJASTRA LE ROBA EL NOVIO A MI HERMANA…",
-      "source_creator": "ARTA GAME",
-      "channel_id": "UCYQ8oHPbnZ1sLBjiCSdP8ZQ",
-      "duration_seconds": 2463,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -84,7 +56,35 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=V66vIoQ3NKI",
+      "video_id": "V66vIoQ3NKI",
+      "title": "MI HIJASTRA LE ROBA EL NOVIO A MI HERMANA…",
+      "source_creator": "ARTA GAME",
+      "channel_id": "UCYQ8oHPbnZ1sLBjiCSdP8ZQ",
+      "duration_seconds": 2463,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "gaming español",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=PkWj0aZRheE",
+      "video_id": "PkWj0aZRheE",
+      "title": "Si no TOCAS el mando en el juego de DEADPOOL 🤨💀  #deadpool#marvel#curiosidadesdevideojuegos#gaming",
+      "source_creator": "Vandal",
+      "channel_id": "UCmb0LnmFYceH7toqgmUTJDA",
+      "duration_seconds": 38,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "gaming español",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -98,21 +98,21 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
-      "source_url": "https://www.youtube.com/watch?v=Bo9Gk184Zm4",
-      "video_id": "Bo9Gk184Zm4",
-      "title": "3 RAZONES por las que COMPRAR PS5 Pro 🔥 #ad  #ps5pro  #sony  #gaming  #playstation5",
+      "source_url": "https://www.youtube.com/watch?v=vX_PUC0iSdc",
+      "video_id": "vX_PUC0iSdc",
+      "title": "Cuphead es MÁS FÁCIL si eres BUENA PERSONA 🧅🤔 #cuphead #eastergg #sabiasquevideojuegos #gaming",
       "source_creator": "Vandal",
       "channel_id": "UCmb0LnmFYceH7toqgmUTJDA",
-      "duration_seconds": 48,
+      "duration_seconds": 28,
       "license": "CC BY / Creative Commons",
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -126,7 +126,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -140,21 +140,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "gaming español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=tUCKKBqng2k",
-      "video_id": "tUCKKBqng2k",
-      "title": "DjMaRiiO REACCIONA AL GOL QUE HACE A ESPAÑA CAMPEONA DEL MUNDO",
-      "source_creator": "El Rincón del Fútbol ",
-      "channel_id": "UC_KlvdaeE2dicShYXqlShZQ",
-      "duration_seconds": 12,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -168,7 +154,35 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=tUCKKBqng2k",
+      "video_id": "tUCKKBqng2k",
+      "title": "DjMaRiiO REACCIONA AL GOL QUE HACE A ESPAÑA CAMPEONA DEL MUNDO",
+      "source_creator": "El Rincón del Fútbol ",
+      "channel_id": "UC_KlvdaeE2dicShYXqlShZQ",
+      "duration_seconds": 12,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "reacciones español",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=SlVa5Ow4Qms",
+      "video_id": "SlVa5Ow4Qms",
+      "title": "Reaccion a la llegada de Thor a Wakanda. Avengers Infinity War",
+      "source_creator": "Universo Marvelita UM",
+      "channel_id": "UCawt7EvRqz6hK3Hc7lm6sjQ",
+      "duration_seconds": 23,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "reacciones español",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -182,49 +196,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=5HRD8mem1Ag",
-      "video_id": "5HRD8mem1Ag",
-      "title": "DjMaRiiO Reacciona a Nico Williams en la Celebración del Mundial #mundial2026",
-      "source_creator": "El Rincón del Fútbol ",
-      "channel_id": "UC_KlvdaeE2dicShYXqlShZQ",
-      "duration_seconds": 16,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=XclyvFYwGB8",
-      "video_id": "XclyvFYwGB8",
-      "title": "REACCIÓN DE DjMaRiiO A LA CELEBRACIÓN DE LAMINE YAMAL 😂 #djmariio",
-      "source_creator": "El Rincón del Fútbol ",
-      "channel_id": "UC_KlvdaeE2dicShYXqlShZQ",
-      "duration_seconds": 13,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=reAVW5dODK4",
-      "video_id": "reAVW5dODK4",
-      "title": "ARGENTINA VS. INGLATERRA: ANYA TAYLOR-JOY TOMÓ POSTURA",
-      "source_creator": "Radio Con Vos 89.9",
-      "channel_id": "UCxDteokWBemJvLI_I0VUGdA",
-      "duration_seconds": 19,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -238,7 +210,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -252,7 +224,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -266,7 +238,49 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "reacciones español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=2TsrjusDxFg",
+      "video_id": "2TsrjusDxFg",
+      "title": "PARTE 5 ¿Así celebra España a sus soldados? (Reacción Día de las FFAA 2025)",
+      "source_creator": "Mr Jose",
+      "channel_id": "UCv6tgIHROFZiDtK0wv4ujZQ",
+      "duration_seconds": 1021,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "reacciones español",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=NSCFgnK5nR0",
+      "video_id": "NSCFgnK5nR0",
+      "title": "Latino vs Español ¿Cuál es el mejor?",
+      "source_creator": "DEMIAN ARGENTO",
+      "channel_id": "UClJF5WcDnvkp-CfT1KIkoRQ",
+      "duration_seconds": 59,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "reacciones español",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=fptinLvBnkc",
+      "video_id": "fptinLvBnkc",
+      "title": "La canción que Ricardo Arjona prometió no volver a cantar",
+      "source_creator": "Radio Tiempo Colombia",
+      "channel_id": "UCiEIUWgqKUeAdOfu_4osqGQ",
+      "duration_seconds": 38,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "reacciones español",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -280,49 +294,21 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
-      "source_url": "https://www.youtube.com/watch?v=Q4gyvXAbkac",
-      "video_id": "Q4gyvXAbkac",
-      "title": "Desastres Naturales Para Niños | Historias Educativas y Divertidas | Kids Hut Español|",
-      "source_creator": "T-Series Kids Hut - Cuentos en Español",
-      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
-      "duration_seconds": 1240,
+      "source_url": "https://www.youtube.com/watch?v=ZocqoFplkns",
+      "video_id": "ZocqoFplkns",
+      "title": "HISPANOAMÉRICA, una película de José Luis López-Linares",
+      "source_creator": "Canal Hispanidad 🌎",
+      "channel_id": "UCRtnO98gQ_FK47HT_fVh9mg",
+      "duration_seconds": 291,
       "license": "CC BY / Creative Commons",
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=WFeSfdQeGlI",
-      "video_id": "WFeSfdQeGlI",
-      "title": "EL NIÑO QUE TENÍA MÁS VÍCTIMAS QUE EDAD #juanfernandohermosa #shorts #crimenesimperfectos",
-      "source_creator": "Suceso Criminal",
-      "channel_id": "UCZjJ0zjf_6L1uzsX0Ohgmxw",
-      "duration_seconds": 60,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=VBXweyXJ9XM",
-      "video_id": "VBXweyXJ9XM",
-      "title": "Historias de español - Colección de historias || historias para dormir y cuentos de hadas",
-      "source_creator": "T-Series Kids Hut - Cuentos en Español",
-      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
-      "duration_seconds": 3396,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -336,21 +322,35 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
-      "source_url": "https://www.youtube.com/watch?v=MCbsqEuYJPQ",
-      "video_id": "MCbsqEuYJPQ",
-      "title": "Historias encantadoras para niños: cuentos clásicos y mágicos en español para disfrutar y aprender",
-      "source_creator": "T-Series Kids Hut - Cuentos en Español",
-      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
-      "duration_seconds": 1095,
+      "source_url": "https://www.youtube.com/watch?v=ip56CsaKgi4",
+      "video_id": "ip56CsaKgi4",
+      "title": "😰👻 MÁS historias de TERROR FEBRERO🤐#storytimes #terrors #horror | @LunitaStorytime 💗",
+      "source_creator": "Lunita Storytime",
+      "channel_id": "UCzuJO7GGin316HqfMBw-aRA",
+      "duration_seconds": 867,
       "license": "CC BY / Creative Commons",
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=Q4gyvXAbkac",
+      "video_id": "Q4gyvXAbkac",
+      "title": "Desastres Naturales Para Niños | Historias Educativas y Divertidas | Kids Hut Español|",
+      "source_creator": "T-Series Kids Hut - Cuentos en Español",
+      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
+      "duration_seconds": 1240,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "historias español",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -364,35 +364,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=O572Rf2UBEU",
-      "video_id": "O572Rf2UBEU",
-      "title": "El Sol, La Luna Y El Viento Salen A Cenar | Nuevas Historias Para Niños | Cuentos De Aventuras",
-      "source_creator": "T-Series Kids Hut - Cuentos en Español",
-      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
-      "duration_seconds": 329,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
-      "attribution_required": true
-    },
-    {
-      "source_url": "https://www.youtube.com/watch?v=BrFhdXM-UgY",
-      "video_id": "BrFhdXM-UgY",
-      "title": "Cuentos en Español para Niños | Historias para Dormir | Cuentos para la Hora de Dormir",
-      "source_creator": "T-Series Kids Hut - Cuentos en Español",
-      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
-      "duration_seconds": 8275,
-      "license": "CC BY / Creative Commons",
-      "license_verified": true,
-      "verification_source": "YouTube Data API status.license=creativeCommon",
-      "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -406,7 +378,49 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "historias español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=MCbsqEuYJPQ",
+      "video_id": "MCbsqEuYJPQ",
+      "title": "Historias encantadoras para niños: cuentos clásicos y mágicos en español para disfrutar y aprender",
+      "source_creator": "T-Series Kids Hut - Cuentos en Español",
+      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
+      "duration_seconds": 1095,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "historias español",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=VBXweyXJ9XM",
+      "video_id": "VBXweyXJ9XM",
+      "title": "Historias de español - Colección de historias || historias para dormir y cuentos de hadas",
+      "source_creator": "T-Series Kids Hut - Cuentos en Español",
+      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
+      "duration_seconds": 3396,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "historias español",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
+      "attribution_required": true
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=O572Rf2UBEU",
+      "video_id": "O572Rf2UBEU",
+      "title": "El Sol, La Luna Y El Viento Salen A Cenar | Nuevas Historias Para Niños | Cuentos De Aventuras",
+      "source_creator": "T-Series Kids Hut - Cuentos en Español",
+      "channel_id": "UCBlslL5pqbe8EwI1Edx__Fw",
+      "duration_seconds": 329,
+      "license": "CC BY / Creative Commons",
+      "license_verified": true,
+      "verification_source": "YouTube Data API status.license=creativeCommon",
+      "discovery_query": "historias español",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -420,7 +434,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -434,7 +448,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -448,7 +462,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -462,7 +476,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -476,7 +490,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -490,7 +504,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -504,7 +518,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -518,7 +532,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -532,7 +546,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     },
     {
@@ -546,7 +560,7 @@
       "license_verified": true,
       "verification_source": "YouTube Data API status.license=creativeCommon",
       "discovery_query": "streamer español",
-      "verified_at": "2026-09-28T05:48:15.789607+00:00",
+      "verified_at": "2026-09-28T05:50:17.039431+00:00",
       "attribution_required": true
     }
   ]
