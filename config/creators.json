@@ -64,15 +64,7 @@
     {
       "name": "ElZeein",
       "enabled": true,
-      "twitch_login": "elzeein",
-      "kick_slug": "elzeein"
-    },
-    {
-      "name": "R4ulin",
-      "enabled": true,
-      "twitch_login": "r4ulin",
-      "kick_slug": "r4ulin",
-      "owner_authorized": true
+      "twitch_login": "elzeein"
     }
   ]
 }
