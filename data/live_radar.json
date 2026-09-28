@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-09-28T09:40:51.363621+00:00",
+  "live": [],
+  "events": [],
+  "diagnostics": [
+    {
+      "platform": "twitch",
+      "status": "ok",
+      "live": 0
+    },
+    {
+      "platform": "kick",
+      "status": "not_configured"
+    }
+  ]
+}

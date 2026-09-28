@@ -1,12 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-28T09:38:06.566439+00:00",
+  "generated_at": "2026-09-28T09:41:01.692908+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2882797277",
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -25,7 +31,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -35,7 +41,13 @@
       "candidate_id": "twitch:vod:2885816211",
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -54,7 +66,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -64,7 +76,13 @@
       "candidate_id": "twitch:vod:2885607097",
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -83,7 +101,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -93,7 +111,13 @@
       "candidate_id": "twitch:vod:2883864892",
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -112,7 +136,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -122,7 +146,13 @@
       "candidate_id": "twitch:vod:2882773943",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -141,7 +171,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -151,7 +181,13 @@
       "candidate_id": "twitch:vod:2885639019",
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -170,7 +206,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -180,7 +216,13 @@
       "candidate_id": "twitch:vod:2884824919",
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -199,7 +241,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -209,7 +251,13 @@
       "candidate_id": "twitch:vod:2883883168",
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -228,7 +276,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -238,7 +286,13 @@
       "candidate_id": "twitch:vod:2884125661",
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -257,7 +311,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -267,7 +321,13 @@
       "candidate_id": "twitch:vod:2884846599",
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -286,7 +346,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -296,7 +356,13 @@
       "candidate_id": "twitch:vod:2884695006",
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -315,7 +381,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -325,7 +391,13 @@
       "candidate_id": "twitch:vod:2883628528",
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -344,7 +416,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -354,7 +426,13 @@
       "candidate_id": "twitch:vod:2885611944",
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -373,7 +451,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -383,7 +461,13 @@
       "candidate_id": "twitch:vod:2882877238",
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -402,7 +486,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -412,7 +496,13 @@
       "candidate_id": "twitch:vod:2885713660",
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -431,7 +521,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -441,7 +531,13 @@
       "candidate_id": "twitch:vod:2882017753",
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -460,7 +556,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -470,7 +566,13 @@
       "candidate_id": "twitch:vod:2882012254",
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -489,7 +591,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -499,7 +601,13 @@
       "candidate_id": "twitch:vod:2881911916",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -518,7 +626,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -528,7 +636,13 @@
       "candidate_id": "twitch:vod:2883918267",
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -547,7 +661,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -557,7 +671,13 @@
       "candidate_id": "twitch:vod:2881168081",
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
-      "trend_hook_examples": [],
+      "trend_hook_examples": [
+        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.9 - EL EQUIPO QUE PISOTEARÁ A XAMORK",
+        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure",
+        "VISIONQUEST Tráiler 2 (2026) MARVEL",
+        "CUMPLÍ MI SUEÑO DE CUANDO ERA PEQUEÑO"
+      ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
@@ -576,7 +696,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": null,
+      "trend_research_timestamp": "2026-09-28T09:41:01.062431+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
