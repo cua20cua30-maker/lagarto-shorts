@@ -28,10 +28,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Set up Deno for YouTube extraction
-        uses: denoland/setup-deno@v2
-        with:
-          deno-version: v2.x
       - name: Install tools
         run: python -m pip install --disable-pip-version-check yt-dlp google-api-python-client google-auth google-auth-httplib2 google-auth-oauthlib pillow
       - name: Verify runtime tools
@@ -47,13 +43,10 @@ jobs:
         run: python -m compileall -q scripts
       - name: Foundation
         run: python scripts/healthcheck.py
-      - name: Discover verified Creative Commons sources
-        env:
-          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
-          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
-          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
-        run: python scripts/cc_source_discovery.py
       - name: Radar
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
         run: python scripts/radar_v2.py
       - name: Multisource radar
         run: python scripts/multisource_radar.py
@@ -76,13 +69,7 @@ jobs:
       - name: Process authorized sources
         run: |
           if python -c "import json; a=bool(json.load(open('data/authorization_manifest.json', encoding='utf-8')).get('authorized_sources', [])); l=bool(json.load(open('data/licensed_sources.json', encoding='utf-8')).get('sources', [])); print(a or l)" | grep -q True; then
-            python -m pip install --disable-pip-version-check faster-whisper bgutil-ytdlp-pot-provider
-            rm -rf .pot-provider
-            git clone --depth 1 --branch 2.0.0 https://github.com/Brainicism/bgutil-ytdlp-pot-provider.git .pot-provider
-            cd .pot-provider/server
-            deno install --allow-scripts=npm:canvas --frozen
-            (cd node_modules && nohup deno run --allow-env --allow-net --allow-ffi=. --allow-read=. ../src/main.ts > ../../.bgutil-pot.log 2>&1 &)
-            cd ../..
+            python -m pip install --disable-pip-version-check faster-whisper
           fi
           python scripts/authorized_pipeline_v2.py
           python scripts/render_authorized_v2.py
