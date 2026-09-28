@@ -24,14 +24,27 @@ def run(command):
 
 
 def acquire(source_url, output):
-    command = [
+    base = [
         "yt-dlp", "--no-playlist",
         "--retries", "3", "--fragment-retries", "3",
         "--socket-timeout", "30",
+        "--extractor-args", "youtubepot-bgutilhttp:base_url=http://127.0.0.1:4416",
+        "--extractor-args", "youtube:player-client=mweb",
+        "-f", "bv*+ba/b", "--merge-output-format", "mp4",
+        "-o", str(output),
+    ]
+    result = run(base + [source_url])
+    if result.returncode == 0:
+        return result
+    fallback = run([
+        "yt-dlp", "--no-playlist",
+        "--retries", "2", "--fragment-retries", "2",
+        "--socket-timeout", "30",
+        "--extractor-args", "youtube:player-client=web_embedded",
         "-f", "bv*+ba/b", "--merge-output-format", "mp4",
         "-o", str(output), source_url,
-    ]
-    return run(command)
+    ])
+    return fallback
 
 
 def main():
