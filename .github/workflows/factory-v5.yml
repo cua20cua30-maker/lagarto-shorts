@@ -125,6 +125,7 @@ jobs:
             echo 'No state changes.'
           else
             git commit -m 'Run complete Shorts factory pipeline'
-            git pull --rebase origin main
+            git fetch origin main
+            git rebase -X theirs origin/main
             git push
           fi
