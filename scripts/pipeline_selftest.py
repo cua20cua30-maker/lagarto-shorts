@@ -51,9 +51,11 @@ def main():
     assert recovery["schema_version"] == 1 and isinstance(recovery["items"], list)
     assert published["schema_version"] == 1 and isinstance(published["items"], list)
     assert radar_diagnostics["schema_version"] == 1
-    assert radar_diagnostics["creators_configured"] == 11
     assert isinstance(radar_diagnostics["results"], list)
-    assert len(radar_diagnostics["results"]) == radar_diagnostics["creators_enabled"]
+    radar_results = radar_diagnostics["results"]
+    kick_creators = {r.get("creator") for r in radar_results if r.get("platform") == "kick" and r.get("creator")}
+    assert len(kick_creators) == 11
+    assert any(r.get("platform") == "twitch" for r in radar_results)
 
     configured = {creator["name"] for creator in creators["creators"]}
     assert len(configured) == 11
