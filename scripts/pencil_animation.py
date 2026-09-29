@@ -116,9 +116,30 @@ def main():
                     current=ct[:82]
                     break
             if current:
-                cf=font(44,True); bbox=d.textbbox((0,0),current,font=cf); tw=bbox[2]-bbox[0]; x=(w-tw)//2
-                d.rounded_rectangle((x-28,1660,x+tw+28,1745),radius=18,fill=(250,245,231),outline=(55,48,40),width=3)
-                d.text((x,1675),current,fill=(35,32,28),font=cf)
+                # Keep subtitles inside a safe 7% side margin and wrap long speech to two lines.
+                cf=font(42,True)
+                max_width=int(w*0.86)
+                words=current.split()
+                lines=[]; line=""
+                for word in words:
+                    test=(line+" "+word).strip()
+                    if d.textbbox((0,0),test,font=cf)[2] <= max_width:
+                        line=test
+                    else:
+                        if line: lines.append(line)
+                        line=word
+                if line: lines.append(line)
+                lines=lines[:2]
+                line_h=54
+                widths=[d.textbbox((0,0),line,font=cf)[2] for line in lines]
+                box_w=min(max_width+56,max(widths)+56)
+                box_h=len(lines)*line_h+28
+                box_x=(w-box_w)//2
+                box_y=1640
+                d.rounded_rectangle((box_x,box_y,box_x+box_w,box_y+box_h),radius=18,fill=(250,245,231),outline=(55,48,40),width=3)
+                for idx,line in enumerate(lines):
+                    tw=d.textbbox((0,0),line,font=cf)[2]
+                    d.text(((w-tw)//2,box_y+12+idx*line_h),line,fill=(35,32,28),font=cf)
             # dynamic motion / impact marks
             if emotion in ("fear","surprise","scream"):
                 for k in range(8):
