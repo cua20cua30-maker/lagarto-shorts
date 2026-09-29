@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-29T18:27:44.984951+00:00",
+  "generated_at": "2026-09-29T22:32:23.590519+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2886401741",
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -31,7 +31,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -42,11 +42,11 @@
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -66,7 +66,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -77,11 +77,11 @@
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -101,7 +101,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -112,11 +112,11 @@
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -136,7 +136,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -147,11 +147,11 @@
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -171,7 +171,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -182,11 +182,11 @@
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -206,24 +206,24 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
       }
     },
     {
-      "candidate_id": "twitch:vod:2884824919",
+      "candidate_id": "twitch:vod:2886858744",
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
       "max_duration_seconds": 58.5,
@@ -241,7 +241,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -252,13 +252,13 @@
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
       "max_duration_seconds": 58.5,
@@ -276,7 +276,42 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2887284550",
+      "source_creator": "AuronPlay",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
+      ],
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -287,11 +322,11 @@
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -311,7 +346,42 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2886780818",
+      "source_creator": "Juan Guarnizo",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
+      ],
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -322,13 +392,13 @@
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
       "max_duration_seconds": 58.5,
@@ -346,7 +416,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -357,11 +427,11 @@
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -381,42 +451,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2884125661",
-      "source_creator": "Juan Guarnizo",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
-      ],
-      "pacing_pattern": "short_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -427,11 +462,11 @@
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -451,7 +486,42 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2884824919",
+      "source_creator": "TheGrefg",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
+        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
+        "NO PUEDES SALIR DE ESTE JUEGO",
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
+      ],
+      "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -462,11 +532,11 @@
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -486,42 +556,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2883628528",
-      "source_creator": "AuronPlay",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
-      ],
-      "pacing_pattern": "medium_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -532,13 +567,13 @@
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
-      "pacing_pattern": "short_hook",
+      "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
       "max_duration_seconds": 58.5,
@@ -556,7 +591,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -567,11 +602,11 @@
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -591,7 +626,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -602,11 +637,11 @@
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -626,42 +661,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2885713660",
-      "source_creator": "TheGrefg",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
-      ],
-      "pacing_pattern": "short_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -672,11 +672,11 @@
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "🤯30 cosas que NO VISTE del tráiler de FNAF x Fortnite🤯",
+        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
+        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
         "NO PUEDES SALIR DE ESTE JUEGO",
-        "¡QUÉ PRIMER COMBATE! FOLAGOR vs XAMORK | PokeAlex y Sekiam REACCIONAN",
-        "NADA ES LO QUE PARECE EN ESTE JUEGO... | Super Bear Adventure"
+        "LEO JIMENEZ \"Inquebrantable\" (Videoclip)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -696,7 +696,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-29T18:27:44.311920+00:00",
+      "trend_research_timestamp": "2026-09-29T22:32:22.986051+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
