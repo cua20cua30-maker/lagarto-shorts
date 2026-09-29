@@ -1,7 +1,5 @@
 import json
 import subprocess
-import urllib.parse
-import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -25,13 +23,12 @@ def run(command):
     return subprocess.run(command, check=False)
 
 
-def acquire(source_url, output):
+def acquire_audio(source_url, output):
     result = run([
         "yt-dlp", "--no-playlist",
         "--retries", "3", "--fragment-retries", "3",
-        "--socket-timeout", "30",
-        "--extractor-retries", "3",
-        "-f", "bv*+ba/b", "--merge-output-format", "mp4",
+        "--socket-timeout", "30", "--extractor-retries", "3",
+        "-f", "ba[ext=m4a]/ba",
         "-o", str(output), source_url,
     ])
     return result
@@ -42,7 +39,8 @@ def main():
     allowed = set(load(AUTH, {"authorized_sources": []}).get("authorized_sources", []))
     licensed = load(ROOT / "data/licensed_sources.json", {"sources": []}).get("sources", [])
     allowed.update(
-        s.get("source_url") for s in licensed if s.get("license_verified") and s.get("source_url")
+        s.get("source_url") for s in licensed
+        if s.get("license_verified") and s.get("source_url")
     )
 
     published = {
@@ -59,18 +57,15 @@ def main():
         and f"clip:{c.get('candidate_id')}" not in published
     ]
     selected.sort(key=lambda item: float(item.get("score", 0) or 0), reverse=True)
-    selected = selected[:5]
+    selected = selected[:3]
 
-    all_moments = []
-    all_plans = []
-    all_screams = []
-    all_emotions = []
+    all_moments, all_plans, all_screams, all_emotions = [], [], [], []
     WORK.mkdir(exist_ok=True)
 
     for candidate in selected:
         candidate_id = str(candidate["candidate_id"])
         cid = candidate_id.replace(":", "_")
-        source = WORK / f"{cid}.mp4"
+        source = WORK / f"{cid}.m4a"
         transcript = WORK / f"{cid}.json"
         scream_file = WORK / f"{cid}_screams.json"
         emotion_file = WORK / f"{cid}_emotions.json"
@@ -80,9 +75,9 @@ def main():
         if source.exists() and source.stat().st_size < 100000:
             source.unlink()
         if not source.exists():
-            acquisition = acquire(candidate["acquisition_url"], source)
+            acquisition = acquire_audio(candidate["acquisition_url"], source)
             if acquisition.returncode:
-                print("Authorized acquisition failed:", candidate.get("source_url"))
+                print("Authorized audio acquisition failed:", candidate.get("source_url"))
                 continue
 
         cached = plan_file.exists() and moment_file.exists() and emotion_file.exists() and scream_file.exists()
@@ -110,15 +105,12 @@ def main():
         for event in sd.get("events", []):
             event.update(candidate_id=candidate_id, source_path=str(source), source_creator=candidate.get("source_creator"))
             all_screams.append(event)
-
         for event in ed.get("events", []):
             event.update(candidate_id=candidate_id, source_path=str(source), source_creator=candidate.get("source_creator"))
             all_emotions.append(event)
-
         for moment in md.get("moments", []):
             moment.update(candidate_id=candidate_id, source_path=str(source), source_creator=candidate.get("source_creator"), transcript_path=str(transcript))
             all_moments.append(moment)
-
         for plan in pd.get("plans", []):
             plan.update(
                 candidate_id=candidate_id,
@@ -135,7 +127,7 @@ def main():
     SCREAMS.write_text(json.dumps({"schema_version": 1, "events": all_screams}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     MOMENTS.write_text(json.dumps({"schema_version": 4, "moments": all_moments}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     PLANS.write_text(json.dumps({"schema_version": 1, "plans": all_plans}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Authorized pipeline v2: selected={len(selected)} screams={len(all_screams)} moments={len(all_moments)} plans={len(all_plans)}")
+    print(f"Authorized pipeline v3: selected={len(selected)} screams={len(all_screams)} moments={len(all_moments)} plans={len(all_plans)}")
 
 
 if __name__ == "__main__":
