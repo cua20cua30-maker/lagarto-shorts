@@ -37,7 +37,7 @@
       "transcript_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.json"
     },
     {
-      "moment_id": "moment:158:1536210",
+      "moment_id": "moment:142:1535190",
       "start": 1477.9,
       "end": 1765.85,
       "score": 70.6,
@@ -63,8 +63,8 @@
         "surprise"
       ],
       "dominant_emotion": "sadness",
-      "hook_text": "Ah, no, no, no, no, que no reacciona tú.",
-      "context_text": "Me escucháis, ¿no? Por lo menos. Al mando de la play me acaba de petar el ordenador tú, pero pero otro nivel. ¿A ver si reacciona? Ah, no, no, no, no, que no reacciona tú. Tú tú, que no reacciona tú. No, no, que no reacciona, ¿qué va a la variedad de sexta? ¿Qué va a la variedad de sexta? ¿Qué saca, Dío? Tú tú, ¿qué saca, Dío? Esto es real, lo que acaba de pasar, es real. Al enchufar el mando de la play, ¿saper a una petada? De hecho, me escucháis, me sorprende que me escuchéis. Es increíble que me estés escuchando actualmente, Dío.",
+      "hook_text": "¿A ver si reacciona? Ah, no, no, no, no, no reacciona tú.",
+      "context_text": "Bueno, mira, Dios. Me escucháis, ¿no? Por lo menos. Al mando de la playme acaba de petar el ordenador tú, pero pero otro nivel. ¿A ver si reacciona? Ah, no, no, no, no, no reacciona tú. Tú tú, que no reacciona tú. No, no, no, que no reacciona. ¿Qué barbaridad se es esta? ¿Qué barbaridad se es esta? ¿Qué saque da, tú tú, qué saque da así? Esto es real, lo que acaba de pasar es real. Al enchufar el mando de la play, ¿saper a una petada? De hecho, me escucháis, me sorprende que me escuchéis. Es increíble que me estoy escuchando actualmente tío.",
       "candidate_id": "twitch:vod:2885611944",
       "source_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.m4a",
       "source_creator": "Ibai",
