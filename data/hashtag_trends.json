@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T00:57:38.052197+00:00",
+  "generated_at": "2026-09-29T06:03:52.673665+00:00",
   "sources": {
     "tiktok_creative_center": {
       "source": "tiktok_creative_center",
@@ -17,13 +17,13 @@
       "clip_id": "clip:moment:59:951000",
       "hashtags": [
         "#fff",
-        "#aitana",
-        "#fe2c55",
         "#karolg",
-        "#184d0a__a",
+        "#fe2c55",
         "#romeosantos",
+        "#184d0a__a",
+        "#lyrics",
         "#25f4ee",
-        "#lyrics"
+        "#reggaeton"
       ],
       "details": [
         {
@@ -36,7 +36,7 @@
           ]
         },
         {
-          "hashtag": "#aitana",
+          "hashtag": "#karolg",
           "score": 30.0,
           "trend_score": 30.0,
           "historical_retention": 0,
@@ -54,7 +54,7 @@
           ]
         },
         {
-          "hashtag": "#karolg",
+          "hashtag": "#romeosantos",
           "score": 29.7,
           "trend_score": 29.7,
           "historical_retention": 0,
@@ -72,7 +72,7 @@
           ]
         },
         {
-          "hashtag": "#romeosantos",
+          "hashtag": "#lyrics",
           "score": 29.4,
           "trend_score": 29.4,
           "historical_retention": 0,
@@ -90,7 +90,7 @@
           ]
         },
         {
-          "hashtag": "#lyrics",
+          "hashtag": "#reggaeton",
           "score": 29.1,
           "trend_score": 29.1,
           "historical_retention": 0,
