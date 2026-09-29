@@ -1,42 +1,4 @@
 {
   "schema_version": 1,
-  "jobs": [
-    {
-      "job_id": "rendered:clip:moment:59:951000",
-      "clip_id": "clip:moment:59:951000",
-      "candidate_id": "twitch:vod:2885611944",
-      "source_creator": "Ibai",
-      "original_context": "El momento de la celebración",
-      "output": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/clip_moment_59_951000.mp4",
-      "status": "rendered",
-      "captions": true,
-      "animation_style": "lagarto_pencil_cast",
-      "character_id": "ibai",
-      "format": "vertical_9_16",
-      "aspect_ratio": "9:16",
-      "max_duration_seconds": 58.5,
-      "original_audio_primary": true,
-      "transformative_edit_required": true,
-      "idempotency_key": "rendered:clip:moment:59:951000",
-      "emotion_signals": [
-        "joy_triumph",
-        "rapid_speech",
-        "sadness",
-        "scream_or_volume_spike",
-        "silence_to_emotion",
-        "surprise"
-      ],
-      "emotion_score": 100.0,
-      "signals": [
-        "joy_triumph",
-        "rapid_speech",
-        "sadness",
-        "scream_or_volume_spike",
-        "shock",
-        "silence_to_emotion",
-        "surprise"
-      ],
-      "selection_score": 74.2
-    }
-  ]
+  "jobs": []
 }
