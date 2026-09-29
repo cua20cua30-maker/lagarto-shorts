@@ -16,7 +16,7 @@ permissions:
 
 concurrency:
   group: lagarto-shorts-factory-v7
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   factory:
