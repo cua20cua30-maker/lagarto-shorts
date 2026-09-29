@@ -56,6 +56,20 @@ def main():
         and c.get("acquisition_url")
         and f"clip:{c.get('candidate_id')}" not in published
     ]
+    def duration_seconds(item):
+        raw = str(item.get("duration_raw", "")).lower().strip()
+        total = 0
+        import re
+        for value, unit in re.findall(r"(\d+)\s*([hms])", raw):
+            total += int(value) * {"h": 3600, "m": 60, "s": 1}[unit]
+        return total
+
+    # Phase 1 is audio-only animation. Prefer short VODs so the first end-to-end
+    # render completes reliably on the free GitHub runner; long VODs remain queued
+    # for a later chunked-processing phase.
+    short = [c for c in selected if 0 < duration_seconds(c) <= 90 * 60]
+    if short:
+        selected = short
     selected.sort(key=lambda item: float(item.get("score", 0) or 0), reverse=True)
     selected = selected[:3]
 
