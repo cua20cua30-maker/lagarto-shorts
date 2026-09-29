@@ -69,9 +69,13 @@ def main():
     # for a later chunked-processing phase.
     short = [c for c in selected if 0 < duration_seconds(c) <= 90 * 60]
     if short:
-        selected = short
-    selected.sort(key=lambda item: float(item.get("score", 0) or 0), reverse=True)
-    selected = selected[:3]
+        # First end-to-end validation: process exactly one short VOD.
+        # Prefer the shortest eligible VOD to minimize runner time; score breaks ties.
+        short.sort(key=lambda item: (duration_seconds(item), -float(item.get("score", 0) or 0)))
+        selected = short[:1]
+    else:
+        selected.sort(key=lambda item: float(item.get("score", 0) or 0), reverse=True)
+        selected = selected[:1]
 
     all_moments, all_plans, all_screams, all_emotions = [], [], [], []
     WORK.mkdir(exist_ok=True)
@@ -101,7 +105,7 @@ def main():
                 ["python", "scripts/transcriber.py", "--input", str(source), "--output", str(transcript)],
                 ["python", "scripts/emotion_detector.py", "--input", str(source), "--transcript", str(transcript), "--output", str(emotion_file)],
                 ["python", "scripts/moment_detector.py", "--input", str(transcript), "--output", str(moment_file), "--screams", str(scream_file), "--emotions", str(emotion_file)],
-                ["python", "scripts/clip_planner.py", "--input", str(moment_file), "--output", str(plan_file), "--max-clips", "6"],
+                ["python", "scripts/clip_planner.py", "--input", str(moment_file), "--output", str(plan_file), "--max-clips", "1"],
             ]
             failed = False
             for command in commands:
