@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T22:39:47.291790+00:00",
+  "generated_at": "2026-09-29T00:26:15.285192+00:00",
   "jobs": [
     {
       "job_id": "render:clip:twitch:vod:2882797277",
@@ -38,7 +38,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -83,7 +83,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -128,7 +128,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -173,7 +173,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -218,7 +218,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -263,7 +263,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -308,7 +308,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -353,7 +353,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -398,7 +398,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -443,7 +443,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -488,7 +488,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -533,7 +533,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -578,7 +578,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -623,7 +623,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -668,7 +668,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -713,7 +713,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -758,7 +758,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -803,7 +803,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -848,7 +848,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -893,7 +893,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-09-28T22:39:46.560530+00:00",
+        "trend_research_timestamp": "2026-09-29T00:26:14.732721+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
