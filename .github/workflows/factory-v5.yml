@@ -110,7 +110,8 @@ jobs:
             data/moments.json
             data/render_queue.json
             data/publish_queue.json
-          if-no-files-found: warn
+          if-no-files-found: error
+          include-hidden-files: true
           retention-days: 7
       - name: Optimize trend hashtags
         env:
