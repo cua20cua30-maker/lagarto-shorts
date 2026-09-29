@@ -2,11 +2,11 @@
   "schema_version": 1,
   "jobs": [
     {
-      "job_id": "publish:clip:moment:156:949100",
-      "clip_id": "clip:moment:156:949100",
+      "job_id": "publish:clip:moment:79:944310",
+      "clip_id": "clip:moment:79:944310",
       "candidate_id": "twitch:vod:2885611944",
       "source_creator": "Ibai",
-      "title": "El momento de la celebración: voy a instalarlo, tú, increíble, qué pena, bueno, a ver, pasa a veces ",
+      "title": "El momento de la celebración: un poco ver aquí, falgáis puedo jugar, okey, a ver falgáis, sí sí, lo ",
       "description": "Short transformado a partir de material autorizado, con edición y contexto original.\n\n#fff #aitana #fe2c55 #karolg #184d0a__a #romeosantos #25f4ee #lyrics",
       "status": "blocked_until_rendered",
       "authorization_status": "authorized",
@@ -128,9 +128,2148 @@
             ]
           }
         ],
-        "trend_snapshot_at": "2026-09-29T00:46:06.041472+00:00"
+        "trend_snapshot_at": "2026-09-29T00:46:33.686406+00:00"
       },
-      "idempotency_key": "publish:clip:moment:156:949100",
+      "idempotency_key": "publish:clip:moment:79:944310",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "hashtag_sources": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": "publish:clip:moment:186:1539300",
+      "clip_id": "clip:moment:186:1539300",
+      "candidate_id": "twitch:vod:2885611944",
+      "source_creator": "Ibai",
+      "title": "Todo empezó a ir demasiado rápido: con calmoa tu, tu tu que no reacciona tu, no, no, que no reaccion",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.\n\n#fff #aitana #fe2c55 #karolg #184d0a__a #romeosantos #25f4ee #lyrics",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "learning_metadata": {
+        "format": "vertical_9_16",
+        "aspect_ratio": "9:16",
+        "original_audio_primary": true,
+        "max_duration_seconds": 58.5,
+        "duration_seconds": 58.5,
+        "hook_type": "emotion_rapid_speech_sadness_scream_or_volume_spike",
+        "edit_style": "emotion_driven_pencil_animation",
+        "emotion_signals": [
+          "rapid_speech",
+          "sadness",
+          "scream_or_volume_spike",
+          "silence_to_emotion",
+          "surprise"
+        ],
+        "emotion_score": 100.0,
+        "selection_score": 72.7,
+        "source_moment_signals": [
+          "exclamation",
+          "question",
+          "rapid_speech",
+          "sadness",
+          "scream_or_volume_spike",
+          "shock",
+          "silence_to_emotion",
+          "surprise"
+        ],
+        "original_context": "Todo empezó a ir demasiado rápido",
+        "character_id": "ibai",
+        "animation_style": "lagarto_pencil_cast",
+        "license": null,
+        "license_verified": false,
+        "attribution_required": false,
+        "hashtags": [
+          "#fff",
+          "#aitana",
+          "#fe2c55",
+          "#karolg",
+          "#184d0a__a",
+          "#romeosantos",
+          "#25f4ee",
+          "#lyrics"
+        ],
+        "hashtag_sources": [
+          {
+            "hashtag": "#fff",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#aitana",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#fe2c55",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#karolg",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#184d0a__a",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#romeosantos",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#25f4ee",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#lyrics",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          }
+        ],
+        "trend_snapshot_at": "2026-09-29T00:46:33.686732+00:00"
+      },
+      "idempotency_key": "publish:clip:moment:186:1539300",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "hashtag_sources": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": "publish:clip:moment:23:605100",
+      "clip_id": "clip:moment:23:605100",
+      "candidate_id": "twitch:vod:2885611944",
+      "source_creator": "Ibai",
+      "title": "El momento de la celebración: es que ni un control de detectiva y tío, vosotros os acordáis del | Ib",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.\n\n#fff #aitana #fe2c55 #karolg #184d0a__a #romeosantos #25f4ee #lyrics",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "learning_metadata": {
+        "format": "vertical_9_16",
+        "aspect_ratio": "9:16",
+        "original_audio_primary": true,
+        "max_duration_seconds": 58.5,
+        "duration_seconds": 58.5,
+        "hook_type": "emotion_joy_triumph_rapid_speech_sadness",
+        "edit_style": "emotion_driven_pencil_animation",
+        "emotion_signals": [
+          "joy_triumph",
+          "rapid_speech",
+          "sadness",
+          "scream_or_volume_spike",
+          "silence_to_emotion",
+          "surprise"
+        ],
+        "emotion_score": 100.0,
+        "selection_score": 65.8,
+        "source_moment_signals": [
+          "joy_triumph",
+          "rapid_speech",
+          "sadness",
+          "scream_or_volume_spike",
+          "silence_to_emotion",
+          "surprise"
+        ],
+        "original_context": "El momento de la celebración",
+        "character_id": "ibai",
+        "animation_style": "lagarto_pencil_cast",
+        "license": null,
+        "license_verified": false,
+        "attribution_required": false,
+        "hashtags": [
+          "#fff",
+          "#aitana",
+          "#fe2c55",
+          "#karolg",
+          "#184d0a__a",
+          "#romeosantos",
+          "#25f4ee",
+          "#lyrics"
+        ],
+        "hashtag_sources": [
+          {
+            "hashtag": "#fff",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#aitana",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#fe2c55",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#karolg",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#184d0a__a",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#romeosantos",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#25f4ee",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#lyrics",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          }
+        ],
+        "trend_snapshot_at": "2026-09-29T00:46:33.687040+00:00"
+      },
+      "idempotency_key": "publish:clip:moment:23:605100",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "hashtag_sources": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": "publish:clip:moment:0:438580",
+      "clip_id": "clip:moment:0:438580",
+      "candidate_id": "twitch:vod:2885611944",
+      "source_creator": "Ibai",
+      "title": "Todo empezó a ir demasiado rápido: hai qui | Ibai",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.\n\n#fff #aitana #fe2c55 #karolg #184d0a__a #romeosantos #25f4ee #lyrics",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "learning_metadata": {
+        "format": "vertical_9_16",
+        "aspect_ratio": "9:16",
+        "original_audio_primary": true,
+        "max_duration_seconds": 58.5,
+        "duration_seconds": 58.5,
+        "hook_type": "emotion_rapid_speech_scream_or_volume_spike_silence_to_emotion",
+        "edit_style": "emotion_driven_pencil_animation",
+        "emotion_signals": [
+          "rapid_speech",
+          "scream_or_volume_spike",
+          "silence_to_emotion",
+          "surprise"
+        ],
+        "emotion_score": 97.0,
+        "selection_score": 62.3,
+        "source_moment_signals": [
+          "exclamation",
+          "rapid_speech",
+          "scream_or_volume_spike",
+          "silence_to_emotion",
+          "surprise"
+        ],
+        "original_context": "Todo empezó a ir demasiado rápido",
+        "character_id": "ibai",
+        "animation_style": "lagarto_pencil_cast",
+        "license": null,
+        "license_verified": false,
+        "attribution_required": false,
+        "hashtags": [
+          "#fff",
+          "#aitana",
+          "#fe2c55",
+          "#karolg",
+          "#184d0a__a",
+          "#romeosantos",
+          "#25f4ee",
+          "#lyrics"
+        ],
+        "hashtag_sources": [
+          {
+            "hashtag": "#fff",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#aitana",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#fe2c55",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#karolg",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#184d0a__a",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#romeosantos",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#25f4ee",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#lyrics",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          }
+        ],
+        "trend_snapshot_at": "2026-09-29T00:46:33.687311+00:00"
+      },
+      "idempotency_key": "publish:clip:moment:0:438580",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "hashtag_sources": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": "publish:clip:moment:22:559530",
+      "clip_id": "clip:moment:22:559530",
+      "candidate_id": "twitch:vod:2885611944",
+      "source_creator": "Ibai",
+      "title": "Todo empezó a ir demasiado rápido: gracias por estos votos, gracias, gracias, gracias, gracias, grac",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.\n\n#fff #aitana #fe2c55 #karolg #184d0a__a #romeosantos #25f4ee #lyrics",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "learning_metadata": {
+        "format": "vertical_9_16",
+        "aspect_ratio": "9:16",
+        "original_audio_primary": true,
+        "max_duration_seconds": 58.5,
+        "duration_seconds": 57.02,
+        "hook_type": "emotion_rapid_speech_scream_or_volume_spike",
+        "edit_style": "emotion_driven_pencil_animation",
+        "emotion_signals": [
+          "rapid_speech",
+          "scream_or_volume_spike"
+        ],
+        "emotion_score": 82.0,
+        "selection_score": 45.2,
+        "source_moment_signals": [
+          "rapid_speech",
+          "scream_or_volume_spike"
+        ],
+        "original_context": "Todo empezó a ir demasiado rápido",
+        "character_id": "ibai",
+        "animation_style": "lagarto_pencil_cast",
+        "license": null,
+        "license_verified": false,
+        "attribution_required": false,
+        "hashtags": [
+          "#fff",
+          "#aitana",
+          "#fe2c55",
+          "#karolg",
+          "#184d0a__a",
+          "#romeosantos",
+          "#25f4ee",
+          "#lyrics"
+        ],
+        "hashtag_sources": [
+          {
+            "hashtag": "#fff",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#aitana",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#fe2c55",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#karolg",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#184d0a__a",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#romeosantos",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#25f4ee",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#lyrics",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          }
+        ],
+        "trend_snapshot_at": "2026-09-29T00:46:33.687590+00:00"
+      },
+      "idempotency_key": "publish:clip:moment:22:559530",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "hashtag_sources": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": "publish:clip:moment:696:4206530",
+      "clip_id": "clip:moment:696:4206530",
+      "candidate_id": "twitch:vod:2885713660",
+      "source_creator": "TheGrefg",
+      "title": "La conversación se calentó: o de veros joder se puede reproducir bien | TheGrefg",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.\n\n#fff #aitana #fe2c55 #karolg #184d0a__a #romeosantos #25f4ee #lyrics",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "learning_metadata": {
+        "format": "vertical_9_16",
+        "aspect_ratio": "9:16",
+        "original_audio_primary": true,
+        "max_duration_seconds": 58.5,
+        "duration_seconds": 58.5,
+        "hook_type": "emotion_anger_conflict_fear_joy_triumph",
+        "edit_style": "emotion_driven_pencil_animation",
+        "emotion_signals": [
+          "anger_conflict",
+          "fear",
+          "joy_triumph",
+          "rapid_speech",
+          "sadness",
+          "scream_or_volume_spike",
+          "silence_to_emotion"
+        ],
+        "emotion_score": 97.0,
+        "selection_score": 78.2,
+        "source_moment_signals": [
+          "anger_conflict",
+          "fear",
+          "joy_triumph",
+          "rapid_speech",
+          "reaction",
+          "reveal",
+          "sadness",
+          "scream_or_volume_spike",
+          "shock",
+          "silence_to_emotion"
+        ],
+        "original_context": "La conversación se calentó",
+        "character_id": "thegrefg",
+        "animation_style": "lagarto_pencil_cast",
+        "license": null,
+        "license_verified": false,
+        "attribution_required": false,
+        "hashtags": [
+          "#fff",
+          "#aitana",
+          "#fe2c55",
+          "#karolg",
+          "#184d0a__a",
+          "#romeosantos",
+          "#25f4ee",
+          "#lyrics"
+        ],
+        "hashtag_sources": [
+          {
+            "hashtag": "#fff",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#aitana",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#fe2c55",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#karolg",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#184d0a__a",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#romeosantos",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#25f4ee",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#lyrics",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          }
+        ],
+        "trend_snapshot_at": "2026-09-29T00:46:33.687905+00:00"
+      },
+      "idempotency_key": "publish:clip:moment:696:4206530",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "hashtag_sources": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": "publish:clip:moment:693:4183970",
+      "clip_id": "clip:moment:693:4183970",
+      "candidate_id": "twitch:vod:2885713660",
+      "source_creator": "TheGrefg",
+      "title": "La conversación se calentó: graifas visto que alfa te ha nombrado que | TheGrefg",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.\n\n#fff #aitana #fe2c55 #karolg #184d0a__a #romeosantos #25f4ee #lyrics",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "learning_metadata": {
+        "format": "vertical_9_16",
+        "aspect_ratio": "9:16",
+        "original_audio_primary": true,
+        "max_duration_seconds": 58.5,
+        "duration_seconds": 58.5,
+        "hook_type": "emotion_anger_conflict_fear_joy_triumph",
+        "edit_style": "emotion_driven_pencil_animation",
+        "emotion_signals": [
+          "anger_conflict",
+          "fear",
+          "joy_triumph",
+          "rapid_speech",
+          "sadness",
+          "scream_or_volume_spike",
+          "silence_to_emotion",
+          "surprise"
+        ],
+        "emotion_score": 100.0,
+        "selection_score": 76.8,
+        "source_moment_signals": [
+          "anger_conflict",
+          "fear",
+          "joy_triumph",
+          "rapid_speech",
+          "reaction",
+          "sadness",
+          "scream_or_volume_spike",
+          "shock",
+          "silence_to_emotion",
+          "surprise"
+        ],
+        "original_context": "La conversación se calentó",
+        "character_id": "thegrefg",
+        "animation_style": "lagarto_pencil_cast",
+        "license": null,
+        "license_verified": false,
+        "attribution_required": false,
+        "hashtags": [
+          "#fff",
+          "#aitana",
+          "#fe2c55",
+          "#karolg",
+          "#184d0a__a",
+          "#romeosantos",
+          "#25f4ee",
+          "#lyrics"
+        ],
+        "hashtag_sources": [
+          {
+            "hashtag": "#fff",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#aitana",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#fe2c55",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#karolg",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#184d0a__a",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#romeosantos",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#25f4ee",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#lyrics",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          }
+        ],
+        "trend_snapshot_at": "2026-09-29T00:46:33.688217+00:00"
+      },
+      "idempotency_key": "publish:clip:moment:693:4183970",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "hashtag_sources": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": "publish:clip:moment:291:2220690",
+      "clip_id": "clip:moment:291:2220690",
+      "candidate_id": "twitch:vod:2885713660",
+      "source_creator": "TheGrefg",
+      "title": "El momento de la celebración: Trece kilómetros para el final del Mundial, hay, hay, hay. | TheGrefg",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.\n\n#fff #aitana #fe2c55 #karolg #184d0a__a #romeosantos #25f4ee #lyrics",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "learning_metadata": {
+        "format": "vertical_9_16",
+        "aspect_ratio": "9:16",
+        "original_audio_primary": true,
+        "max_duration_seconds": 58.5,
+        "duration_seconds": 32.95,
+        "hook_type": "emotion_joy_triumph_rapid_speech_scream_or_volume_spike",
+        "edit_style": "emotion_driven_pencil_animation",
+        "emotion_signals": [
+          "joy_triumph",
+          "rapid_speech",
+          "scream_or_volume_spike",
+          "silence_to_emotion"
+        ],
+        "emotion_score": 89.0,
+        "selection_score": 69.5,
+        "source_moment_signals": [
+          "exclamation",
+          "joy_triumph",
+          "question",
+          "rapid_speech",
+          "scream_or_volume_spike",
+          "silence_to_emotion"
+        ],
+        "original_context": "El momento de la celebración",
+        "character_id": "thegrefg",
+        "animation_style": "lagarto_pencil_cast",
+        "license": null,
+        "license_verified": false,
+        "attribution_required": false,
+        "hashtags": [
+          "#fff",
+          "#aitana",
+          "#fe2c55",
+          "#karolg",
+          "#184d0a__a",
+          "#romeosantos",
+          "#25f4ee",
+          "#lyrics"
+        ],
+        "hashtag_sources": [
+          {
+            "hashtag": "#fff",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#aitana",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#fe2c55",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#karolg",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#184d0a__a",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#romeosantos",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#25f4ee",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#lyrics",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          }
+        ],
+        "trend_snapshot_at": "2026-09-29T00:46:33.688516+00:00"
+      },
+      "idempotency_key": "publish:clip:moment:291:2220690",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "hashtag_sources": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": "publish:clip:moment:48:620810",
+      "clip_id": "clip:moment:48:620810",
+      "candidate_id": "twitch:vod:2885713660",
+      "source_creator": "TheGrefg",
+      "title": "La conversación se calentó: este trailer ha pegado muy fuerte, se ha cumplido una pre una procesía |",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.\n\n#trailers #trailersinspanish #fff #aitana #fe2c55 #karolg #184d0a__a #romeosantos",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "learning_metadata": {
+        "format": "vertical_9_16",
+        "aspect_ratio": "9:16",
+        "original_audio_primary": true,
+        "max_duration_seconds": 58.5,
+        "duration_seconds": 58.5,
+        "hook_type": "emotion_anger_conflict_fear_rapid_speech",
+        "edit_style": "emotion_driven_pencil_animation",
+        "emotion_signals": [
+          "anger_conflict",
+          "fear",
+          "rapid_speech",
+          "sadness",
+          "scream_or_volume_spike",
+          "silence_to_emotion"
+        ],
+        "emotion_score": 100.0,
+        "selection_score": 69.0,
+        "source_moment_signals": [
+          "anger_conflict",
+          "fear",
+          "rapid_speech",
+          "reaction",
+          "sadness",
+          "scream_or_volume_spike",
+          "silence_to_emotion"
+        ],
+        "original_context": "La conversación se calentó",
+        "character_id": "thegrefg",
+        "animation_style": "lagarto_pencil_cast",
+        "license": null,
+        "license_verified": false,
+        "attribution_required": false,
+        "hashtags": [
+          "#trailers",
+          "#trailersinspanish",
+          "#fff",
+          "#aitana",
+          "#fe2c55",
+          "#karolg",
+          "#184d0a__a",
+          "#romeosantos"
+        ],
+        "hashtag_sources": [
+          {
+            "hashtag": "#trailers",
+            "score": 34.6,
+            "trend_score": 24.6,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#trailersinspanish",
+            "score": 32.8,
+            "trend_score": 22.8,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#fff",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#aitana",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#fe2c55",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#karolg",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#184d0a__a",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#romeosantos",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          }
+        ],
+        "trend_snapshot_at": "2026-09-29T00:46:33.688836+00:00"
+      },
+      "idempotency_key": "publish:clip:moment:48:620810",
+      "hashtags": [
+        "#trailers",
+        "#trailersinspanish",
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos"
+      ],
+      "hashtag_sources": [
+        {
+          "hashtag": "#trailers",
+          "score": 34.6,
+          "trend_score": 24.6,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#trailersinspanish",
+          "score": 32.8,
+          "trend_score": 22.8,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": "publish:clip:moment:88:869400",
+      "clip_id": "clip:moment:88:869400",
+      "candidate_id": "twitch:vod:2885713660",
+      "source_creator": "TheGrefg",
+      "title": "La conversación se calentó: los mejores del mundo, y luego te diría renco e venepul, me gusta mucho ",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.\n\n#fff #aitana #fe2c55 #karolg #184d0a__a #romeosantos #25f4ee #lyrics",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "learning_metadata": {
+        "format": "vertical_9_16",
+        "aspect_ratio": "9:16",
+        "original_audio_primary": true,
+        "max_duration_seconds": 58.5,
+        "duration_seconds": 58.5,
+        "hook_type": "emotion_anger_conflict_rapid_speech_scream_or_volume_spike",
+        "edit_style": "emotion_driven_pencil_animation",
+        "emotion_signals": [
+          "anger_conflict",
+          "rapid_speech",
+          "scream_or_volume_spike",
+          "silence_to_emotion"
+        ],
+        "emotion_score": 77.0,
+        "selection_score": 63.4,
+        "source_moment_signals": [
+          "anger_conflict",
+          "question",
+          "rapid_speech",
+          "reaction",
+          "scream_or_volume_spike",
+          "shock",
+          "silence_to_emotion"
+        ],
+        "original_context": "La conversación se calentó",
+        "character_id": "thegrefg",
+        "animation_style": "lagarto_pencil_cast",
+        "license": null,
+        "license_verified": false,
+        "attribution_required": false,
+        "hashtags": [
+          "#fff",
+          "#aitana",
+          "#fe2c55",
+          "#karolg",
+          "#184d0a__a",
+          "#romeosantos",
+          "#25f4ee",
+          "#lyrics"
+        ],
+        "hashtag_sources": [
+          {
+            "hashtag": "#fff",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#aitana",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#fe2c55",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#karolg",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#184d0a__a",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#romeosantos",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#25f4ee",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#lyrics",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          }
+        ],
+        "trend_snapshot_at": "2026-09-29T00:46:33.689141+00:00"
+      },
+      "idempotency_key": "publish:clip:moment:88:869400",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "hashtag_sources": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": "publish:clip:moment:82:833710",
+      "clip_id": "clip:moment:82:833710",
+      "candidate_id": "twitch:vod:2885713660",
+      "source_creator": "TheGrefg",
+      "title": "La conversación se calentó: con el ciclismo, pero para los que nos gusta y lo disfrutamos pues un | ",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.\n\n#fff #aitana #fe2c55 #karolg #184d0a__a #romeosantos #25f4ee #lyrics",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "learning_metadata": {
+        "format": "vertical_9_16",
+        "aspect_ratio": "9:16",
+        "original_audio_primary": true,
+        "max_duration_seconds": 58.5,
+        "duration_seconds": 58.5,
+        "hook_type": "emotion_anger_conflict_joy_triumph_rapid_speech",
+        "edit_style": "emotion_driven_pencil_animation",
+        "emotion_signals": [
+          "anger_conflict",
+          "joy_triumph",
+          "rapid_speech",
+          "scream_or_volume_spike",
+          "silence_to_emotion"
+        ],
+        "emotion_score": 84.0,
+        "selection_score": 63.3,
+        "source_moment_signals": [
+          "anger_conflict",
+          "joy_triumph",
+          "question",
+          "rapid_speech",
+          "scream_or_volume_spike",
+          "shock",
+          "silence_to_emotion"
+        ],
+        "original_context": "La conversación se calentó",
+        "character_id": "thegrefg",
+        "animation_style": "lagarto_pencil_cast",
+        "license": null,
+        "license_verified": false,
+        "attribution_required": false,
+        "hashtags": [
+          "#fff",
+          "#aitana",
+          "#fe2c55",
+          "#karolg",
+          "#184d0a__a",
+          "#romeosantos",
+          "#25f4ee",
+          "#lyrics"
+        ],
+        "hashtag_sources": [
+          {
+            "hashtag": "#fff",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#aitana",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#fe2c55",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#karolg",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#184d0a__a",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#romeosantos",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#25f4ee",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#lyrics",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          }
+        ],
+        "trend_snapshot_at": "2026-09-29T00:46:33.689455+00:00"
+      },
+      "idempotency_key": "publish:clip:moment:82:833710",
       "hashtags": [
         "#fff",
         "#aitana",

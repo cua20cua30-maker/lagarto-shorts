@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T00:46:06.041904+00:00",
+  "generated_at": "2026-09-29T00:46:33.691439+00:00",
   "sources": {
     "tiktok_creative_center": {
       "source": "tiktok_creative_center",
@@ -14,7 +14,877 @@
   },
   "jobs": [
     {
-      "clip_id": "clip:moment:156:949100",
+      "clip_id": "clip:moment:79:944310",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "details": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "clip_id": "clip:moment:186:1539300",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "details": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "clip_id": "clip:moment:23:605100",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "details": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "clip_id": "clip:moment:0:438580",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "details": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "clip_id": "clip:moment:22:559530",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "details": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "clip_id": "clip:moment:696:4206530",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "details": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "clip_id": "clip:moment:693:4183970",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "details": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "clip_id": "clip:moment:291:2220690",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "details": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "clip_id": "clip:moment:48:620810",
+      "hashtags": [
+        "#trailers",
+        "#trailersinspanish",
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos"
+      ],
+      "details": [
+        {
+          "hashtag": "#trailers",
+          "score": 34.6,
+          "trend_score": 24.6,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#trailersinspanish",
+          "score": 32.8,
+          "trend_score": 22.8,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "clip_id": "clip:moment:88:869400",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "details": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    },
+    {
+      "clip_id": "clip:moment:82:833710",
       "hashtags": [
         "#fff",
         "#aitana",
