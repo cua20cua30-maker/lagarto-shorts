@@ -9,7 +9,7 @@ on:
       - 'config/**'
       - '.github/workflows/factory-v5.yml'
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/30 * * * *'
 
 permissions:
   contents: write
@@ -21,7 +21,7 @@ concurrency:
 jobs:
   factory:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
         with:
