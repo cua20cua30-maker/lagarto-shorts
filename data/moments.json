@@ -1,4 +1,202 @@
 {
   "schema_version": 4,
-  "moments": []
+  "moments": [
+    {
+      "moment_id": "moment:156:949100",
+      "start": 631.5,
+      "end": 1478.35,
+      "score": 74.2,
+      "selection_score": 74.2,
+      "signals": [
+        "joy_triumph",
+        "rapid_speech",
+        "sadness",
+        "scream_or_volume_spike",
+        "shock",
+        "silence_to_emotion",
+        "surprise"
+      ],
+      "scream_detected": true,
+      "scream_score": 100,
+      "emotion_detected": true,
+      "emotion_score": 100.0,
+      "emotion_signals": [
+        "joy_triumph",
+        "rapid_speech",
+        "sadness",
+        "scream_or_volume_spike",
+        "silence_to_emotion",
+        "surprise"
+      ],
+      "dominant_emotion": "sadness",
+      "hook_text": "voy a instalarlo, tú, increíble, qué pena, bueno, a ver, pasa a veces el ojo,",
+      "context_text": "creo que no hay nadie actualmente lo anunciaron hace unos meses, pero bueno, diría qué. a ver, si, un poco para aquí, phalgais puedo jugar, okey, a ver, phalgais, sí sí, lo instalo, voy a instalarlo, tú, increíble, qué pena, bueno, a ver, pasa a veces el ojo, o sea lo que hay, no, pues es difícil que alguien juega mucho mucho tiempo al phalgais, la verdad, un phalgais, yo, mío, tú, que recuerdo, campeones de poquemos en río paser, en hora buena de todo corazón, río paser, ya entiendo que es campeón de Europa, campeón del regional de Frankfurt, río paser, 16, 0 que puto espectáculo, un nuevo título para movistar el coide parte de poquemones, señores, que se usa a barbaridad 16 de los hachos río paser, campeón en Alemania, brutal, brutal, es algo que yo creo que poca",
+      "candidate_id": "twitch:vod:2885611944",
+      "source_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.m4a",
+      "source_creator": "Ibai",
+      "transcript_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.json"
+    },
+    {
+      "moment_id": "moment:244:1532130",
+      "start": 1477.9,
+      "end": 1765.85,
+      "score": 70.6,
+      "selection_score": 70.6,
+      "signals": [
+        "question",
+        "rapid_speech",
+        "sadness",
+        "scream_or_volume_spike",
+        "shock",
+        "silence_to_emotion",
+        "surprise"
+      ],
+      "scream_detected": true,
+      "scream_score": 100,
+      "emotion_detected": true,
+      "emotion_score": 100.0,
+      "emotion_signals": [
+        "rapid_speech",
+        "sadness",
+        "scream_or_volume_spike",
+        "silence_to_emotion",
+        "surprise"
+      ],
+      "dominant_emotion": "sadness",
+      "hook_text": "otro nivel. ¿A ver si reacciona? Ah, no, no, no, que no reacciona, tú, tú que no reacciona, tú.",
+      "context_text": "partó la pollo de tío. ¿Qué cojones acaba de pasar tío? Bueno, me la tío. Me escucháis, no, por lo menos. El mando de la play me acaba de petar el ordenador tu, pero otro nivel. ¿A ver si reacciona? Ah, no, no, no, que no reacciona, tú, tú que no reacciona, tú. No, no, que no reacciona, que va a la variedad de sexta, que va a la variedad de sexta, que saque da, tu, tu, que saque da, así. Esto es real lo que acaba de pasar, es real. Al enchufar el mando de la play, se apera una petada, de hecho, me escucháis, me sorprende que me escuchéis. Es increíble que me estés escuchando actualmente tío. Me partó la polla. Es",
+      "candidate_id": "twitch:vod:2885611944",
+      "source_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.m4a",
+      "source_creator": "Ibai",
+      "transcript_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.json"
+    },
+    {
+      "moment_id": "moment:0:438520",
+      "start": 404.2,
+      "end": 520.55,
+      "score": 60.2,
+      "selection_score": 60.2,
+      "signals": [
+        "rapid_speech",
+        "scream_or_volume_spike",
+        "silence_to_emotion",
+        "surprise"
+      ],
+      "scream_detected": true,
+      "scream_score": 97,
+      "emotion_detected": true,
+      "emotion_score": 97.0,
+      "emotion_signals": [
+        "rapid_speech",
+        "scream_or_volume_spike",
+        "silence_to_emotion",
+        "surprise"
+      ],
+      "dominant_emotion": "surprise",
+      "hook_text": "dersando",
+      "context_text": "dersando like me me like me user so Pisha, su creen y se ve mal, tú es que extra, sostea, es mi barrio, a mi hente de...",
+      "candidate_id": "twitch:vod:2885611944",
+      "source_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.m4a",
+      "source_creator": "Ibai",
+      "transcript_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.json"
+    },
+    {
+      "moment_id": "moment:23:526640",
+      "start": 518.7,
+      "end": 541.64,
+      "score": 57.5,
+      "selection_score": 57.5,
+      "signals": [
+        "rapid_speech",
+        "scream_or_volume_spike"
+      ],
+      "scream_detected": true,
+      "scream_score": 92,
+      "emotion_detected": true,
+      "emotion_score": 92.0,
+      "emotion_signals": [
+        "rapid_speech",
+        "scream_or_volume_spike"
+      ],
+      "dominant_emotion": null,
+      "hook_text": "Ahora fumo.",
+      "context_text": "Es que ni un contral de detective, Tío. Ahora fumo. Y me la pela. Ahora fumo y me la pela.",
+      "candidate_id": "twitch:vod:2885611944",
+      "source_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.m4a",
+      "source_creator": "Ibai",
+      "transcript_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.json"
+    },
+    {
+      "moment_id": "moment:27:595130",
+      "start": 592.5,
+      "end": 614.05,
+      "score": 43.0,
+      "selection_score": 43.0,
+      "signals": [
+        "scream_or_volume_spike"
+      ],
+      "scream_detected": true,
+      "scream_score": 75,
+      "emotion_detected": true,
+      "emotion_score": 78.0,
+      "emotion_signals": [
+        "scream_or_volume_spike"
+      ],
+      "dominant_emotion": null,
+      "hook_text": "Gracias.",
+      "context_text": "Gracias. Gracias. Gracias.",
+      "candidate_id": "twitch:vod:2885611944",
+      "source_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.m4a",
+      "source_creator": "Ibai",
+      "transcript_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.json"
+    },
+    {
+      "moment_id": "moment:25:542710",
+      "start": 539.9,
+      "end": 557.71,
+      "score": 37.0,
+      "selection_score": 37.0,
+      "signals": [
+        "scream_or_volume_spike"
+      ],
+      "scream_detected": true,
+      "scream_score": 75,
+      "emotion_detected": true,
+      "emotion_score": 75.0,
+      "emotion_signals": [
+        "scream_or_volume_spike"
+      ],
+      "dominant_emotion": null,
+      "hook_text": "Ahora fumo y me la pela.",
+      "context_text": "Ahora fumo y me la pela. Gracias por estos votos, gracias.",
+      "candidate_id": "twitch:vod:2885611944",
+      "source_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.m4a",
+      "source_creator": "Ibai",
+      "transcript_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.json"
+    },
+    {
+      "moment_id": "moment:26:559790",
+      "start": 557.1,
+      "end": 574.79,
+      "score": 37.0,
+      "selection_score": 37.0,
+      "signals": [
+        "scream_or_volume_spike"
+      ],
+      "scream_detected": true,
+      "scream_score": 75,
+      "emotion_detected": true,
+      "emotion_score": 75.0,
+      "emotion_signals": [
+        "scream_or_volume_spike"
+      ],
+      "dominant_emotion": null,
+      "hook_text": "Gracias por estos votos, gracias.",
+      "context_text": "Gracias por estos votos, gracias.",
+      "candidate_id": "twitch:vod:2885611944",
+      "source_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.m4a",
+      "source_creator": "Ibai",
+      "transcript_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.json"
+    }
+  ]
 }

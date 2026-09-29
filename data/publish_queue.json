@@ -1,246 +1,220 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T00:26:15.285192+00:00",
   "jobs": [
     {
-      "job_id": "publish:clip:twitch:vod:2882797277",
-      "clip_id": "clip:twitch:vod:2882797277",
-      "candidate_id": "twitch:vod:2882797277",
-      "source_creator": "IlloJuan",
-      "title": "Lagarto | IlloJuan",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2882797277"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2885816211",
-      "clip_id": "clip:twitch:vod:2885816211",
-      "candidate_id": "twitch:vod:2885816211",
-      "source_creator": "Rubius",
-      "title": "Lagarto | Rubius",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2885816211"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2885607097",
-      "clip_id": "clip:twitch:vod:2885607097",
-      "candidate_id": "twitch:vod:2885607097",
-      "source_creator": "AuronPlay",
-      "title": "Lagarto | AuronPlay",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2885607097"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2883864892",
-      "clip_id": "clip:twitch:vod:2883864892",
-      "candidate_id": "twitch:vod:2883864892",
-      "source_creator": "ElXokas",
-      "title": "Lagarto | ElXokas",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2883864892"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2885555938",
-      "clip_id": "clip:twitch:vod:2885555938",
-      "candidate_id": "twitch:vod:2885555938",
-      "source_creator": "Peereira7",
-      "title": "Lagarto | Peereira7",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2885555938"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2885639019",
-      "clip_id": "clip:twitch:vod:2885639019",
-      "candidate_id": "twitch:vod:2885639019",
-      "source_creator": "Ibai",
-      "title": "Lagarto | Ibai",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2885639019"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2884824919",
-      "clip_id": "clip:twitch:vod:2884824919",
-      "candidate_id": "twitch:vod:2884824919",
-      "source_creator": "TheGrefg",
-      "title": "Lagarto | TheGrefg",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2884824919"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2883883168",
-      "clip_id": "clip:twitch:vod:2883883168",
-      "candidate_id": "twitch:vod:2883883168",
-      "source_creator": "Juan Guarnizo",
-      "title": "Lagarto | Juan Guarnizo",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2883883168"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2886444787",
-      "clip_id": "clip:twitch:vod:2886444787",
-      "candidate_id": "twitch:vod:2886444787",
-      "source_creator": "AuronPlay",
-      "title": "Lagarto | AuronPlay",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2886444787"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2884125661",
-      "clip_id": "clip:twitch:vod:2884125661",
-      "candidate_id": "twitch:vod:2884125661",
-      "source_creator": "Juan Guarnizo",
-      "title": "Lagarto | Juan Guarnizo",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2884125661"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2884846599",
-      "clip_id": "clip:twitch:vod:2884846599",
-      "candidate_id": "twitch:vod:2884846599",
-      "source_creator": "Juan Guarnizo",
-      "title": "Lagarto | Juan Guarnizo",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2884846599"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2884695006",
-      "clip_id": "clip:twitch:vod:2884695006",
-      "candidate_id": "twitch:vod:2884695006",
-      "source_creator": "Rubius",
-      "title": "Lagarto | Rubius",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2884695006"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2883647355",
-      "clip_id": "clip:twitch:vod:2883647355",
-      "candidate_id": "twitch:vod:2883647355",
-      "source_creator": "Peereira7",
-      "title": "Lagarto | Peereira7",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2883647355"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2883628528",
-      "clip_id": "clip:twitch:vod:2883628528",
-      "candidate_id": "twitch:vod:2883628528",
-      "source_creator": "AuronPlay",
-      "title": "Lagarto | AuronPlay",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2883628528"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2885849950",
-      "clip_id": "clip:twitch:vod:2885849950",
-      "candidate_id": "twitch:vod:2885849950",
-      "source_creator": "TheGrefg",
-      "title": "Lagarto | TheGrefg",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2885849950"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2885611944",
-      "clip_id": "clip:twitch:vod:2885611944",
+      "job_id": "publish:clip:moment:156:949100",
+      "clip_id": "clip:moment:156:949100",
       "candidate_id": "twitch:vod:2885611944",
       "source_creator": "Ibai",
-      "title": "Lagarto | Ibai",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "title": "El momento de la celebración: voy a instalarlo, tú, increíble, qué pena, bueno, a ver, pasa a veces ",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.\n\n#fff #aitana #fe2c55 #karolg #184d0a__a #romeosantos #25f4ee #lyrics",
       "status": "blocked_until_rendered",
       "authorization_status": "authorized",
       "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2885611944"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2882773943",
-      "clip_id": "clip:twitch:vod:2882773943",
-      "candidate_id": "twitch:vod:2882773943",
-      "source_creator": "Peereira7",
-      "title": "Lagarto | Peereira7",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2882773943"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2885713660",
-      "clip_id": "clip:twitch:vod:2885713660",
-      "candidate_id": "twitch:vod:2885713660",
-      "source_creator": "TheGrefg",
-      "title": "Lagarto | TheGrefg",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2885713660"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2882017753",
-      "clip_id": "clip:twitch:vod:2882017753",
-      "candidate_id": "twitch:vod:2882017753",
-      "source_creator": "ElXokas",
-      "title": "Lagarto | ElXokas",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2882017753"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2882012254",
-      "clip_id": "clip:twitch:vod:2882012254",
-      "candidate_id": "twitch:vod:2882012254",
-      "source_creator": "Rubius",
-      "title": "Lagarto | Rubius",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2882012254"
+      "learning_metadata": {
+        "format": "vertical_9_16",
+        "aspect_ratio": "9:16",
+        "original_audio_primary": true,
+        "max_duration_seconds": 58.5,
+        "duration_seconds": 58.5,
+        "hook_type": "emotion_joy_triumph_rapid_speech_sadness",
+        "edit_style": "emotion_driven_pencil_animation",
+        "emotion_signals": [
+          "joy_triumph",
+          "rapid_speech",
+          "sadness",
+          "scream_or_volume_spike",
+          "silence_to_emotion",
+          "surprise"
+        ],
+        "emotion_score": 100.0,
+        "selection_score": 74.2,
+        "source_moment_signals": [
+          "joy_triumph",
+          "rapid_speech",
+          "sadness",
+          "scream_or_volume_spike",
+          "shock",
+          "silence_to_emotion",
+          "surprise"
+        ],
+        "original_context": "El momento de la celebración",
+        "character_id": "ibai",
+        "animation_style": "lagarto_pencil_cast",
+        "license": null,
+        "license_verified": false,
+        "attribution_required": false,
+        "hashtags": [
+          "#fff",
+          "#aitana",
+          "#fe2c55",
+          "#karolg",
+          "#184d0a__a",
+          "#romeosantos",
+          "#25f4ee",
+          "#lyrics"
+        ],
+        "hashtag_sources": [
+          {
+            "hashtag": "#fff",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#aitana",
+            "score": 30.0,
+            "trend_score": 30.0,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#fe2c55",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#karolg",
+            "score": 29.7,
+            "trend_score": 29.7,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#184d0a__a",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#romeosantos",
+            "score": 29.4,
+            "trend_score": 29.4,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          },
+          {
+            "hashtag": "#25f4ee",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "tiktok_creative_center"
+            ]
+          },
+          {
+            "hashtag": "#lyrics",
+            "score": 29.1,
+            "trend_score": 29.1,
+            "historical_retention": 0,
+            "sources": [
+              "youtube_most_popular"
+            ]
+          }
+        ],
+        "trend_snapshot_at": "2026-09-29T00:46:06.041472+00:00"
+      },
+      "idempotency_key": "publish:clip:moment:156:949100",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "hashtag_sources": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
     }
   ]
 }

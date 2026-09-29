@@ -1,4 +1,54 @@
 {
   "schema_version": 1,
-  "plans": []
+  "plans": [
+    {
+      "clip_id": "clip:moment:156:949100",
+      "moment_id": "moment:156:949100",
+      "start": 631.5,
+      "duration": 58.5,
+      "hook": "voy a instalarlo, tú, increíble, qué pena, bueno, a ver, pasa a veces el ojo,",
+      "original_context": "El momento de la celebración",
+      "signals": [
+        "joy_triumph",
+        "rapid_speech",
+        "sadness",
+        "scream_or_volume_spike",
+        "shock",
+        "silence_to_emotion",
+        "surprise"
+      ],
+      "emotion_signals": [
+        "joy_triumph",
+        "rapid_speech",
+        "sadness",
+        "scream_or_volume_spike",
+        "silence_to_emotion",
+        "surprise"
+      ],
+      "emotion_score": 100.0,
+      "emotion_detected": true,
+      "dominant_emotion": "sadness",
+      "selection_score": 74.2,
+      "edit_recipe": {
+        "format": "9:16",
+        "max_duration_seconds": 58.5,
+        "remove_dead_air": true,
+        "captions": true,
+        "caption_style": "high_readability",
+        "hook_first": true,
+        "payoff_before_end": true,
+        "original_audio_primary": true,
+        "original_context_or_commentary_required": true,
+        "pencil_character_visuals": true
+      },
+      "status": "planned",
+      "candidate_id": "twitch:vod:2885611944",
+      "source_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.m4a",
+      "source_creator": "Ibai",
+      "transcript_path": "/home/runner/work/lagarto-shorts/lagarto-shorts/.work/twitch_vod_2885611944.json",
+      "license": null,
+      "license_verified": false,
+      "attribution_required": false
+    }
+  ]
 }

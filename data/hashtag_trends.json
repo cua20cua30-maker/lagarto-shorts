@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T17:48:39.123432+00:00",
+  "generated_at": "2026-09-29T00:46:06.041904+00:00",
   "sources": {
     "tiktok_creative_center": {
       "source": "tiktok_creative_center",
@@ -12,5 +12,93 @@
       "status": "ok"
     }
   },
-  "jobs": []
+  "jobs": [
+    {
+      "clip_id": "clip:moment:156:949100",
+      "hashtags": [
+        "#fff",
+        "#aitana",
+        "#fe2c55",
+        "#karolg",
+        "#184d0a__a",
+        "#romeosantos",
+        "#25f4ee",
+        "#lyrics"
+      ],
+      "details": [
+        {
+          "hashtag": "#fff",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#aitana",
+          "score": 30.0,
+          "trend_score": 30.0,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#fe2c55",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#karolg",
+          "score": 29.7,
+          "trend_score": 29.7,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#184d0a__a",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#romeosantos",
+          "score": 29.4,
+          "trend_score": 29.4,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        },
+        {
+          "hashtag": "#25f4ee",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "tiktok_creative_center"
+          ]
+        },
+        {
+          "hashtag": "#lyrics",
+          "score": 29.1,
+          "trend_score": 29.1,
+          "historical_retention": 0,
+          "sources": [
+            "youtube_most_popular"
+          ]
+        }
+      ]
+    }
+  ]
 }
