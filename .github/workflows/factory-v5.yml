@@ -85,6 +85,33 @@ jobs:
           fi
           python scripts/authorized_pipeline_v2.py
           python scripts/render_authorized_v2.py
+      - name: Verify generated MP4
+        run: |
+          set -e
+          files=$(find .work -maxdepth 1 -type f -name '*.mp4' -size +1k -print)
+          if [ -z "$files" ]; then
+            echo 'ERROR: no generated MP4 was produced.'
+            exit 1
+          fi
+          for file in $files; do
+            echo "Verifying $file"
+            ffprobe -v error -select_streams v:0 -show_entries stream=codec_name,width,height -of default=nw=1 "$file"
+            ffprobe -v error -select_streams a:0 -show_entries stream=codec_name -of default=nw=1 "$file"
+            ffprobe -v error -show_entries format=duration -of default=nw=1 "$file"
+          done
+      - name: Upload generated Short artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lagarto-shorts-${{ github.run_number }}
+          path: |
+            .work/*.mp4
+            data/clip_plans.json
+            data/moments.json
+            data/render_queue.json
+            data/publish_queue.json
+          if-no-files-found: warn
+          retention-days: 7
       - name: Optimize trend hashtags
         env:
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
