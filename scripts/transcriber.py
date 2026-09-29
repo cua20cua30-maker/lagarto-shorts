@@ -8,7 +8,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--input')
     parser.add_argument('--output')
-    parser.add_argument('--model', default=os.getenv('WHISPER_MODEL', 'small'))
+    parser.add_argument('--model', default=os.getenv('WHISPER_MODEL', 'tiny'))
     args = parser.parse_args()
     if not args.input or not args.output:
         print('Transcriber: skipped; no input/output.')
