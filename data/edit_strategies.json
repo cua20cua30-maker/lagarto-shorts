@@ -1,17 +1,15 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-30T14:53:39.034407+00:00",
+  "generated_at": "2026-09-30T19:49:46.738832+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2886401741",
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -31,7 +29,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -42,11 +40,9 @@
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -66,7 +62,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -77,11 +73,9 @@
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -101,24 +95,22 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
       }
     },
     {
-      "candidate_id": "twitch:vod:2883864892",
+      "candidate_id": "twitch:vod:2887325198",
       "source_creator": "ElXokas",
-      "hook_pattern": "context_open",
+      "hook_pattern": "question_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
-      "pacing_pattern": "medium_hook",
+      "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
       "max_duration_seconds": 58.5,
@@ -136,7 +128,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -147,11 +139,9 @@
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -171,7 +161,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -182,11 +172,9 @@
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -206,7 +194,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -217,11 +205,9 @@
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -241,7 +227,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -252,11 +238,9 @@
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -276,7 +260,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -287,11 +271,9 @@
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -311,42 +293,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2886444787",
-      "source_creator": "AuronPlay",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
-        "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
-      ],
-      "pacing_pattern": "medium_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -357,11 +304,9 @@
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -381,7 +326,40 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2886444787",
+      "source_creator": "AuronPlay",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Quédate un ratito más",
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
+      ],
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -392,11 +370,9 @@
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -416,7 +392,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -427,11 +403,9 @@
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -451,7 +425,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -462,11 +436,9 @@
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -486,7 +458,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -497,11 +469,9 @@
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -521,7 +491,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -532,11 +502,9 @@
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -556,7 +524,40 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2883864892",
+      "source_creator": "ElXokas",
+      "hook_pattern": "question_open",
+      "trend_hook_examples": [
+        "Quédate un ratito más",
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
+      ],
+      "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -567,11 +568,9 @@
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -591,7 +590,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -602,11 +601,9 @@
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -626,7 +623,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -637,11 +634,9 @@
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
         "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Carín León - Desde Que te Tengo (Letra)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -661,42 +656,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2882797277",
-      "source_creator": "IlloJuan",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Pokémon Super EX Ep.11 - LA MEGA EVOLUCIÓN QUE REVENTARÁ EL LOCKE",
-        "Quédate un ratito más",
-        "ME INVITAN A JUGAR AMONG US CON LA ÉLITE DE INTERNET 👑 *no sé qué hago aquí*",
-        "ESTOS 2 CANTERANOS SON LOS MEJORES DEL EQUIPO!!",
-        "NO PUEDES SALIR DE ESTE JUEGO"
-      ],
-      "pacing_pattern": "long_context_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-09-30T14:53:38.439085+00:00",
+      "trend_research_timestamp": "2026-09-30T19:49:45.985756+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
