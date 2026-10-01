@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-01T09:15:59.077709+00:00",
+  "generated_at": "2026-10-01T16:42:08.490215+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2886401741",
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -31,7 +31,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -42,9 +42,9 @@
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -66,7 +66,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -77,9 +77,9 @@
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -101,7 +101,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -112,9 +112,9 @@
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -136,7 +136,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -147,9 +147,9 @@
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -171,7 +171,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -182,9 +182,9 @@
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -206,7 +206,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -217,9 +217,9 @@
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -241,7 +241,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -252,9 +252,9 @@
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -276,7 +276,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -287,9 +287,9 @@
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -311,7 +311,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -322,9 +322,9 @@
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -346,7 +346,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -357,9 +357,9 @@
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -381,7 +381,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -392,9 +392,9 @@
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -416,7 +416,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -427,9 +427,9 @@
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -451,7 +451,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -462,9 +462,9 @@
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -486,7 +486,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -497,9 +497,9 @@
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -521,7 +521,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -532,9 +532,9 @@
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -556,7 +556,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -567,9 +567,9 @@
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -591,42 +591,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2883864892",
-      "source_creator": "ElXokas",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Quédate un ratito más",
-        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
-        "¿QUÉ PASA CON FC 27? MI OPINIÓN",
-        "Carín León - Desde Que te Tengo (Letra)"
-      ],
-      "pacing_pattern": "long_context_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -637,9 +602,9 @@
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -661,7 +626,42 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2883864892",
+      "source_creator": "ElXokas",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Pa que te quedaras",
+        "Quédate un ratito más",
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "¿QUÉ PASA CON FC 27? MI OPINIÓN",
+        "Carín León - Desde Que te Tengo (Letra)"
+      ],
+      "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -672,9 +672,9 @@
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
+        "Pa que te quedaras",
         "Quédate un ratito más",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Pa que te quedaras",
         "¿QUÉ PASA CON FC 27? MI OPINIÓN",
         "Carín León - Desde Que te Tengo (Letra)"
       ],
@@ -696,7 +696,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-01T09:15:58.500953+00:00",
+      "trend_research_timestamp": "2026-10-01T16:42:07.801251+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
