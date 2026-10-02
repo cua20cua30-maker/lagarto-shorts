@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-02T01:17:48.430955+00:00",
+  "generated_at": "2026-10-02T07:18:35.459426+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2888128262",
@@ -8,10 +8,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -31,24 +31,24 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
       }
     },
     {
-      "candidate_id": "twitch:vod:2888176235",
+      "candidate_id": "twitch:vod:2889113483",
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
-      "pacing_pattern": "medium_hook",
+      "pacing_pattern": "ultra_short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
       "max_duration_seconds": 58.5,
@@ -66,7 +66,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -78,10 +78,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -101,7 +101,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -113,10 +113,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -136,22 +136,22 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
       }
     },
     {
-      "candidate_id": "twitch:vod:2887231680",
+      "candidate_id": "twitch:vod:2888982568",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -171,7 +171,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -183,10 +183,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -206,7 +206,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -218,10 +218,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -241,7 +241,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -253,10 +253,10 @@
       "hook_pattern": "question_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -276,7 +276,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -288,10 +288,10 @@
       "hook_pattern": "question_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -311,7 +311,42 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2888176235",
+      "source_creator": "Rubius",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Marvel Television’s VisionQuest | Official Trailer",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Pa que te quedaras",
+        "Quédate un ratito más"
+      ],
+      "pacing_pattern": "ultra_short_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -323,10 +358,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -346,7 +381,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -358,10 +393,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -381,7 +416,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -393,10 +428,10 @@
       "hook_pattern": "question_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -416,7 +451,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -428,12 +463,12 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
-      "pacing_pattern": "medium_hook",
+      "pacing_pattern": "ultra_short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
       "max_duration_seconds": 58.5,
@@ -451,7 +486,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -463,10 +498,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -486,7 +521,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -498,10 +533,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -521,7 +556,42 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2887231680",
+      "source_creator": "Peereira7",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Marvel Television’s VisionQuest | Official Trailer",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
+        "Pa que te quedaras",
+        "Quédate un ratito más"
+      ],
+      "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -533,10 +603,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -556,7 +626,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -568,10 +638,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -591,77 +661,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2885816211",
-      "source_creator": "Rubius",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
-        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
-      ],
-      "pacing_pattern": "medium_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2885555938",
-      "source_creator": "Peereira7",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
-        "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
-      ],
-      "pacing_pattern": "long_context_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -673,10 +673,10 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras",
+        "Clarent & Quevedo - Jukiar (Visualizer)",
         "TODO lo que NO VISTE en el TRAILER de FORTNITEMARES 2026",
-        "Quédate un ratito más",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras",
+        "Quédate un ratito más"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -696,7 +696,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T01:17:47.830891+00:00",
+      "trend_research_timestamp": "2026-10-02T07:18:34.843286+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
