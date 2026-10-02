@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-02T14:01:11.057895+00:00",
+  "generated_at": "2026-10-02T19:27:22.085293+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2888128262",
@@ -31,7 +31,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -66,7 +66,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -101,287 +101,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2888187803",
-      "source_creator": "ElXokas",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
-      ],
-      "pacing_pattern": "long_context_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2888982568",
-      "source_creator": "Peereira7",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
-      ],
-      "pacing_pattern": "long_context_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2885639019",
-      "source_creator": "Ibai",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
-      ],
-      "pacing_pattern": "long_context_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2886858744",
-      "source_creator": "TheGrefg",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
-      ],
-      "pacing_pattern": "long_context_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2887287061",
-      "source_creator": "Juan Guarnizo",
-      "hook_pattern": "question_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
-      ],
-      "pacing_pattern": "medium_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2888341529",
-      "source_creator": "Juan Guarnizo",
-      "hook_pattern": "question_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
-      ],
-      "pacing_pattern": "medium_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2888176235",
-      "source_creator": "Rubius",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
-      ],
-      "pacing_pattern": "ultra_short_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2885607097",
-      "source_creator": "AuronPlay",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
-      ],
-      "pacing_pattern": "medium_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -416,7 +136,287 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2888982568",
+      "source_creator": "Peereira7",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Marvel Television’s VisionQuest | Official Trailer",
+        "Pa que te quedaras (feat Los Banis)",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
+        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+      ],
+      "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2885639019",
+      "source_creator": "Ibai",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Marvel Television’s VisionQuest | Official Trailer",
+        "Pa que te quedaras (feat Los Banis)",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
+        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+      ],
+      "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2886858744",
+      "source_creator": "TheGrefg",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Marvel Television’s VisionQuest | Official Trailer",
+        "Pa que te quedaras (feat Los Banis)",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
+        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+      ],
+      "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2887287061",
+      "source_creator": "Juan Guarnizo",
+      "hook_pattern": "question_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Marvel Television’s VisionQuest | Official Trailer",
+        "Pa que te quedaras (feat Los Banis)",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
+        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+      ],
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2888341529",
+      "source_creator": "Juan Guarnizo",
+      "hook_pattern": "question_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Marvel Television’s VisionQuest | Official Trailer",
+        "Pa que te quedaras (feat Los Banis)",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
+        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+      ],
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2888176235",
+      "source_creator": "Rubius",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Marvel Television’s VisionQuest | Official Trailer",
+        "Pa que te quedaras (feat Los Banis)",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
+        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+      ],
+      "pacing_pattern": "ultra_short_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2885607097",
+      "source_creator": "AuronPlay",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Marvel Television’s VisionQuest | Official Trailer",
+        "Pa que te quedaras (feat Los Banis)",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
+        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+      ],
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2888187803",
+      "source_creator": "ElXokas",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Marvel Television’s VisionQuest | Official Trailer",
+        "Pa que te quedaras (feat Los Banis)",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
+        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+      ],
+      "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -451,7 +451,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -486,7 +486,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -521,7 +521,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -556,7 +556,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -591,7 +591,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -626,7 +626,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -661,7 +661,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -696,7 +696,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T14:01:10.526115+00:00",
+      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
