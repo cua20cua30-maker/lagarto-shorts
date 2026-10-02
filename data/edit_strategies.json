@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-02T19:27:22.085293+00:00",
+  "generated_at": "2026-10-02T23:10:15.774607+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2888128262",
@@ -9,9 +9,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -31,7 +31,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -44,9 +44,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "ultra_short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -66,7 +66,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -79,9 +79,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -101,7 +101,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -114,9 +114,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -136,22 +136,22 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
       }
     },
     {
-      "candidate_id": "twitch:vod:2888982568",
+      "candidate_id": "twitch:vod:2889792234",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -171,7 +171,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -184,9 +184,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -206,7 +206,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -219,9 +219,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -241,7 +241,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -254,9 +254,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -276,7 +276,77 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2889048309",
+      "source_creator": "Juan Guarnizo",
+      "hook_pattern": "question_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Marvel Television’s VisionQuest | Official Trailer",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
+        "Pa que te quedaras (feat Los Banis)"
+      ],
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2888982568",
+      "source_creator": "Peereira7",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Marvel Television’s VisionQuest | Official Trailer",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
+        "Pa que te quedaras (feat Los Banis)"
+      ],
+      "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -289,9 +359,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -311,7 +381,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -324,9 +394,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "ultra_short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -346,7 +416,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -359,9 +429,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -381,7 +451,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -394,9 +464,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -416,42 +486,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2889011337",
-      "source_creator": "Juan Guarnizo",
-      "hook_pattern": "question_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
-      ],
-      "pacing_pattern": "medium_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -464,9 +499,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "ultra_short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -486,7 +521,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -499,9 +534,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -521,7 +556,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -534,9 +569,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -556,7 +591,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -569,9 +604,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -591,42 +626,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2886404398",
-      "source_creator": "Peereira7",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
-      ],
-      "pacing_pattern": "long_context_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -639,9 +639,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -661,7 +661,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -674,9 +674,9 @@
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
         "Marvel Television’s VisionQuest | Official Trailer",
-        "Pa que te quedaras (feat Los Banis)",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "NADIE QUERÍA VENIR…EXCEPTO ÉL. LLEGA EL NUEVO CRACK!!"
+        "Pa que te quedaras (feat Los Banis)"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -696,7 +696,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T19:27:21.427641+00:00",
+      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
