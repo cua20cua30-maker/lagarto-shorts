@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-03T17:45:53.625286+00:00",
+  "generated_at": "2026-10-03T20:36:03.091731+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2888128262",
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -31,7 +31,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -42,7 +42,7 @@
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -66,7 +66,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -77,7 +77,7 @@
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -101,7 +101,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -112,7 +112,7 @@
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -136,7 +136,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -147,7 +147,7 @@
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -171,7 +171,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -182,7 +182,7 @@
       "source_creator": "Ibai",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -206,7 +206,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -217,7 +217,7 @@
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -241,7 +241,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -252,7 +252,7 @@
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "question_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -276,7 +276,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -287,7 +287,7 @@
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "question_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -311,7 +311,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -322,7 +322,7 @@
       "source_creator": "Juan Guarnizo",
       "hook_pattern": "question_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -346,7 +346,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -357,7 +357,7 @@
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -381,7 +381,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -392,7 +392,7 @@
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -416,7 +416,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -427,7 +427,7 @@
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -451,7 +451,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -462,7 +462,7 @@
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -486,7 +486,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -497,7 +497,7 @@
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -521,7 +521,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -532,7 +532,7 @@
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -556,7 +556,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -567,7 +567,7 @@
       "source_creator": "AuronPlay",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -591,7 +591,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -602,7 +602,7 @@
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -626,7 +626,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -637,7 +637,7 @@
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -661,18 +661,18 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
       }
     },
     {
-      "candidate_id": "twitch:vod:2884824919",
+      "candidate_id": "twitch:vod:2885849950",
       "source_creator": "TheGrefg",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
@@ -696,7 +696,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
