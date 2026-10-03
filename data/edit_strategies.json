@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-03T13:37:00.742699+00:00",
+  "generated_at": "2026-10-03T17:45:53.625286+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2888128262",
@@ -31,7 +31,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -66,7 +66,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -101,14 +101,14 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
       }
     },
     {
-      "candidate_id": "twitch:vod:2889056246",
+      "candidate_id": "twitch:vod:2889884209",
       "source_creator": "ElXokas",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
@@ -136,7 +136,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -171,7 +171,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -206,7 +206,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -241,7 +241,42 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2890049108",
+      "source_creator": "Juan Guarnizo",
+      "hook_pattern": "question_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST"
+      ],
+      "pacing_pattern": "medium_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -276,7 +311,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -311,7 +346,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -346,42 +381,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2888341529",
-      "source_creator": "Juan Guarnizo",
-      "hook_pattern": "question_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
-        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
-        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
-        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST"
-      ],
-      "pacing_pattern": "medium_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -416,7 +416,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -451,7 +451,42 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2889056246",
+      "source_creator": "ElXokas",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Visualizer)",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST"
+      ],
+      "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -486,7 +521,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -521,42 +556,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2887325198",
-      "source_creator": "ElXokas",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Visualizer)",
-        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
-        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
-        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST"
-      ],
-      "pacing_pattern": "long_context_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -591,7 +591,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -626,7 +626,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -661,7 +661,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -696,7 +696,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T13:37:00.167543+00:00",
+      "trend_research_timestamp": "2026-10-03T17:45:52.936824+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
