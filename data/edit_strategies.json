@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-03T20:36:03.091731+00:00",
+  "generated_at": "2026-10-03T23:31:19.184946+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2888128262",
@@ -31,7 +31,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -66,7 +66,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -101,7 +101,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -136,14 +136,14 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
       }
     },
     {
-      "candidate_id": "twitch:vod:2889792234",
+      "candidate_id": "twitch:vod:2890776119",
       "source_creator": "Peereira7",
       "hook_pattern": "context_open",
       "trend_hook_examples": [
@@ -171,7 +171,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -206,7 +206,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -241,7 +241,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -276,7 +276,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -311,7 +311,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -346,7 +346,42 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2889792234",
+      "source_creator": "Peereira7",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [
+        "Clarent & Quevedo - Jukiar (Video Oficial)",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
+        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
+        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST"
+      ],
+      "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -381,7 +416,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -416,7 +451,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -451,7 +486,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -486,7 +521,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -521,7 +556,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -556,7 +591,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -591,42 +626,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2887231680",
-      "source_creator": "Peereira7",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [
-        "Clarent & Quevedo - Jukiar (Video Oficial)",
-        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
-        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda",
-        "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
-        "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST"
-      ],
-      "pacing_pattern": "long_context_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -661,7 +661,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -696,7 +696,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T20:36:02.615944+00:00",
+      "trend_research_timestamp": "2026-10-03T23:31:18.549674+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
