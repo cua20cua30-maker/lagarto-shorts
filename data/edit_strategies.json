@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-02T23:10:15.774607+00:00",
+  "generated_at": "2026-10-03T02:13:09.371901+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2888128262",
@@ -8,7 +8,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -31,7 +31,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -43,7 +43,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -66,7 +66,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -78,7 +78,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -101,7 +101,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -113,7 +113,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -136,7 +136,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -148,7 +148,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -171,7 +171,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -183,7 +183,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -206,7 +206,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -218,7 +218,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -241,7 +241,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -253,7 +253,7 @@
       "hook_pattern": "question_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -276,7 +276,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -288,7 +288,7 @@
       "hook_pattern": "question_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -311,7 +311,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -323,7 +323,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -346,7 +346,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -358,7 +358,7 @@
       "hook_pattern": "question_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -381,7 +381,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -393,7 +393,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -416,7 +416,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -428,7 +428,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -451,7 +451,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -463,7 +463,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -486,7 +486,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -498,7 +498,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -521,7 +521,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -533,7 +533,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -556,7 +556,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -568,7 +568,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -591,7 +591,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -603,7 +603,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -626,7 +626,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -638,7 +638,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -661,7 +661,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -673,7 +673,7 @@
       "hook_pattern": "context_open",
       "trend_hook_examples": [
         "Clarent & Quevedo - Jukiar (Visualizer)",
-        "Marvel Television’s VisionQuest | Official Trailer",
+        "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
         "Pa que te quedaras (feat Los Banis)"
@@ -696,7 +696,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-02T23:10:15.061879+00:00",
+      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
