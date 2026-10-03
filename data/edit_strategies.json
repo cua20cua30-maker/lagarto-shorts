@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-03T02:13:09.371901+00:00",
+  "generated_at": "2026-10-03T08:26:48.350791+00:00",
   "strategies": [
     {
       "candidate_id": "twitch:vod:2888128262",
@@ -11,7 +11,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -31,7 +31,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -46,7 +46,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "ultra_short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -66,7 +66,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -81,7 +81,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -101,7 +101,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -116,7 +116,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -136,7 +136,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -151,7 +151,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -171,7 +171,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -186,7 +186,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -206,7 +206,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -221,7 +221,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -241,7 +241,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -256,7 +256,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -276,7 +276,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -291,7 +291,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -311,7 +311,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -326,7 +326,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -346,7 +346,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -361,7 +361,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -381,7 +381,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -396,7 +396,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "ultra_short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -416,7 +416,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -431,7 +431,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -451,7 +451,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -466,7 +466,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -486,7 +486,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -501,7 +501,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "ultra_short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -521,7 +521,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -536,7 +536,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -556,7 +556,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -571,7 +571,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "medium_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -591,7 +591,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -606,7 +606,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -626,7 +626,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -641,7 +641,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -661,7 +661,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -676,7 +676,7 @@
         "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
         "VISIONQUEST Tráiler 2 Oficial Español (2026) Doblado",
         "💥ULTRÓN vs VISION💥 Todo sobre el ÚLTIMO Tráiler de VISIONQUEST",
-        "Pa que te quedaras (feat Los Banis)"
+        "Trailer extendido Avengers Doomsday confirmó que Steve Rogers causó todo con su hijo, Ultron y Wanda"
       ],
       "pacing_pattern": "long_context_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
@@ -696,7 +696,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-03T02:13:08.660466+00:00",
+      "trend_research_timestamp": "2026-10-03T08:26:47.718828+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
