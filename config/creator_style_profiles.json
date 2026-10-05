@@ -6,21 +6,21 @@
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 2
+          "observations": 1
         }
       ],
       "pacing": [
         {
           "pattern": "long_context_hook",
-          "observations": 2
+          "observations": 1
         }
       ],
       "language": [],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-10-05T07:26:08.389042+00:00"
+      "sample_count": 1,
+      "updated_at": "2026-10-05T16:18:23.460537+00:00"
     },
     "Rubius": {
       "hook_types": [
@@ -49,7 +49,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-05T07:26:08.389146+00:00"
+      "updated_at": "2026-10-05T16:18:23.460701+00:00"
     },
     "AuronPlay": {
       "hook_types": [
@@ -73,7 +73,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-05T07:26:08.389221+00:00"
+      "updated_at": "2026-10-05T16:18:23.460829+00:00"
     },
     "ElXokas": {
       "hook_types": [
@@ -97,7 +97,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-05T07:26:08.389349+00:00"
+      "updated_at": "2026-10-05T16:18:23.461043+00:00"
     },
     "Peereira7": {
       "hook_types": [
@@ -126,7 +126,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-05T07:26:08.389482+00:00"
+      "updated_at": "2026-10-05T16:18:23.461285+00:00"
     },
     "Ibai": {
       "hook_types": [
@@ -195,7 +195,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 1,
-      "updated_at": "2026-10-05T07:26:08.389528+00:00"
+      "updated_at": "2026-10-05T16:18:23.461366+00:00"
     },
     "Juan Guarnizo": {
       "hook_types": [
@@ -228,7 +228,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-05T07:26:08.389617+00:00"
+      "updated_at": "2026-10-05T16:18:23.461521+00:00"
     },
     "Davoo Xeneize": {
       "hook_types": [
@@ -353,5 +353,5 @@
       "updated_at": "2026-09-28T11:03:15.201356+00:00"
     }
   },
-  "updated_at": "2026-10-05T07:26:08.389619+00:00"
+  "updated_at": "2026-10-05T16:18:23.461524+00:00"
 }
