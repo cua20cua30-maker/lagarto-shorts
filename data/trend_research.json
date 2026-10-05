@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-05T01:07:53.442443+00:00",
+  "generated_at": "2026-10-05T07:26:08.230025+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "el secreto",
-        "bucaramanga - junior",
-        "renan santos",
-        "ronaldo caiado",
-        "elecciones",
-        "resultados das eleições",
-        "eleições brasil 2026",
-        "nantucket",
-        "real zaragoza",
-        "portugal fc"
+        "el mundo",
+        "cope directo",
+        "abc",
+        "noticias hoy",
+        "ultimas noticias",
+        "onda cero",
+        "rtve directo",
+        "ser",
+        "cope",
+        "rac1"
       ]
     },
     "youtube_popular_titles": {
