@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-04T22:26:13.056059+00:00",
+  "generated_at": "2026-10-05T01:07:53.442443+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
+        "el secreto",
+        "bucaramanga - junior",
+        "renan santos",
+        "ronaldo caiado",
         "elecciones",
-        "portugal national football team vs norway national football team standings",
         "resultados das eleições",
         "eleições brasil 2026",
-        "real zaragoza",
         "nantucket",
-        "portugal fc",
-        "portugal",
-        "twitch tv",
-        "c. e. sabadell - fc andorra"
+        "real zaragoza",
+        "portugal fc"
       ]
     },
     "youtube_popular_titles": {
