@@ -24,7 +24,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 2,
-      "updated_at": "2026-10-06T16:30:06.571218+00:00"
+      "updated_at": "2026-10-06T21:11:06.783918+00:00"
     },
     "Rubius": {
       "hook_types": [
@@ -61,7 +61,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-06T16:30:06.571363+00:00"
+      "updated_at": "2026-10-06T21:11:06.784068+00:00"
     },
     "AuronPlay": {
       "hook_types": [
@@ -89,7 +89,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-06T16:30:06.571519+00:00"
+      "updated_at": "2026-10-06T21:11:06.784223+00:00"
     },
     "ElXokas": {
       "hook_types": [
@@ -122,7 +122,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-06T16:30:06.571719+00:00"
+      "updated_at": "2026-10-06T21:11:06.784420+00:00"
     },
     "Peereira7": {
       "hook_types": [
@@ -142,7 +142,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-06T16:30:06.571936+00:00"
+      "updated_at": "2026-10-06T21:11:06.784635+00:00"
     },
     "Ibai": {
       "hook_types": [
@@ -216,21 +216,25 @@
     "Juan Guarnizo": {
       "hook_types": [
         {
-          "pattern": "context_open",
+          "pattern": "question_open",
           "observations": 2
         },
         {
-          "pattern": "question_open",
+          "pattern": "context_open",
           "observations": 1
         }
       ],
       "pacing": [
         {
-          "pattern": "medium_hook",
-          "observations": 2
+          "pattern": "ultra_short_hook",
+          "observations": 1
         },
         {
           "pattern": "short_hook",
+          "observations": 1
+        },
+        {
+          "pattern": "medium_hook",
           "observations": 1
         }
       ],
@@ -238,17 +242,13 @@
         {
           "pattern": "exclamation",
           "observations": 3
-        },
-        {
-          "pattern": "negation",
-          "observations": 1
         }
       ],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-06T16:30:06.572086+00:00"
+      "updated_at": "2026-10-06T21:11:06.784761+00:00"
     },
     "Davoo Xeneize": {
       "hook_types": [
@@ -373,5 +373,5 @@
       "updated_at": "2026-09-28T11:03:15.201356+00:00"
     }
   },
-  "updated_at": "2026-10-06T16:30:06.572089+00:00"
+  "updated_at": "2026-10-06T21:11:06.784763+00:00"
 }
