@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-05T22:50:24.294914+00:00",
+  "generated_at": "2026-10-06T02:41:45.065931+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
+        "argentina vs benin",
+        "nba",
+        "argentina fc",
+        "pablo motos",
+        "luis barcala",
         "cine yelmo",
-        "yelmo cines",
         "marta castro",
+        "yelmo cines",
         "dani olmo",
-        "robo",
-        "amelia bono rodríguez",
-        "classement équipe de france de football – équipe de belgique de football",
-        "israel",
-        "tamara falcó",
-        "primitiva lunes"
+        "robo"
       ]
     },
     "youtube_popular_titles": {
