@@ -20,7 +20,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 1,
-      "updated_at": "2026-10-07T20:04:05.426199+00:00"
+      "updated_at": "2026-10-08T00:19:06.456178+00:00"
     },
     "Rubius": {
       "hook_types": [
@@ -57,7 +57,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-07T20:04:05.426318+00:00"
+      "updated_at": "2026-10-08T00:19:06.456318+00:00"
     },
     "AuronPlay": {
       "hook_types": [
@@ -68,15 +68,11 @@
       ],
       "pacing": [
         {
-          "pattern": "long_context_hook",
-          "observations": 1
-        },
-        {
           "pattern": "short_hook",
-          "observations": 1
+          "observations": 2
         },
         {
-          "pattern": "medium_hook",
+          "pattern": "long_context_hook",
           "observations": 1
         }
       ],
@@ -85,7 +81,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-07T20:04:05.426449+00:00"
+      "updated_at": "2026-10-08T00:19:06.456456+00:00"
     },
     "ElXokas": {
       "hook_types": [
@@ -114,7 +110,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-07T20:04:05.426606+00:00"
+      "updated_at": "2026-10-08T00:19:06.456631+00:00"
     },
     "Peereira7": {
       "hook_types": [
@@ -134,7 +130,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-07T20:04:05.426779+00:00"
+      "updated_at": "2026-10-08T00:19:06.456842+00:00"
     },
     "Ibai": {
       "hook_types": [
@@ -236,7 +232,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-07T20:04:05.426859+00:00"
+      "updated_at": "2026-10-08T00:19:06.456939+00:00"
     },
     "Davoo Xeneize": {
       "hook_types": [
@@ -361,5 +357,5 @@
       "updated_at": "2026-09-28T11:03:15.201356+00:00"
     }
   },
-  "updated_at": "2026-10-07T20:04:05.426861+00:00"
+  "updated_at": "2026-10-08T00:19:06.456941+00:00"
 }
