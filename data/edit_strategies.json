@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T06:28:57.837201+00:00",
+  "generated_at": "2026-10-09T13:39:17.200199+00:00",
   "strategies": [
     {
-      "candidate_id": "twitch:vod:2895165904",
+      "candidate_id": "twitch:vod:2895217625",
       "source_creator": "IlloJuan",
       "hook_pattern": "context_open",
       "trend_hook_examples": [],
@@ -25,18 +25,18 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
       }
     },
     {
-      "candidate_id": "twitch:vod:2892684663",
+      "candidate_id": "twitch:vod:2895264979",
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [],
-      "pacing_pattern": "ultra_short_hook",
+      "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
       "max_duration_seconds": 58.5,
@@ -54,7 +54,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -83,7 +83,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -112,7 +112,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -141,7 +141,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -170,18 +170,18 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
       }
     },
     {
-      "candidate_id": "twitch:vod:2894472752",
+      "candidate_id": "twitch:vod:2892684663",
       "source_creator": "Rubius",
       "hook_pattern": "context_open",
       "trend_hook_examples": [],
-      "pacing_pattern": "ultra_short_hook",
+      "pacing_pattern": "short_hook",
       "learned_edit_style": "emotion_driven_pencil_animation",
       "learned_format": "vertical_9_16",
       "max_duration_seconds": 58.5,
@@ -199,7 +199,36 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2894472752",
+      "source_creator": "Rubius",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [],
+      "pacing_pattern": "short_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -228,7 +257,36 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
+      "publish_gate": {
+        "authorization_required": true,
+        "transformative_edit_required": true
+      }
+    },
+    {
+      "candidate_id": "twitch:vod:2895165904",
+      "source_creator": "IlloJuan",
+      "hook_pattern": "context_open",
+      "trend_hook_examples": [],
+      "pacing_pattern": "long_context_hook",
+      "learned_edit_style": "emotion_driven_pencil_animation",
+      "learned_format": "vertical_9_16",
+      "max_duration_seconds": 58.5,
+      "transformation": [
+        "cold_open_to_strongest_moment",
+        "remove_dead_air",
+        "original_audio_primary",
+        "pencil_character_visuals",
+        "vertical_9_16",
+        "captions_with_readable_timing",
+        "payoff_before_end",
+        "emotion_aware_selection",
+        "trend_informed_metadata"
+      ],
+      "global_learning_pattern": null,
+      "creator_learning_pattern": null,
+      "emotion_learning_pattern": null,
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -257,36 +315,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2893685602",
-      "source_creator": "Rubius",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [],
-      "pacing_pattern": "ultra_short_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -315,7 +344,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -344,7 +373,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -373,7 +402,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -402,7 +431,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -431,7 +460,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -460,7 +489,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
@@ -489,36 +518,7 @@
       "global_learning_pattern": null,
       "creator_learning_pattern": null,
       "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
-      "publish_gate": {
-        "authorization_required": true,
-        "transformative_edit_required": true
-      }
-    },
-    {
-      "candidate_id": "twitch:vod:2895160767",
-      "source_creator": "IlloJuan",
-      "hook_pattern": "context_open",
-      "trend_hook_examples": [],
-      "pacing_pattern": "long_context_hook",
-      "learned_edit_style": "emotion_driven_pencil_animation",
-      "learned_format": "vertical_9_16",
-      "max_duration_seconds": 58.5,
-      "transformation": [
-        "cold_open_to_strongest_moment",
-        "remove_dead_air",
-        "original_audio_primary",
-        "pencil_character_visuals",
-        "vertical_9_16",
-        "captions_with_readable_timing",
-        "payoff_before_end",
-        "emotion_aware_selection",
-        "trend_informed_metadata"
-      ],
-      "global_learning_pattern": null,
-      "creator_learning_pattern": null,
-      "emotion_learning_pattern": null,
-      "trend_research_timestamp": "2026-10-09T06:28:57.349779+00:00",
+      "trend_research_timestamp": "2026-10-09T13:39:16.742185+00:00",
       "publish_gate": {
         "authorization_required": true,
         "transformative_edit_required": true
