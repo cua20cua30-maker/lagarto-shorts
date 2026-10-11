@@ -1,6 +1,6 @@
 {
   "schema_version": 5,
-  "generated_at": "2026-10-11T02:03:31.369154+00:00",
+  "generated_at": "2026-10-11T09:09:48.780834+00:00",
   "mode": "vod_only",
   "source_priority": [
     "twitch",
@@ -42,9 +42,9 @@
       "source_id": "2897029895",
       "title": "DÍA 5 🔥 NOS VAMOS AL C҉A҉S҉I҉N҉O DESIERTO A  A҉P҉O҉S҉T҉A҉R EXPLORAR 🐪 - Grand Theft Auto: San Andreas 2026 #5",
       "duration_raw": "5h55m10s",
-      "score": 48.47,
+      "score": 47.46,
       "radar_rank": 0,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-10T15:22:26Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -53,7 +53,7 @@
       "uploader_verified": true,
       "uploader": "IlloJuan",
       "uploader_id": "90075649",
-      "view_count": 396124,
+      "view_count": 404396,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/aa1290d9d5833dbc29ca_illojuan_317989994467_1791645739//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -67,9 +67,9 @@
       "source_id": "2895264979",
       "title": "pasandome minecraft en 30 minutos (hoy si?)",
       "duration_raw": "7h45m1s",
-      "score": 41.84,
+      "score": 40.82,
       "radar_rank": 1,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-08T16:55:52Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -78,7 +78,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 600910,
+      "view_count": 602111,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/a2bfa1066c6b12fd8a2d_rubius_317942300770_1791478545//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -92,9 +92,9 @@
       "source_id": "2894377632",
       "title": "🗣 JUAN ES UN TIBIO 🗣 COPIA Y COMPARTE 🗣 HARDCORE #8",
       "duration_raw": "3h32m40s",
-      "score": 38.35,
+      "score": 37.33,
       "radar_rank": 0,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-07T16:28:36Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -103,8 +103,8 @@
       "uploader_verified": true,
       "uploader": "auronplay",
       "uploader_id": "459331509",
-      "view_count": 693362,
-      "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/4d6d924ef2519910592d_auronplay_317932855906_1791390507//thumb/thumb0-%{width}x%{height}.jpg"
+      "view_count": 698230,
+      "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/4d6d924ef2519910592d_auronplay_317932855906_1791390507/thumb/custom-37fe48b5-9ed5-42b7-a2d9-e89661664fde-%{width}x%{height}.jpeg"
     },
     {
       "candidate_id": "twitch:vod:2896999384",
@@ -117,9 +117,9 @@
       "source_id": "2896999384",
       "title": "🎃RANK 1 ROGUE🎃100K$ TOURNAMENT🎃OS ENSEÑO LA NUEVA BARBARIDAD QUE CONSEGUÍ🎃SOY EL ÚNICO DEL TORNEO QUE LO TIENE🎃LLAMADME LA CABRA🎃",
       "duration_raw": "9h13m21s",
-      "score": 48.38,
+      "score": 47.36,
       "radar_rank": 0,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-10T14:42:25Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -128,7 +128,7 @@
       "uploader_verified": true,
       "uploader": "elxokas",
       "uploader_id": "31919607",
-      "view_count": 250298,
+      "view_count": 253067,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/d29646b63e7b11a5ef11_elxokas_318895353445_1791643340//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -142,9 +142,9 @@
       "source_id": "2897036818",
       "title": "🟥EL MEJOR STREAMER🟥20K SUBS🟥THE FOREST🟥DIA 2🟥KITMAN🟥ROBLOX🟥THE DOORS🟥LONG STREAM🟥MEGA SHOW🟥ROCKET LEAGUE🟥ROAD TO GC🟥DIA OLVIDADO",
       "duration_raw": "5h55m50s",
-      "score": 48.5,
+      "score": 47.48,
       "radar_rank": 0,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-10T15:31:52Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -153,7 +153,7 @@
       "uploader_verified": true,
       "uploader": "Peereira7",
       "uploader_id": "182714869",
-      "view_count": 423000,
+      "view_count": 425291,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/04344ec2853ada74ca30_peereira7_317978776676_1791646305//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -167,9 +167,9 @@
       "source_id": "2896278862",
       "title": "DEDSAFIO: GULAG, CONCIERTO Y JUICIO 😎 !eneba",
       "duration_raw": "8h36m20s",
-      "score": 45.64,
+      "score": 44.63,
       "radar_rank": 1,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-09T19:32:34Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -178,7 +178,7 @@
       "uploader_verified": false,
       "uploader": "juansguarnizo",
       "uploader_id": "121510236",
-      "view_count": 348468,
+      "view_count": 349724,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/c2a84dbeaa4e4a2b7c87_juansguarnizo_321776303962_1791574350//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -192,9 +192,9 @@
       "source_id": "2896033450",
       "title": "☢️EL MEJOR STREAMER☢️20K SUBS☢️THE FOREST☢️DIA 1☢️MARIO KART☢️WINNING☢️ROBLOX☢️THE DOORS☢️ROCKET LEAGUE☢️ROAD TO GC☢️SHOW DAY☢️LONG STREAM",
       "duration_raw": "6h15m43s",
-      "score": 44.91,
+      "score": 43.9,
       "radar_rank": 1,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-09T14:27:44Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -203,7 +203,7 @@
       "uploader_verified": true,
       "uploader": "Peereira7",
       "uploader_id": "182714869",
-      "view_count": 491569,
+      "view_count": 492297,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/ce0a54c837a361d33c21_peereira7_317949780834_1791556058//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -217,9 +217,9 @@
       "source_id": "2895321976",
       "title": "DIRECTO CON MI MAMÁ + NUTRIALLOWEEN EN DEDSAFIO 🎃 !eneba",
       "duration_raw": "10h3m10s",
-      "score": 42.0,
+      "score": 40.98,
       "radar_rank": 2,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-08T18:03:29Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -228,7 +228,7 @@
       "uploader_verified": false,
       "uploader": "juansguarnizo",
       "uploader_id": "121510236",
-      "view_count": 367652,
+      "view_count": 368311,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/63d8af7c80bd13f0b17a_juansguarnizo_320571214302_1791482604//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -242,9 +242,9 @@
       "source_id": "2895217625",
       "title": "EL NUEVO MAPA DE DAYZ CON ANDRÉS 🗺️ HOY ES UNO DE ESOS DÍAS 🌞 - DayZ Badlands ft. Andrés",
       "duration_raw": "8h12m40s",
-      "score": 41.69,
+      "score": 40.67,
       "radar_rank": 1,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-08T15:52:48Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -253,7 +253,7 @@
       "uploader_verified": true,
       "uploader": "IlloJuan",
       "uploader_id": "90075649",
-      "view_count": 576354,
+      "view_count": 578323,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/a7f1ac1c46c9556b35a4_illojuan_317959752292_1791474760/thumb/custom-36792135-7c44-4bd6-b312-260d8decc0a3-%{width}x%{height}.jpeg"
     },
     {
@@ -267,9 +267,9 @@
       "source_id": "2895143405",
       "title": "🟥EL MEJOR STREAMER🟥20K SUBS🟥MARIO KART🟥ONLINE🟥NO CIERRO SIN GANAR🟥ROBLOX🟥TENEMOS 1 AÑO🟥AGUS🟥SHORT STREAM🟥SHOW DAY🟥CLIP FARMING🟥",
       "duration_raw": "3h57m30s",
-      "score": 41.41,
+      "score": 40.4,
       "radar_rank": 2,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-08T13:56:55Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -278,7 +278,7 @@
       "uploader_verified": true,
       "uploader": "Peereira7",
       "uploader_id": "182714869",
-      "view_count": 332900,
+      "view_count": 333085,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/bb708d79c82c5192a0b5_peereira7_317958879332_1791467808//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -292,9 +292,9 @@
       "source_id": "2892684663",
       "title": "He metido Minecraft en GTA V (no es meme 💀)",
       "duration_raw": "7h2m10s",
-      "score": 40.55,
+      "score": 39.53,
       "radar_rank": 4,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-05T16:53:50Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -303,7 +303,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 613755,
+      "view_count": 614210,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/5342b0c7814870e7d4e5_rubius_317935156324_1791219223//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -317,9 +317,9 @@
       "source_id": "2894472752",
       "title": "pasandome minecraft en 30 minutos",
       "duration_raw": "5h35m45s",
-      "score": 38.62,
+      "score": 37.61,
       "radar_rank": 2,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-07T18:25:43Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -328,7 +328,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 457628,
+      "view_count": 458634,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/e82db860c29b18ec2d0d_rubius_317934364002_1791397537//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -342,9 +342,9 @@
       "source_id": "2894357228",
       "title": "12 HORAS: LOS ABANDONADOS #8 + DEDSAFIO: VISITAS EN LA MONTAÑA ⛰️ !eneba",
       "duration_raw": "12h1m40s",
-      "score": 38.28,
+      "score": 37.26,
       "radar_rank": 3,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-07T16:01:02Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -353,7 +353,7 @@
       "uploader_verified": false,
       "uploader": "juansguarnizo",
       "uploader_id": "121510236",
-      "view_count": 444373,
+      "view_count": 445034,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/b7624932ba5f46bff20d_juansguarnizo_321869162971_1791388857//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -367,9 +367,9 @@
       "source_id": "2894427485",
       "title": "🫩LA BESTIA🫩PREPARACIÓN TORNEO 100K€🫩NUEVOS CAMBIOS EN EL PVP🫩MAÑANA NO HAY DIRECTO, VUELVO VIERNES🫩EL ROGUE APESTA PERO SOY HONRADO🫩",
       "duration_raw": "8h53m42s",
-      "score": 38.21,
+      "score": 37.2,
       "radar_rank": 1,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-07T17:31:58Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -378,7 +378,7 @@
       "uploader_verified": true,
       "uploader": "elxokas",
       "uploader_id": "31919607",
-      "view_count": 244282,
+      "view_count": 244395,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/3a6723c6c32fab09794f_elxokas_318916237670_1791394313//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -392,9 +392,9 @@
       "source_id": "2895165904",
       "title": "EL NUEVO MAPA DE DAYZ CON ANDRÉS 🗺️ HOY ES UNO DE ESOS DÍAS 🌞 - DayZ Badlands ft. Andrés",
       "duration_raw": "1h16m35s",
-      "score": 36.85,
+      "score": 35.86,
       "radar_rank": 2,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-08T14:33:46Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -403,7 +403,7 @@
       "uploader_verified": true,
       "uploader": "IlloJuan",
       "uploader_id": "90075649",
-      "view_count": 165615,
+      "view_count": 166096,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/f94dcfb3d21a4afc89f2_illojuan_317959127140_1791470019/thumb/custom-f4422254-e26d-4f1c-a4eb-8f20892b0751-%{width}x%{height}.jpeg"
     },
     {
@@ -417,9 +417,9 @@
       "source_id": "2893535220",
       "title": "🤜LA CABRA DEL WOW🤜PREPARACIÓN TORNEO 100K$🤜CHARLAS CON EL MEJOR STREAMER DE LA HISTORIA HISPANOPARLANTE DEL PLANETA🤜",
       "duration_raw": "11h46m20s",
-      "score": 34.98,
+      "score": 33.96,
       "radar_rank": 2,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-06T16:53:31Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -428,7 +428,7 @@
       "uploader_verified": true,
       "uploader": "elxokas",
       "uploader_id": "31919607",
-      "view_count": 305892,
+      "view_count": 305942,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/0a91ecb70d01a0ca0eeb_elxokas_318848776421_1791305606//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -442,9 +442,9 @@
       "source_id": "2892661363",
       "title": "DÍA DE CHILL 🗿 SOLO MI CHAT Y YO 🗿 HABLAMOS DE LA VIDA Y PROBAMOS ALGUN JUEGO 🗿 FERMIN NOMBRE DE ABUELO",
       "duration_raw": "2h44m40s",
-      "score": 31.47,
+      "score": 30.46,
       "radar_rank": 1,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-05T16:21:28Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -453,8 +453,8 @@
       "uploader_verified": true,
       "uploader": "auronplay",
       "uploader_id": "459331509",
-      "view_count": 635537,
-      "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/5bc7d3ea7a7d19f2c208_auronplay_317934850660_1791217281//thumb/thumb0-%{width}x%{height}.jpg"
+      "view_count": 636319,
+      "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/5bc7d3ea7a7d19f2c208_auronplay_317934850660_1791217281/thumb/custom-43a62063-81d2-40c4-9652-68a120d44586-%{width}x%{height}.jpeg"
     },
     {
       "candidate_id": "twitch:vod:2891857610",
@@ -467,9 +467,9 @@
       "source_id": "2891857610",
       "title": "🔥 AMONG US 🔥 MODO LEGENDARIO 🔥 YA VOY FULL VÍSTETE 🔥",
       "duration_raw": "4h59m30s",
-      "score": 28.14,
+      "score": 27.13,
       "radar_rank": 2,
-      "detected_at": "2026-10-11T02:03:27.945038+00:00",
+      "detected_at": "2026-10-11T09:09:45.490594+00:00",
       "published_at": "2026-10-04T17:02:54Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -478,8 +478,8 @@
       "uploader_verified": true,
       "uploader": "auronplay",
       "uploader_id": "459331509",
-      "view_count": 4807918,
-      "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/10a9107a967cf3f6845a_auronplay_317937472739_1791133365//thumb/thumb0-%{width}x%{height}.jpg"
+      "view_count": 4808683,
+      "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/10a9107a967cf3f6845a_auronplay_317937472739_1791133365/thumb/custom-2a409172-9ce5-42f3-aeba-5d00eefe82be-%{width}x%{height}.jpeg"
     }
   ]
 }
