@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-11T23:27:01.143487+00:00",
+  "generated_at": "2026-10-12T02:35:40.073298+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
+        "américa - medellín",
+        "mcdonalds",
+        "marta peñate",
+        "sucesos",
+        "cusco - alianza lima",
         "deportes",
         "virginia fonseca",
         "iñaki williams",
         "canarias",
-        "racing - belgrano",
-        "bernardo silva",
-        "película bola negra",
-        "santa fe - fortaleza",
-        "alhora",
-        "automovilismo"
+        "racing - belgrano"
       ]
     },
     "youtube_popular_titles": {
