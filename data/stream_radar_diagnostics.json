@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T11:11:28.570616+00:00",
+  "generated_at": "2026-10-14T15:54:11.420974+00:00",
   "results": [
     {
       "creator": "IlloJuan",
       "platform": "twitch",
       "status": "ok",
       "login": "illojuan",
-      "vods_seen": 19,
-      "recent_vods": 3
+      "vods_seen": 20,
+      "recent_vods": 4
     },
     {
       "creator": "Rubius",
@@ -24,7 +24,7 @@
       "status": "ok",
       "login": "auronplay",
       "vods_seen": 20,
-      "recent_vods": 3
+      "recent_vods": 4
     },
     {
       "creator": "ElXokas",
