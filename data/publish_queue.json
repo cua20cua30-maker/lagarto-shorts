@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T15:54:14.819362+00:00",
+  "generated_at": "2026-10-14T19:58:37.965604+00:00",
   "jobs": [
     {
       "job_id": "publish:clip:twitch:vod:2897029895",
@@ -63,16 +63,28 @@
       "idempotency_key": "publish:clip:twitch:vod:2899728610"
     },
     {
-      "job_id": "publish:clip:twitch:vod:2897165637",
-      "clip_id": "clip:twitch:vod:2897165637",
-      "candidate_id": "twitch:vod:2897165637",
+      "job_id": "publish:clip:twitch:vod:2900755946",
+      "clip_id": "clip:twitch:vod:2900755946",
+      "candidate_id": "twitch:vod:2900755946",
+      "source_creator": "Ibai",
+      "title": "Lagarto | Ibai",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2900755946"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2899899939",
+      "clip_id": "clip:twitch:vod:2899899939",
+      "candidate_id": "twitch:vod:2899899939",
       "source_creator": "Juan Guarnizo",
       "title": "Lagarto | Juan Guarnizo",
       "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
       "status": "blocked_until_rendered",
       "authorization_status": "authorized",
       "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2897165637"
+      "idempotency_key": "publish:clip:twitch:vod:2899899939"
     },
     {
       "job_id": "publish:clip:twitch:vod:2900590088",
@@ -85,6 +97,30 @@
       "authorization_status": "authorized",
       "transformative_edit_required": true,
       "idempotency_key": "publish:clip:twitch:vod:2900590088"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2899785189",
+      "clip_id": "clip:twitch:vod:2899785189",
+      "candidate_id": "twitch:vod:2899785189",
+      "source_creator": "ElXokas",
+      "title": "Lagarto | ElXokas",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2899785189"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2897165637",
+      "clip_id": "clip:twitch:vod:2897165637",
+      "candidate_id": "twitch:vod:2897165637",
+      "source_creator": "Juan Guarnizo",
+      "title": "Lagarto | Juan Guarnizo",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2897165637"
     },
     {
       "job_id": "publish:clip:twitch:vod:2899090520",
@@ -169,30 +205,6 @@
       "authorization_status": "authorized",
       "transformative_edit_required": true,
       "idempotency_key": "publish:clip:twitch:vod:2897036818"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2896999384",
-      "clip_id": "clip:twitch:vod:2896999384",
-      "candidate_id": "twitch:vod:2896999384",
-      "source_creator": "ElXokas",
-      "title": "Lagarto | ElXokas",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2896999384"
-    },
-    {
-      "job_id": "publish:clip:twitch:vod:2896278862",
-      "clip_id": "clip:twitch:vod:2896278862",
-      "candidate_id": "twitch:vod:2896278862",
-      "source_creator": "Juan Guarnizo",
-      "title": "Lagarto | Juan Guarnizo",
-      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
-      "status": "blocked_until_rendered",
-      "authorization_status": "authorized",
-      "transformative_edit_required": true,
-      "idempotency_key": "publish:clip:twitch:vod:2896278862"
     },
     {
       "job_id": "publish:clip:twitch:vod:2895217625",

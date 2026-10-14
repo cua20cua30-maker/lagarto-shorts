@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T15:54:14.819362+00:00",
+  "generated_at": "2026-10-14T19:58:37.965604+00:00",
   "jobs": [
     {
       "job_id": "render:clip:twitch:vod:2897029895",
@@ -32,7 +32,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -71,7 +71,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -110,7 +110,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -149,7 +149,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -188,7 +188,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -198,18 +198,18 @@
       "idempotency_key": "render:clip:twitch:vod:2899728610"
     },
     {
-      "job_id": "render:clip:twitch:vod:2897165637",
-      "clip_id": "clip:twitch:vod:2897165637",
-      "candidate_id": "twitch:vod:2897165637",
-      "source_url": "https://www.twitch.tv/videos/2897165637",
-      "source_creator": "Juan Guarnizo",
-      "title": "GARTIC PHONE + LOS ANTIGUARDIANES DEL DEDSAFIO 💀 !eneba",
+      "job_id": "render:clip:twitch:vod:2900755946",
+      "clip_id": "clip:twitch:vod:2900755946",
+      "candidate_id": "twitch:vod:2900755946",
+      "source_url": "https://www.twitch.tv/videos/2900755946",
+      "source_creator": "Ibai",
+      "title": "SUPER PREVIA WORLDS 2026 | MAÑANA EMPIEZAN LOS WORLDS | KOI VA A HACER HISTORIA | INVITADOS TOP | VIENEN LOS JUGADORES | LOCURA | INSULTOS",
       "strategy": {
-        "candidate_id": "twitch:vod:2897165637",
-        "source_creator": "Juan Guarnizo",
-        "hook_pattern": "context_open",
+        "candidate_id": "twitch:vod:2900755946",
+        "source_creator": "Ibai",
+        "hook_pattern": "shock_claim",
         "trend_hook_examples": [],
-        "pacing_pattern": "short_hook",
+        "pacing_pattern": "long_context_hook",
         "learned_edit_style": "emotion_driven_pencil_animation",
         "learned_format": "vertical_9_16",
         "max_duration_seconds": 58.5,
@@ -227,14 +227,53 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
         }
       },
       "status": "queued",
-      "idempotency_key": "render:clip:twitch:vod:2897165637"
+      "idempotency_key": "render:clip:twitch:vod:2900755946"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2899899939",
+      "clip_id": "clip:twitch:vod:2899899939",
+      "candidate_id": "twitch:vod:2899899939",
+      "source_url": "https://www.twitch.tv/videos/2899899939",
+      "source_creator": "Juan Guarnizo",
+      "title": "FELIZ NUTRIAVIDAD 🎄🎅 !eneba",
+      "strategy": {
+        "candidate_id": "twitch:vod:2899899939",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "ultra_short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2899899939"
     },
     {
       "job_id": "render:clip:twitch:vod:2900590088",
@@ -266,7 +305,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -276,18 +315,18 @@
       "idempotency_key": "render:clip:twitch:vod:2900590088"
     },
     {
-      "job_id": "render:clip:twitch:vod:2899090520",
-      "clip_id": "clip:twitch:vod:2899090520",
-      "candidate_id": "twitch:vod:2899090520",
-      "source_url": "https://www.twitch.tv/videos/2899090520",
-      "source_creator": "Juan Guarnizo",
-      "title": "DEDSAFIO: ESNUTRIA 🆚 LOS ANTIGUARDIANES !eneba",
+      "job_id": "render:clip:twitch:vod:2899785189",
+      "clip_id": "clip:twitch:vod:2899785189",
+      "candidate_id": "twitch:vod:2899785189",
+      "source_url": "https://www.twitch.tv/videos/2899785189",
+      "source_creator": "ElXokas",
+      "title": "😵ME HAN !BANEADO😵PERO HE VUELTO😵TIENEN PRIORIDAD PARA ATENDER AL G.O.A.T😵TODO PARA PERDER EL PRIMER DÍA😵MISS CHEAP SHOT INTO MISS KID😵",
       "strategy": {
-        "candidate_id": "twitch:vod:2899090520",
-        "source_creator": "Juan Guarnizo",
+        "candidate_id": "twitch:vod:2899785189",
+        "source_creator": "ElXokas",
         "hook_pattern": "context_open",
         "trend_hook_examples": [],
-        "pacing_pattern": "short_hook",
+        "pacing_pattern": "long_context_hook",
         "learned_edit_style": "emotion_driven_pencil_animation",
         "learned_format": "vertical_9_16",
         "max_duration_seconds": 58.5,
@@ -305,7 +344,85 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2899785189"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2897165637",
+      "clip_id": "clip:twitch:vod:2897165637",
+      "candidate_id": "twitch:vod:2897165637",
+      "source_url": "https://www.twitch.tv/videos/2897165637",
+      "source_creator": "Juan Guarnizo",
+      "title": "GARTIC PHONE + LOS ANTIGUARDIANES DEL DEDSAFIO 💀 !eneba",
+      "strategy": {
+        "candidate_id": "twitch:vod:2897165637",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "ultra_short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2897165637"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2899090520",
+      "clip_id": "clip:twitch:vod:2899090520",
+      "candidate_id": "twitch:vod:2899090520",
+      "source_url": "https://www.twitch.tv/videos/2899090520",
+      "source_creator": "Juan Guarnizo",
+      "title": "DEDSAFIO: ESNUTRIA 🆚 LOS ANTIGUARDIANES !eneba",
+      "strategy": {
+        "candidate_id": "twitch:vod:2899090520",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "ultra_short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -344,7 +461,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -383,7 +500,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -422,7 +539,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -461,7 +578,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -500,7 +617,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -539,7 +656,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -547,84 +664,6 @@
       },
       "status": "queued",
       "idempotency_key": "render:clip:twitch:vod:2897036818"
-    },
-    {
-      "job_id": "render:clip:twitch:vod:2896999384",
-      "clip_id": "clip:twitch:vod:2896999384",
-      "candidate_id": "twitch:vod:2896999384",
-      "source_url": "https://www.twitch.tv/videos/2896999384",
-      "source_creator": "ElXokas",
-      "title": "🎃RANK 1 ROGUE🎃100K$ TOURNAMENT🎃OS ENSEÑO LA NUEVA BARBARIDAD QUE CONSEGUÍ🎃SOY EL ÚNICO DEL TORNEO QUE LO TIENE🎃LLAMADME LA CABRA🎃",
-      "strategy": {
-        "candidate_id": "twitch:vod:2896999384",
-        "source_creator": "ElXokas",
-        "hook_pattern": "context_open",
-        "trend_hook_examples": [],
-        "pacing_pattern": "long_context_hook",
-        "learned_edit_style": "emotion_driven_pencil_animation",
-        "learned_format": "vertical_9_16",
-        "max_duration_seconds": 58.5,
-        "transformation": [
-          "cold_open_to_strongest_moment",
-          "remove_dead_air",
-          "original_audio_primary",
-          "pencil_character_visuals",
-          "vertical_9_16",
-          "captions_with_readable_timing",
-          "payoff_before_end",
-          "emotion_aware_selection",
-          "trend_informed_metadata"
-        ],
-        "global_learning_pattern": null,
-        "creator_learning_pattern": null,
-        "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
-        "publish_gate": {
-          "authorization_required": true,
-          "transformative_edit_required": true
-        }
-      },
-      "status": "queued",
-      "idempotency_key": "render:clip:twitch:vod:2896999384"
-    },
-    {
-      "job_id": "render:clip:twitch:vod:2896278862",
-      "clip_id": "clip:twitch:vod:2896278862",
-      "candidate_id": "twitch:vod:2896278862",
-      "source_url": "https://www.twitch.tv/videos/2896278862",
-      "source_creator": "Juan Guarnizo",
-      "title": "DEDSAFIO: GULAG, CONCIERTO Y JUICIO 😎 !eneba",
-      "strategy": {
-        "candidate_id": "twitch:vod:2896278862",
-        "source_creator": "Juan Guarnizo",
-        "hook_pattern": "context_open",
-        "trend_hook_examples": [],
-        "pacing_pattern": "short_hook",
-        "learned_edit_style": "emotion_driven_pencil_animation",
-        "learned_format": "vertical_9_16",
-        "max_duration_seconds": 58.5,
-        "transformation": [
-          "cold_open_to_strongest_moment",
-          "remove_dead_air",
-          "original_audio_primary",
-          "pencil_character_visuals",
-          "vertical_9_16",
-          "captions_with_readable_timing",
-          "payoff_before_end",
-          "emotion_aware_selection",
-          "trend_informed_metadata"
-        ],
-        "global_learning_pattern": null,
-        "creator_learning_pattern": null,
-        "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
-        "publish_gate": {
-          "authorization_required": true,
-          "transformative_edit_required": true
-        }
-      },
-      "status": "queued",
-      "idempotency_key": "render:clip:twitch:vod:2896278862"
     },
     {
       "job_id": "render:clip:twitch:vod:2895217625",
@@ -656,7 +695,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
@@ -695,7 +734,7 @@
         "global_learning_pattern": null,
         "creator_learning_pattern": null,
         "emotion_learning_pattern": null,
-        "trend_research_timestamp": "2026-10-14T15:54:14.068811+00:00",
+        "trend_research_timestamp": "2026-10-14T19:58:37.230176+00:00",
         "publish_gate": {
           "authorization_required": true,
           "transformative_edit_required": true
