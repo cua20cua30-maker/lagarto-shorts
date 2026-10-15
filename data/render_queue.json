@@ -1,4 +1,786 @@
 {
   "schema_version": 1,
-  "jobs": []
+  "generated_at": "2026-10-15T17:36:11.014429+00:00",
+  "jobs": [
+    {
+      "job_id": "render:clip:twitch:vod:2900578552",
+      "clip_id": "clip:twitch:vod:2900578552",
+      "candidate_id": "twitch:vod:2900578552",
+      "source_url": "https://www.twitch.tv/videos/2900578552",
+      "source_creator": "IlloJuan",
+      "title": "🏳‍🌈 TU DÚO NEURODIVERGENTE FAVORITO 🏳‍🌈 RASCADITAS DE HUEVOS EN HD 🔥 - ARC Raiders ft. Andrés",
+      "strategy": {
+        "candidate_id": "twitch:vod:2900578552",
+        "source_creator": "IlloJuan",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2900578552"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2898998417",
+      "clip_id": "clip:twitch:vod:2898998417",
+      "candidate_id": "twitch:vod:2898998417",
+      "source_url": "https://www.twitch.tv/videos/2898998417",
+      "source_creator": "Rubius",
+      "title": "pasandome minecraft en 30 minutos (HOY ES EL DIA)",
+      "strategy": {
+        "candidate_id": "twitch:vod:2898998417",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2898998417"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2900590088",
+      "clip_id": "clip:twitch:vod:2900590088",
+      "candidate_id": "twitch:vod:2900590088",
+      "source_url": "https://www.twitch.tv/videos/2900590088",
+      "source_creator": "AuronPlay",
+      "title": "!drop !voces ✨️ ÚLTIMO DÍA EN EL SANATORIO CON FABIANA SEVILLANO ✨️ (La subtrama entre Pereira y Agustín: 💀😡💣😠☠️🔪🤬)",
+      "strategy": {
+        "candidate_id": "twitch:vod:2900590088",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2900590088"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2897958727",
+      "clip_id": "clip:twitch:vod:2897958727",
+      "candidate_id": "twitch:vod:2897958727",
+      "source_url": "https://www.twitch.tv/videos/2897958727",
+      "source_creator": "ElXokas",
+      "title": "💀CREO QUE LA HE LIADO💀CHEQUEANDO GEAR DE RANK 1 ROGUES💀VAN TODOS FULL HP💀QUIZÁS TENGO QUE PILLAR ALGO DE VIDA💀MI MADRE ES PINTORA💀",
+      "strategy": {
+        "candidate_id": "twitch:vod:2897958727",
+        "source_creator": "ElXokas",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2897958727"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2900556879",
+      "clip_id": "clip:twitch:vod:2900556879",
+      "candidate_id": "twitch:vod:2900556879",
+      "source_url": "https://www.twitch.tv/videos/2900556879",
+      "source_creator": "Peereira7",
+      "title": "☢️EL MEJOR STREAMER☢️20K SUBS☢️THE FOREST☢️DAY 3☢️VERITY FINAL☢️MINECRAFT☢️ROBLOX☢️GOTY☢️OVERCOOKED☢️FABIANA VILLANO☢️ROCKET LEAGUE☢️LONG ST",
+      "strategy": {
+        "candidate_id": "twitch:vod:2900556879",
+        "source_creator": "Peereira7",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2900556879"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2900755946",
+      "clip_id": "clip:twitch:vod:2900755946",
+      "candidate_id": "twitch:vod:2900755946",
+      "source_url": "https://www.twitch.tv/videos/2900755946",
+      "source_creator": "Ibai",
+      "title": "SUPER PREVIA WORLDS 2026 | MAÑANA EMPIEZAN LOS WORLDS | KOI VA A HACER HISTORIA | INVITADOS TOP | VIENEN LOS JUGADORES | LOCURA | INSULTOS",
+      "strategy": {
+        "candidate_id": "twitch:vod:2900755946",
+        "source_creator": "Ibai",
+        "hook_pattern": "shock_claim",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2900755946"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2899899939",
+      "clip_id": "clip:twitch:vod:2899899939",
+      "candidate_id": "twitch:vod:2899899939",
+      "source_url": "https://www.twitch.tv/videos/2899899939",
+      "source_creator": "Juan Guarnizo",
+      "title": "FELIZ NUTRIAVIDAD 🎄🎅 !eneba",
+      "strategy": {
+        "candidate_id": "twitch:vod:2899899939",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "ultra_short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2899899939"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2899708479",
+      "clip_id": "clip:twitch:vod:2899708479",
+      "candidate_id": "twitch:vod:2899708479",
+      "source_url": "https://www.twitch.tv/videos/2899708479",
+      "source_creator": "AuronPlay",
+      "title": "!drop !voces 🗣 HOY SE VIENEN SORPRESAS 👀 HARDCORE CON FABIANA SEVILLANO 🗣 2",
+      "strategy": {
+        "candidate_id": "twitch:vod:2899708479",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2899708479"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2900646889",
+      "clip_id": "clip:twitch:vod:2900646889",
+      "candidate_id": "twitch:vod:2900646889",
+      "source_url": "https://www.twitch.tv/videos/2900646889",
+      "source_creator": "ElXokas",
+      "title": "🫡ESTOY DONE🫡NUEVAS NORMATIVAS🫡ME JODIERON POR CASTILLA LA MANCHA🫡HAY UNA NUEVA ARMA ROTA DE ROGUE🫡Y ES UNA DAGA🫡ESTOY CAPUT🫡",
+      "strategy": {
+        "candidate_id": "twitch:vod:2900646889",
+        "source_creator": "ElXokas",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2900646889"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2899785189",
+      "clip_id": "clip:twitch:vod:2899785189",
+      "candidate_id": "twitch:vod:2899785189",
+      "source_url": "https://www.twitch.tv/videos/2899785189",
+      "source_creator": "ElXokas",
+      "title": "😵ME HAN !BANEADO😵PERO HE VUELTO😵TIENEN PRIORIDAD PARA ATENDER AL G.O.A.T😵TODO PARA PERDER EL PRIMER DÍA😵MISS CHEAP SHOT INTO MISS KID😵",
+      "strategy": {
+        "candidate_id": "twitch:vod:2899785189",
+        "source_creator": "ElXokas",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2899785189"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2899728610",
+      "clip_id": "clip:twitch:vod:2899728610",
+      "candidate_id": "twitch:vod:2899728610",
+      "source_url": "https://www.twitch.tv/videos/2899728610",
+      "source_creator": "Peereira7",
+      "title": "🟥EL MEJOR STREAMER🟥20K SUBS🟥FOREST MAÑANA🟥MINECRAFT HARDCORE🟥CON VERITY🟥NADIE MAS🟥ROBLOX🟥FORTNITE🟥ROCKET LEAGUE🟥GAMING🟥ACCION🟥FA",
+      "strategy": {
+        "candidate_id": "twitch:vod:2899728610",
+        "source_creator": "Peereira7",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2899728610"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2897165637",
+      "clip_id": "clip:twitch:vod:2897165637",
+      "candidate_id": "twitch:vod:2897165637",
+      "source_url": "https://www.twitch.tv/videos/2897165637",
+      "source_creator": "Juan Guarnizo",
+      "title": "GARTIC PHONE + LOS ANTIGUARDIANES DEL DEDSAFIO 💀 !eneba",
+      "strategy": {
+        "candidate_id": "twitch:vod:2897165637",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "ultra_short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2897165637"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2899090520",
+      "clip_id": "clip:twitch:vod:2899090520",
+      "candidate_id": "twitch:vod:2899090520",
+      "source_url": "https://www.twitch.tv/videos/2899090520",
+      "source_creator": "Juan Guarnizo",
+      "title": "DEDSAFIO: ESNUTRIA 🆚 LOS ANTIGUARDIANES !eneba",
+      "strategy": {
+        "candidate_id": "twitch:vod:2899090520",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "ultra_short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2899090520"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2898838566",
+      "clip_id": "clip:twitch:vod:2898838566",
+      "candidate_id": "twitch:vod:2898838566",
+      "source_url": "https://www.twitch.tv/videos/2898838566",
+      "source_creator": "AuronPlay",
+      "title": "🗣 HARDCORE CON FABIANA SEVILLANO 🗣 #1",
+      "strategy": {
+        "candidate_id": "twitch:vod:2898838566",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2898838566"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2898821343",
+      "clip_id": "clip:twitch:vod:2898821343",
+      "candidate_id": "twitch:vod:2898821343",
+      "source_url": "https://www.twitch.tv/videos/2898821343",
+      "source_creator": "Peereira7",
+      "title": "☢️EL MEJOR STREAMER☢️20K SUBS☢️THE FOREST☢️DIA 3☢️KITMAN☢️ROBLOX☢️THE DOORS☢️MEGA LONG STREAM☢️MEGA SHOW☢️ROCKET LEAGUE☢️VIVA ESPAÑA☢️CLIP F",
+      "strategy": {
+        "candidate_id": "twitch:vod:2898821343",
+        "source_creator": "Peereira7",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2898821343"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2898123266",
+      "clip_id": "clip:twitch:vod:2898123266",
+      "candidate_id": "twitch:vod:2898123266",
+      "source_url": "https://www.twitch.tv/videos/2898123266",
+      "source_creator": "Rubius",
+      "title": "⚡CONCURSO DE MC DE QUACKITY⚡SPEEDRUNS⚡WORLD RECORDS⚡HUGE⚡GIGANTIC⚡MASSIVE⚡",
+      "strategy": {
+        "candidate_id": "twitch:vod:2898123266",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2898123266"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2897147564",
+      "clip_id": "clip:twitch:vod:2897147564",
+      "candidate_id": "twitch:vod:2897147564",
+      "source_url": "https://www.twitch.tv/videos/2897147564",
+      "source_creator": "Rubius",
+      "title": "pasandome minecraft en 30 minutos (JOD*EME MAS, NOTCH)",
+      "strategy": {
+        "candidate_id": "twitch:vod:2897147564",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2897147564"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2897029895",
+      "clip_id": "clip:twitch:vod:2897029895",
+      "candidate_id": "twitch:vod:2897029895",
+      "source_url": "https://www.twitch.tv/videos/2897029895",
+      "source_creator": "IlloJuan",
+      "title": "DÍA 5 🔥 NOS VAMOS AL C҉A҉S҉I҉N҉O DESIERTO A  A҉P҉O҉S҉T҉A҉R EXPLORAR 🐪 - Grand Theft Auto: San Andreas 2026 #5",
+      "strategy": {
+        "candidate_id": "twitch:vod:2897029895",
+        "source_creator": "IlloJuan",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2897029895"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2901476435",
+      "clip_id": "clip:twitch:vod:2901476435",
+      "candidate_id": "twitch:vod:2901476435",
+      "source_url": "https://www.twitch.tv/videos/2901476435",
+      "source_creator": "IlloJuan",
+      "title": "ÚLTIMO TRÁILER DE GTA 6 🚨 QUEDA 1 MES 📅 SPEEDRUN DE CASINO 💰 LUDOPATÍA DAY 🥰 - Grand Theft Auto: San Andreas 2026 #6",
+      "strategy": {
+        "candidate_id": "twitch:vod:2901476435",
+        "source_creator": "IlloJuan",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2901476435"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2901550877",
+      "clip_id": "clip:twitch:vod:2901550877",
+      "candidate_id": "twitch:vod:2901550877",
+      "source_url": "https://www.twitch.tv/videos/2901550877",
+      "source_creator": "Ibai",
+      "title": "WORLDS 2026 | EMPIEZA LA COMPETICIÓN DEL AÑO | KC vs C9 | FUR vs MVK | PLAY IN DÍA 1 | NARRACIONES ÉPICAS | HISTORIA | FELICIDAD",
+      "strategy": {
+        "candidate_id": "twitch:vod:2901550877",
+        "source_creator": "Ibai",
+        "hook_pattern": "shock_claim",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-15T17:36:10.346517+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2901550877"
+    }
+  ]
 }
