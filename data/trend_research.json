@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-14T23:05:29.675986+00:00",
+  "generated_at": "2026-10-15T01:39:15.867083+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "oscar lopez",
+        "fluminense - palmeiras",
+        "inter de miami",
+        "inter miami",
+        "mls",
+        "maría zurita",
+        "jose ramon de la morena",
+        "bibiana fernández",
+        "vélez-málaga",
         "inter miami - nyc fc",
-        "ola de frío",
-        "santiago niño becerra",
-        "river",
-        "wizzair",
-        "hilary swank",
-        "raul arevalo",
-        "cuatro directo",
-        "atlético mineiro - torque"
+        "oscar lopez"
       ]
     },
     "youtube_popular_titles": {
