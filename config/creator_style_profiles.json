@@ -24,7 +24,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-15T23:33:24.120429+00:00"
+      "updated_at": "2026-10-16T03:08:15.838541+00:00"
     },
     "Rubius": {
       "hook_types": [
@@ -35,11 +35,11 @@
       ],
       "pacing": [
         {
-          "pattern": "short_hook",
+          "pattern": "medium_hook",
           "observations": 2
         },
         {
-          "pattern": "medium_hook",
+          "pattern": "short_hook",
           "observations": 1
         }
       ],
@@ -48,7 +48,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-15T23:33:24.120574+00:00"
+      "updated_at": "2026-10-16T03:08:15.838666+00:00"
     },
     "AuronPlay": {
       "hook_types": [
@@ -67,21 +67,21 @@
           "observations": 1
         },
         {
-          "pattern": "ultra_short_hook",
+          "pattern": "short_hook",
           "observations": 1
         }
       ],
       "language": [
         {
           "pattern": "exclamation",
-          "observations": 2
+          "observations": 3
         }
       ],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-15T23:33:24.120741+00:00"
+      "updated_at": "2026-10-16T03:08:15.838766+00:00"
     },
     "ElXokas": {
       "hook_types": [
@@ -106,7 +106,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-15T23:33:24.120975+00:00"
+      "updated_at": "2026-10-16T03:08:15.838895+00:00"
     },
     "Peereira7": {
       "hook_types": [
@@ -124,14 +124,14 @@
       "language": [
         {
           "pattern": "negation",
-          "observations": 1
+          "observations": 2
         }
       ],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-15T23:33:24.121198+00:00"
+      "updated_at": "2026-10-16T03:08:15.839019+00:00"
     },
     "Ibai": {
       "hook_types": [
@@ -160,7 +160,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 2,
-      "updated_at": "2026-10-15T23:33:24.121364+00:00"
+      "updated_at": "2026-10-16T03:08:15.839100+00:00"
     },
     "WestCOL": {
       "hook_types": [
@@ -242,7 +242,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-15T23:33:24.121480+00:00"
+      "updated_at": "2026-10-16T03:08:15.839159+00:00"
     },
     "Davoo Xeneize": {
       "hook_types": [
@@ -367,5 +367,5 @@
       "updated_at": "2026-09-28T11:03:15.201356+00:00"
     }
   },
-  "updated_at": "2026-10-15T23:33:24.121483+00:00"
+  "updated_at": "2026-10-16T03:08:15.839160+00:00"
 }
