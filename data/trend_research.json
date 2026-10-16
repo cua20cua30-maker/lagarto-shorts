@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-16T20:30:34.826167+00:00",
+  "generated_at": "2026-10-16T22:58:58.697247+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "badalona",
-        "cinco días",
-        "marcela pagano",
-        "cuponazo del viernes",
-        "almería",
-        "podemos",
-        "javier negre",
-        "martin varsavsky",
-        "capgròs",
-        "de viernes invitados hoy"
+        "iphone",
+        "el diario.es",
+        "sohrlin andalucía",
+        "maria casado",
+        "openai",
+        "publico",
+        "defensor del pueblo",
+        "javier ambrossi",
+        "melendi",
+        "call of duty"
       ]
     },
     "youtube_popular_titles": {
