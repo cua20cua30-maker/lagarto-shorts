@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-17T10:09:18.321216+00:00",
+  "generated_at": "2026-10-17T13:50:54.072178+00:00",
   "mode": "vod_only",
   "candidates": [],
   "note": "Kick Public API has no public channel-VOD listing/media endpoint; live metadata is not treated as VOD."
