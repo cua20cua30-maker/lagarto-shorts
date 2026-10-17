@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-16T22:58:58.697247+00:00",
+  "generated_at": "2026-10-17T01:13:26.402779+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
+        "boca juniors - talleres",
+        "alerta de lluvias intensas",
+        "julián muñoz",
         "iphone",
-        "el diario.es",
+        "ultimas noticias",
         "sohrlin andalucía",
-        "maria casado",
         "openai",
-        "publico",
+        "maria casado",
         "defensor del pueblo",
-        "javier ambrossi",
-        "melendi",
-        "call of duty"
+        "javier ambrossi"
       ]
     },
     "youtube_popular_titles": {
