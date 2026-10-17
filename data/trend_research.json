@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-17T16:50:36.097255+00:00",
+  "generated_at": "2026-10-17T19:01:44.178169+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "movistar plus",
-        "brentford f.c. vs liverpool f.c. standings",
-        "sporting",
-        "demi moore",
-        "catalunya radio",
-        "pellegrini",
-        "dazn",
-        "live tv",
-        "ريال بتيس ضد برشلونة",
-        "copa mundial femenina de fútbol sub-17"
+        "sport",
+        "posiciones de la liga",
+        "clasificacion liga",
+        "real betis vs fc barcelona standings",
+        "limoges",
+        "posiciones de bayern contra rb leipzig",
+        "pau cubarsí",
+        "eric garcia",
+        "barça psg",
+        "valència - ath. bilbao"
       ]
     },
     "youtube_popular_titles": {
