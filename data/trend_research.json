@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-18T03:01:42.407525+00:00",
+  "generated_at": "2026-10-18T08:14:28.615131+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "sorteos lotería nacional",
-        "medellín - once caldas",
-        "alianza lima - atlético grau",
-        "mls",
-        "dick cheney",
-        "victoria secret fashion show 2026 hora españa",
-        "silvia intxaurrondo",
-        "atlético tucumán - rosario central",
-        "viva suecia",
-        "atlanta united - inter miami"
+        "pak vs sl",
+        "hu-4200",
+        "alberta",
+        "fundacion princesa de asturias",
+        "stella banderas",
+        "caimán",
+        "ken kutaragi",
+        "javier calvo",
+        "cartagena",
+        "tiempo"
       ]
     },
     "youtube_popular_titles": {
       "status": "unavailable",
       "items": [],
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
     }
   },
   "hook_examples": [],
