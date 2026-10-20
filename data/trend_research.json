@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-19T23:51:49.306738+00:00",
+  "generated_at": "2026-10-20T03:24:45.958755+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "comprobar primitiva",
+        "película la bola negra",
+        "sorteo primitiva",
+        "iphone dúo",
+        "corinthians",
+        "mediaset",
         "tormenta eléctrica",
         "pozo",
+        "marina rivers",
         "narciso michavila",
-        "samantha vallejo-nágera",
-        "naruto",
-        "david verdaguer",
-        "eduardo casanova",
-        "robert wagner",
-        "aemet murcia"
+        "samantha vallejo-nágera"
       ]
     },
     "youtube_popular_titles": {
