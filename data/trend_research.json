@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-20T14:06:24.711803+00:00",
+  "generated_at": "2026-10-20T18:36:31.468849+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "antena 3",
-        "lockheed martin",
-        "adelantamiento",
-        "youth league",
-        "pib",
-        "perez reverte",
-        "audiencia provincial",
-        "james blunt",
-        "cataluña",
-        "el niño"
+        "porto - psv",
+        "vfb stuttgart vs atlético",
+        "napoli - bodø/glimt",
+        "man city vs aek",
+        "trump",
+        "dro fernández",
+        "stuttgart - atlético madrid",
+        "liverpool - villarreal",
+        "manchester city - aek",
+        "roma - slovan bratislava"
       ]
     },
     "youtube_popular_titles": {
