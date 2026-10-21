@@ -1,4 +1,786 @@
 {
   "schema_version": 1,
-  "jobs": []
+  "generated_at": "2026-10-21T16:02:35.675370+00:00",
+  "jobs": [
+    {
+      "job_id": "render:clip:twitch:vod:2905130093",
+      "clip_id": "clip:twitch:vod:2905130093",
+      "candidate_id": "twitch:vod:2905130093",
+      "source_url": "https://www.twitch.tv/videos/2905130093",
+      "source_creator": "IlloJuan",
+      "title": "1 MES PARA LA HISTORIA 📅 RECTA FINAL DE SAN ANDREAS 😭 HOY MILLONARIOS 🍀 SUERTE ACTIVADA 💯 - Grand Theft Auto: San Andreas 2026 #7",
+      "strategy": {
+        "candidate_id": "twitch:vod:2905130093",
+        "source_creator": "IlloJuan",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2905130093"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2906051571",
+      "clip_id": "clip:twitch:vod:2906051571",
+      "candidate_id": "twitch:vod:2906051571",
+      "source_url": "https://www.twitch.tv/videos/2906051571",
+      "source_creator": "Rubius",
+      "title": "JUEGO INCREMENTAL GOZ Y LUEGO SPEEDRUNS (HE ESTUDIADO, ES HOY)",
+      "strategy": {
+        "candidate_id": "twitch:vod:2906051571",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2906051571"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2905941597",
+      "clip_id": "clip:twitch:vod:2905941597",
+      "candidate_id": "twitch:vod:2905941597",
+      "source_url": "https://www.twitch.tv/videos/2905941597",
+      "source_creator": "AuronPlay",
+      "title": "!drop !voces ✨️ AMONG US CON MIS GIRLS 💖🔪",
+      "strategy": {
+        "candidate_id": "twitch:vod:2905941597",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2905941597"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2904302534",
+      "clip_id": "clip:twitch:vod:2904302534",
+      "candidate_id": "twitch:vod:2904302534",
+      "source_url": "https://www.twitch.tv/videos/2904302534",
+      "source_creator": "ElXokas",
+      "title": "💥LOCURA EN FRANCIA💥VEMOS LO SUCEDIDO Y NOS VAMOS AL MUNDIAL💥AYER QUEDAMOS 4-2 Y NO NOS CLASIFICAMOS, UNLUCKY💥",
+      "strategy": {
+        "candidate_id": "twitch:vod:2904302534",
+        "source_creator": "ElXokas",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2904302534"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2905981317",
+      "clip_id": "clip:twitch:vod:2905981317",
+      "candidate_id": "twitch:vod:2905981317",
+      "source_url": "https://www.twitch.tv/videos/2905981317",
+      "source_creator": "Peereira7",
+      "title": "🟥EL MEJOR STREAMER🟥20K SUBS🟥AMONG US🟥SHORT STREAM🟥FORTNITE🟥TORNEO🟥BACK TO COMPETE🟥MEGA ANUNCIO🟥SOON🟥0/2🟥SE VIENE🟥HISTORIA🟥",
+      "strategy": {
+        "candidate_id": "twitch:vod:2905981317",
+        "source_creator": "Peereira7",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2905981317"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2902427783",
+      "clip_id": "clip:twitch:vod:2902427783",
+      "candidate_id": "twitch:vod:2902427783",
+      "source_url": "https://www.twitch.tv/videos/2902427783",
+      "source_creator": "Ibai",
+      "title": "#WORLDS2026 | PRIMER ELIMINADO HOY | KC vs MVK | LOCURA DE VIETNAM| C9 vs FUR | DRAMA TOTAL | PLAY IN DÍA 2 | RISAS | LOCURA | HISTORIA",
+      "strategy": {
+        "candidate_id": "twitch:vod:2902427783",
+        "source_creator": "Ibai",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2902427783"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2903491517",
+      "clip_id": "clip:twitch:vod:2903491517",
+      "candidate_id": "twitch:vod:2903491517",
+      "source_url": "https://www.twitch.tv/videos/2903491517",
+      "source_creator": "Juan Guarnizo",
+      "title": "DEDSAFIO 4: LA BATALLA FINAL ⛰️ !eneba",
+      "strategy": {
+        "candidate_id": "twitch:vod:2903491517",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2903491517"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2905136561",
+      "clip_id": "clip:twitch:vod:2905136561",
+      "candidate_id": "twitch:vod:2905136561",
+      "source_url": "https://www.twitch.tv/videos/2905136561",
+      "source_creator": "AuronPlay",
+      "title": "!drop !voces ✨️ HOLA BUENAS TARDES NO SE A QUE JUGAR JEJE✨️",
+      "strategy": {
+        "candidate_id": "twitch:vod:2905136561",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2905136561"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2906072596",
+      "clip_id": "clip:twitch:vod:2906072596",
+      "candidate_id": "twitch:vod:2906072596",
+      "source_url": "https://www.twitch.tv/videos/2906072596",
+      "source_creator": "Peereira7",
+      "title": "🟥EL MEJOR STREAMER🟥20K SUBS🟥AMONG US🟥SHORT STREAM🟥FORTNITE🟥TORNEO🟥BACK TO COMPETE🟥MEGA ANUNCIO🟥SOON🟥0/2🟥SE VIENE🟥HISTORIA🟥",
+      "strategy": {
+        "candidate_id": "twitch:vod:2906072596",
+        "source_creator": "Peereira7",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2906072596"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2904365699",
+      "clip_id": "clip:twitch:vod:2904365699",
+      "candidate_id": "twitch:vod:2904365699",
+      "source_url": "https://www.twitch.tv/videos/2904365699",
+      "source_creator": "Ibai",
+      "title": "#WORLDS2026 | HOY ES EL SORTEO | REZAD | PONED VELAS | KC vs MVK | SE DECIDE TODO",
+      "strategy": {
+        "candidate_id": "twitch:vod:2904365699",
+        "source_creator": "Ibai",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2904365699"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2904356049",
+      "clip_id": "clip:twitch:vod:2904356049",
+      "candidate_id": "twitch:vod:2904356049",
+      "source_url": "https://www.twitch.tv/videos/2904356049",
+      "source_creator": "Rubius",
+      "title": "pasandome minecraft en 30 minutos (ESTOY PERDIENDO LA CABEZA)",
+      "strategy": {
+        "candidate_id": "twitch:vod:2904356049",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2904356049"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2903455488",
+      "clip_id": "clip:twitch:vod:2903455488",
+      "candidate_id": "twitch:vod:2903455488",
+      "source_url": "https://www.twitch.tv/videos/2903455488",
+      "source_creator": "Rubius",
+      "title": "Visitando las seeds mas RARAS de Minecraft y SPEEDRUNS ALL NIGHT, HOY ES EL DIA💎💎💎",
+      "strategy": {
+        "candidate_id": "twitch:vod:2903455488",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2903455488"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2903404377",
+      "clip_id": "clip:twitch:vod:2903404377",
+      "candidate_id": "twitch:vod:2903404377",
+      "source_url": "https://www.twitch.tv/videos/2903404377",
+      "source_creator": "Ibai",
+      "title": "#WORLDS2026 | FURIA vs MVK | BRASIL vs VIETNMAN | ELIMINATORIO | ÉPICO | HISTORIA | EL QUE GANE vs KC | MAÑANA SORTEO | SE VIENE LO BUENO",
+      "strategy": {
+        "candidate_id": "twitch:vod:2903404377",
+        "source_creator": "Ibai",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2903404377"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2903278620",
+      "clip_id": "clip:twitch:vod:2903278620",
+      "candidate_id": "twitch:vod:2903278620",
+      "source_url": "https://www.twitch.tv/videos/2903278620",
+      "source_creator": "ElXokas",
+      "title": "🪖MUNDIAL DE 1V1🪖TODAY IS THE DAY🪖ME AGAINST THE WORLD🪖MÁXIMO NIVEL DE PERFORMANCE🪖TODO O NADA🪖",
+      "strategy": {
+        "candidate_id": "twitch:vod:2903278620",
+        "source_creator": "ElXokas",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2903278620"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2903258808",
+      "clip_id": "clip:twitch:vod:2903258808",
+      "candidate_id": "twitch:vod:2903258808",
+      "source_url": "https://www.twitch.tv/videos/2903258808",
+      "source_creator": "Peereira7",
+      "title": "🟥EL MEJOR STREAMER🟥20K SUBS🟥CUPHEAD🟥MUNDO 2🟥CON MI HERMANO🟥ROCKET LEAGUE🟥TRIOS🟥TORNEO🟥HOODWARFARE🟥GOTY🟥AURA DAY🟥CLIP FARM🟥SHORT",
+      "strategy": {
+        "candidate_id": "twitch:vod:2903258808",
+        "source_creator": "Peereira7",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2903258808"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2902527369",
+      "clip_id": "clip:twitch:vod:2902527369",
+      "candidate_id": "twitch:vod:2902527369",
+      "source_url": "https://www.twitch.tv/videos/2902527369",
+      "source_creator": "Juan Guarnizo",
+      "title": "ÚLTIMO GULAG Y PENÚLTIMO DÍA DE DEDSAFIO 🫡 !eneba",
+      "strategy": {
+        "candidate_id": "twitch:vod:2902527369",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2902527369"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2904499477",
+      "clip_id": "clip:twitch:vod:2904499477",
+      "candidate_id": "twitch:vod:2904499477",
+      "source_url": "https://www.twitch.tv/videos/2904499477",
+      "source_creator": "Juan Guarnizo",
+      "title": "DIRECTO POST DEDSAFIO :)",
+      "strategy": {
+        "candidate_id": "twitch:vod:2904499477",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2904499477"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2902304780",
+      "clip_id": "clip:twitch:vod:2902304780",
+      "candidate_id": "twitch:vod:2902304780",
+      "source_url": "https://www.twitch.tv/videos/2902304780",
+      "source_creator": "ElXokas",
+      "title": "😇ÚLTIMO DÍA😇MAÑANA TORNEO MUNDIAL😇CAMBIARON ABSOLUTAMENTE TODO😇LIADÓN HISTÓRICO😇EL ROGUE SIN BARRA DE INVIS😇ESTAMOS MUY JODIDOS😇",
+      "strategy": {
+        "candidate_id": "twitch:vod:2902304780",
+        "source_creator": "ElXokas",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2902304780"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2901489194",
+      "clip_id": "clip:twitch:vod:2901489194",
+      "candidate_id": "twitch:vod:2901489194",
+      "source_url": "https://www.twitch.tv/videos/2901489194",
+      "source_creator": "AuronPlay",
+      "title": "!drop !voces ✨️ HABLAMOS UN RATITO ✨️ + UN DÍA EN DEDSAFIO 🔪",
+      "strategy": {
+        "candidate_id": "twitch:vod:2901489194",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2901489194"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2901476435",
+      "clip_id": "clip:twitch:vod:2901476435",
+      "candidate_id": "twitch:vod:2901476435",
+      "source_url": "https://www.twitch.tv/videos/2901476435",
+      "source_creator": "IlloJuan",
+      "title": "ÚLTIMO TRÁILER DE GTA 6 🚨 QUEDA 1 MES 📅 SPEEDRUN DE CASINO 💰 LUDOPATÍA DAY 🥰 - Grand Theft Auto: San Andreas 2026 #6",
+      "strategy": {
+        "candidate_id": "twitch:vod:2901476435",
+        "source_creator": "IlloJuan",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-21T16:02:35.087628+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2901476435"
+    }
+  ]
 }
