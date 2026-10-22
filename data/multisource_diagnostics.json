@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-22T18:42:31.845990+00:00",
+  "generated_at": "2026-10-22T22:05:25.054352+00:00",
   "mode": "vod_only",
   "results": [
     {
@@ -64,8 +64,8 @@
       "platform": "twitch",
       "status": "ok",
       "login": "thegrefg",
-      "vods_seen": 12,
-      "recent_vods": 0
+      "vods_seen": 13,
+      "recent_vods": 1
     },
     {
       "creator": "Juan Guarnizo",
