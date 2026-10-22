@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-21T23:31:22.568072+00:00",
+  "generated_at": "2026-10-22T03:18:00.977408+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "llaneros - deportivo cali",
-        "marilo montero",
-        "cuatro",
-        "la provincia",
-        "torque - atlético mineiro",
-        "chubasco",
-        "maria patiño",
-        "raul gonzalez",
-        "mike tyson",
-        "la laguna"
+        "rockets - mavericks",
+        "el tiempo en valencia",
+        "lakers - warriors",
+        "copa libertadores",
+        "nba",
+        "últimas encuestas elecciones generales",
+        "palmeiras - fluminense",
+        "heat - timberwolves",
+        "raptors - bulls",
+        "jubilación"
       ]
     },
     "youtube_popular_titles": {
