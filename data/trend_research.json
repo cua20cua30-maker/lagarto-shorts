@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T22:05:26.223190+00:00",
+  "generated_at": "2026-10-23T00:48:40.541447+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
+        "atlético nacional - pasto",
+        "flamengo",
+        "flamengo - estudiantes",
+        "comisión europea",
+        "rocío carrasco",
+        "76ers - cavaliers",
+        "george soros",
+        "old trafford",
         "liga de campeones de la ehf",
-        "john f. cryan",
-        "posiciones de as mónaco contra sc freiburg",
-        "noticias de gipuzkoa",
-        "yola berrocal",
-        "héctor bellerín",
-        "jiménez losantos",
-        "deuda",
-        "david sanchez",
-        "begoña gómez"
+        "john f. cryan"
       ]
     },
     "youtube_popular_titles": {
