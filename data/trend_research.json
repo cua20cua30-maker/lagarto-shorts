@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-25T00:49:26.683335+00:00",
+  "generated_at": "2026-10-25T05:41:11.183182+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "deportes",
-        "santos - bahía",
-        "cavaliers - nets",
-        "davion mitchell",
-        "brandon miller",
-        "américa de cali",
-        "mavericks - spurs",
-        "corinthians",
-        "76ers - bucks",
-        "jon echeverria pp"
+        "gasolina",
+        "mlb",
+        "moto go",
+        "nuggets - pelicans",
+        "longevidad",
+        "motogp",
+        "suns - warriors",
+        "rosario central - huracán",
+        "sergio de larrea",
+        "universitario - juan pablo ii college"
       ]
     },
     "youtube_popular_titles": {
