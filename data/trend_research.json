@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-24T22:52:22.251847+00:00",
+  "generated_at": "2026-10-25T00:49:26.683335+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "emily blunt",
-        "james foley",
-        "novela",
-        "hornets - heat",
-        "demi moore",
-        "ldu quito - macará",
-        "felipe vi de españa",
-        "la vanguardia",
-        "fórmula 1",
-        "palmeiras - bragantino"
+        "deportes",
+        "santos - bahía",
+        "cavaliers - nets",
+        "davion mitchell",
+        "brandon miller",
+        "américa de cali",
+        "mavericks - spurs",
+        "corinthians",
+        "76ers - bucks",
+        "jon echeverria pp"
       ]
     },
     "youtube_popular_titles": {
