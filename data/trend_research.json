@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T03:59:37.906495+00:00",
+  "generated_at": "2026-10-28T10:31:08.669287+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "lakers - trail blazers",
-        "boyacá chicó - junior",
-        "mlb",
-        "laura bozzo",
-        "hacienda",
-        "spurs - kings",
-        "knicks - pistons",
-        "rosa benito",
-        "anthony edwards",
-        "manacor - villarreal"
+        "el periodico de catalunya",
+        "train",
+        "heraldo de aragon",
+        "bbc",
+        "lne",
+        "11m",
+        "los rochos",
+        "submarino nuclear",
+        "train crash spain",
+        "telecinco"
       ]
     },
     "youtube_popular_titles": {
