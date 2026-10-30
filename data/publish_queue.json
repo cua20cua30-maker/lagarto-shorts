@@ -1,4 +1,150 @@
 {
   "schema_version": 1,
-  "jobs": []
+  "generated_at": "2026-10-30T18:43:48.270162+00:00",
+  "jobs": [
+    {
+      "job_id": "publish:clip:twitch:vod:2914130484",
+      "clip_id": "clip:twitch:vod:2914130484",
+      "candidate_id": "twitch:vod:2914130484",
+      "source_creator": "Rubius",
+      "title": "Lagarto | Rubius",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2914130484"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2912249381",
+      "clip_id": "clip:twitch:vod:2912249381",
+      "candidate_id": "twitch:vod:2912249381",
+      "source_creator": "ElXokas",
+      "title": "Lagarto | ElXokas",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2912249381"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2909510453",
+      "clip_id": "clip:twitch:vod:2909510453",
+      "candidate_id": "twitch:vod:2909510453",
+      "source_creator": "Peereira7",
+      "title": "Lagarto | Peereira7",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2909510453"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2913266144",
+      "clip_id": "clip:twitch:vod:2913266144",
+      "candidate_id": "twitch:vod:2913266144",
+      "source_creator": "Ibai",
+      "title": "Lagarto | Ibai",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2913266144"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2914979478",
+      "clip_id": "clip:twitch:vod:2914979478",
+      "candidate_id": "twitch:vod:2914979478",
+      "source_creator": "TheGrefg",
+      "title": "Lagarto | TheGrefg",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2914979478"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2910649544",
+      "clip_id": "clip:twitch:vod:2910649544",
+      "candidate_id": "twitch:vod:2910649544",
+      "source_creator": "Juan Guarnizo",
+      "title": "Lagarto | Juan Guarnizo",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2910649544"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2913262600",
+      "clip_id": "clip:twitch:vod:2913262600",
+      "candidate_id": "twitch:vod:2913262600",
+      "source_creator": "Rubius",
+      "title": "Lagarto | Rubius",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2913262600"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2911397487",
+      "clip_id": "clip:twitch:vod:2911397487",
+      "candidate_id": "twitch:vod:2911397487",
+      "source_creator": "Ibai",
+      "title": "Lagarto | Ibai",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2911397487"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2909015050",
+      "clip_id": "clip:twitch:vod:2909015050",
+      "candidate_id": "twitch:vod:2909015050",
+      "source_creator": "Rubius",
+      "title": "Lagarto | Rubius",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2909015050"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2910547461",
+      "clip_id": "clip:twitch:vod:2910547461",
+      "candidate_id": "twitch:vod:2910547461",
+      "source_creator": "Ibai",
+      "title": "Lagarto | Ibai",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2910547461"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2909691430",
+      "clip_id": "clip:twitch:vod:2909691430",
+      "candidate_id": "twitch:vod:2909691430",
+      "source_creator": "Juan Guarnizo",
+      "title": "Lagarto | Juan Guarnizo",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2909691430"
+    },
+    {
+      "job_id": "publish:clip:twitch:vod:2909530977",
+      "clip_id": "clip:twitch:vod:2909530977",
+      "candidate_id": "twitch:vod:2909530977",
+      "source_creator": "ElXokas",
+      "title": "Lagarto | ElXokas",
+      "description": "Short transformado a partir de material autorizado, con edición y contexto original.",
+      "status": "blocked_until_rendered",
+      "authorization_status": "authorized",
+      "transformative_edit_required": true,
+      "idempotency_key": "publish:clip:twitch:vod:2909530977"
+    }
+  ]
 }
