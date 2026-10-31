@@ -45,7 +45,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-31T15:02:08.335196+00:00"
+      "updated_at": "2026-10-31T19:26:20.181927+00:00"
     },
     "AuronPlay": {
       "hook_types": [
@@ -81,24 +81,20 @@
         {
           "pattern": "context_open",
           "observations": 1
-        },
-        {
-          "pattern": "question_open",
-          "observations": 1
         }
       ],
       "pacing": [
         {
           "pattern": "long_context_hook",
-          "observations": 2
+          "observations": 1
         }
       ],
       "language": [],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-10-31T15:02:08.335300+00:00"
+      "sample_count": 1,
+      "updated_at": "2026-10-31T19:26:20.182011+00:00"
     },
     "Peereira7": {
       "hook_types": [
@@ -147,7 +143,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-31T15:02:08.335418+00:00"
+      "updated_at": "2026-10-31T19:26:20.182193+00:00"
     },
     "WestCOL": {
       "hook_types": [
@@ -196,36 +192,32 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 1,
-      "updated_at": "2026-10-31T15:02:08.335454+00:00"
+      "updated_at": "2026-10-31T19:26:20.182246+00:00"
     },
     "Juan Guarnizo": {
       "hook_types": [
         {
           "pattern": "context_open",
-          "observations": 2
+          "observations": 1
         }
       ],
       "pacing": [
         {
           "pattern": "short_hook",
           "observations": 1
-        },
-        {
-          "pattern": "ultra_short_hook",
-          "observations": 1
         }
       ],
       "language": [
         {
           "pattern": "exclamation",
-          "observations": 2
+          "observations": 1
         }
       ],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
-      "sample_count": 2,
-      "updated_at": "2026-10-31T15:02:08.335518+00:00"
+      "sample_count": 1,
+      "updated_at": "2026-10-31T19:26:20.182281+00:00"
     },
     "Davoo Xeneize": {
       "hook_types": [
@@ -350,5 +342,5 @@
       "updated_at": "2026-09-28T11:03:15.201356+00:00"
     }
   },
-  "updated_at": "2026-10-31T15:02:08.335519+00:00"
+  "updated_at": "2026-10-31T19:26:20.182283+00:00"
 }

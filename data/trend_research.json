@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T15:02:08.250899+00:00",
+  "generated_at": "2026-10-31T19:26:20.071466+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "manchester city - brighton",
-        "feyenoord - fortuna sittard",
-        "taylor fritz",
-        "breaking bad",
-        "catrina",
-        "eibar - almería",
-        "nave espacial",
-        "coventry city - sunderland afc",
-        "giuliano simeone",
-        "rocío jurado"
+        "barcelona - alavés",
+        "aston villa - fulham",
+        "creatina",
+        "colin farrell",
+        "antonio tejado",
+        "milan - inter",
+        "sport club corinthians paulista",
+        "notícia",
+        "sol",
+        "brian fariñas"
       ]
     },
     "youtube_popular_titles": {
