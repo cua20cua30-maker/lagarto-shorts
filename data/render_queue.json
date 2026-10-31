@@ -1,4 +1,396 @@
 {
   "schema_version": 1,
-  "jobs": []
+  "generated_at": "2026-10-31T22:42:28.808797+00:00",
+  "jobs": [
+    {
+      "job_id": "render:clip:twitch:vod:2914130484",
+      "clip_id": "clip:twitch:vod:2914130484",
+      "candidate_id": "twitch:vod:2914130484",
+      "source_url": "https://www.twitch.tv/videos/2914130484",
+      "source_creator": "Rubius",
+      "title": "🦎NUEVO GAMEPLAY GTA 6🦎MUCHA INFO🦎SOLO 3 SEMANAS🦎NO PUEDO MAS🦎",
+      "strategy": {
+        "candidate_id": "twitch:vod:2914130484",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-31T22:42:28.352384+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2914130484"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2916144621",
+      "clip_id": "clip:twitch:vod:2916144621",
+      "candidate_id": "twitch:vod:2916144621",
+      "source_url": "https://www.twitch.tv/videos/2916144621",
+      "source_creator": "AuronPlay",
+      "title": "CHARLAMOS UN RATITO 🤍",
+      "strategy": {
+        "candidate_id": "twitch:vod:2916144621",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "ultra_short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-31T22:42:28.352384+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2916144621"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2912249381",
+      "clip_id": "clip:twitch:vod:2912249381",
+      "candidate_id": "twitch:vod:2912249381",
+      "source_url": "https://www.twitch.tv/videos/2912249381",
+      "source_creator": "ElXokas",
+      "title": "🧠ESPECIAL GUÍA WOW🧠PARA TODOS LOS NOVATINES🧠SELECCIÓN DE NOMBRE🧠EL DÍA 4 POR LA NOCHE, EL MEJOR STREAM DEL AÑO🧠HAREMOS HISTORIA🧠",
+      "strategy": {
+        "candidate_id": "twitch:vod:2912249381",
+        "source_creator": "ElXokas",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-31T22:42:28.352384+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2912249381"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2915065087",
+      "clip_id": "clip:twitch:vod:2915065087",
+      "candidate_id": "twitch:vod:2915065087",
+      "source_url": "https://www.twitch.tv/videos/2915065087",
+      "source_creator": "Ibai",
+      "title": "#WORLDS2026 | SE LA JUEGA G2 | SE LA JUEGA JOSEDEODO | CONOCEMOS A NUESTRO RIVAL | SORTEO HISTORICO | TL vs LOS | G2 vs HLE | LOCURA",
+      "strategy": {
+        "candidate_id": "twitch:vod:2915065087",
+        "source_creator": "Ibai",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-31T22:42:28.352384+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2915065087"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2914979478",
+      "clip_id": "clip:twitch:vod:2914979478",
+      "candidate_id": "twitch:vod:2914979478",
+      "source_url": "https://www.twitch.tv/videos/2914979478",
+      "source_creator": "TheGrefg",
+      "title": "🏆 TORNEO DE CLASH ROYALE EN EL DESAFÍO 20 WINS con @beniju03 y @bale_gg 🏆",
+      "strategy": {
+        "candidate_id": "twitch:vod:2914979478",
+        "source_creator": "TheGrefg",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-31T22:42:28.352384+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2914979478"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2910649544",
+      "clip_id": "clip:twitch:vod:2910649544",
+      "candidate_id": "twitch:vod:2910649544",
+      "source_url": "https://www.twitch.tv/videos/2910649544",
+      "source_creator": "Juan Guarnizo",
+      "title": "QSMP 2: El Nuevo Norte 🏠 !eneba",
+      "strategy": {
+        "candidate_id": "twitch:vod:2910649544",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-31T22:42:28.352384+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2910649544"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2914173138",
+      "clip_id": "clip:twitch:vod:2914173138",
+      "candidate_id": "twitch:vod:2914173138",
+      "source_url": "https://www.twitch.tv/videos/2914173138",
+      "source_creator": "Ibai",
+      "title": "#WORLDS2026 | KC vs CFO | TES vs BLG | CONOCEMOS A NUESTROS POSIBLES RIVALES | ESTO SE ACABA | DÍA CLAVE",
+      "strategy": {
+        "candidate_id": "twitch:vod:2914173138",
+        "source_creator": "Ibai",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-31T22:42:28.352384+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2914173138"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2913262600",
+      "clip_id": "clip:twitch:vod:2913262600",
+      "candidate_id": "twitch:vod:2913262600",
+      "source_url": "https://www.twitch.tv/videos/2913262600",
+      "source_creator": "Rubius",
+      "title": "🎈INCREMENTAL DE TERROR🎈TOP MUNDIAL POKEBONK🎈PLANES PARA WOW FOREVER🎈",
+      "strategy": {
+        "candidate_id": "twitch:vod:2913262600",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-31T22:42:28.352384+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2913262600"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2913266144",
+      "clip_id": "clip:twitch:vod:2913266144",
+      "candidate_id": "twitch:vod:2913266144",
+      "source_url": "https://www.twitch.tv/videos/2913266144",
+      "source_creator": "Ibai",
+      "title": "#WORLDS2026 | MKOI vs T1 | EL PARTIDO DE NUESTRA VIDA | EL PARTIDO DE NUESTROS SUEÑOS | QUIEN GANE A CUARTOS DE FINAL | NADA ES IMPOSIBLE",
+      "strategy": {
+        "candidate_id": "twitch:vod:2913266144",
+        "source_creator": "Ibai",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-31T22:42:28.352384+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2913266144"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2910664959",
+      "clip_id": "clip:twitch:vod:2910664959",
+      "candidate_id": "twitch:vod:2910664959",
+      "source_url": "https://www.twitch.tv/videos/2910664959",
+      "source_creator": "Rubius",
+      "title": "📞ESTAFANDO A GENTE POR TELEFONO📞MEGABONK DE POKEMON📞ROAD TO WORLD RECORD📞",
+      "strategy": {
+        "candidate_id": "twitch:vod:2910664959",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-10-31T22:42:28.352384+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2910664959"
+    }
+  ]
 }
