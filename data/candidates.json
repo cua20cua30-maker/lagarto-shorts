@@ -1,6 +1,6 @@
 {
   "schema_version": 5,
-  "generated_at": "2026-10-31T08:39:36.514744+00:00",
+  "generated_at": "2026-10-31T15:02:08.306765+00:00",
   "mode": "vod_only",
   "source_priority": [
     "twitch",
@@ -11,14 +11,14 @@
     "kick": "official Kick API checked; public VOD listing/media unavailable",
     "live_processing": false
   },
-  "total_discovered": 15,
+  "total_discovered": 14,
   "selection_limit": 20,
   "creator_coverage": {
     "IlloJuan": 0,
     "Rubius": 3,
     "AuronPlay": 0,
     "ElXokas": 2,
-    "Peereira7": 1,
+    "Peereira7": 0,
     "Ibai": 3,
     "WestCOL": 0,
     "TheGrefg": 1,
@@ -27,7 +27,7 @@
     "ElZeein": 0
   },
   "platform_coverage": {
-    "twitch": 12,
+    "twitch": 11,
     "kick": 0
   },
   "candidates": [
@@ -42,9 +42,9 @@
       "source_id": "2914130484",
       "title": "🦎NUEVO GAMEPLAY GTA 6🦎MUCHA INFO🦎SOLO 3 SEMANAS🦎NO PUEDO MAS🦎",
       "duration_raw": "4h26m13s",
-      "score": 44.56,
+      "score": 43.65,
       "radar_rank": 0,
-      "detected_at": "2026-10-31T08:39:33.521063+00:00",
+      "detected_at": "2026-10-31T15:02:04.696881+00:00",
       "published_at": "2026-10-29T18:35:31Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -53,7 +53,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 466138,
+      "view_count": 470373,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/9fb0737d7a2db370c245_rubius_318175199075_1793298924//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -67,9 +67,9 @@
       "source_id": "2912249381",
       "title": "🧠ESPECIAL GUÍA WOW🧠PARA TODOS LOS NOVATINES🧠SELECCIÓN DE NOMBRE🧠EL DÍA 4 POR LA NOCHE, EL MEJOR STREAM DEL AÑO🧠HAREMOS HISTORIA🧠",
       "duration_raw": "4h38m57s",
-      "score": 37.34,
+      "score": 36.43,
       "radar_rank": 0,
-      "detected_at": "2026-10-31T08:39:33.521063+00:00",
+      "detected_at": "2026-10-31T15:02:04.696881+00:00",
       "published_at": "2026-10-27T16:04:21Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -78,33 +78,8 @@
       "uploader_verified": true,
       "uploader": "elxokas",
       "uploader_id": "31919607",
-      "view_count": 326175,
+      "view_count": 326773,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/d7c55d9caddea599f8cf_elxokas_319108391013_1793117056//thumb/thumb0-%{width}x%{height}.jpg"
-    },
-    {
-      "candidate_id": "twitch:vod:2909510453",
-      "source_platform": "twitch",
-      "source_creator": "Peereira7",
-      "source_kind": "vod",
-      "source_url": "https://www.twitch.tv/videos/2909510453",
-      "owner_authorized": true,
-      "acquisition_url": "https://www.twitch.tv/videos/2909510453",
-      "source_id": "2909510453",
-      "title": "☢️EL MEJOR STREAMER☢️20K SUBS☢️SUBATHON☢️SOON☢️LAST STREAM☢️ROCKET LEAGUE☢️TORNEO☢️VICIADOS☢️FORTNITE☢️TORNEO☢️COMPETIDOR☢️SHOW☢️CLIP FARM☢️",
-      "duration_raw": "5h28m43s",
-      "score": 26.89,
-      "radar_rank": 0,
-      "detected_at": "2026-10-31T08:39:33.521063+00:00",
-      "published_at": "2026-10-24T14:54:19Z",
-      "status": "discovered",
-      "authorization_status": "authorized_owner",
-      "publishable": true,
-      "acquirable": true,
-      "uploader_verified": true,
-      "uploader": "Peereira7",
-      "uploader_id": "182714869",
-      "view_count": 389966,
-      "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/d4f3df4e365f5fb69db2_peereira7_318111587556_1792853653//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
       "candidate_id": "twitch:vod:2914173138",
@@ -117,9 +92,9 @@
       "source_id": "2914173138",
       "title": "#WORLDS2026 | KC vs CFO | TES vs BLG | CONOCEMOS A NUESTROS POSIBLES RIVALES | ESTO SE ACABA | DÍA CLAVE",
       "duration_raw": "5h37m55s",
-      "score": 44.68,
+      "score": 43.77,
       "radar_rank": 1,
-      "detected_at": "2026-10-31T08:39:33.521063+00:00",
+      "detected_at": "2026-10-31T15:02:04.696881+00:00",
       "published_at": "2026-10-29T19:24:10Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -128,7 +103,7 @@
       "uploader_verified": true,
       "uploader": "ibai",
       "uploader_id": "83232866",
-      "view_count": 531953,
+      "view_count": 532543,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/12646fd4b6ed4ee5d9f9_ibai_318170705380_1793301843//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -142,9 +117,9 @@
       "source_id": "2914979478",
       "title": "🏆 TORNEO DE CLASH ROYALE EN EL DESAFÍO 20 WINS con @beniju03 y @bale_gg 🏆",
       "duration_raw": "4h6m11s",
-      "score": 44.62,
+      "score": 43.73,
       "radar_rank": 0,
-      "detected_at": "2026-10-31T08:39:33.521063+00:00",
+      "detected_at": "2026-10-31T15:02:04.696881+00:00",
       "published_at": "2026-10-30T17:45:44Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -153,7 +128,7 @@
       "uploader_verified": true,
       "uploader": "TheGrefg",
       "uploader_id": "48878319",
-      "view_count": 189125,
+      "view_count": 189642,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/06925641274b31381600_thegrefg_318155852386_1793382337//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -167,9 +142,9 @@
       "source_id": "2910649544",
       "title": "QSMP 2: El Nuevo Norte 🏠 !eneba",
       "duration_raw": "6h40m20s",
-      "score": 30.81,
+      "score": 29.9,
       "radar_rank": 0,
-      "detected_at": "2026-10-31T08:39:33.521063+00:00",
+      "detected_at": "2026-10-31T15:02:04.696881+00:00",
       "published_at": "2026-10-25T18:19:17Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -178,7 +153,7 @@
       "uploader_verified": false,
       "uploader": "juansguarnizo",
       "uploader_id": "121510236",
-      "view_count": 422162,
+      "view_count": 422479,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/4a1aa62c5b1e745af7b8_juansguarnizo_320912504156_1792952352//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -192,9 +167,9 @@
       "source_id": "2913266144",
       "title": "#WORLDS2026 | MKOI vs T1 | EL PARTIDO DE NUESTRA VIDA | EL PARTIDO DE NUESTROS SUEÑOS | QUIEN GANE A CUARTOS DE FINAL | NADA ES IMPOSIBLE",
       "duration_raw": "5h21m11s",
-      "score": 41.19,
+      "score": 40.28,
       "radar_rank": 2,
-      "detected_at": "2026-10-31T08:39:33.521063+00:00",
+      "detected_at": "2026-10-31T15:02:04.696881+00:00",
       "published_at": "2026-10-28T18:59:51Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -203,7 +178,7 @@
       "uploader_verified": true,
       "uploader": "ibai",
       "uploader_id": "83232866",
-      "view_count": 989081,
+      "view_count": 989483,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/6870874d1e33258c2763_ibai_318138778082_1793213983//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -217,9 +192,9 @@
       "source_id": "2913262600",
       "title": "🎈INCREMENTAL DE TERROR🎈TOP MUNDIAL POKEBONK🎈PLANES PARA WOW FOREVER🎈",
       "duration_raw": "4h16m37s",
-      "score": 41.18,
+      "score": 40.27,
       "radar_rank": 1,
-      "detected_at": "2026-10-31T08:39:33.521063+00:00",
+      "detected_at": "2026-10-31T15:02:04.696881+00:00",
       "published_at": "2026-10-28T18:56:12Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -228,7 +203,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 500251,
+      "view_count": 501604,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/2c202a1f3ecbd07062b1_rubius_318165623907_1793213765//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -242,9 +217,9 @@
       "source_id": "2915065087",
       "title": "#WORLDS2026 | SE LA JUEGA G2 | SE LA JUEGA JOSEDEODO | CONOCEMOS A NUESTRO RIVAL | SORTEO HISTORICO | TL vs LOS | G2 vs HLE | LOCURA",
       "duration_raw": "5h23m44s",
-      "score": 39.88,
+      "score": 40.26,
       "radar_rank": 0,
-      "detected_at": "2026-10-31T08:39:33.521063+00:00",
+      "detected_at": "2026-10-31T15:02:04.696881+00:00",
       "published_at": "2026-10-30T19:25:36Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -253,7 +228,7 @@
       "uploader_verified": true,
       "uploader": "ibai",
       "uploader_id": "83232866",
-      "view_count": 24131,
+      "view_count": 32842,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/ca12fe9c191d2235d307_ibai_318156949730_1793388330//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -267,9 +242,9 @@
       "source_id": "2910664959",
       "title": "📞ESTAFANDO A GENTE POR TELEFONO📞MEGABONK DE POKEMON📞ROAD TO WORLD RECORD📞",
       "duration_raw": "5h24m15s",
-      "score": 30.85,
+      "score": 29.94,
       "radar_rank": 2,
-      "detected_at": "2026-10-31T08:39:33.521063+00:00",
+      "detected_at": "2026-10-31T15:02:04.696881+00:00",
       "published_at": "2026-10-25T18:36:49Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -278,7 +253,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 575348,
+      "view_count": 575869,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/8668fbeb0b575857048c_rubius_319145340646_1792953403//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -292,9 +267,9 @@
       "source_id": "2909691430",
       "title": "QSMP 2: La Resurrección 🦋 !eneba",
       "duration_raw": "7h20m10s",
-      "score": 27.39,
+      "score": 26.48,
       "radar_rank": 1,
-      "detected_at": "2026-10-31T08:39:33.521063+00:00",
+      "detected_at": "2026-10-31T15:02:04.696881+00:00",
       "published_at": "2026-10-24T18:23:25Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -303,7 +278,7 @@
       "uploader_verified": false,
       "uploader": "juansguarnizo",
       "uploader_id": "121510236",
-      "view_count": 510977,
+      "view_count": 511036,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/0523c4d02ea2d1516e3f_juansguarnizo_321944653145_1792866200//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -317,9 +292,9 @@
       "source_id": "2909530977",
       "title": "💅🏻PEDRO SÁNCHEZ ACEPTA EL WILD PROJECT💅🏻IBAI VENDE LA VELADA A NETFLIX, BUEN CALL?💅🏻JUST CHATTING MONSTRUOSO HASTA LOS WORLDS💅🏻",
       "duration_raw": "1h41m42s",
-      "score": 19.06,
+      "score": 18.15,
       "radar_rank": 1,
-      "detected_at": "2026-10-31T08:39:33.521063+00:00",
+      "detected_at": "2026-10-31T15:02:04.696881+00:00",
       "published_at": "2026-10-24T15:20:04Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -328,7 +303,7 @@
       "uploader_verified": true,
       "uploader": "elxokas",
       "uploader_id": "31919607",
-      "view_count": 117074,
+      "view_count": 117123,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/ae3534fab9f6f9aa2b34_elxokas_319070277093_1792855198//thumb/thumb0-%{width}x%{height}.jpg"
     }
   ]
