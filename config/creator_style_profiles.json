@@ -32,7 +32,11 @@
       "pacing": [
         {
           "pattern": "medium_hook",
-          "observations": 3
+          "observations": 2
+        },
+        {
+          "pattern": "short_hook",
+          "observations": 1
         }
       ],
       "language": [
@@ -45,7 +49,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-31T22:42:28.436791+00:00"
+      "updated_at": "2026-11-01T01:50:50.740308+00:00"
     },
     "AuronPlay": {
       "hook_types": [
@@ -65,7 +69,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 1,
-      "updated_at": "2026-10-31T22:42:28.436821+00:00"
+      "updated_at": "2026-11-01T01:50:50.740357+00:00"
     },
     "ElXokas": {
       "hook_types": [
@@ -85,7 +89,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 1,
-      "updated_at": "2026-10-31T22:42:28.436869+00:00"
+      "updated_at": "2026-11-01T01:50:50.740448+00:00"
     },
     "Peereira7": {
       "hook_types": [
@@ -134,7 +138,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-10-31T22:42:28.436982+00:00"
+      "updated_at": "2026-11-01T01:50:50.740658+00:00"
     },
     "WestCOL": {
       "hook_types": [
@@ -183,7 +187,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 1,
-      "updated_at": "2026-10-31T22:42:28.437015+00:00"
+      "updated_at": "2026-11-01T01:50:50.740721+00:00"
     },
     "Juan Guarnizo": {
       "hook_types": [
@@ -208,7 +212,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 1,
-      "updated_at": "2026-10-31T22:42:28.437037+00:00"
+      "updated_at": "2026-11-01T01:50:50.740763+00:00"
     },
     "Davoo Xeneize": {
       "hook_types": [
@@ -333,5 +337,5 @@
       "updated_at": "2026-09-28T11:03:15.201356+00:00"
     }
   },
-  "updated_at": "2026-10-31T22:42:28.437038+00:00"
+  "updated_at": "2026-11-01T01:50:50.740766+00:00"
 }
