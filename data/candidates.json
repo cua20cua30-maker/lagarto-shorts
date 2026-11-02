@@ -1,6 +1,6 @@
 {
   "schema_version": 5,
-  "generated_at": "2026-11-02T04:26:25.992316+00:00",
+  "generated_at": "2026-11-02T12:46:24.395087+00:00",
   "mode": "vod_only",
   "source_priority": [
     "twitch",
@@ -42,9 +42,9 @@
       "source_id": "2916942079",
       "title": "🍈FORTNITE X ONE PIECE🍈TERMINANDO FEARS TO FATHOM CON IRINA🍈3 DIAS PARA WOW FOREVER Y ZELDA🍈EL TIEMPO PASA MUY LENTO🍈",
       "duration_raw": "4h40m17s",
-      "score": 48.69,
+      "score": 47.5,
       "radar_rank": 0,
-      "detected_at": "2026-11-02T04:26:22.669886+00:00",
+      "detected_at": "2026-11-02T12:46:21.532814+00:00",
       "published_at": "2026-11-01T19:15:59Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -53,7 +53,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 499197,
+      "view_count": 508767,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/c4fcdbdeda689b97d111_rubius_318174963298_1793560552//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -67,9 +67,9 @@
       "source_id": "2916144621",
       "title": "CHARLAMOS UN RATITO 🤍",
       "duration_raw": "2h55m0s",
-      "score": 45.61,
+      "score": 44.42,
       "radar_rank": 0,
-      "detected_at": "2026-11-02T04:26:22.669886+00:00",
+      "detected_at": "2026-11-02T12:46:21.532814+00:00",
       "published_at": "2026-10-31T21:44:41Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -78,7 +78,7 @@
       "uploader_verified": true,
       "uploader": "auronplay",
       "uploader_id": "459331509",
-      "view_count": 1079435,
+      "view_count": 1095379,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/9e210d0e4ae3b2081d35_auronplay_318195248868_1793483073//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -92,9 +92,9 @@
       "source_id": "2916812192",
       "title": "Sobre la catástrofe ferroviaria en Urda, Toledo.",
       "duration_raw": "49m11s",
-      "score": 36.68,
+      "score": 35.61,
       "radar_rank": 0,
-      "detected_at": "2026-11-02T04:26:22.669886+00:00",
+      "detected_at": "2026-11-02T12:46:21.532814+00:00",
       "published_at": "2026-11-01T16:49:11Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -103,7 +103,7 @@
       "uploader_verified": true,
       "uploader": "elxokas",
       "uploader_id": "31919607",
-      "view_count": 71224,
+      "view_count": 72495,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/c4355b827cc719325f49_elxokas_319040246503_1793551745//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -117,9 +117,9 @@
       "source_id": "2915065087",
       "title": "#WORLDS2026 | SE LA JUEGA G2 | SE LA JUEGA JOSEDEODO | CONOCEMOS A NUESTRO RIVAL | SORTEO HISTORICO | TL vs LOS | G2 vs HLE | LOCURA",
       "duration_raw": "5h23m44s",
-      "score": 50.86,
+      "score": 49.66,
       "radar_rank": 1,
-      "detected_at": "2026-11-02T04:26:22.669886+00:00",
+      "detected_at": "2026-11-02T12:46:21.532814+00:00",
       "published_at": "2026-10-30T19:25:36Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -128,7 +128,7 @@
       "uploader_verified": true,
       "uploader": "ibai",
       "uploader_id": "83232866",
-      "view_count": 743229,
+      "view_count": 743446,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/ca12fe9c191d2235d307_ibai_318156949730_1793388330//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -142,9 +142,9 @@
       "source_id": "2916625080",
       "title": "NUEVA SEASON FORTNITE DE ONE PIECE 😱 Código TheGrefg en la tienda!",
       "duration_raw": "1h19m2s",
-      "score": 44.97,
+      "score": 43.8,
       "radar_rank": 1,
-      "detected_at": "2026-11-02T04:26:22.669886+00:00",
+      "detected_at": "2026-11-02T12:46:21.532814+00:00",
       "published_at": "2026-11-01T12:25:54Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -153,7 +153,7 @@
       "uploader_verified": true,
       "uploader": "TheGrefg",
       "uploader_id": "48878319",
-      "view_count": 70323,
+      "view_count": 70474,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/39e87073e85d6aa233e3_thegrefg_318200191588_1793535941//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -167,9 +167,9 @@
       "source_id": "2916026665",
       "title": "🎃ESPECIAL SPOOKY🎃NOCHE DE TERROR🎃FELIZ JAVELIN VANESA🎃",
       "duration_raw": "4h29m19s",
-      "score": 45.28,
+      "score": 44.09,
       "radar_rank": 1,
-      "detected_at": "2026-11-02T04:26:22.669886+00:00",
+      "detected_at": "2026-11-02T12:46:21.532814+00:00",
       "published_at": "2026-10-31T19:23:24Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -178,7 +178,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 507514,
+      "view_count": 511618,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/5082844cc066043fd211_rubius_318165962338_1793474597//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -192,9 +192,9 @@
       "source_id": "2915851966",
       "title": "#WORLDS2026 | MKOI vs KC | EL PARTIDO DEL AÑO | QUIEN GANE A CUARTOS DE FINAL | TODO O NADA | HISTORIA | SOÑEMOS",
       "duration_raw": "7h53m45s",
-      "score": 44.8,
+      "score": 43.61,
       "radar_rank": 0,
-      "detected_at": "2026-11-02T04:26:22.669886+00:00",
+      "detected_at": "2026-11-02T12:46:21.532814+00:00",
       "published_at": "2026-10-31T16:03:37Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -203,7 +203,7 @@
       "uploader_verified": true,
       "uploader": "ibai",
       "uploader_id": "83232866",
-      "view_count": 1314556,
+      "view_count": 1316838,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/0b1738be47239a7afb6c_ibai_318190614756_1793462609//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -217,9 +217,9 @@
       "source_id": "2916913709",
       "title": "CONSIGUIENDO LA TIENDA GRATIS DE FORTNITE 🤑 Código TheGrefg 💙",
       "duration_raw": "2h25m2s",
-      "score": 42.29,
+      "score": 41.15,
       "radar_rank": 0,
-      "detected_at": "2026-11-02T04:26:22.669886+00:00",
+      "detected_at": "2026-11-02T12:46:21.532814+00:00",
       "published_at": "2026-11-01T18:45:51Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -228,7 +228,7 @@
       "uploader_verified": true,
       "uploader": "TheGrefg",
       "uploader_id": "48878319",
-      "view_count": 139483,
+      "view_count": 140230,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/68a380c8b19912d4113d_thegrefg_318205670499_1793558738//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -242,9 +242,9 @@
       "source_id": "2914979478",
       "title": "🏆 TORNEO DE CLASH ROYALE EN EL DESAFÍO 20 WINS con @beniju03 y @bale_gg 🏆",
       "duration_raw": "4h6m11s",
-      "score": 38.52,
+      "score": 37.34,
       "radar_rank": 2,
-      "detected_at": "2026-11-02T04:26:22.669886+00:00",
+      "detected_at": "2026-11-02T12:46:21.532814+00:00",
       "published_at": "2026-10-30T17:45:44Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -253,7 +253,7 @@
       "uploader_verified": true,
       "uploader": "TheGrefg",
       "uploader_id": "48878319",
-      "view_count": 191939,
+      "view_count": 192100,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/06925641274b31381600_thegrefg_318155852386_1793382337//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -267,9 +267,9 @@
       "source_id": "2914173138",
       "title": "#WORLDS2026 | KC vs CFO | TES vs BLG | CONOCEMOS A NUESTROS POSIBLES RIVALES | ESTO SE ACABA | DÍA CLAVE",
       "duration_raw": "5h37m55s",
-      "score": 38.42,
+      "score": 37.23,
       "radar_rank": 2,
-      "detected_at": "2026-11-02T04:26:22.669886+00:00",
+      "detected_at": "2026-11-02T12:46:21.532814+00:00",
       "published_at": "2026-10-29T19:24:10Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -278,7 +278,7 @@
       "uploader_verified": true,
       "uploader": "ibai",
       "uploader_id": "83232866",
-      "view_count": 533613,
+      "view_count": 533694,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/12646fd4b6ed4ee5d9f9_ibai_318170705380_1793301843//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -292,9 +292,9 @@
       "source_id": "2914130484",
       "title": "🦎NUEVO GAMEPLAY GTA 6🦎MUCHA INFO🦎SOLO 3 SEMANAS🦎NO PUEDO MAS🦎",
       "duration_raw": "4h26m13s",
-      "score": 38.31,
+      "score": 37.12,
       "radar_rank": 2,
-      "detected_at": "2026-11-02T04:26:22.669886+00:00",
+      "detected_at": "2026-11-02T12:46:21.532814+00:00",
       "published_at": "2026-10-29T18:35:31Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -303,7 +303,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 488069,
+      "view_count": 489217,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/9fb0737d7a2db370c245_rubius_318175199075_1793298924//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -317,9 +317,9 @@
       "source_id": "2912249381",
       "title": "🧠ESPECIAL GUÍA WOW🧠PARA TODOS LOS NOVATINES🧠SELECCIÓN DE NOMBRE🧠EL DÍA 4 POR LA NOCHE, EL MEJOR STREAM DEL AÑO🧠HAREMOS HISTORIA🧠",
       "duration_raw": "4h38m57s",
-      "score": 31.09,
+      "score": 29.9,
       "radar_rank": 1,
-      "detected_at": "2026-11-02T04:26:22.669886+00:00",
+      "detected_at": "2026-11-02T12:46:21.532814+00:00",
       "published_at": "2026-10-27T16:04:21Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -328,7 +328,7 @@
       "uploader_verified": true,
       "uploader": "elxokas",
       "uploader_id": "31919607",
-      "view_count": 330532,
+      "view_count": 330693,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/d7c55d9caddea599f8cf_elxokas_319108391013_1793117056//thumb/thumb0-%{width}x%{height}.jpg"
     }
   ]
