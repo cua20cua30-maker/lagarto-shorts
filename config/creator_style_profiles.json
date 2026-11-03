@@ -53,7 +53,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-02T22:08:51.748094+00:00"
+      "updated_at": "2026-11-03T03:35:31.965043+00:00"
     },
     "AuronPlay": {
       "hook_types": [
@@ -86,7 +86,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 2,
-      "updated_at": "2026-11-02T22:08:51.748185+00:00"
+      "updated_at": "2026-11-03T03:35:31.965113+00:00"
     },
     "ElXokas": {
       "hook_types": [
@@ -110,7 +110,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-02T22:08:51.748379+00:00"
+      "updated_at": "2026-11-03T03:35:31.965257+00:00"
     },
     "Peereira7": {
       "hook_types": [
@@ -159,7 +159,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-02T22:08:51.748581+00:00"
+      "updated_at": "2026-11-03T03:35:31.965406+00:00"
     },
     "WestCOL": {
       "hook_types": [
@@ -217,7 +217,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-02T22:08:51.748730+00:00"
+      "updated_at": "2026-11-03T03:35:31.965516+00:00"
     },
     "Juan Guarnizo": {
       "hook_types": [
@@ -367,5 +367,5 @@
       "updated_at": "2026-09-28T11:03:15.201356+00:00"
     }
   },
-  "updated_at": "2026-11-02T22:08:51.748733+00:00"
+  "updated_at": "2026-11-03T03:35:31.965518+00:00"
 }
