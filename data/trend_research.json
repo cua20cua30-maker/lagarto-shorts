@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T19:02:45.884039+00:00",
+  "generated_at": "2026-11-04T00:04:30.387026+00:00",
   "research": {
     "google_trends_es": {
       "status": "ok",
       "items": [
-        "cnn",
-        "unicaja - reggiana",
-        "sergi arola",
-        "ben shelton",
-        "aston villa",
-        "sporting lisboa",
-        "al hilal - shabab al-ahli",
-        "abascal la revuelta",
-        "galatasaray – vfb stuttgart",
-        "callum turner"
+        "fox news",
+        "republican party",
+        "nytimes",
+        "quiosco",
+        "robo",
+        "liverpool football club",
+        "horizonte",
+        "sonia de noruega",
+        "fc barcelona vs aston villa standings",
+        "ivan redondo"
       ]
     },
     "youtube_popular_titles": {
