@@ -48,7 +48,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-05T22:45:42.030441+00:00"
+      "updated_at": "2026-11-06T03:10:10.014931+00:00"
     },
     "AuronPlay": {
       "hook_types": [
@@ -81,7 +81,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-05T22:45:42.030545+00:00"
+      "updated_at": "2026-11-06T03:10:10.015066+00:00"
     },
     "ElXokas": {
       "hook_types": [
@@ -106,7 +106,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-05T22:45:42.030710+00:00"
+      "updated_at": "2026-11-06T03:10:10.015286+00:00"
     },
     "Peereira7": {
       "hook_types": [
@@ -126,7 +126,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 1,
-      "updated_at": "2026-11-05T22:45:42.030768+00:00"
+      "updated_at": "2026-11-06T03:10:10.015363+00:00"
     },
     "Ibai": {
       "hook_types": [
@@ -159,7 +159,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-05T22:45:42.030903+00:00"
+      "updated_at": "2026-11-06T03:10:10.015536+00:00"
     },
     "WestCOL": {
       "hook_types": [
@@ -212,7 +212,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-05T22:45:42.031044+00:00"
+      "updated_at": "2026-11-06T03:10:10.015719+00:00"
     },
     "Juan Guarnizo": {
       "hook_types": [
@@ -232,7 +232,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 1,
-      "updated_at": "2026-11-05T22:45:42.031072+00:00"
+      "updated_at": "2026-11-06T03:10:10.015778+00:00"
     },
     "Davoo Xeneize": {
       "hook_types": [
@@ -357,5 +357,5 @@
       "updated_at": "2026-09-28T11:03:15.201356+00:00"
     }
   },
-  "updated_at": "2026-11-05T22:45:42.031073+00:00"
+  "updated_at": "2026-11-06T03:10:10.015781+00:00"
 }
