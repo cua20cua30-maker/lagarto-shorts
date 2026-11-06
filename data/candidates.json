@@ -1,6 +1,6 @@
 {
   "schema_version": 5,
-  "generated_at": "2026-11-06T03:10:09.973801+00:00",
+  "generated_at": "2026-11-06T11:19:10.140350+00:00",
   "mode": "vod_only",
   "source_priority": [
     "twitch",
@@ -42,9 +42,9 @@
       "source_id": "2919489112",
       "title": "🗡️DIA LEGENDARIO🗡️ZELDA OOT REMAKE🗡️WOW FOREVER🗡️EVENTO WORLD FIRST🗡️HACEMOS HISTORIA🗡️",
       "duration_raw": "11h48m4s",
-      "score": 45.28,
+      "score": 44.12,
       "radar_rank": 1,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-04T18:09:22Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -53,7 +53,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 1092009,
+      "view_count": 1095778,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/0d5bcc4c8b4ad01e5290_rubius_318232784355_1793815757//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -67,9 +67,9 @@
       "source_id": "2919420774",
       "title": "!drop !voces ✨️ ESTAFAS TELEFONICAS CON LOS PANAS",
       "duration_raw": "3h0m50s",
-      "score": 45.08,
+      "score": 43.91,
       "radar_rank": 0,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-04T16:41:42Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -78,7 +78,7 @@
       "uploader_verified": true,
       "uploader": "auronplay",
       "uploader_id": "459331509",
-      "view_count": 620287,
+      "view_count": 629830,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/301277c5089d3e9356f6_auronplay_318198340962_1793810494//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -92,9 +92,9 @@
       "source_id": "2919613886",
       "title": "🌍WOW: FOREVER🌍EN STORMWIND IRL🌍TRAJE DE INGENIERO GNÓMICO🌍CALVO Y EN MI PRIME🌍EL IRRESISTIBLE DIOS DEL WOW🌍SPONSORIZADO POR !JOURNEY🌍",
       "duration_raw": "9h13m39s",
-      "score": 45.65,
+      "score": 44.48,
       "radar_rank": 1,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-04T20:42:40Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -103,7 +103,7 @@
       "uploader_verified": true,
       "uploader": "elxokas",
       "uploader_id": "31919607",
-      "view_count": 881109,
+      "view_count": 882427,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/d9c6a10c2f972e83cf40_elxokas_319083242727_1793824955//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -116,10 +116,10 @@
       "acquisition_url": "https://www.twitch.tv/videos/2919425569",
       "source_id": "2919425569",
       "title": "🟥EL MEJOR STREAMER🟥GANGATHON I🟥DIA 1🟥HISTORIA🟥DEL STREAM🟥TODOS🟥JUNTOS🟥100K SUBS🟥MANSION🟥GTA VI🟥WAITLIST🟥MEGA SHOW🟥CLIP FARMING",
-      "duration_raw": "34h21m12s",
-      "score": 28.31,
+      "duration_raw": "42h30m11s",
+      "score": 27.71,
       "radar_rank": 0,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-04T16:48:56Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -128,7 +128,7 @@
       "uploader_verified": true,
       "uploader": "Peereira7",
       "uploader_id": "182714869",
-      "view_count": 27001,
+      "view_count": 30882,
       "thumbnail_url": "https://vod-secure.twitch.tv/_404/404_processing_%{width}x%{height}.png"
     },
     {
@@ -142,9 +142,9 @@
       "source_id": "2919541313",
       "title": "RONIN FC + GENG vs LYON | RONIN FC vs un equipo CUATRO CATEGORÍAS POR ENCIMA | A LA NOCHE WORLDS",
       "duration_raw": "5h25m25s",
-      "score": 45.44,
+      "score": 44.27,
       "radar_rank": 1,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-04T19:13:20Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -153,7 +153,7 @@
       "uploader_verified": true,
       "uploader": "ibai",
       "uploader_id": "83232866",
-      "view_count": 591298,
+      "view_count": 591888,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/c2431bc9522fff0c90fb_ibai_318233630563_1793819592//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -167,9 +167,9 @@
       "source_id": "2920498051",
       "title": "SORTEO BICI 10.000€ (SOIS LOS JUECES) 🎁 LA MEJOR RUTA DE COFRES DE FORTNITE 😱 BUSCANDO EL ONE PIECE 🏴‍☠️",
       "duration_raw": "3h49m49s",
-      "score": 53.29,
+      "score": 52.17,
       "radar_rank": 0,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-05T20:07:03Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -178,7 +178,7 @@
       "uploader_verified": true,
       "uploader": "TheGrefg",
       "uploader_id": "48878319",
-      "view_count": 164780,
+      "view_count": 165540,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/75db56064584017ebf57_thegrefg_318209600610_1793909217//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -192,9 +192,9 @@
       "source_id": "2920423265",
       "title": "QSMP 2: La nueva oficina 🤓",
       "duration_raw": "7h34m20s",
-      "score": 28.98,
+      "score": 29.18,
       "radar_rank": 0,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-05T18:40:55Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -203,7 +203,7 @@
       "uploader_verified": false,
       "uploader": "juansguarnizo",
       "uploader_id": "121510236",
-      "view_count": 10805,
+      "view_count": 17215,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/17080977e234ef59addb_juansguarnizo_322151904090_1793904050//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -217,9 +217,9 @@
       "source_id": "2918731905",
       "title": "😱 BUSCANDO EL ONE PIECE DE FORTNITE (0,001% PROBABILIDAD) 😱",
       "duration_raw": "4h11m29s",
-      "score": 48.61,
+      "score": 47.45,
       "radar_rank": 2,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-03T20:42:31Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -228,7 +228,7 @@
       "uploader_verified": true,
       "uploader": "TheGrefg",
       "uploader_id": "48878319",
-      "view_count": 200548,
+      "view_count": 200633,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/83f018d29e107cfffabb_thegrefg_318230131684_1793738543//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -242,9 +242,9 @@
       "source_id": "2918769036",
       "title": "#WORLDS2026 | TES vs IG | CUARTOS DE FINAL | AL MEJOR DE 5 | SUPER DUELO CHINO",
       "duration_raw": "5h30m2s",
-      "score": 42.34,
+      "score": 41.17,
       "radar_rank": 2,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-03T21:31:08Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -253,7 +253,7 @@
       "uploader_verified": true,
       "uploader": "ibai",
       "uploader_id": "83232866",
-      "view_count": 465210,
+      "view_count": 465438,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/d0ebb384aefcfd131fd4_ibai_318225571427_1793741461//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -267,9 +267,9 @@
       "source_id": "2918610110",
       "title": "🏴‍☠️BUSCANDO EL TOKEN PIRATA🏴‍☠️MAÑANA DIA LEGENDARIO🏴‍☠️",
       "duration_raw": "4h35m54s",
-      "score": 41.87,
+      "score": 40.71,
       "radar_rank": 2,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-03T18:16:41Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -278,7 +278,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 456338,
+      "view_count": 457159,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/cc1a747e0c18397af3a6_rubius_318223404771_1793729796//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -292,9 +292,9 @@
       "source_id": "2918528280",
       "title": "!drop !voces 🐟 APRENDIENDO A PESCAR",
       "duration_raw": "3h14m50s",
-      "score": 41.63,
+      "score": 40.46,
       "radar_rank": 1,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-03T16:34:00Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -303,8 +303,8 @@
       "uploader_verified": true,
       "uploader": "auronplay",
       "uploader_id": "459331509",
-      "view_count": 530329,
-      "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/951b8ddce2caa1ffed8e_auronplay_318226491364_1793723632//thumb/thumb0-%{width}x%{height}.jpg"
+      "view_count": 533550,
+      "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/951b8ddce2caa1ffed8e_auronplay_318226491364_1793723632/thumb/custom-0795fd84-2620-4d39-a570-791020b78d88-%{width}x%{height}.jpeg"
     },
     {
       "candidate_id": "twitch:vod:2919587996",
@@ -317,9 +317,9 @@
       "source_id": "2919587996",
       "title": "🏴‍☠️ BUSCANDO EL ONE PIECE 🏴‍☠️ COFRE SIMULATOR 🏴‍☠️ 0,001% PROBABILIDAD 🏴‍☠️ HOY 500 COFRES 🏴‍☠️ FORTNITE TE AMO, DÁMELO 🏴‍☠️",
       "duration_raw": "3h29m55s",
-      "score": 41.21,
+      "score": 40.05,
       "radar_rank": 1,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-04T20:09:43Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -328,7 +328,7 @@
       "uploader_verified": true,
       "uploader": "TheGrefg",
       "uploader_id": "48878319",
-      "view_count": 170346,
+      "view_count": 170469,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/ce110536b08060fd0973_thegrefg_318234605667_1793822977//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -342,9 +342,9 @@
       "source_id": "2917667040",
       "title": "!drop !voces ✨ ¿HABLAMOS Y JUGAMOS ALGO?",
       "duration_raw": "3h7m40s",
-      "score": 38.23,
+      "score": 37.07,
       "radar_rank": 2,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-02T16:47:48Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -353,8 +353,8 @@
       "uploader_verified": true,
       "uploader": "auronplay",
       "uploader_id": "459331509",
-      "view_count": 663400,
-      "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/563099c1b1738dcd9052_auronplay_318181395170_1793638060//thumb/thumb0-%{width}x%{height}.jpg"
+      "view_count": 664808,
+      "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/563099c1b1738dcd9052_auronplay_318181395170_1793638060/thumb/custom-45541c52-e3da-4955-bf59-47286d17cf28-%{width}x%{height}.jpeg"
     },
     {
       "candidate_id": "twitch:vod:2915065087",
@@ -367,9 +367,9 @@
       "source_id": "2915065087",
       "title": "#WORLDS2026 | SE LA JUEGA G2 | SE LA JUEGA JOSEDEODO | CONOCEMOS A NUESTRO RIVAL | SORTEO HISTORICO | TL vs LOS | G2 vs HLE | LOCURA",
       "duration_raw": "5h23m44s",
-      "score": 37.32,
+      "score": 36.16,
       "radar_rank": 4,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-10-30T19:25:36Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -378,7 +378,7 @@
       "uploader_verified": true,
       "uploader": "ibai",
       "uploader_id": "83232866",
-      "view_count": 745071,
+      "view_count": 745142,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/ca12fe9c191d2235d307_ibai_318156949730_1793388330//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -392,9 +392,9 @@
       "source_id": "2916942079",
       "title": "🍈FORTNITE X ONE PIECE🍈TERMINANDO FEARS TO FATHOM CON IRINA🍈3 DIAS PARA WOW FOREVER Y ZELDA🍈EL TIEMPO PASA MUY LENTO🍈",
       "duration_raw": "4h40m17s",
-      "score": 35.16,
+      "score": 33.99,
       "radar_rank": 3,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-01T19:15:59Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -403,7 +403,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 567726,
+      "view_count": 568284,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/c4fcdbdeda689b97d111_rubius_318174963298_1793560552//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -417,9 +417,9 @@
       "source_id": "2917854943",
       "title": "🥳2 DÍAS PARA WOW FOREVER🥳PONGO EL TWEET INVITACIONAL🥳OS COMENTO EL PROYECTO (LO ESTOY TERMINANDO)🥳LA MEJOR ÉPOCA DE NUESTRAS VIDAS🥳",
       "duration_raw": "2h23m55s",
-      "score": 33.27,
+      "score": 32.11,
       "radar_rank": 2,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-02T20:32:10Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -428,7 +428,7 @@
       "uploader_verified": true,
       "uploader": "elxokas",
       "uploader_id": "31919607",
-      "view_count": 152121,
+      "view_count": 152251,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/feca355ddadb2bafe576_elxokas_319183199461_1793651525//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -442,9 +442,9 @@
       "source_id": "2920207166",
       "title": "🌍DÍA 2🌍PUSH A LEVEL 20🌍DESDE STORMWIND IRL🌍CALVITO ROMECASTILLOS🌍La guía de wow !JOURNEY 10% descuento / !GUILD INVITE🌍",
       "duration_raw": "12h21m11s",
-      "score": 27.15,
+      "score": 27.74,
       "radar_rank": 0,
-      "detected_at": "2026-11-06T03:10:07.486198+00:00",
+      "detected_at": "2026-11-06T11:19:05.303331+00:00",
       "published_at": "2026-11-05T13:32:23Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -453,7 +453,7 @@
       "uploader_verified": true,
       "uploader": "elxokas",
       "uploader_id": "31919607",
-      "view_count": 6711,
+      "view_count": 13680,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/ffd638b6d6b5a1ec04f8_elxokas_319090009447_1793885538//thumb/thumb0-%{width}x%{height}.jpg"
     }
   ]
