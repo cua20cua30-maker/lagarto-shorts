@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T03:00:29.038094+00:00",
+  "generated_at": "2026-11-07T09:55:07.613406+00:00",
   "results": [
     {
       "creator": "IlloJuan",
       "platform": "twitch",
       "status": "ok",
       "login": "illojuan",
-      "vods_seen": 19,
+      "vods_seen": 18,
       "recent_vods": 0
     },
     {
@@ -40,7 +40,7 @@
       "status": "ok",
       "login": "peereira7",
       "vods_seen": 20,
-      "recent_vods": 2
+      "recent_vods": 3
     },
     {
       "creator": "Ibai",
