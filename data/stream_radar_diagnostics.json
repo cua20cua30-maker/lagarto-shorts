@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T16:06:18.323801+00:00",
+  "generated_at": "2026-11-07T20:24:59.391040+00:00",
   "results": [
     {
       "creator": "IlloJuan",
@@ -63,8 +63,8 @@
       "platform": "twitch",
       "status": "ok",
       "login": "thegrefg",
-      "vods_seen": 18,
-      "recent_vods": 6
+      "vods_seen": 19,
+      "recent_vods": 7
     },
     {
       "creator": "Juan Guarnizo",
@@ -72,7 +72,7 @@
       "status": "ok",
       "login": "juansguarnizo",
       "vods_seen": 20,
-      "recent_vods": 2
+      "recent_vods": 3
     },
     {
       "creator": "Davoo Xeneize",
