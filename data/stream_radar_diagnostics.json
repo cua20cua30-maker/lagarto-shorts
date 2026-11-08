@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T11:27:57.807500+00:00",
+  "generated_at": "2026-11-08T17:12:50.225338+00:00",
   "results": [
     {
       "creator": "IlloJuan",
       "platform": "twitch",
       "status": "ok",
       "login": "illojuan",
-      "vods_seen": 17,
-      "recent_vods": 0
+      "vods_seen": 18,
+      "recent_vods": 1
     },
     {
       "creator": "Rubius",
@@ -64,7 +64,7 @@
       "status": "ok",
       "login": "thegrefg",
       "vods_seen": 20,
-      "recent_vods": 8
+      "recent_vods": 7
     },
     {
       "creator": "Juan Guarnizo",
