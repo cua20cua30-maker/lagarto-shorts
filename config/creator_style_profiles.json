@@ -20,7 +20,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 2,
-      "updated_at": "2026-11-12T01:48:26.844151+00:00"
+      "updated_at": "2026-11-12T09:18:56.446058+00:00"
     },
     "Rubius": {
       "hook_types": [
@@ -53,7 +53,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-12T01:48:26.844302+00:00"
+      "updated_at": "2026-11-12T09:18:56.446230+00:00"
     },
     "AuronPlay": {
       "hook_types": [
@@ -78,7 +78,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 2,
-      "updated_at": "2026-11-12T01:48:26.844392+00:00"
+      "updated_at": "2026-11-12T09:18:56.446348+00:00"
     },
     "ElXokas": {
       "hook_types": [
@@ -107,7 +107,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-12T01:48:26.844544+00:00"
+      "updated_at": "2026-11-12T09:18:56.446555+00:00"
     },
     "Peereira7": {
       "hook_types": [
@@ -127,7 +127,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-12T01:48:26.844704+00:00"
+      "updated_at": "2026-11-12T09:18:56.446777+00:00"
     },
     "Ibai": {
       "hook_types": [
@@ -147,7 +147,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-12T01:48:26.844819+00:00"
+      "updated_at": "2026-11-12T09:18:56.446926+00:00"
     },
     "WestCOL": {
       "hook_types": [
@@ -196,7 +196,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 1,
-      "updated_at": "2026-11-12T01:48:26.844871+00:00"
+      "updated_at": "2026-11-12T09:18:56.446997+00:00"
     },
     "Juan Guarnizo": {
       "hook_types": [
@@ -220,7 +220,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-12T01:48:26.844946+00:00"
+      "updated_at": "2026-11-12T09:18:56.447096+00:00"
     },
     "Davoo Xeneize": {
       "hook_types": [
@@ -345,5 +345,5 @@
       "updated_at": "2026-09-28T11:03:15.201356+00:00"
     }
   },
-  "updated_at": "2026-11-12T01:48:26.844948+00:00"
+  "updated_at": "2026-11-12T09:18:56.447099+00:00"
 }
