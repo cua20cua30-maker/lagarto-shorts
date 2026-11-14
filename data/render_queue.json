@@ -1,4 +1,786 @@
 {
   "schema_version": 1,
-  "jobs": []
+  "generated_at": "2026-11-14T18:58:13.576160+00:00",
+  "jobs": [
+    {
+      "job_id": "render:clip:twitch:vod:2926826151",
+      "clip_id": "clip:twitch:vod:2926826151",
+      "candidate_id": "twitch:vod:2926826151",
+      "source_url": "https://www.twitch.tv/videos/2926826151",
+      "source_creator": "IlloJuan",
+      "title": "6 DÍAS 📅 DÍA 3 EN LOS SANTOS 🎯 FULL HISTORIA 💵 CERO TACÓN ❌ - Grand Theft Auto V #3",
+      "strategy": {
+        "candidate_id": "twitch:vod:2926826151",
+        "source_creator": "IlloJuan",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2926826151"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2926021952",
+      "clip_id": "clip:twitch:vod:2926021952",
+      "candidate_id": "twitch:vod:2926021952",
+      "source_url": "https://www.twitch.tv/videos/2926021952",
+      "source_creator": "Rubius",
+      "title": "🌒MINECRAFT MODS🌒FISICAS ULTRA-REALISTAS🌘LIMPIANDO TODA LA LUNA ANTES DEL GTA 6🌒",
+      "strategy": {
+        "candidate_id": "twitch:vod:2926021952",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2926021952"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2927869790",
+      "clip_id": "clip:twitch:vod:2927869790",
+      "candidate_id": "twitch:vod:2927869790",
+      "source_url": "https://www.twitch.tv/videos/2927869790",
+      "source_creator": "AuronPlay",
+      "title": "ESTOPA  SE VIENE A MI SETUP 🍻 20:30 HRS",
+      "strategy": {
+        "candidate_id": "twitch:vod:2927869790",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2927869790"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2926777651",
+      "clip_id": "clip:twitch:vod:2926777651",
+      "candidate_id": "twitch:vod:2926777651",
+      "source_url": "https://www.twitch.tv/videos/2926777651",
+      "source_creator": "ElXokas",
+      "title": "🌍DÍA 8🌍43+ TANARIS PVP con ÉPICAS DAGAS, HUELGA!🌍La guía de wow !JOURNEY 10% descuento / !GUILD LLENA, !DISCORD PARA LOS DE LAS GUILD🌍",
+      "strategy": {
+        "candidate_id": "twitch:vod:2926777651",
+        "source_creator": "ElXokas",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2926777651"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2926614292",
+      "clip_id": "clip:twitch:vod:2926614292",
+      "candidate_id": "twitch:vod:2926614292",
+      "source_url": "https://www.twitch.tv/videos/2926614292",
+      "source_creator": "Peereira7",
+      "title": "🔥EL MEJOR STREAMER🔥GANGATHON I🔥DIA 8🔥GTA IV🔥SAN ANDREAS🔥ITS OVER🔥ROCKET LEAGUE🔥MEGA SHOW DAY🔥17500 SUBS🔥AURA🔥HISTORIA🔥CLIP FARM",
+      "strategy": {
+        "candidate_id": "twitch:vod:2926614292",
+        "source_creator": "Peereira7",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2926614292"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2923514362",
+      "clip_id": "clip:twitch:vod:2923514362",
+      "candidate_id": "twitch:vod:2923514362",
+      "source_url": "https://www.twitch.tv/videos/2923514362",
+      "source_creator": "Ibai",
+      "title": "#WORLDS 2026 | T1 vs BLG | SEMIFINALES | TODO O NADA PARA FAKER | HAZLO | TRAELA A CASA",
+      "strategy": {
+        "candidate_id": "twitch:vod:2923514362",
+        "source_creator": "Ibai",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2923514362"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2927888872",
+      "clip_id": "clip:twitch:vod:2927888872",
+      "candidate_id": "twitch:vod:2927888872",
+      "source_url": "https://www.twitch.tv/videos/2927888872",
+      "source_creator": "TheGrefg",
+      "title": "NUEVO MODO HISTÓRICO DE CLASH ROYALE 😱 MAÑANA ABRIMOS COFRES 😈",
+      "strategy": {
+        "candidate_id": "twitch:vod:2927888872",
+        "source_creator": "TheGrefg",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2927888872"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2927034006",
+      "clip_id": "clip:twitch:vod:2927034006",
+      "candidate_id": "twitch:vod:2927034006",
+      "source_url": "https://www.twitch.tv/videos/2927034006",
+      "source_creator": "Juan Guarnizo",
+      "title": "QSMP 2: La cúpula y la habitación del monstruo 🤮 (ÚLTIMO DIRECTO ANTES DE IRME A TWITCH CON)",
+      "strategy": {
+        "candidate_id": "twitch:vod:2927034006",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2927034006"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2926786075",
+      "clip_id": "clip:twitch:vod:2926786075",
+      "candidate_id": "twitch:vod:2926786075",
+      "source_url": "https://www.twitch.tv/videos/2926786075",
+      "source_creator": "AuronPlay",
+      "title": "!drop !voces ❤️‍🩹 EL FINAL del SANATORIO con IMANTADO ❤️‍🩹 Día 3 de 3",
+      "strategy": {
+        "candidate_id": "twitch:vod:2926786075",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2926786075"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2926155409",
+      "clip_id": "clip:twitch:vod:2926155409",
+      "candidate_id": "twitch:vod:2926155409",
+      "source_url": "https://www.twitch.tv/videos/2926155409",
+      "source_creator": "Peereira7",
+      "title": "🔥EL MEJOR STREAMER🔥GANGATHON I🔥DIA 8🔥GTA IV🔥SAN ANDREAS🔥ITS OVER🔥ROCKET LEAGUE🔥MEGA SHOW DAY🔥17500 SUBS🔥AURA🔥HISTORIA🔥CLIP FARM",
+      "strategy": {
+        "candidate_id": "twitch:vod:2926155409",
+        "source_creator": "Peereira7",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2926155409"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2925898790",
+      "clip_id": "clip:twitch:vod:2925898790",
+      "candidate_id": "twitch:vod:2925898790",
+      "source_url": "https://www.twitch.tv/videos/2925898790",
+      "source_creator": "AuronPlay",
+      "title": "!drop !voces ❤️‍🩹 EL SANATORIO con IMANTADO ❤️‍🩹 Día 2 de 3 (con invitada especial)",
+      "strategy": {
+        "candidate_id": "twitch:vod:2925898790",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2925898790"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2925888222",
+      "clip_id": "clip:twitch:vod:2925888222",
+      "candidate_id": "twitch:vod:2925888222",
+      "source_url": "https://www.twitch.tv/videos/2925888222",
+      "source_creator": "ElXokas",
+      "title": "🌍DÍA 8🌍43+ TANARIS PVP con ÉPICAS DAGAS, GODMODE🌍La guía de wow !JOURNEY 10% descuento / !GUILD LLENA, !DISCORD PARA LOS DE LAS GUILD🌍",
+      "strategy": {
+        "candidate_id": "twitch:vod:2925888222",
+        "source_creator": "ElXokas",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2925888222"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2926127371",
+      "clip_id": "clip:twitch:vod:2926127371",
+      "candidate_id": "twitch:vod:2926127371",
+      "source_url": "https://www.twitch.tv/videos/2926127371",
+      "source_creator": "Juan Guarnizo",
+      "title": "QSMP 2: MIÉRCOLES MORADO, OTRA VEZ :D",
+      "strategy": {
+        "candidate_id": "twitch:vod:2926127371",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2926127371"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2923285147",
+      "clip_id": "clip:twitch:vod:2923285147",
+      "candidate_id": "twitch:vod:2923285147",
+      "source_url": "https://www.twitch.tv/videos/2923285147",
+      "source_creator": "IlloJuan",
+      "title": "11 DÍAS 📅 LA RECTA FINAL 😭 EMPEZAMOS GTA 5 🥶 AGUANTEN SOLDADOS 🙏🏻 - Grand Theft Auto V #1",
+      "strategy": {
+        "candidate_id": "twitch:vod:2923285147",
+        "source_creator": "IlloJuan",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2923285147"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2925139229",
+      "clip_id": "clip:twitch:vod:2925139229",
+      "candidate_id": "twitch:vod:2925139229",
+      "source_url": "https://www.twitch.tv/videos/2925139229",
+      "source_creator": "Rubius",
+      "title": "🦎DESCARGANDO GTA 6🦎SOLO 9 DIAS🦎WOW ROAD TO 40 Y MOTNURA🦎HACHA EPICA🦎BEST PALA EU🦎V PALABRA=BAN🦎",
+      "strategy": {
+        "candidate_id": "twitch:vod:2925139229",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2925139229"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2924956257",
+      "clip_id": "clip:twitch:vod:2924956257",
+      "candidate_id": "twitch:vod:2924956257",
+      "source_url": "https://www.twitch.tv/videos/2924956257",
+      "source_creator": "ElXokas",
+      "title": "🌍DÍA 7🌍LVL 40+ PVP🌍COMPRAMOS MONTURA COCHINITAS🌍BUSCO DAGA ÉPICA🌍La guía de wow !JOURNEY 10% descuento / !GUILD NUEVA, LA 3RA🌍",
+      "strategy": {
+        "candidate_id": "twitch:vod:2924956257",
+        "source_creator": "ElXokas",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2924956257"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2927805169",
+      "clip_id": "clip:twitch:vod:2927805169",
+      "candidate_id": "twitch:vod:2927805169",
+      "source_url": "https://www.twitch.tv/videos/2927805169",
+      "source_creator": "IlloJuan",
+      "title": "5 DÍAS 📅 ANOTOP AT TYPE STREAM 💎 UN NUEVO DÍA EN LOS SANTOS, CHILE 🌞 - Grand Theft Auto V #4",
+      "strategy": {
+        "candidate_id": "twitch:vod:2927805169",
+        "source_creator": "IlloJuan",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2927805169"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2928836093",
+      "clip_id": "clip:twitch:vod:2928836093",
+      "candidate_id": "twitch:vod:2928836093",
+      "source_url": "https://www.twitch.tv/videos/2928836093",
+      "source_creator": "TheGrefg",
+      "title": "CONSIGUIENDO EL TOKEN PIRATA DE FORTNITE 😱 HORAS DEL TESORO (MÁS PROBABILIDAD) 😱 MAÑANA NUEVO PC 😱",
+      "strategy": {
+        "candidate_id": "twitch:vod:2928836093",
+        "source_creator": "TheGrefg",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2928836093"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2924349279",
+      "clip_id": "clip:twitch:vod:2924349279",
+      "candidate_id": "twitch:vod:2924349279",
+      "source_url": "https://www.twitch.tv/videos/2924349279",
+      "source_creator": "Peereira7",
+      "title": "⭐EL MEJOR STREAMER⭐GANGATHON I⭐DIA 6⭐70%⭐GTA⭐SAN ANDREAS⭐ESPIRITISTA⭐BIG SMOKE⭐14.000⭐SUBS⭐MEGA SHOW DAY⭐CUPHEAD⭐ROCKET LEAGUE⭐CLIP FARM⭐",
+      "strategy": {
+        "candidate_id": "twitch:vod:2924349279",
+        "source_creator": "Peereira7",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2924349279"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2924244146",
+      "clip_id": "clip:twitch:vod:2924244146",
+      "candidate_id": "twitch:vod:2924244146",
+      "source_url": "https://www.twitch.tv/videos/2924244146",
+      "source_creator": "Juan Guarnizo",
+      "title": "QSMP 2: HOY ES LUNES DE BBQ MONDAY 🥩",
+      "strategy": {
+        "candidate_id": "twitch:vod:2924244146",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-14T18:58:12.948507+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2924244146"
+    }
+  ]
 }
