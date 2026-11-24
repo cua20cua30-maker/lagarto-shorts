@@ -1,4 +1,786 @@
 {
   "schema_version": 1,
-  "jobs": []
+  "generated_at": "2026-11-24T18:38:21.575205+00:00",
+  "jobs": [
+    {
+      "job_id": "render:clip:twitch:vod:2938510132",
+      "clip_id": "clip:twitch:vod:2938510132",
+      "candidate_id": "twitch:vod:2938510132",
+      "source_url": "https://www.twitch.tv/videos/2938510132",
+      "source_creator": "IlloJuan",
+      "title": "LUCÍA CAMINOS 🙇🏻‍♂️ MI MAMI 🥺 LELE PANXA 👶🏻 joder qué vergüenza de título lo siento - Grand Theft Auto VI #5",
+      "strategy": {
+        "candidate_id": "twitch:vod:2938510132",
+        "source_creator": "IlloJuan",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2938510132"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2938666621",
+      "clip_id": "clip:twitch:vod:2938666621",
+      "candidate_id": "twitch:vod:2938666621",
+      "source_url": "https://www.twitch.tv/videos/2938666621",
+      "source_creator": "Rubius",
+      "title": "stream nocturno 🌴 GTA VI a 60fps",
+      "strategy": {
+        "candidate_id": "twitch:vod:2938666621",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2938666621"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2938386346",
+      "clip_id": "clip:twitch:vod:2938386346",
+      "candidate_id": "twitch:vod:2938386346",
+      "source_url": "https://www.twitch.tv/videos/2938386346",
+      "source_creator": "AuronPlay",
+      "title": "CÓDIGOS PARA SUBS 🌴 !DROPS ON 🌴 GTA 6 #6 LISTO PARA 6 HORAS MÁS Y AVANZAR UN 1% EN HISTORIA",
+      "strategy": {
+        "candidate_id": "twitch:vod:2938386346",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2938386346"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2936251647",
+      "clip_id": "clip:twitch:vod:2936251647",
+      "candidate_id": "twitch:vod:2936251647",
+      "source_url": "https://www.twitch.tv/videos/2936251647",
+      "source_creator": "ElXokas",
+      "title": "GTA VI (EN AZEROTH) LO SIENTO MAMÁ ESTOY OCUPADO JUGADO AL MEJOR JUEGO DE LA HISTORIA: WOW FOREVER LVL 60 ROGUE PVP",
+      "strategy": {
+        "candidate_id": "twitch:vod:2936251647",
+        "source_creator": "ElXokas",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2936251647"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2936236434",
+      "clip_id": "clip:twitch:vod:2936236434",
+      "candidate_id": "twitch:vod:2936236434",
+      "source_url": "https://www.twitch.tv/videos/2936236434",
+      "source_creator": "Peereira7",
+      "title": "🔴EL MEJOR STREAMER🔴GANGATHON I🔴GTA VI🔴60FPS GAMEPLAY🔴DIA 18🔴60%🔴IRL🔴MEGA FIESTA🔴MASONICA🔴30K SUBS🔴SHOW DAY🔴CLIP FARMING🔴",
+      "strategy": {
+        "candidate_id": "twitch:vod:2936236434",
+        "source_creator": "Peereira7",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2936236434"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2938891947",
+      "clip_id": "clip:twitch:vod:2938891947",
+      "candidate_id": "twitch:vod:2938891947",
+      "source_url": "https://www.twitch.tv/videos/2938891947",
+      "source_creator": "TheGrefg",
+      "title": "EL EASTER EGG MÁS LOCO DE GTA 6 😱 HORARIO PERUANO 😱 INTENTANDO LLEGAR AL CAPÍTULO 2 😱 EL ÚLTIMO STREAMER EN PASARSE GTA VI 😱",
+      "strategy": {
+        "candidate_id": "twitch:vod:2938891947",
+        "source_creator": "TheGrefg",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2938891947"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2938621669",
+      "clip_id": "clip:twitch:vod:2938621669",
+      "candidate_id": "twitch:vod:2938621669",
+      "source_url": "https://www.twitch.tv/videos/2938621669",
+      "source_creator": "Juan Guarnizo",
+      "title": "GTA VI, SIRVIENDO COÑO EN VICE CITY 💅 INICIAMOS CAPÍTULO 3",
+      "strategy": {
+        "candidate_id": "twitch:vod:2938621669",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2938621669"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2937882458",
+      "clip_id": "clip:twitch:vod:2937882458",
+      "candidate_id": "twitch:vod:2937882458",
+      "source_url": "https://www.twitch.tv/videos/2937882458",
+      "source_creator": "TheGrefg",
+      "title": "DUELO DE CLASH ROYALE Y GTA 6 (INTENTANDO PASAR DEL CAPÍTULO 1) 🔥",
+      "strategy": {
+        "candidate_id": "twitch:vod:2937882458",
+        "source_creator": "TheGrefg",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2937882458"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2937487056",
+      "clip_id": "clip:twitch:vod:2937487056",
+      "candidate_id": "twitch:vod:2937487056",
+      "source_url": "https://www.twitch.tv/videos/2937487056",
+      "source_creator": "Rubius",
+      "title": "🌴CODIGOS CADA 10 MIN🌴60 FPS🌴ROBANDO CARTAS LEGENDARIAS🌴PONIENDO GUAPA A LUCIA🌴MUCHO MUNDO ABIERTO HOY🌴",
+      "strategy": {
+        "candidate_id": "twitch:vod:2937487056",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2937487056"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2937449247",
+      "clip_id": "clip:twitch:vod:2937449247",
+      "candidate_id": "twitch:vod:2937449247",
+      "source_url": "https://www.twitch.tv/videos/2937449247",
+      "source_creator": "IlloJuan",
+      "title": "DOMINGOS DOMÍNGUEZ 🔥 DÍA 4/450 DE JUEGO 🚔 RUSHEADÓN 🚨 - Grand Theft Auto VI #4",
+      "strategy": {
+        "candidate_id": "twitch:vod:2937449247",
+        "source_creator": "IlloJuan",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2937449247"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2937333836",
+      "clip_id": "clip:twitch:vod:2937333836",
+      "candidate_id": "twitch:vod:2937333836",
+      "source_url": "https://www.twitch.tv/videos/2937333836",
+      "source_creator": "AuronPlay",
+      "title": "CÓDIGOS PARA SUBS 🌴 !DROPS ON 🌴 GTA 6 #5 LISTO PARA PASAR 6 HORAS HACIENDO A LUCÍA FELIZ (Mido 1.95)",
+      "strategy": {
+        "candidate_id": "twitch:vod:2937333836",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2937333836"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2937476949",
+      "clip_id": "clip:twitch:vod:2937476949",
+      "candidate_id": "twitch:vod:2937476949",
+      "source_url": "https://www.twitch.tv/videos/2937476949",
+      "source_creator": "Juan Guarnizo",
+      "title": "GTA VI, DÍA DE ATRACOS EN PAREJA ♥️😍❣️🥰🫰",
+      "strategy": {
+        "candidate_id": "twitch:vod:2937476949",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2937476949"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2936395995",
+      "clip_id": "clip:twitch:vod:2936395995",
+      "candidate_id": "twitch:vod:2936395995",
+      "source_url": "https://www.twitch.tv/videos/2936395995",
+      "source_creator": "TheGrefg",
+      "title": "BUSCANDO EL TOKEN DE FORTNITE Y DESPUÉS GTA 6 🤑",
+      "strategy": {
+        "candidate_id": "twitch:vod:2936395995",
+        "source_creator": "TheGrefg",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2936395995"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2936298651",
+      "clip_id": "clip:twitch:vod:2936298651",
+      "candidate_id": "twitch:vod:2936298651",
+      "source_url": "https://www.twitch.tv/videos/2936298651",
+      "source_creator": "Juan Guarnizo",
+      "title": "GTA VI, HOY EMPEZAMOS EL CAPÍTULO 2 😎",
+      "strategy": {
+        "candidate_id": "twitch:vod:2936298651",
+        "source_creator": "Juan Guarnizo",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "short_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2936298651"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2936129297",
+      "clip_id": "clip:twitch:vod:2936129297",
+      "candidate_id": "twitch:vod:2936129297",
+      "source_url": "https://www.twitch.tv/videos/2936129297",
+      "source_creator": "AuronPlay",
+      "title": "🚨 !DROPS ON 🌴 GTA VI INJUGABLE 🌴 LO DIGO Y ME DOY EL LUJAZO *Lo funan*",
+      "strategy": {
+        "candidate_id": "twitch:vod:2936129297",
+        "source_creator": "AuronPlay",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2936129297"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2935172659",
+      "clip_id": "clip:twitch:vod:2935172659",
+      "candidate_id": "twitch:vod:2935172659",
+      "source_url": "https://www.twitch.tv/videos/2935172659",
+      "source_creator": "Peereira7",
+      "title": "🔴EL MEJOR STREAMER🔴GANGATHON I🔴GTA VI🔴60FPS GAMEPLAY🔴DIA 17🔴24H JUGANDO🔴STREAM PARA LA HISTORIA🔴MEGA SHOW🔴CLIP FARM🔴",
+      "strategy": {
+        "candidate_id": "twitch:vod:2935172659",
+        "source_creator": "Peereira7",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2935172659"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2935100343",
+      "clip_id": "clip:twitch:vod:2935100343",
+      "candidate_id": "twitch:vod:2935100343",
+      "source_url": "https://www.twitch.tv/videos/2935100343",
+      "source_creator": "Rubius",
+      "title": "⭐GTA VI⭐CODIGOS CADA 10 MIN⭐HOY 6 ESTRELLAS⭐JUGANDO AL GTA COMO SI FUERA UN GTA POR PRIMERA VEZ LMAO⭐RIP DOLORES",
+      "strategy": {
+        "candidate_id": "twitch:vod:2935100343",
+        "source_creator": "Rubius",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2935100343"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2935071086",
+      "clip_id": "clip:twitch:vod:2935071086",
+      "candidate_id": "twitch:vod:2935071086",
+      "source_url": "https://www.twitch.tv/videos/2935071086",
+      "source_creator": "IlloJuan",
+      "title": "EL ÚLTIMO ROMÁNTICO 🌹 LUCÍA SIMP GAMEPLAY 🙇 - Grand Theft Auto VI #3",
+      "strategy": {
+        "candidate_id": "twitch:vod:2935071086",
+        "source_creator": "IlloJuan",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "medium_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2935071086"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2932551444",
+      "clip_id": "clip:twitch:vod:2932551444",
+      "candidate_id": "twitch:vod:2932551444",
+      "source_url": "https://www.twitch.tv/videos/2932551444",
+      "source_creator": "Peereira7",
+      "title": "🔴EL MEJOR STREAMER🔴GANGATHON I🔴DIA 15🔴GTA VI🔴00:00🔴24H JUGANDO🔴GOT TALENT🔴STREAM PARA LA HISTORIA🔴MEGA SHOW🔴CLIP FARM🔴",
+      "strategy": {
+        "candidate_id": "twitch:vod:2932551444",
+        "source_creator": "Peereira7",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2932551444"
+    },
+    {
+      "job_id": "render:clip:twitch:vod:2939487232",
+      "clip_id": "clip:twitch:vod:2939487232",
+      "candidate_id": "twitch:vod:2939487232",
+      "source_url": "https://www.twitch.tv/videos/2939487232",
+      "source_creator": "ElXokas",
+      "title": "👩🏼‍🦼‍➡️ROGUE MOTORIZADO👩🏼‍🦼‍➡️HACEMOS LA MISIÓN LEGENDARIA DEL TIER 0.5👩🏼‍🦼‍➡️NOS FUMAMOS UN SAN VICENTE👩🏼‍🦼‍➡️WOW GOAT👩🏼‍🦼‍➡",
+      "strategy": {
+        "candidate_id": "twitch:vod:2939487232",
+        "source_creator": "ElXokas",
+        "hook_pattern": "context_open",
+        "trend_hook_examples": [],
+        "pacing_pattern": "long_context_hook",
+        "learned_edit_style": "emotion_driven_pencil_animation",
+        "learned_format": "vertical_9_16",
+        "max_duration_seconds": 58.5,
+        "transformation": [
+          "cold_open_to_strongest_moment",
+          "remove_dead_air",
+          "original_audio_primary",
+          "pencil_character_visuals",
+          "vertical_9_16",
+          "captions_with_readable_timing",
+          "payoff_before_end",
+          "emotion_aware_selection",
+          "trend_informed_metadata"
+        ],
+        "global_learning_pattern": null,
+        "creator_learning_pattern": null,
+        "emotion_learning_pattern": null,
+        "trend_research_timestamp": "2026-11-24T18:38:21.074957+00:00",
+        "publish_gate": {
+          "authorization_required": true,
+          "transformative_edit_required": true
+        }
+      },
+      "status": "queued",
+      "idempotency_key": "render:clip:twitch:vod:2939487232"
+    }
+  ]
 }
