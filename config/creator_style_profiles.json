@@ -29,7 +29,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-25T12:10:27.336546+00:00"
+      "updated_at": "2026-11-25T21:54:47.871237+00:00"
     },
     "Rubius": {
       "hook_types": [
@@ -57,7 +57,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-25T12:10:27.336672+00:00"
+      "updated_at": "2026-11-25T21:54:47.871402+00:00"
     },
     "AuronPlay": {
       "hook_types": [
@@ -79,14 +79,14 @@
       "language": [
         {
           "pattern": "exclamation",
-          "observations": 3
+          "observations": 2
         }
       ],
       "reaction_patterns": [],
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-25T12:10:27.336817+00:00"
+      "updated_at": "2026-11-25T21:54:47.871572+00:00"
     },
     "ElXokas": {
       "hook_types": [
@@ -106,7 +106,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 2,
-      "updated_at": "2026-11-25T12:10:27.336922+00:00"
+      "updated_at": "2026-11-25T21:54:47.871709+00:00"
     },
     "Peereira7": {
       "hook_types": [
@@ -126,7 +126,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-25T12:10:27.337071+00:00"
+      "updated_at": "2026-11-25T21:54:47.871926+00:00"
     },
     "Ibai": {
       "hook_types": [
@@ -204,7 +204,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-25T12:10:27.337198+00:00"
+      "updated_at": "2026-11-25T21:54:47.872103+00:00"
     },
     "Juan Guarnizo": {
       "hook_types": [
@@ -228,7 +228,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-25T12:10:27.337281+00:00"
+      "updated_at": "2026-11-25T21:54:47.872216+00:00"
     },
     "Davoo Xeneize": {
       "hook_types": [
@@ -353,5 +353,5 @@
       "updated_at": "2026-09-28T11:03:15.201356+00:00"
     }
   },
-  "updated_at": "2026-11-25T12:10:27.337283+00:00"
+  "updated_at": "2026-11-25T21:54:47.872219+00:00"
 }
