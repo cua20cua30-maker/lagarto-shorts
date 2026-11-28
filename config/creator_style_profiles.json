@@ -33,7 +33,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-27T23:13:10.018682+00:00"
+      "updated_at": "2026-11-28T04:51:36.807283+00:00"
     },
     "Rubius": {
       "hook_types": [
@@ -61,7 +61,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-27T23:13:10.018796+00:00"
+      "updated_at": "2026-11-28T04:51:36.807368+00:00"
     },
     "AuronPlay": {
       "hook_types": [
@@ -90,7 +90,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-27T23:13:10.018920+00:00"
+      "updated_at": "2026-11-28T04:51:36.807464+00:00"
     },
     "ElXokas": {
       "hook_types": [
@@ -110,7 +110,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 2,
-      "updated_at": "2026-11-27T23:13:10.019030+00:00"
+      "updated_at": "2026-11-28T04:51:36.807543+00:00"
     },
     "Peereira7": {
       "hook_types": [
@@ -130,7 +130,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-27T23:13:10.019189+00:00"
+      "updated_at": "2026-11-28T04:51:36.807662+00:00"
     },
     "Ibai": {
       "hook_types": [
@@ -208,7 +208,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-27T23:13:10.019314+00:00"
+      "updated_at": "2026-11-28T04:51:36.807757+00:00"
     },
     "Juan Guarnizo": {
       "hook_types": [
@@ -232,7 +232,7 @@
       "story_structures": [],
       "learned_examples": [],
       "sample_count": 3,
-      "updated_at": "2026-11-27T23:13:10.019393+00:00"
+      "updated_at": "2026-11-28T04:51:36.807816+00:00"
     },
     "Davoo Xeneize": {
       "hook_types": [
@@ -357,5 +357,5 @@
       "updated_at": "2026-09-28T11:03:15.201356+00:00"
     }
   },
-  "updated_at": "2026-11-27T23:13:10.019395+00:00"
+  "updated_at": "2026-11-28T04:51:36.807817+00:00"
 }

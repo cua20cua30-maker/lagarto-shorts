@@ -1,6 +1,6 @@
 {
   "schema_version": 5,
-  "generated_at": "2026-11-27T23:13:09.971243+00:00",
+  "generated_at": "2026-11-28T04:51:36.779497+00:00",
   "mode": "vod_only",
   "source_priority": [
     "twitch",
@@ -11,7 +11,7 @@
     "kick": "official Kick API checked; public VOD listing/media unavailable",
     "live_processing": false
   },
-  "total_discovered": 35,
+  "total_discovered": 34,
   "selection_limit": 20,
   "creator_coverage": {
     "IlloJuan": 3,
@@ -42,9 +42,9 @@
       "source_id": "2941530066",
       "title": "25 FPS 🧠 0 HORAS COTIZADAS 🙏🏻 BUSCAMOS EL BÚNKER 🔍 - Grand Theft Auto VI #7",
       "duration_raw": "7h33m10s",
-      "score": 45.9,
+      "score": 45.09,
       "radar_rank": 0,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-26T18:29:17Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -53,7 +53,7 @@
       "uploader_verified": true,
       "uploader": "IlloJuan",
       "uploader_id": "90075649",
-      "view_count": 1388327,
+      "view_count": 1414868,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/32521eb9d7d1bbbb1dfb_illojuan_318486282595_1795717750//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -67,9 +67,9 @@
       "source_id": "2941531941",
       "title": "⚡DROPS ON⚡CAPITULO 4⚡BUGATTI BOYS⚡",
       "duration_raw": "7h52m10s",
-      "score": 45.9,
+      "score": 45.09,
       "radar_rank": 0,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-26T18:31:19Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -78,7 +78,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 850217,
+      "view_count": 864875,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/9d8d1a14906d925c7c4e_rubius_318428044386_1795717872//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -92,9 +92,9 @@
       "source_id": "2941494152",
       "title": "CÓDIGOS PARA SUBS 🌴 GTA VI A 60 FPS Y EN PS5 PRO 🤓 DÍA 8 + MARVEL RIVALS EN LA NOCHEEEEE",
       "duration_raw": "6h7m40s",
-      "score": 45.8,
+      "score": 44.99,
       "radar_rank": 0,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-26T17:49:11Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -103,7 +103,7 @@
       "uploader_verified": true,
       "uploader": "auronplay",
       "uploader_id": "459331509",
-      "view_count": 518815,
+      "view_count": 530971,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/8216f09938eb953ddf0e_auronplay_318427548258_1795715344/thumb/custom-b93c67f7-08c9-4911-a595-cd802012d49e-%{width}x%{height}.jpeg"
     },
     {
@@ -117,9 +117,9 @@
       "source_id": "2939487232",
       "title": "👩🏼‍🦼‍➡️ROGUE MOTORIZADO👩🏼‍🦼‍➡️HACEMOS LA MISIÓN LEGENDARIA DEL TIER 0.5👩🏼‍🦼‍➡️NOS FUMAMOS UN SAN VICENTE👩🏼‍🦼‍➡️WOW GOAT👩🏼‍🦼‍➡",
       "duration_raw": "7h17m16s",
-      "score": 38.06,
+      "score": 37.26,
       "radar_rank": 1,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-24T17:16:04Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -128,7 +128,7 @@
       "uploader_verified": true,
       "uploader": "elxokas",
       "uploader_id": "31919607",
-      "view_count": 234095,
+      "view_count": 234214,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/3f1088eb6ff8ff324bf1_elxokas_319353458663_1795540559//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -142,9 +142,9 @@
       "source_id": "2940422036",
       "title": "🟥EL MEJOR STREAMER🟥GANGATHON I🟥DIA 22🟥DÍA CON OMAR MONTES🟥GTA 90%🟥33K SUBS🟥TORNEO WII🟥ANUNCIO LUME 2🟥SHOW DAY🟥CLIP FARMING🟥",
       "duration_raw": "14h20m13s",
-      "score": 42.12,
+      "score": 41.31,
       "radar_rank": 1,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-25T16:03:52Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -153,7 +153,7 @@
       "uploader_verified": true,
       "uploader": "Peereira7",
       "uploader_id": "182714869",
-      "view_count": 574039,
+      "view_count": 574255,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/aee318f9466c23109903_peereira7_318474660579_1795622622//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -167,9 +167,9 @@
       "source_id": "2941708106",
       "title": "ME ENFRENTO A PEREIRA EN MARVEL RIVALS 😂 GTA 6 DESPUÉS 🔥 #MarvelRivals #Anniversay #publi",
       "duration_raw": "6h42m46s",
-      "score": 55.4,
+      "score": 54.59,
       "radar_rank": 0,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-26T22:00:26Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -178,7 +178,7 @@
       "uploader_verified": true,
       "uploader": "TheGrefg",
       "uploader_id": "48878319",
-      "view_count": 253452,
+      "view_count": 255113,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/f6bd1cf7c3cd367af215_thegrefg_318430652002_1795730419//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -192,9 +192,9 @@
       "source_id": "2941483018",
       "title": "GTA VI: ALIENS, HURACANES y MÁS MITOS 👽",
       "duration_raw": "8h27m0s",
-      "score": 43.04,
+      "score": 42.25,
       "radar_rank": 1,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-26T17:35:24Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -203,7 +203,7 @@
       "uploader_verified": false,
       "uploader": "juansguarnizo",
       "uploader_id": "121510236",
-      "view_count": 198347,
+      "view_count": 198780,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/bc44a59c8514194f1892_juansguarnizo_321377112028_1795714519//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -217,9 +217,9 @@
       "source_id": "2940744555",
       "title": "POR FIN CAPÍTULO 2 😱 GRÁFICOS MEJORADOS Y 60 FPS 😱 EL ÚLTIMO STREAMER EN PASARSE GTA VI 😱",
       "duration_raw": "6h16m32s",
-      "score": 51.98,
+      "score": 51.17,
       "radar_rank": 1,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-25T22:04:30Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -228,7 +228,7 @@
       "uploader_verified": true,
       "uploader": "TheGrefg",
       "uploader_id": "48878319",
-      "view_count": 271845,
+      "view_count": 272255,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/bb3b278f69856d19174c_thegrefg_318479062499_1795644263//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -242,9 +242,9 @@
       "source_id": "2939605097",
       "title": "NUNCA HAS VISTO GTA 6 ASÍ 😱 CAPÍTULO 2 HOY 😱 EL ÚLTIMO STREAMER EN PASARSE GTA VI 😱",
       "duration_raw": "2h43m16s",
-      "score": 44.57,
+      "score": 43.78,
       "radar_rank": 2,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-24T19:23:55Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -253,7 +253,7 @@
       "uploader_verified": true,
       "uploader": "TheGrefg",
       "uploader_id": "48878319",
-      "view_count": 183286,
+      "view_count": 183463,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/517f5b9794322c5ff228_thegrefg_318466778723_1795548228//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -267,9 +267,9 @@
       "source_id": "2940532060",
       "title": "DROPS🌴ESTOY OBSESIONADO🌴HIJO, QUE HIJO?🌴60 FPS🌴VOY VOLANDO🌴",
       "duration_raw": "7h17m0s",
-      "score": 42.42,
+      "score": 41.62,
       "radar_rank": 1,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-25T18:11:35Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -278,7 +278,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 875205,
+      "view_count": 877721,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/dfe7713cd4e73c728339_rubius_318417839842_1795630288//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -292,9 +292,9 @@
       "source_id": "2940424560",
       "title": "RUSHEADA 🗣️ CUIDAO QUE TE LO PASAS 🗣️ NO CORRAS 🗣️ MÁS LENTO JUAN 🗣️ - Grand Theft Auto VI #6",
       "duration_raw": "9h51m20s",
-      "score": 42.13,
+      "score": 41.32,
       "radar_rank": 1,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-25T16:06:56Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -303,7 +303,7 @@
       "uploader_verified": true,
       "uploader": "IlloJuan",
       "uploader_id": "90075649",
-      "view_count": 1736547,
+      "view_count": 1744828,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/1b012b7ac9381cd6dcd3_illojuan_318474441316_1795622809/thumb/custom-8649ba7f-9628-4d8d-ba8f-689c007a218e-%{width}x%{height}.jpeg"
     },
     {
@@ -317,9 +317,9 @@
       "source_id": "2940391075",
       "title": "CÓDIGOS PARA SUBS 🌴 GTA VI A 60 FPS Y EN PS5 PRO 🤓",
       "duration_raw": "4h27m20s",
-      "score": 42.02,
+      "score": 41.21,
       "radar_rank": 1,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-25T15:21:44Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -328,7 +328,7 @@
       "uploader_verified": true,
       "uploader": "auronplay",
       "uploader_id": "459331509",
-      "view_count": 612620,
+      "view_count": 615416,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/e58ac90b406506aa4adf_auronplay_318415948898_1795620095/thumb/custom-df660f15-55b3-400a-ae47-765a1e8cb75d-%{width}x%{height}.jpeg"
     },
     {
@@ -342,9 +342,9 @@
       "source_id": "2940526156",
       "title": "GTA VI: día de easter eggs y AHORA SÍ misiones 😃",
       "duration_raw": "8h16m20s",
-      "score": 40.54,
+      "score": 39.75,
       "radar_rank": 2,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-25T18:05:22Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -353,7 +353,7 @@
       "uploader_verified": false,
       "uploader": "juansguarnizo",
       "uploader_id": "121510236",
-      "view_count": 213978,
+      "view_count": 214215,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/fa3adf1bc94175c60362_juansguarnizo_322466942170_1795629917//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -367,9 +367,9 @@
       "source_id": "2939508437",
       "title": "GTA VI, GARTIC PHONE Y OTRA VEZ GTA VI :D",
       "duration_raw": "9h13m30s",
-      "score": 38.92,
+      "score": 38.12,
       "radar_rank": 3,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-24T17:40:51Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -378,7 +378,7 @@
       "uploader_verified": false,
       "uploader": "juansguarnizo",
       "uploader_id": "121510236",
-      "view_count": 275205,
+      "view_count": 275409,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/a614b0b55ea37ae55099_juansguarnizo_322403390553_1795542046//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -392,9 +392,9 @@
       "source_id": "2939504674",
       "title": "🤑ROBANDO COCHES🤑60 FPS🤑NUEVO JASON🤑MODO HISTORIA🤑MODO HOT🤑EASTER EGGS🤑GYMBROS🤑",
       "duration_raw": "8h14m0s",
-      "score": 38.91,
+      "score": 38.11,
       "radar_rank": 2,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-24T17:36:21Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -403,7 +403,7 @@
       "uploader_verified": true,
       "uploader": "Rubius",
       "uploader_id": "39276140",
-      "view_count": 1356878,
+      "view_count": 1359268,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/260a808fe46bb7747205_rubius_318407238882_1795541774//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -417,9 +417,9 @@
       "source_id": "2938510132",
       "title": "LUCÍA CAMINOS 🙇🏻‍♂️ MI MAMI 🥺 LELE PANXA 👶🏻 joder qué vergüenza de título lo siento - Grand Theft Auto VI #5",
       "duration_raw": "8h14m0s",
-      "score": 35.47,
+      "score": 34.66,
       "radar_rank": 2,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-23T17:28:57Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -428,7 +428,7 @@
       "uploader_verified": true,
       "uploader": "IlloJuan",
       "uploader_id": "90075649",
-      "view_count": 2053429,
+      "view_count": 2055930,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/74b275b77a63c94d3332_illojuan_318453444836_1795454930/thumb/custom-9442cf6e-75ce-442a-b41f-edd6ecf70fc5-%{width}x%{height}.jpeg"
     },
     {
@@ -442,9 +442,9 @@
       "source_id": "2938439263",
       "title": "🟥EL MEJOR STREAMER🟥GANGATHON I🟥DIA 20🟥TERMINAMOS GTA🟥73%🟥PODCAST GANGA🟥31K SUBS🟥HISTORIA🟥SHOW DAY🟥CLIP FARMING🟥",
       "duration_raw": "47h59m44s",
-      "score": 35.26,
+      "score": 34.46,
       "radar_rank": 2,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-23T16:03:48Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -453,7 +453,7 @@
       "uploader_verified": true,
       "uploader": "Peereira7",
       "uploader_id": "182714869",
-      "view_count": 1892275,
+      "view_count": 1892391,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/29916d3f40b9b80d5398_peereira7_318454002659_1795449818//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -467,9 +467,9 @@
       "source_id": "2938386346",
       "title": "CÓDIGOS PARA SUBS 🌴 !DROPS ON 🌴 GTA 6 #6 LISTO PARA 6 HORAS MÁS Y AVANZAR UN 1% EN HISTORIA",
       "duration_raw": "5h39m40s",
-      "score": 35.09,
+      "score": 34.28,
       "radar_rank": 2,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-23T14:50:37Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -478,7 +478,7 @@
       "uploader_verified": true,
       "uploader": "auronplay",
       "uploader_id": "459331509",
-      "view_count": 956551,
+      "view_count": 958922,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/edbb3690035e930424fe_auronplay_318451758948_1795445429/thumb/custom-7b8cf291-49ef-4751-b243-7295e7aa4a0b-%{width}x%{height}.jpeg"
     },
     {
@@ -492,9 +492,9 @@
       "source_id": "2936251647",
       "title": "GTA VI (EN AZEROTH) LO SIENTO MAMÁ ESTOY OCUPADO JUGADO AL MEJOR JUEGO DE LA HISTORIA: WOW FOREVER LVL 60 ROGUE PVP",
       "duration_raw": "11h20m59s",
-      "score": 28.44,
+      "score": 27.64,
       "radar_rank": 2,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-21T16:18:41Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -503,7 +503,7 @@
       "uploader_verified": true,
       "uploader": "elxokas",
       "uploader_id": "31919607",
-      "view_count": 484463,
+      "view_count": 484533,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/41d10d366f40b1e81d4d_elxokas_319428174949_1795277916//thumb/thumb0-%{width}x%{height}.jpg"
     },
     {
@@ -517,9 +517,9 @@
       "source_id": "2936236434",
       "title": "🔴EL MEJOR STREAMER🔴GANGATHON I🔴GTA VI🔴60FPS GAMEPLAY🔴DIA 18🔴60%🔴IRL🔴MEGA FIESTA🔴MASONICA🔴30K SUBS🔴SHOW DAY🔴CLIP FARMING🔴",
       "duration_raw": "47h59m32s",
-      "score": 28.4,
+      "score": 27.6,
       "radar_rank": 3,
-      "detected_at": "2026-11-27T23:13:06.536231+00:00",
+      "detected_at": "2026-11-28T04:51:33.559931+00:00",
       "published_at": "2026-11-21T16:03:04Z",
       "status": "discovered",
       "authorization_status": "authorized_owner",
@@ -528,7 +528,7 @@
       "uploader_verified": true,
       "uploader": "Peereira7",
       "uploader_id": "182714869",
-      "view_count": 2385626,
+      "view_count": 2385709,
       "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/8bfda8df6593dbe6180c_peereira7_318428041571_1795276975//thumb/thumb0-%{width}x%{height}.jpg"
     }
   ]
